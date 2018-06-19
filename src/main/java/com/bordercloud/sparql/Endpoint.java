@@ -366,16 +366,16 @@ public class Endpoint {
             CloseableHttpClient httpclient = HttpClients.custom()
                     .setDefaultRequestConfig(RequestConfig.custom()
                             // Waiting for a connection from connection manager
-                            .setConnectionRequestTimeout(10000)
+                            .setConnectionRequestTimeout(1000000)
                             // Waiting for connection to establish
-                            .setConnectTimeout(5000)
+                            .setConnectTimeout(1000000)
                             .setExpectContinueEnabled(false)
                             // Waiting for data
-                            .setSocketTimeout(5000)
+                            .setSocketTimeout(1000000)
                             .setCookieSpec("easy")
                             .build())
-                    .setMaxConnPerRoute(20)
-                    .setMaxConnTotal(100)
+                    .setMaxConnPerRoute(2000)//20
+                    .setMaxConnTotal(10000) //100
                     .build();
 
             try {

@@ -19,22 +19,41 @@ public class Main
         try {
         String WDEndpoint = "https://query.wikidata.org/sparql";
         String queryCities =
-            "SELECT DISTINCT ?cityLabel ?population ?countryLabel ?cityDescription WHERE {\n" +
-                    "	?city wdt:P31/wdt:P279* ?settlement\n" +
-                    "    FILTER(?settlement = wd:Q515 || ?settlement = wd:Q15284)      \n" +
-                    "	?city wdt:P1082 ?population .\n" +
-                    "	?city wdt:P17 ?country .\n" +
-                    "\n" +
-                    "  FILTER(?population > 25000) \n" +
-                    "  SERVICE wikibase:label {\n" +
-                    "		bd:serviceParam wikibase:language \"en\" .\n" +
-                    "  }\n" +
+                "SELECT DISTINCT ?cityLabel ?population ?countryLabel ?cityDescription WHERE {\n" +
+                        "	?city wdt:P31/wdt:P279* ?settlement\n" +
+                        "    FILTER(?settlement = wd:Q515 || ?settlement = wd:Q15284)      \n" +
+                        "	?city wdt:P1082 ?population .\n" +
+                        "	?city wdt:P17 ?country .\n" +
+                        "\n" +
+                        "  FILTER(?population > 2000) \n" +
+                        "  SERVICE wikibase:label {\n" +
+                        "		bd:serviceParam wikibase:language \"en\" .\n" +
+                        "  }\n" +
+                        "} \n" +
+                        "LIMIT 1000";
+        String queryCitiesNative =
+            "SELECT DISTINCT ?city ?cityLabel ?country ?countryLabel  ?nativeLabel ?population WHERE {\n" +
+                    "  ?city wdt:P31/wdt:P279* ?settlement\n" +
+                    "  FILTER(?settlement = wd:Q515 || ?settlement = wd:Q15284)    \n" +
+                    "  ?city wdt:P1082 ?population .\n" +
+                    "  ?city wdt:P17 ?country .\n" +
+                    "  ?city wdt:P1705 ?native . \n" +
+                    "      \n" +
+                    "   FILTER(?population > 25000)\n" +
+                    "   SERVICE wikibase:label {\n" +
+                    "     bd:serviceParam wikibase:language \"en\" .\n" +
+                    "   }\n" +
                     "}\n" +
-                    "LIMIT 10";
+                    "LIMIT 1000 ";
 
 
-            ResultsToJson(getQueryResults(WDEndpoint, queryCities));
-            printResults(getQueryResults(WDEndpoint, queryCities), 40);
+
+            String queryLanguages ="";
+
+
+
+            ResultsToJson(getQueryResults(WDEndpoint, queryCitiesNative));
+            //printResults(getQueryResults(WDEndpoint, queryCities), 40);
 
 
         } catch (EndpointException eex) {
@@ -61,11 +80,13 @@ public class Main
             }
             System.out.print("\n");
         }
+
     }
 
 
     public static void ResultsToJson(HashMap<String, HashMap> queryResults)
     {
+
         JSONArray jArray = new JSONArray();
 
         for (HashMap<String, Object> value : (ArrayList<HashMap<String, Object>>) queryResults.get("result").get("rows")) {
@@ -78,9 +99,11 @@ public class Main
 
         System.out.println(jArray.toString());
         try {
-            FileWriter file = new FileWriter("files/results.json");
-            file.write(jArray.toString());
+            FileWriter file = new FileWriter("files/resultsNative.json");
+            file.write(jArray.toString(4));
             file.flush();
+
+
         }
         catch(IOException e){
             e.printStackTrace();
