@@ -32,20 +32,20 @@ public class Main
                         "} \n" +
                         "LIMIT 1000";
         String queryCitiesNative =
-            "SELECT DISTINCT ?city ?cityLabel ?country ?countryLabel  ?nativeLabel ?population WHERE {\n" +
-                    "  ?city wdt:P31/wdt:P279* ?settlement\n" +
-                    "  FILTER(?settlement = wd:Q515 || ?settlement = wd:Q15284)    \n" +
-                    "  ?city wdt:P1082 ?population .\n" +
-                    "  ?city wdt:P17 ?country .\n" +
-                    "  ?city wdt:P1705 ?native . \n" +
-                    "      \n" +
-                    "   FILTER(?population > 25000)\n" +
-                    "   SERVICE wikibase:label {\n" +
-                    "     bd:serviceParam wikibase:language \"en\" .\n" +
-                    "   }\n" +
-                    "}\n" +
-                    "LIMIT 1000 ";
-
+                "SELECT DISTINCT ?city ?native ?cityLabel ?country ?countryLabel  ?population WHERE {\n" +
+                        "  ?city wdt:P31/wdt:P279* ?settlement\n" +
+                        "  FILTER(?settlement = wd:Q515 || ?settlement = wd:Q15284)    \n" +
+                        "  ?city wdt:P1082 ?population .\n" +
+                        "  ?city wdt:P17 ?country . FILTER (?country =wd:Q30)\n" +
+                        "  OPTIONAL {\n" +
+                        "    ?city wdt:P1705 ?native .\n" +
+                        "}\n" +
+                        "      \n" +
+                        "   FILTER(?population > 2000)\n" +
+                        "   SERVICE wikibase:label {\n" +
+                        "     bd:serviceParam wikibase:language \"en\" .\n" +
+                        "   }\n" +
+                        "}";
 
 
             String queryLanguages ="";
