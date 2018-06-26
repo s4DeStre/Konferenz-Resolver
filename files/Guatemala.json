@@ -1,0 +1,1340 @@
+[
+    {
+        "country": "http://www.wikidata.org/entity/Q774",
+        "countryLabel": "Guatemala",
+        "city": "http://www.wikidata.org/entity/Q325793",
+        "cityLabel": "San Juan Chamelco",
+        "population": "58000"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q774",
+        "countryLabel": "Guatemala",
+        "city": "http://www.wikidata.org/entity/Q2608367",
+        "cityLabel": "San Pedro Sacatepéquez",
+        "population": "67075"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q774",
+        "countryLabel": "Guatemala",
+        "city": "http://www.wikidata.org/entity/Q1749094",
+        "cityLabel": "Jerez",
+        "population": "9845"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q774",
+        "countryLabel": "Guatemala",
+        "city": "http://www.wikidata.org/entity/Q4005975",
+        "cityLabel": "Unión Cantinil",
+        "population": "17450"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q774",
+        "countryLabel": "Guatemala",
+        "city": "http://www.wikidata.org/entity/Q2610825",
+        "cityLabel": "Zapotitlán",
+        "population": "2287"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q774",
+        "countryLabel": "Guatemala",
+        "city": "http://www.wikidata.org/entity/Q2445843",
+        "cityLabel": "Ciudad Vieja",
+        "population": "30565"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q774",
+        "countryLabel": "Guatemala",
+        "city": "http://www.wikidata.org/entity/Q2402599",
+        "cityLabel": "Sibilia",
+        "population": "7954"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q774",
+        "countryLabel": "Guatemala",
+        "city": "http://www.wikidata.org/entity/Q2403493",
+        "cityLabel": "Agua Blanca",
+        "population": "13571"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q774",
+        "countryLabel": "Guatemala",
+        "city": "http://www.wikidata.org/entity/Q20966094",
+        "cityLabel": "La Blanca",
+        "population": "25000"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q774",
+        "countryLabel": "Guatemala",
+        "city": "http://www.wikidata.org/entity/Q404550",
+        "cityLabel": "Santa Lucía Cotzumalguapa",
+        "population": "125471"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q774",
+        "countryLabel": "Guatemala",
+        "city": "http://www.wikidata.org/entity/Q1573465",
+        "cityLabel": "San Andrés Itzapa",
+        "population": "31956"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q774",
+        "countryLabel": "Guatemala",
+        "city": "http://www.wikidata.org/entity/Q284529",
+        "cityLabel": "San Cristóbal Verapaz",
+        "population": "54704"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q774",
+        "countryLabel": "Guatemala",
+        "city": "http://www.wikidata.org/entity/Q1748759",
+        "cityLabel": "Ocos",
+        "population": "20215"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q774",
+        "countryLabel": "Guatemala",
+        "city": "http://www.wikidata.org/entity/Q28540909",
+        "cityLabel": "San Jorge",
+        "population": "18000"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q774",
+        "countryLabel": "Guatemala",
+        "city": "http://www.wikidata.org/entity/Q391295",
+        "cityLabel": "Tucurú",
+        "population": "28421"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q774",
+        "countryLabel": "Guatemala",
+        "city": "http://www.wikidata.org/entity/Q1748865",
+        "cityLabel": "San Felipe",
+        "population": "17268"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q774",
+        "countryLabel": "Guatemala",
+        "city": "http://www.wikidata.org/entity/Q275951",
+        "cityLabel": "Fray Bartolomé de las Casas",
+        "population": "46468"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q774",
+        "countryLabel": "Guatemala",
+        "city": "http://www.wikidata.org/entity/Q2548726",
+        "cityLabel": "Cantel",
+        "population": "32221"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q774",
+        "countryLabel": "Guatemala",
+        "city": "http://www.wikidata.org/entity/Q1671882",
+        "cityLabel": "Santa Catarina Pinula",
+        "population": "63767"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q774",
+        "countryLabel": "Guatemala",
+        "city": "http://www.wikidata.org/entity/Q3946742",
+        "cityLabel": "San Antonio Sacatepéquez",
+        "population": "19103"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q774",
+        "countryLabel": "Guatemala",
+        "city": "http://www.wikidata.org/entity/Q2716941",
+        "cityLabel": "Comitancillo",
+        "population": "59357"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q774",
+        "countryLabel": "Guatemala",
+        "city": "http://www.wikidata.org/entity/Q1749104",
+        "cityLabel": "Mataquescuintla",
+        "population": "32860"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q774",
+        "countryLabel": "Guatemala",
+        "city": "http://www.wikidata.org/entity/Q317380",
+        "cityLabel": "San José Pinula",
+        "population": "47278"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q774",
+        "countryLabel": "Guatemala",
+        "city": "http://www.wikidata.org/entity/Q275734",
+        "cityLabel": "Raxruha",
+        "population": "35000"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q774",
+        "countryLabel": "Guatemala",
+        "city": "http://www.wikidata.org/entity/Q3943212",
+        "cityLabel": "Río Blanco, San Marcos",
+        "population": "5468"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q774",
+        "countryLabel": "Guatemala",
+        "city": "http://www.wikidata.org/entity/Q385588",
+        "cityLabel": "Poptún",
+        "population": "42996"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q774",
+        "countryLabel": "Guatemala",
+        "city": "http://www.wikidata.org/entity/Q2608473",
+        "cityLabel": "La Gomera",
+        "population": "58272"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q774",
+        "countryLabel": "Guatemala",
+        "city": "http://www.wikidata.org/entity/Q2422887",
+        "cityLabel": "El Tumbador",
+        "population": "40520"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q774",
+        "countryLabel": "Guatemala",
+        "city": "http://www.wikidata.org/entity/Q332072",
+        "cityLabel": "Senahú",
+        "population": "62101"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q774",
+        "countryLabel": "Guatemala",
+        "city": "http://www.wikidata.org/entity/Q2608408",
+        "cityLabel": "San Francisco El Alto",
+        "population": "54493"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q774",
+        "countryLabel": "Guatemala",
+        "city": "http://www.wikidata.org/entity/Q2401685",
+        "cityLabel": "San Andrés Villa Seca",
+        "population": "22245"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q774",
+        "countryLabel": "Guatemala",
+        "city": "http://www.wikidata.org/entity/Q202128",
+        "cityLabel": "Chiquimulilla",
+        "population": "12842"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q774",
+        "countryLabel": "Guatemala",
+        "city": "http://www.wikidata.org/entity/Q2401748",
+        "cityLabel": "Tacaná",
+        "population": "87998"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q774",
+        "countryLabel": "Guatemala",
+        "city": "http://www.wikidata.org/entity/Q348216",
+        "cityLabel": "Tamahú",
+        "population": "13000"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q774",
+        "countryLabel": "Guatemala",
+        "city": "http://www.wikidata.org/entity/Q1748599",
+        "cityLabel": "Concepción",
+        "population": "4405"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q774",
+        "countryLabel": "Guatemala",
+        "city": "http://www.wikidata.org/entity/Q2390990",
+        "cityLabel": "Santa Cruz Barillas",
+        "population": "127170"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q774",
+        "countryLabel": "Guatemala",
+        "city": "http://www.wikidata.org/entity/Q1748870",
+        "cityLabel": "El Quetzal",
+        "population": "18979"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q774",
+        "countryLabel": "Guatemala",
+        "city": "http://www.wikidata.org/entity/Q2608428",
+        "cityLabel": "Olintepeque",
+        "population": "31551"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q774",
+        "countryLabel": "Guatemala",
+        "city": "http://www.wikidata.org/entity/Q127622",
+        "cityLabel": "San Juan Sacatepéquez",
+        "population": "193000"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q774",
+        "countryLabel": "Guatemala",
+        "city": "http://www.wikidata.org/entity/Q2402116",
+        "cityLabel": "Taxisco",
+        "population": "22948"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q774",
+        "countryLabel": "Guatemala",
+        "city": "http://www.wikidata.org/entity/Q129369",
+        "cityLabel": "La Democracia",
+        "population": "22884"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q774",
+        "countryLabel": "Guatemala",
+        "city": "http://www.wikidata.org/entity/Q2621539",
+        "cityLabel": "Uspantán",
+        "population": "41892"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q774",
+        "countryLabel": "Guatemala",
+        "city": "http://www.wikidata.org/entity/Q1573447",
+        "cityLabel": "El Tejar",
+        "population": "23100"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q774",
+        "countryLabel": "Guatemala",
+        "city": "http://www.wikidata.org/entity/Q230166",
+        "cityLabel": "Zunil",
+        "population": "12356"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q774",
+        "countryLabel": "Guatemala",
+        "city": "http://www.wikidata.org/entity/Q2050264",
+        "cityLabel": "Panzós",
+        "population": "62125"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q774",
+        "countryLabel": "Guatemala",
+        "city": "http://www.wikidata.org/entity/Q2608186",
+        "cityLabel": "San Lucas Tolimán",
+        "population": "25650"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q774",
+        "countryLabel": "Guatemala",
+        "city": "http://www.wikidata.org/entity/Q2445821",
+        "cityLabel": "Coatepeque",
+        "population": "131684"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q774",
+        "countryLabel": "Guatemala",
+        "city": "http://www.wikidata.org/entity/Q2607797",
+        "cityLabel": "San Lucas Sacatepéquez",
+        "population": "25198"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q774",
+        "countryLabel": "Guatemala",
+        "city": "http://www.wikidata.org/entity/Q2400650",
+        "cityLabel": "Tecpán Guatemala",
+        "population": "59859"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q774",
+        "countryLabel": "Guatemala",
+        "city": "http://www.wikidata.org/entity/Q1634223",
+        "cityLabel": "Panajachel",
+        "population": "11142"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q774",
+        "countryLabel": "Guatemala",
+        "city": "http://www.wikidata.org/entity/Q332059",
+        "cityLabel": "Santa Cruz Verapaz",
+        "population": "21012"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q774",
+        "countryLabel": "Guatemala",
+        "city": "http://www.wikidata.org/entity/Q2717716",
+        "cityLabel": "Chajul",
+        "population": "31780"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q774",
+        "countryLabel": "Guatemala",
+        "city": "http://www.wikidata.org/entity/Q2402417",
+        "cityLabel": "San Miguel Ixtahuacán",
+        "population": "35276"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q774",
+        "countryLabel": "Guatemala",
+        "city": "http://www.wikidata.org/entity/Q1748863",
+        "cityLabel": "Tajumulco",
+        "population": "53791"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q774",
+        "countryLabel": "Guatemala",
+        "city": "http://www.wikidata.org/entity/Q139179",
+        "cityLabel": "Zacapa",
+        "population": "59089"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q774",
+        "countryLabel": "Guatemala",
+        "city": "http://www.wikidata.org/entity/Q261613",
+        "cityLabel": "Chiquimula",
+        "population": "79815"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q774",
+        "countryLabel": "Guatemala",
+        "city": "http://www.wikidata.org/entity/Q332147",
+        "cityLabel": "Santa María Cahabón",
+        "population": "31425"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q774",
+        "countryLabel": "Guatemala",
+        "city": "http://www.wikidata.org/entity/Q2609261",
+        "cityLabel": "San Andrés Xecul",
+        "population": "22362"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q774",
+        "countryLabel": "Guatemala",
+        "city": "http://www.wikidata.org/entity/Q2401869",
+        "cityLabel": "Iztapa",
+        "population": "61448"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q774",
+        "countryLabel": "Guatemala",
+        "city": "http://www.wikidata.org/entity/Q2608981",
+        "cityLabel": "Santa Catarina Palopó",
+        "population": "2869"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q774",
+        "countryLabel": "Guatemala",
+        "city": "http://www.wikidata.org/entity/Q2717997",
+        "cityLabel": "Salcajá",
+        "population": "17535"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q774",
+        "countryLabel": "Guatemala",
+        "city": "http://www.wikidata.org/entity/Q1748573",
+        "cityLabel": "Guanagazapa",
+        "population": "16187"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q774",
+        "countryLabel": "Guatemala",
+        "city": "http://www.wikidata.org/entity/Q2401885",
+        "cityLabel": "Santa Clara La Laguna",
+        "population": "9500"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q774",
+        "countryLabel": "Guatemala",
+        "city": "http://www.wikidata.org/entity/Q2401917",
+        "cityLabel": "San José Chacayá",
+        "population": "2697"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q774",
+        "countryLabel": "Guatemala",
+        "city": "http://www.wikidata.org/entity/Q2608750",
+        "cityLabel": "Asunción Mita",
+        "population": "40391"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q774",
+        "countryLabel": "Guatemala",
+        "city": "http://www.wikidata.org/entity/Q2717990",
+        "cityLabel": "Nahualá",
+        "population": "62000"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q774",
+        "countryLabel": "Guatemala",
+        "city": "http://www.wikidata.org/entity/Q1748570",
+        "cityLabel": "Siquinalá",
+        "population": "20843"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q774",
+        "countryLabel": "Guatemala",
+        "city": "http://www.wikidata.org/entity/Q212773",
+        "cityLabel": "Antigua Guatemala",
+        "population": "45669"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q774",
+        "countryLabel": "Guatemala",
+        "city": "http://www.wikidata.org/entity/Q2403031",
+        "cityLabel": "Cabricán",
+        "population": "24474"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q774",
+        "countryLabel": "Guatemala",
+        "city": "http://www.wikidata.org/entity/Q2718095",
+        "cityLabel": "Momostenango",
+        "population": "87340"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q774",
+        "countryLabel": "Guatemala",
+        "city": "http://www.wikidata.org/entity/Q2401769",
+        "cityLabel": "San Bartolo",
+        "population": "4000"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q774",
+        "countryLabel": "Guatemala",
+        "city": "http://www.wikidata.org/entity/Q2402186",
+        "cityLabel": "Santa Catarina Ixtahuacan",
+        "population": "48097"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q774",
+        "countryLabel": "Guatemala",
+        "city": "http://www.wikidata.org/entity/Q119252",
+        "cityLabel": "Santa María de Jesús",
+        "population": "15529"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q774",
+        "countryLabel": "Guatemala",
+        "city": "http://www.wikidata.org/entity/Q1748856",
+        "cityLabel": "La Reforma, San Marcos",
+        "population": "15314"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q774",
+        "countryLabel": "Guatemala",
+        "city": "http://www.wikidata.org/entity/Q1748611",
+        "cityLabel": "Huitán",
+        "population": "17209"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q774",
+        "countryLabel": "Guatemala",
+        "city": "http://www.wikidata.org/entity/Q2401971",
+        "cityLabel": "Santa Lucía Utatlán",
+        "population": "23255"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q774",
+        "countryLabel": "Guatemala",
+        "city": "http://www.wikidata.org/entity/Q1748820",
+        "cityLabel": "Sibinal",
+        "population": "27171"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q774",
+        "countryLabel": "Guatemala",
+        "city": "http://www.wikidata.org/entity/Q1727528",
+        "cityLabel": "Santa Cruz El Chol",
+        "population": "8817"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q774",
+        "countryLabel": "Guatemala",
+        "city": "http://www.wikidata.org/entity/Q2402097",
+        "cityLabel": "Nentón",
+        "population": "28983"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q774",
+        "countryLabel": "Guatemala",
+        "city": "http://www.wikidata.org/entity/Q317414",
+        "cityLabel": "Nueva Concepción",
+        "population": "130754"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q774",
+        "countryLabel": "Guatemala",
+        "city": "http://www.wikidata.org/entity/Q2608975",
+        "cityLabel": "Todos Santos Cuchumatán",
+        "population": "33619"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q774",
+        "countryLabel": "Guatemala",
+        "city": "http://www.wikidata.org/entity/Q3472669",
+        "cityLabel": "Santa Lucía La Reforma",
+        "population": "20519"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q774",
+        "countryLabel": "Guatemala",
+        "city": "http://www.wikidata.org/entity/Q2402153",
+        "cityLabel": "San Martín Sacatepéquez",
+        "population": "24700"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q774",
+        "countryLabel": "Guatemala",
+        "city": "http://www.wikidata.org/entity/Q168622",
+        "cityLabel": "Santiago Atitlán",
+        "population": "45982"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q774",
+        "countryLabel": "Guatemala",
+        "city": "http://www.wikidata.org/entity/Q2402447",
+        "cityLabel": "San Miguel Panán",
+        "population": "5277"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q774",
+        "countryLabel": "Guatemala",
+        "city": "http://www.wikidata.org/entity/Q1748873",
+        "cityLabel": "Esquipulas Palo Gordo",
+        "population": "11138"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q774",
+        "countryLabel": "Guatemala",
+        "city": "http://www.wikidata.org/entity/Q2402403",
+        "cityLabel": "Santo Domingo Suchitepéquez",
+        "population": "32202"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q774",
+        "countryLabel": "Guatemala",
+        "city": "http://www.wikidata.org/entity/Q1748824",
+        "cityLabel": "Sipacapa",
+        "population": "17549"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q774",
+        "countryLabel": "Guatemala",
+        "city": "http://www.wikidata.org/entity/Q1748857",
+        "cityLabel": "San Cristóbal Cucho",
+        "population": "16158"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q774",
+        "countryLabel": "Guatemala",
+        "city": "http://www.wikidata.org/entity/Q2609248",
+        "cityLabel": "San Antonio Palopó",
+        "population": "11728"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q774",
+        "countryLabel": "Guatemala",
+        "city": "http://www.wikidata.org/entity/Q2717583",
+        "cityLabel": "El Palmar",
+        "population": "11875"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q774",
+        "countryLabel": "Guatemala",
+        "city": "http://www.wikidata.org/entity/Q2548707",
+        "cityLabel": "San Pedro La Laguna",
+        "population": "10150"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q774",
+        "countryLabel": "Guatemala",
+        "city": "http://www.wikidata.org/entity/Q2034094",
+        "cityLabel": "Cubulco",
+        "population": "46909"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q774",
+        "countryLabel": "Guatemala",
+        "city": "http://www.wikidata.org/entity/Q3306697",
+        "cityLabel": "San Pablo, San Marcos",
+        "population": "49694"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q774",
+        "countryLabel": "Guatemala",
+        "city": "http://www.wikidata.org/entity/Q2609056",
+        "cityLabel": "Ixchiguán",
+        "population": "27176"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q774",
+        "countryLabel": "Guatemala",
+        "city": "http://www.wikidata.org/entity/Q2402824",
+        "cityLabel": "Cuyotenango",
+        "population": "50860"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q774",
+        "countryLabel": "Guatemala",
+        "city": "http://www.wikidata.org/entity/Q2716888",
+        "cityLabel": "Comapa",
+        "population": "23715"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q774",
+        "countryLabel": "Guatemala",
+        "city": "http://www.wikidata.org/entity/Q2401933",
+        "cityLabel": "San Miguel Sigüilá",
+        "population": "7411"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q774",
+        "countryLabel": "Guatemala",
+        "city": "http://www.wikidata.org/entity/Q2402624",
+        "cityLabel": "Palestina de Los Altos",
+        "population": "16384"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q774",
+        "countryLabel": "Guatemala",
+        "city": "http://www.wikidata.org/entity/Q2609266",
+        "cityLabel": "Canillá",
+        "population": "9073"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q774",
+        "countryLabel": "Guatemala",
+        "city": "http://www.wikidata.org/entity/Q164481",
+        "cityLabel": "La Libertad, El Petén",
+        "population": "88421"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q774",
+        "countryLabel": "Guatemala",
+        "city": "http://www.wikidata.org/entity/Q2723903",
+        "cityLabel": "Zacualpa",
+        "population": "22846"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q774",
+        "countryLabel": "Guatemala",
+        "city": "http://www.wikidata.org/entity/Q3132625",
+        "cityLabel": "Nebaj",
+        "population": "53617"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q774",
+        "countryLabel": "Guatemala",
+        "city": "http://www.wikidata.org/entity/Q2402766",
+        "cityLabel": "San Andrés Semetabaj",
+        "population": "4405"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q774",
+        "countryLabel": "Guatemala",
+        "city": "http://www.wikidata.org/entity/Q203970",
+        "cityLabel": "Usumatlán",
+        "population": "10630"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q774",
+        "countryLabel": "Guatemala",
+        "city": "http://www.wikidata.org/entity/Q2402793",
+        "cityLabel": "San Marcos La Laguna",
+        "population": "2585"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q774",
+        "countryLabel": "Guatemala",
+        "city": "http://www.wikidata.org/entity/Q2401701",
+        "cityLabel": "Guazacapán",
+        "population": "13979"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q774",
+        "countryLabel": "Guatemala",
+        "city": "http://www.wikidata.org/entity/Q2402369",
+        "cityLabel": "Patzité",
+        "population": "4695"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q774",
+        "countryLabel": "Guatemala",
+        "city": "http://www.wikidata.org/entity/Q2402405",
+        "cityLabel": "Santa Ana Huista",
+        "population": "11134"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q774",
+        "countryLabel": "Guatemala",
+        "city": "http://www.wikidata.org/entity/Q348201",
+        "cityLabel": "Tactic",
+        "population": "30000"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q774",
+        "countryLabel": "Guatemala",
+        "city": "http://www.wikidata.org/entity/Q2402472",
+        "cityLabel": "Santa María Chiquimula",
+        "population": "43562"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q774",
+        "countryLabel": "Guatemala",
+        "city": "http://www.wikidata.org/entity/Q334577",
+        "cityLabel": "Quetzaltenango",
+        "population": "500000"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q774",
+        "countryLabel": "Guatemala",
+        "city": "http://www.wikidata.org/entity/Q3879296",
+        "cityLabel": "Nuevo Progreso, San Marcos",
+        "population": "42942"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q774",
+        "countryLabel": "Guatemala",
+        "city": "http://www.wikidata.org/entity/Q1748795",
+        "cityLabel": "San José Ojetenam",
+        "population": "19194"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q774",
+        "countryLabel": "Guatemala",
+        "city": "http://www.wikidata.org/entity/Q455760",
+        "cityLabel": "Amatitlán",
+        "population": "125000"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q774",
+        "countryLabel": "Guatemala",
+        "city": "http://www.wikidata.org/entity/Q2401833",
+        "cityLabel": "San Juan Ixcoy",
+        "population": "25846"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q774",
+        "countryLabel": "Guatemala",
+        "city": "http://www.wikidata.org/entity/Q275980",
+        "cityLabel": "Chisec",
+        "population": "69325"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q774",
+        "countryLabel": "Guatemala",
+        "city": "http://www.wikidata.org/entity/Q284830",
+        "cityLabel": "Almolonga",
+        "population": "17186"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q774",
+        "countryLabel": "Guatemala",
+        "city": "http://www.wikidata.org/entity/Q174266",
+        "cityLabel": "Villa Canales",
+        "population": "77638"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q774",
+        "countryLabel": "Guatemala",
+        "city": "http://www.wikidata.org/entity/Q1748860",
+        "cityLabel": "Tejutla, San Marcos",
+        "population": "44552"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q774",
+        "countryLabel": "Guatemala",
+        "city": "http://www.wikidata.org/entity/Q2403501",
+        "cityLabel": "San Juan La Laguna",
+        "population": "10177"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q774",
+        "countryLabel": "Guatemala",
+        "city": "http://www.wikidata.org/entity/Q2402136",
+        "cityLabel": "Malacatán",
+        "population": "105178"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q774",
+        "countryLabel": "Guatemala",
+        "city": "http://www.wikidata.org/entity/Q2403627",
+        "cityLabel": "Atescatempa",
+        "population": "15820"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q774",
+        "countryLabel": "Guatemala",
+        "city": "http://www.wikidata.org/entity/Q2403007",
+        "cityLabel": "Conguaco",
+        "population": "15295"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q774",
+        "countryLabel": "Guatemala",
+        "city": "http://www.wikidata.org/entity/Q388686",
+        "cityLabel": "Cajolá",
+        "population": "16751"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q774",
+        "countryLabel": "Guatemala",
+        "city": "http://www.wikidata.org/entity/Q1749697",
+        "cityLabel": "Yupiltepeque",
+        "population": "17574"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q774",
+        "countryLabel": "Guatemala",
+        "city": "http://www.wikidata.org/entity/Q2295832",
+        "cityLabel": "Santiago Sacatepéquez",
+        "population": "30747"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q774",
+        "countryLabel": "Guatemala",
+        "city": "http://www.wikidata.org/entity/Q2644237",
+        "cityLabel": "Pastores",
+        "population": "13902"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q774",
+        "countryLabel": "Guatemala",
+        "city": "http://www.wikidata.org/entity/Q2402391",
+        "cityLabel": "Pajapita",
+        "population": "16600"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q774",
+        "countryLabel": "Guatemala",
+        "city": "http://www.wikidata.org/entity/Q1748770",
+        "cityLabel": "Concepción Tutuapa",
+        "population": "59063"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q774",
+        "countryLabel": "Guatemala",
+        "city": "http://www.wikidata.org/entity/Q2402611",
+        "cityLabel": "Colotenango",
+        "population": "25900"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q774",
+        "countryLabel": "Guatemala",
+        "city": "http://www.wikidata.org/entity/Q2025333",
+        "cityLabel": "Olopa",
+        "population": "23668"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q774",
+        "countryLabel": "Guatemala",
+        "city": "http://www.wikidata.org/entity/Q2402432",
+        "cityLabel": "San Cristóbal Totonicapán",
+        "population": "36675"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q774",
+        "countryLabel": "Guatemala",
+        "city": "http://www.wikidata.org/entity/Q1748875",
+        "cityLabel": "Catarina, San Marcos",
+        "population": "29925"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q774",
+        "countryLabel": "Guatemala",
+        "city": "http://www.wikidata.org/entity/Q7525555",
+        "cityLabel": "Sipacate",
+        "population": "10000"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q774",
+        "countryLabel": "Guatemala",
+        "city": "http://www.wikidata.org/entity/Q1748582",
+        "cityLabel": "San Vicente Pacaya",
+        "population": "7162"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q774",
+        "countryLabel": "Guatemala",
+        "city": "http://www.wikidata.org/entity/Q2609036",
+        "cityLabel": "Ixcán",
+        "population": "61448"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q774",
+        "countryLabel": "Guatemala",
+        "city": "http://www.wikidata.org/entity/Q1748668",
+        "cityLabel": "Santa María Visitación",
+        "population": "3537"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q774",
+        "countryLabel": "Guatemala",
+        "city": "http://www.wikidata.org/entity/Q325586",
+        "cityLabel": "San Pedro Carchá",
+        "population": "148344"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q774",
+        "countryLabel": "Guatemala",
+        "city": "http://www.wikidata.org/entity/Q2402778",
+        "cityLabel": "San Rafael Pie de la Cuesta",
+        "population": "15207"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q774",
+        "countryLabel": "Guatemala",
+        "city": "http://www.wikidata.org/entity/Q1023364",
+        "cityLabel": "Jutiapa",
+        "population": "162312"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q774",
+        "countryLabel": "Guatemala",
+        "city": "http://www.wikidata.org/entity/Q796634",
+        "cityLabel": "Sayaxché",
+        "population": "59499"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q774",
+        "countryLabel": "Guatemala",
+        "city": "http://www.wikidata.org/entity/Q1020827",
+        "cityLabel": "Huité",
+        "population": "8835"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q774",
+        "countryLabel": "Guatemala",
+        "city": "http://www.wikidata.org/entity/Q1002552",
+        "cityLabel": "Chimaltenango",
+        "population": "43900"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q774",
+        "countryLabel": "Guatemala",
+        "city": "http://www.wikidata.org/entity/Q615633",
+        "cityLabel": "Guastatoya",
+        "population": "20050"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q774",
+        "countryLabel": "Guatemala",
+        "city": "http://www.wikidata.org/entity/Q1015941",
+        "cityLabel": "Cuilapa",
+        "population": "30951"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q774",
+        "countryLabel": "Guatemala",
+        "city": "http://www.wikidata.org/entity/Q1023981",
+        "cityLabel": "San Marcos",
+        "population": "48913"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q774",
+        "countryLabel": "Guatemala",
+        "city": "http://www.wikidata.org/entity/Q1552683",
+        "cityLabel": "Gualán",
+        "population": "45000"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q774",
+        "countryLabel": "Guatemala",
+        "city": "http://www.wikidata.org/entity/Q590722",
+        "cityLabel": "Santa Catalina la Tinta",
+        "population": "27027"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q774",
+        "countryLabel": "Guatemala",
+        "city": "http://www.wikidata.org/entity/Q679383",
+        "cityLabel": "Flores",
+        "population": "144932"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q774",
+        "countryLabel": "Guatemala",
+        "city": "http://www.wikidata.org/entity/Q991400",
+        "cityLabel": "Puerto Barrios",
+        "population": "106922"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q774",
+        "countryLabel": "Guatemala",
+        "city": "http://www.wikidata.org/entity/Q1025536",
+        "cityLabel": "Chinique",
+        "population": "8009"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q774",
+        "countryLabel": "Guatemala",
+        "city": "http://www.wikidata.org/entity/Q989812",
+        "cityLabel": "Dolores",
+        "population": "39783"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q774",
+        "countryLabel": "Guatemala",
+        "city": "http://www.wikidata.org/entity/Q921966",
+        "cityLabel": "San Miguel Petapa",
+        "population": "124898"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q774",
+        "countryLabel": "Guatemala",
+        "city": "http://www.wikidata.org/entity/Q1020422",
+        "cityLabel": "Estanzuela",
+        "population": "11652"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q774",
+        "countryLabel": "Guatemala",
+        "city": "http://www.wikidata.org/entity/Q593520",
+        "cityLabel": "Río Hondo, Zacapa",
+        "population": "17667"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q774",
+        "countryLabel": "Guatemala",
+        "city": "http://www.wikidata.org/entity/Q948953",
+        "cityLabel": "Mixco",
+        "population": "688124"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q774",
+        "countryLabel": "Guatemala",
+        "city": "http://www.wikidata.org/entity/Q579733",
+        "cityLabel": "El Rodeo, San Marcos",
+        "population": "14125"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q774",
+        "countryLabel": "Guatemala",
+        "city": "http://www.wikidata.org/entity/Q1023359",
+        "cityLabel": "Jalapa",
+        "population": "122483"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q774",
+        "countryLabel": "Guatemala",
+        "city": "http://www.wikidata.org/entity/Q1440507",
+        "cityLabel": "Fraijanes",
+        "population": "32889"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q774",
+        "countryLabel": "Guatemala",
+        "city": "http://www.wikidata.org/entity/Q973059",
+        "cityLabel": "Las Cruces, El Petén",
+        "population": "35000"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q774",
+        "countryLabel": "Guatemala",
+        "city": "http://www.wikidata.org/entity/Q1020409",
+        "cityLabel": "San Agustín Acasaguastlán",
+        "population": "40121"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q774",
+        "countryLabel": "Guatemala",
+        "city": "http://www.wikidata.org/entity/Q1023655",
+        "cityLabel": "Salamá",
+        "population": "56359"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q774",
+        "countryLabel": "Guatemala",
+        "city": "http://www.wikidata.org/entity/Q741169",
+        "cityLabel": "San José, El Petén",
+        "population": "4414"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q774",
+        "countryLabel": "Guatemala",
+        "city": "http://www.wikidata.org/entity/Q523244",
+        "cityLabel": "Palín",
+        "population": "62127"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q774",
+        "countryLabel": "Guatemala",
+        "city": "http://www.wikidata.org/entity/Q1246149",
+        "cityLabel": "Rabinal",
+        "population": "45000"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q774",
+        "countryLabel": "Guatemala",
+        "city": "http://www.wikidata.org/entity/Q1113394",
+        "cityLabel": "San Benito, El Petén",
+        "population": "56953"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q774",
+        "countryLabel": "Guatemala",
+        "city": "http://www.wikidata.org/entity/Q1555",
+        "native": "Ciudad de Guatemala",
+        "cityLabel": "Guatemala City",
+        "population": "2110100"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q774",
+        "countryLabel": "Guatemala",
+        "city": "http://www.wikidata.org/entity/Q1020568",
+        "cityLabel": "Teculután",
+        "population": "14428"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q774",
+        "countryLabel": "Guatemala",
+        "city": "http://www.wikidata.org/entity/Q1027001",
+        "cityLabel": "Chinautla",
+        "population": "77071"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q774",
+        "countryLabel": "Guatemala",
+        "city": "http://www.wikidata.org/entity/Q780771",
+        "cityLabel": "Escuintla",
+        "population": "68000"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q774",
+        "countryLabel": "Guatemala",
+        "city": "http://www.wikidata.org/entity/Q2305570",
+        "cityLabel": "Ayutla",
+        "population": "33426"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q774",
+        "countryLabel": "Guatemala",
+        "city": "http://www.wikidata.org/entity/Q1023393",
+        "cityLabel": "Retalhuleu",
+        "population": "40000"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q774",
+        "countryLabel": "Guatemala",
+        "city": "http://www.wikidata.org/entity/Q1018078",
+        "cityLabel": "Cabañas",
+        "population": "11211"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q774",
+        "countryLabel": "Guatemala",
+        "city": "http://www.wikidata.org/entity/Q599455",
+        "cityLabel": "Melchor de Mencos",
+        "population": "20273"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q774",
+        "countryLabel": "Guatemala",
+        "city": "http://www.wikidata.org/entity/Q1005733",
+        "cityLabel": "Santa Ana",
+        "population": "16624.78"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q774",
+        "countryLabel": "Guatemala",
+        "city": "http://www.wikidata.org/entity/Q1018584",
+        "cityLabel": "Villa Nueva",
+        "population": "301907"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q774",
+        "countryLabel": "Guatemala",
+        "city": "http://www.wikidata.org/entity/Q1020153",
+        "cityLabel": "El Estor",
+        "population": "15842"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q774",
+        "countryLabel": "Guatemala",
+        "city": "http://www.wikidata.org/entity/Q532226",
+        "cityLabel": "Tiquisate",
+        "population": "54983"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q774",
+        "countryLabel": "Guatemala",
+        "city": "http://www.wikidata.org/entity/Q602423",
+        "cityLabel": "Sololá",
+        "population": "63973"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q774",
+        "countryLabel": "Guatemala",
+        "city": "http://www.wikidata.org/entity/Q837035",
+        "cityLabel": "Totonicapán",
+        "population": "96392"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q774",
+        "countryLabel": "Guatemala",
+        "city": "http://www.wikidata.org/entity/Q275883",
+        "cityLabel": "Lanquín",
+        "population": "16546"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q774",
+        "countryLabel": "Guatemala",
+        "city": "http://www.wikidata.org/entity/Q611941",
+        "cityLabel": "Granados, Baja Verapaz",
+        "population": "12191"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q774",
+        "countryLabel": "Guatemala",
+        "city": "http://www.wikidata.org/entity/Q1020572",
+        "cityLabel": "San Luis, El Petén",
+        "population": "48745"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q774",
+        "countryLabel": "Guatemala",
+        "city": "http://www.wikidata.org/entity/Q536249",
+        "cityLabel": "Purulhá",
+        "population": "5370"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q774",
+        "countryLabel": "Guatemala",
+        "city": "http://www.wikidata.org/entity/Q1005008",
+        "cityLabel": "San Andrés, El Petén",
+        "population": "20295"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q774",
+        "countryLabel": "Guatemala",
+        "city": "http://www.wikidata.org/entity/Q867077",
+        "cityLabel": "Cobán",
+        "population": "250675"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q774",
+        "countryLabel": "Guatemala",
+        "city": "http://www.wikidata.org/entity/Q1023983",
+        "cityLabel": "Mazatenango",
+        "population": "103276"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q774",
+        "countryLabel": "Guatemala",
+        "city": "http://www.wikidata.org/entity/Q984445",
+        "cityLabel": "San Diego",
+        "population": "5825"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q774",
+        "countryLabel": "Guatemala",
+        "city": "http://www.wikidata.org/entity/Q686756",
+        "cityLabel": "El Progreso, Jutiapa",
+        "population": "22220"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q774",
+        "countryLabel": "Guatemala",
+        "city": "http://www.wikidata.org/entity/Q796492",
+        "cityLabel": "San Francisco, El Petén",
+        "population": "47919"
+    }
+]

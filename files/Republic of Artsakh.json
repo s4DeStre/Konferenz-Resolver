@@ -1,0 +1,33 @@
+[
+    {
+        "country": "http://www.wikidata.org/entity/Q244165",
+        "countryLabel": "Republic of Artsakh",
+        "city": "http://www.wikidata.org/entity/Q794712",
+        "native": "Մարտակերտ",
+        "cityLabel": "Aghdara",
+        "population": "4600"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q244165",
+        "countryLabel": "Republic of Artsakh",
+        "city": "http://www.wikidata.org/entity/Q129352",
+        "native": "Xankəndi",
+        "cityLabel": "Stepanakert",
+        "population": "49848"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q244165",
+        "countryLabel": "Republic of Artsakh",
+        "city": "http://www.wikidata.org/entity/Q129352",
+        "native": "Ստեփանակերտ",
+        "cityLabel": "Stepanakert",
+        "population": "49848"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q244165",
+        "countryLabel": "Republic of Artsakh",
+        "city": "http://www.wikidata.org/entity/Q158903",
+        "cityLabel": "Shusha",
+        "population": "4200"
+    }
+]

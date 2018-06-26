@@ -1,0 +1,440 @@
+[
+    {
+        "country": "http://www.wikidata.org/entity/Q750",
+        "countryLabel": "Bolivia",
+        "city": "http://www.wikidata.org/entity/Q990706",
+        "cityLabel": "Montero",
+        "population": "90837"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q750",
+        "countryLabel": "Bolivia",
+        "city": "http://www.wikidata.org/entity/Q35246",
+        "cityLabel": "Oruro",
+        "population": "264700"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q750",
+        "countryLabel": "Bolivia",
+        "city": "http://www.wikidata.org/entity/Q751077",
+        "cityLabel": "Concepción, Santa Cruz",
+        "population": "5586"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q750",
+        "countryLabel": "Bolivia",
+        "city": "http://www.wikidata.org/entity/Q1617416",
+        "cityLabel": "Aiquile",
+        "population": "7381"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q750",
+        "countryLabel": "Bolivia",
+        "city": "http://www.wikidata.org/entity/Q1026253",
+        "cityLabel": "Guayaramerín",
+        "population": "36008"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q750",
+        "countryLabel": "Bolivia",
+        "city": "http://www.wikidata.org/entity/Q2307472",
+        "cityLabel": "San Borja",
+        "population": "24610"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q750",
+        "countryLabel": "Bolivia",
+        "city": "http://www.wikidata.org/entity/Q125924",
+        "cityLabel": "Vinto",
+        "population": "14180"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q750",
+        "countryLabel": "Bolivia",
+        "city": "http://www.wikidata.org/entity/Q1626079",
+        "cityLabel": "Portachuelo",
+        "population": "16408"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q750",
+        "countryLabel": "Bolivia",
+        "city": "http://www.wikidata.org/entity/Q780815",
+        "cityLabel": "Cliza",
+        "population": "6534"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q750",
+        "countryLabel": "Bolivia",
+        "city": "http://www.wikidata.org/entity/Q746773",
+        "cityLabel": "San Rafael de Velasco",
+        "population": "2057"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q750",
+        "countryLabel": "Bolivia",
+        "city": "http://www.wikidata.org/entity/Q1020288",
+        "cityLabel": "Tiquipaya",
+        "population": "31264"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q750",
+        "countryLabel": "Bolivia",
+        "city": "http://www.wikidata.org/entity/Q1002035",
+        "cityLabel": "Viacha",
+        "population": "29108"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q750",
+        "countryLabel": "Bolivia",
+        "city": "http://www.wikidata.org/entity/Q1002090",
+        "cityLabel": "Quillacollo",
+        "population": "74980"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q750",
+        "countryLabel": "Bolivia",
+        "city": "http://www.wikidata.org/entity/Q183124",
+        "native": "Cochabamba",
+        "cityLabel": "Cochabamba",
+        "population": "632013"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q750",
+        "countryLabel": "Bolivia",
+        "city": "http://www.wikidata.org/entity/Q1014433",
+        "cityLabel": "Mapiri",
+        "population": "16520"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q750",
+        "countryLabel": "Bolivia",
+        "city": "http://www.wikidata.org/entity/Q1416961",
+        "cityLabel": "San Benito, Cochabamba",
+        "population": "2029"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q750",
+        "countryLabel": "Bolivia",
+        "city": "http://www.wikidata.org/entity/Q1014481",
+        "cityLabel": "Tupiza",
+        "population": "23100"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q750",
+        "countryLabel": "Bolivia",
+        "city": "http://www.wikidata.org/entity/Q735765",
+        "cityLabel": "Vallegrande",
+        "population": "16837"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q750",
+        "countryLabel": "Bolivia",
+        "city": "http://www.wikidata.org/entity/Q973385",
+        "cityLabel": "Warnes",
+        "population": "30964"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q750",
+        "countryLabel": "Bolivia",
+        "city": "http://www.wikidata.org/entity/Q1766619",
+        "cityLabel": "Chulumani",
+        "population": "13204"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q750",
+        "countryLabel": "Bolivia",
+        "city": "http://www.wikidata.org/entity/Q2143101",
+        "cityLabel": "San José de Chiquitos",
+        "population": "16942"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q750",
+        "countryLabel": "Bolivia",
+        "city": "http://www.wikidata.org/entity/Q34986",
+        "cityLabel": "Trinidad",
+        "population": "120182"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q750",
+        "countryLabel": "Bolivia",
+        "city": "http://www.wikidata.org/entity/Q1034638",
+        "cityLabel": "Capinota",
+        "population": "4766"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q750",
+        "countryLabel": "Bolivia",
+        "city": "http://www.wikidata.org/entity/Q1016289",
+        "cityLabel": "Tarata",
+        "population": "3323"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q750",
+        "countryLabel": "Bolivia",
+        "city": "http://www.wikidata.org/entity/Q1014511",
+        "cityLabel": "Uyuni",
+        "population": "26958"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q750",
+        "countryLabel": "Bolivia",
+        "city": "http://www.wikidata.org/entity/Q164003",
+        "cityLabel": "San Buenaventura, La Paz",
+        "population": "2264"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q750",
+        "countryLabel": "Bolivia",
+        "city": "http://www.wikidata.org/entity/Q628665",
+        "cityLabel": "Porco Municipality",
+        "population": "10763"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q750",
+        "countryLabel": "Bolivia",
+        "city": "http://www.wikidata.org/entity/Q1026256",
+        "cityLabel": "Camiri",
+        "population": "26505"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q750",
+        "countryLabel": "Bolivia",
+        "city": "http://www.wikidata.org/entity/Q1553175",
+        "cityLabel": "Achacachi",
+        "population": "8857"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q750",
+        "countryLabel": "Bolivia",
+        "city": "http://www.wikidata.org/entity/Q916733",
+        "cityLabel": "Ironcollo",
+        "population": "4778"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q750",
+        "countryLabel": "Bolivia",
+        "city": "http://www.wikidata.org/entity/Q1642851",
+        "cityLabel": "Camargo",
+        "population": "4502"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q750",
+        "countryLabel": "Bolivia",
+        "city": "http://www.wikidata.org/entity/Q995727",
+        "cityLabel": "Sacaba",
+        "population": "127700"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q750",
+        "countryLabel": "Bolivia",
+        "city": "http://www.wikidata.org/entity/Q1026281",
+        "cityLabel": "Arani",
+        "population": "3512"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q750",
+        "countryLabel": "Bolivia",
+        "city": "http://www.wikidata.org/entity/Q1673170",
+        "cityLabel": "Irpa Irpa",
+        "population": "2721"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q750",
+        "countryLabel": "Bolivia",
+        "city": "http://www.wikidata.org/entity/Q1026263",
+        "cityLabel": "Coroico",
+        "population": "2319"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q750",
+        "countryLabel": "Bolivia",
+        "city": "http://www.wikidata.org/entity/Q1661081",
+        "cityLabel": "Independencia",
+        "population": "4938"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q750",
+        "countryLabel": "Bolivia",
+        "city": "http://www.wikidata.org/entity/Q2907",
+        "native": "Sucre",
+        "cityLabel": "Sucre",
+        "population": "300000"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q750",
+        "countryLabel": "Bolivia",
+        "city": "http://www.wikidata.org/entity/Q1026219",
+        "cityLabel": "Punata",
+        "population": "14742"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q750",
+        "countryLabel": "Bolivia",
+        "city": "http://www.wikidata.org/entity/Q1428069",
+        "cityLabel": "Sorata",
+        "population": "2217"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q750",
+        "countryLabel": "Bolivia",
+        "city": "http://www.wikidata.org/entity/Q1814898",
+        "cityLabel": "San Buenaventura Municipality, La Paz",
+        "population": "8036"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q750",
+        "countryLabel": "Bolivia",
+        "city": "http://www.wikidata.org/entity/Q170688",
+        "cityLabel": "Santa Cruz",
+        "population": "1453549"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q750",
+        "countryLabel": "Bolivia",
+        "city": "http://www.wikidata.org/entity/Q1491",
+        "native": "Chuqiyapu",
+        "cityLabel": "La Paz",
+        "population": "757184"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q750",
+        "countryLabel": "Bolivia",
+        "city": "http://www.wikidata.org/entity/Q721678",
+        "cityLabel": "Ascención de Guarayos",
+        "population": "18816"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q750",
+        "countryLabel": "Bolivia",
+        "city": "http://www.wikidata.org/entity/Q490991",
+        "cityLabel": "Patacamaya",
+        "population": "20039"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q750",
+        "countryLabel": "Bolivia",
+        "city": "http://www.wikidata.org/entity/Q1014468",
+        "cityLabel": "Caranavi",
+        "population": "12318"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q750",
+        "countryLabel": "Bolivia",
+        "city": "http://www.wikidata.org/entity/Q1712242",
+        "cityLabel": "Charagua",
+        "population": "2737"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q750",
+        "countryLabel": "Bolivia",
+        "city": "http://www.wikidata.org/entity/Q35004",
+        "cityLabel": "Tarija",
+        "population": "135783"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q750",
+        "countryLabel": "Bolivia",
+        "city": "http://www.wikidata.org/entity/Q473144",
+        "cityLabel": "San Miguel de Velasco",
+        "population": "4484"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q750",
+        "countryLabel": "Bolivia",
+        "city": "http://www.wikidata.org/entity/Q1014530",
+        "cityLabel": "Shinahota",
+        "population": "4291"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q750",
+        "countryLabel": "Bolivia",
+        "city": "http://www.wikidata.org/entity/Q959746",
+        "cityLabel": "Guanay",
+        "population": "3890"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q750",
+        "countryLabel": "Bolivia",
+        "city": "http://www.wikidata.org/entity/Q494377",
+        "cityLabel": "Sica Sica",
+        "population": "3831"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q750",
+        "countryLabel": "Bolivia",
+        "city": "http://www.wikidata.org/entity/Q30996",
+        "cityLabel": "El Alto",
+        "population": "827239"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q750",
+        "countryLabel": "Bolivia",
+        "city": "http://www.wikidata.org/entity/Q1506556",
+        "cityLabel": "Yapacaní",
+        "population": "14589"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q750",
+        "countryLabel": "Bolivia",
+        "city": "http://www.wikidata.org/entity/Q34995",
+        "cityLabel": "Cobija",
+        "population": "20820"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q750",
+        "countryLabel": "Bolivia",
+        "city": "http://www.wikidata.org/entity/Q1491",
+        "native": "La Paz",
+        "cityLabel": "La Paz",
+        "population": "757184"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q750",
+        "countryLabel": "Bolivia",
+        "city": "http://www.wikidata.org/entity/Q1642052",
+        "cityLabel": "Uncia",
+        "population": "5709"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q750",
+        "countryLabel": "Bolivia",
+        "city": "http://www.wikidata.org/entity/Q1860785",
+        "cityLabel": "Villa Tunari",
+        "population": "2510"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q750",
+        "countryLabel": "Bolivia",
+        "city": "http://www.wikidata.org/entity/Q35045",
+        "cityLabel": "Potosí",
+        "population": "240966"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q750",
+        "countryLabel": "Bolivia",
+        "city": "http://www.wikidata.org/entity/Q995752",
+        "cityLabel": "San Ignacio de Velasco",
+        "population": "23569"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q750",
+        "countryLabel": "Bolivia",
+        "city": "http://www.wikidata.org/entity/Q1002560",
+        "cityLabel": "Comarapa",
+        "population": "15919"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q750",
+        "countryLabel": "Bolivia",
+        "city": "http://www.wikidata.org/entity/Q2307341",
+        "cityLabel": "Apolo, La Paz",
+        "population": "2123"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q750",
+        "countryLabel": "Bolivia",
+        "city": "http://www.wikidata.org/entity/Q1014504",
+        "cityLabel": "Villamontes",
+        "population": "39800"
+    }
+]

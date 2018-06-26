@@ -1,0 +1,26 @@
+[
+    {
+        "country": "http://www.wikidata.org/entity/Q34266",
+        "countryLabel": "Russian Empire",
+        "city": "http://www.wikidata.org/entity/Q157053",
+        "native": "Чернігів",
+        "cityLabel": "Chernihiv",
+        "population": "294522"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q34266",
+        "countryLabel": "Russian Empire",
+        "city": "http://www.wikidata.org/entity/Q158491",
+        "native": "Феодосія",
+        "cityLabel": "Feodosiya",
+        "population": "67993"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q34266",
+        "countryLabel": "Russian Empire",
+        "city": "http://www.wikidata.org/entity/Q37133",
+        "native": "Маріуполь",
+        "cityLabel": "Mariupol",
+        "population": "449498"
+    }
+]

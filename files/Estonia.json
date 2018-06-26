@@ -1,0 +1,685 @@
+[
+    {
+        "country": "http://www.wikidata.org/entity/Q191",
+        "countryLabel": "Estonia",
+        "city": "http://www.wikidata.org/entity/Q1753127",
+        "cityLabel": "Sauga Rural Municipality",
+        "population": "4459"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q191",
+        "countryLabel": "Estonia",
+        "city": "http://www.wikidata.org/entity/Q1018396",
+        "cityLabel": "Haljala Rural Municipality",
+        "population": "2441"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q191",
+        "countryLabel": "Estonia",
+        "city": "http://www.wikidata.org/entity/Q334757",
+        "cityLabel": "Ülenurme Rural Municipality",
+        "population": "7928"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q191",
+        "countryLabel": "Estonia",
+        "city": "http://www.wikidata.org/entity/Q1018478",
+        "cityLabel": "Puhja Rural Municipality",
+        "population": "2219"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q191",
+        "countryLabel": "Estonia",
+        "city": "http://www.wikidata.org/entity/Q1018469",
+        "cityLabel": "Toila Rural Municipality",
+        "population": "2161"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q191",
+        "countryLabel": "Estonia",
+        "city": "http://www.wikidata.org/entity/Q1018594",
+        "cityLabel": "Sõmeru Rural Municipality",
+        "population": "3666"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q191",
+        "countryLabel": "Estonia",
+        "city": "http://www.wikidata.org/entity/Q976796",
+        "cityLabel": "Häädemeeste Rural Municipality",
+        "population": "2388"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q191",
+        "countryLabel": "Estonia",
+        "city": "http://www.wikidata.org/entity/Q1018604",
+        "cityLabel": "Tahkuranna Rural Municipality",
+        "population": "2392"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q191",
+        "countryLabel": "Estonia",
+        "city": "http://www.wikidata.org/entity/Q1432550",
+        "cityLabel": "Nissi Rural Municipality",
+        "population": "2866"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q191",
+        "countryLabel": "Estonia",
+        "city": "http://www.wikidata.org/entity/Q23890546",
+        "cityLabel": "Taebla Rural Municipality",
+        "population": "2276"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q191",
+        "countryLabel": "Estonia",
+        "city": "http://www.wikidata.org/entity/Q213071",
+        "cityLabel": "Elva",
+        "population": "5669"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q191",
+        "countryLabel": "Estonia",
+        "city": "http://www.wikidata.org/entity/Q632906",
+        "cityLabel": "Otepää Rural Municipality",
+        "population": "3727"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q191",
+        "countryLabel": "Estonia",
+        "city": "http://www.wikidata.org/entity/Q1474739",
+        "cityLabel": "Ridala Rural Municipality",
+        "population": "3219"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q191",
+        "countryLabel": "Estonia",
+        "city": "http://www.wikidata.org/entity/Q204091",
+        "cityLabel": "Paldiski",
+        "population": "4056"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q191",
+        "countryLabel": "Estonia",
+        "city": "http://www.wikidata.org/entity/Q205271",
+        "native": "Võru",
+        "cityLabel": "Võru",
+        "population": "12458"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q191",
+        "countryLabel": "Estonia",
+        "city": "http://www.wikidata.org/entity/Q595935",
+        "cityLabel": "Räpina Rural Municipality",
+        "population": "4629"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q191",
+        "countryLabel": "Estonia",
+        "city": "http://www.wikidata.org/entity/Q15092085",
+        "cityLabel": "Lääne-Nigula Rural Municipality",
+        "population": "3951"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q191",
+        "countryLabel": "Estonia",
+        "city": "http://www.wikidata.org/entity/Q215971",
+        "cityLabel": "Rapla",
+        "population": "5139"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q191",
+        "countryLabel": "Estonia",
+        "city": "http://www.wikidata.org/entity/Q1479719",
+        "cityLabel": "Keila Rural Municipality",
+        "population": "5312"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q191",
+        "countryLabel": "Estonia",
+        "city": "http://www.wikidata.org/entity/Q321774",
+        "cityLabel": "Abja Rural Municipality",
+        "population": "2159"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q191",
+        "countryLabel": "Estonia",
+        "city": "http://www.wikidata.org/entity/Q819514",
+        "cityLabel": "Tõrva",
+        "population": "2690"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q191",
+        "countryLabel": "Estonia",
+        "city": "http://www.wikidata.org/entity/Q759045",
+        "cityLabel": "Audru Rural Municipality",
+        "population": "5658"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q191",
+        "countryLabel": "Estonia",
+        "city": "http://www.wikidata.org/entity/Q2307788",
+        "cityLabel": "Kanepi Rural Municipality",
+        "population": "2278"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q191",
+        "countryLabel": "Estonia",
+        "city": "http://www.wikidata.org/entity/Q1266078",
+        "cityLabel": "Tartu Rural Municipality",
+        "population": "7418"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q191",
+        "countryLabel": "Estonia",
+        "city": "http://www.wikidata.org/entity/Q80193",
+        "cityLabel": "Tabivere Rural Municipality",
+        "population": "2210"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q191",
+        "countryLabel": "Estonia",
+        "city": "http://www.wikidata.org/entity/Q1503436",
+        "cityLabel": "Jõgeva Rural Municipality",
+        "population": "4139"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q191",
+        "countryLabel": "Estonia",
+        "city": "http://www.wikidata.org/entity/Q1010496",
+        "cityLabel": "Lihula Rural Municipality",
+        "population": "2195"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q191",
+        "countryLabel": "Estonia",
+        "city": "http://www.wikidata.org/entity/Q1010572",
+        "cityLabel": "Märjamaa Rural Municipality",
+        "population": "6494"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q191",
+        "countryLabel": "Estonia",
+        "city": "http://www.wikidata.org/entity/Q1010581",
+        "cityLabel": "Lüganuse Rural Municipality",
+        "population": "2941"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q191",
+        "countryLabel": "Estonia",
+        "city": "http://www.wikidata.org/entity/Q1010576",
+        "cityLabel": "Saarde Rural Municipality",
+        "population": "3733"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q191",
+        "countryLabel": "Estonia",
+        "city": "http://www.wikidata.org/entity/Q1010589",
+        "cityLabel": "Tarvastu Rural Municipality",
+        "population": "3215"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q191",
+        "countryLabel": "Estonia",
+        "city": "http://www.wikidata.org/entity/Q155066",
+        "cityLabel": "Kärdla",
+        "population": "3009"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q191",
+        "countryLabel": "Estonia",
+        "city": "http://www.wikidata.org/entity/Q1019999",
+        "cityLabel": "Tori Rural Municipality",
+        "population": "2279"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q191",
+        "countryLabel": "Estonia",
+        "city": "http://www.wikidata.org/entity/Q985464",
+        "cityLabel": "Kehra",
+        "population": "2754"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q191",
+        "countryLabel": "Estonia",
+        "city": "http://www.wikidata.org/entity/Q15092901",
+        "cityLabel": "Hiiu Rural Municipality",
+        "population": "4159"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q191",
+        "countryLabel": "Estonia",
+        "city": "http://www.wikidata.org/entity/Q102365",
+        "native": "Pärnu",
+        "cityLabel": "Pärnu",
+        "population": "39784"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q191",
+        "countryLabel": "Estonia",
+        "city": "http://www.wikidata.org/entity/Q642660",
+        "cityLabel": "Põltsamaa",
+        "population": "4111"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q191",
+        "countryLabel": "Estonia",
+        "city": "http://www.wikidata.org/entity/Q1020202",
+        "cityLabel": "Halinga Rural Municipality",
+        "population": "2863"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q191",
+        "countryLabel": "Estonia",
+        "city": "http://www.wikidata.org/entity/Q1020174",
+        "cityLabel": "Rõngu Rural Municipality",
+        "population": "2811"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q191",
+        "countryLabel": "Estonia",
+        "city": "http://www.wikidata.org/entity/Q1770",
+        "native": "Tallinn",
+        "cityLabel": "Tallinn",
+        "population": "446055"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q191",
+        "countryLabel": "Estonia",
+        "city": "http://www.wikidata.org/entity/Q650577",
+        "native": "Tapa",
+        "cityLabel": "Tapa",
+        "population": "5706"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q191",
+        "countryLabel": "Estonia",
+        "city": "http://www.wikidata.org/entity/Q44917721",
+        "cityLabel": "Kose Rural Municipality",
+        "population": "5673"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q191",
+        "countryLabel": "Estonia",
+        "city": "http://www.wikidata.org/entity/Q378613",
+        "cityLabel": "Vändra Rural Municipality",
+        "population": "2520"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q191",
+        "countryLabel": "Estonia",
+        "city": "http://www.wikidata.org/entity/Q213178",
+        "cityLabel": "Kunda",
+        "population": "3224"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q191",
+        "countryLabel": "Estonia",
+        "city": "http://www.wikidata.org/entity/Q993046",
+        "native": "Kernu",
+        "cityLabel": "Kernu Rural Municipality",
+        "population": "2315"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q191",
+        "countryLabel": "Estonia",
+        "city": "http://www.wikidata.org/entity/Q188179",
+        "native": "Kuressaare",
+        "cityLabel": "Kuressaare",
+        "population": "13009"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q191",
+        "countryLabel": "Estonia",
+        "city": "http://www.wikidata.org/entity/Q1639203",
+        "cityLabel": "Tamsalu Rural Municipality",
+        "population": "3767"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q191",
+        "countryLabel": "Estonia",
+        "city": "http://www.wikidata.org/entity/Q191889",
+        "cityLabel": "Rakvere",
+        "population": "15526"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q191",
+        "countryLabel": "Estonia",
+        "city": "http://www.wikidata.org/entity/Q86206",
+        "cityLabel": "Saue",
+        "population": "5631"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q191",
+        "countryLabel": "Estonia",
+        "city": "http://www.wikidata.org/entity/Q141796",
+        "cityLabel": "Türi",
+        "population": "5257"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q191",
+        "countryLabel": "Estonia",
+        "city": "http://www.wikidata.org/entity/Q588258",
+        "cityLabel": "Palamuse Rural Municipality",
+        "population": "2058"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q191",
+        "countryLabel": "Estonia",
+        "city": "http://www.wikidata.org/entity/Q13972",
+        "native": "Tarto",
+        "cityLabel": "Tartu",
+        "population": "93687"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q191",
+        "countryLabel": "Estonia",
+        "city": "http://www.wikidata.org/entity/Q45114",
+        "cityLabel": "Paide",
+        "population": "8056"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q191",
+        "countryLabel": "Estonia",
+        "city": "http://www.wikidata.org/entity/Q1755634",
+        "cityLabel": "Saue Rural Municipality",
+        "population": "10907"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q191",
+        "countryLabel": "Estonia",
+        "city": "http://www.wikidata.org/entity/Q102158",
+        "cityLabel": "Narva",
+        "population": "57130"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q191",
+        "countryLabel": "Estonia",
+        "city": "http://www.wikidata.org/entity/Q1695213",
+        "cityLabel": "Rakvere Rural Municipality",
+        "population": "2116"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q191",
+        "countryLabel": "Estonia",
+        "city": "http://www.wikidata.org/entity/Q201391",
+        "cityLabel": "Kohtla-Järve",
+        "population": "35928"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q191",
+        "countryLabel": "Estonia",
+        "city": "http://www.wikidata.org/entity/Q193905",
+        "cityLabel": "Valga",
+        "population": "12352"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q191",
+        "countryLabel": "Estonia",
+        "city": "http://www.wikidata.org/entity/Q546693",
+        "cityLabel": "Anija Rural Municipality",
+        "population": "5685"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q191",
+        "countryLabel": "Estonia",
+        "city": "http://www.wikidata.org/entity/Q1483558",
+        "cityLabel": "Räpina",
+        "population": "2312"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q191",
+        "countryLabel": "Estonia",
+        "city": "http://www.wikidata.org/entity/Q45100",
+        "cityLabel": "Põlva",
+        "population": "5632"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q191",
+        "countryLabel": "Estonia",
+        "city": "http://www.wikidata.org/entity/Q519001",
+        "cityLabel": "Kaarma Rural Municipality",
+        "population": "4509"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q191",
+        "countryLabel": "Estonia",
+        "city": "http://www.wikidata.org/entity/Q207748",
+        "native": "Sillamäe",
+        "cityLabel": "Sillamäe",
+        "population": "13964"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q191",
+        "countryLabel": "Estonia",
+        "city": "http://www.wikidata.org/entity/Q305226",
+        "cityLabel": "Antsla Rural Municipality",
+        "population": "3263"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q191",
+        "countryLabel": "Estonia",
+        "city": "http://www.wikidata.org/entity/Q602909",
+        "cityLabel": "Vasalemma Rural Municipality",
+        "population": "2613"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q191",
+        "countryLabel": "Estonia",
+        "city": "http://www.wikidata.org/entity/Q730707",
+        "cityLabel": "Sindi",
+        "population": "4003"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q191",
+        "countryLabel": "Estonia",
+        "city": "http://www.wikidata.org/entity/Q44919021",
+        "cityLabel": "Põlva Rural Municipality",
+        "population": "3615"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q191",
+        "countryLabel": "Estonia",
+        "city": "http://www.wikidata.org/entity/Q217682",
+        "cityLabel": "Tamsalu",
+        "population": "2197"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q191",
+        "countryLabel": "Estonia",
+        "city": "http://www.wikidata.org/entity/Q213740",
+        "cityLabel": "Loksa",
+        "population": "2665"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q191",
+        "countryLabel": "Estonia",
+        "city": "http://www.wikidata.org/entity/Q2068203",
+        "cityLabel": "Rapla Rural Municipality",
+        "population": "9051"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q191",
+        "countryLabel": "Estonia",
+        "city": "http://www.wikidata.org/entity/Q723372",
+        "cityLabel": "Narva-Jõesuu",
+        "population": "2630"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q191",
+        "countryLabel": "Estonia",
+        "city": "http://www.wikidata.org/entity/Q1445105",
+        "cityLabel": "Põlva Rural Municipality",
+        "population": "9399"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q191",
+        "countryLabel": "Estonia",
+        "city": "http://www.wikidata.org/entity/Q1640556",
+        "cityLabel": "Kambja Rural Municipality",
+        "population": "2680"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q191",
+        "countryLabel": "Estonia",
+        "city": "http://www.wikidata.org/entity/Q44840",
+        "native": "Viljandi",
+        "cityLabel": "Viljandi",
+        "population": "17525"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q191",
+        "countryLabel": "Estonia",
+        "city": "http://www.wikidata.org/entity/Q207275",
+        "cityLabel": "Keila",
+        "population": "9758"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q191",
+        "countryLabel": "Estonia",
+        "city": "http://www.wikidata.org/entity/Q216119",
+        "cityLabel": "Kiviõli",
+        "population": "5504"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q191",
+        "countryLabel": "Estonia",
+        "city": "http://www.wikidata.org/entity/Q719969",
+        "cityLabel": "Türi Rural Municipality",
+        "population": "9246"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q191",
+        "countryLabel": "Estonia",
+        "city": "http://www.wikidata.org/entity/Q775860",
+        "cityLabel": "Kehtna Rural Municipality",
+        "population": "4333"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q191",
+        "countryLabel": "Estonia",
+        "city": "http://www.wikidata.org/entity/Q1752506",
+        "cityLabel": "Pärsti Rural Municipality",
+        "population": "3593"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q191",
+        "countryLabel": "Estonia",
+        "city": "http://www.wikidata.org/entity/Q18625066",
+        "cityLabel": "Lääne-Saare Rural Municipality",
+        "population": "7086"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q191",
+        "countryLabel": "Estonia",
+        "city": "http://www.wikidata.org/entity/Q124799",
+        "cityLabel": "Paikuse Rural Municipality",
+        "population": "3634"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q191",
+        "countryLabel": "Estonia",
+        "city": "http://www.wikidata.org/entity/Q720107",
+        "cityLabel": "Koeru Rural Municipality",
+        "population": "2126"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q191",
+        "countryLabel": "Estonia",
+        "city": "http://www.wikidata.org/entity/Q117513",
+        "cityLabel": "Jõgeva",
+        "population": "5477"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q191",
+        "countryLabel": "Estonia",
+        "city": "http://www.wikidata.org/entity/Q1566662",
+        "cityLabel": "Haaslava Rural Municipality",
+        "population": "2030"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q191",
+        "countryLabel": "Estonia",
+        "city": "http://www.wikidata.org/entity/Q1854978",
+        "cityLabel": "Põltsamaa Rural Municipality",
+        "population": "3740"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q191",
+        "countryLabel": "Estonia",
+        "city": "http://www.wikidata.org/entity/Q1854990",
+        "cityLabel": "Tapa Rural Municipality",
+        "population": "7443"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q191",
+        "countryLabel": "Estonia",
+        "city": "http://www.wikidata.org/entity/Q211059",
+        "cityLabel": "Jõhvi",
+        "population": "10669"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q191",
+        "countryLabel": "Estonia",
+        "city": "http://www.wikidata.org/entity/Q206555",
+        "cityLabel": "Maardu",
+        "population": "17141"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q191",
+        "countryLabel": "Estonia",
+        "city": "http://www.wikidata.org/entity/Q13972",
+        "native": "Tartu",
+        "cityLabel": "Tartu",
+        "population": "93687"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q191",
+        "countryLabel": "Estonia",
+        "city": "http://www.wikidata.org/entity/Q44915571",
+        "cityLabel": "Audru Rural Municipality",
+        "population": "5100"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q191",
+        "countryLabel": "Estonia",
+        "city": "http://www.wikidata.org/entity/Q650672",
+        "cityLabel": "Võru Rural Municipality",
+        "population": "4871"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q191",
+        "countryLabel": "Estonia",
+        "city": "http://www.wikidata.org/entity/Q1729692",
+        "cityLabel": "Karksi Rural Municipality",
+        "population": "3113"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q191",
+        "countryLabel": "Estonia",
+        "city": "http://www.wikidata.org/entity/Q2092418",
+        "cityLabel": "Suure-Jaani Rural Municipality",
+        "population": "5105"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q191",
+        "countryLabel": "Estonia",
+        "city": "http://www.wikidata.org/entity/Q1473945",
+        "cityLabel": "Tähtvere Rural Municipality",
+        "population": "2915"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q191",
+        "countryLabel": "Estonia",
+        "city": "http://www.wikidata.org/entity/Q191106",
+        "native": "Haapsalu",
+        "cityLabel": "Haapsalu",
+        "population": "9838"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q191",
+        "countryLabel": "Estonia",
+        "city": "http://www.wikidata.org/entity/Q627630",
+        "cityLabel": "Viiratsi Rural Municipality",
+        "population": "3461"
+    }
+]

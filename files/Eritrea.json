@@ -1,0 +1,115 @@
+[
+    {
+        "country": "http://www.wikidata.org/entity/Q986",
+        "countryLabel": "Eritrea",
+        "city": "http://www.wikidata.org/entity/Q738496",
+        "cityLabel": "Assab",
+        "population": "74405"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q986",
+        "countryLabel": "Eritrea",
+        "city": "http://www.wikidata.org/entity/Q3642",
+        "cityLabel": "Asmara",
+        "population": "649000"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q986",
+        "countryLabel": "Eritrea",
+        "city": "http://www.wikidata.org/entity/Q1020477",
+        "cityLabel": "Dekemhare",
+        "population": "10959"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q986",
+        "countryLabel": "Eritrea",
+        "city": "http://www.wikidata.org/entity/Q356811",
+        "cityLabel": "Adi Keyh",
+        "population": "13061"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q986",
+        "countryLabel": "Eritrea",
+        "city": "http://www.wikidata.org/entity/Q539154",
+        "cityLabel": "Beilul",
+        "population": "14055"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q986",
+        "countryLabel": "Eritrea",
+        "city": "http://www.wikidata.org/entity/Q534409",
+        "cityLabel": "Keren, Eritrea",
+        "population": "146500"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q986",
+        "countryLabel": "Eritrea",
+        "city": "http://www.wikidata.org/entity/Q732759",
+        "cityLabel": "Ghinda",
+        "population": "11560"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q986",
+        "countryLabel": "Eritrea",
+        "city": "http://www.wikidata.org/entity/Q1024653",
+        "cityLabel": "Senafe",
+        "population": "6831"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q986",
+        "countryLabel": "Eritrea",
+        "city": "http://www.wikidata.org/entity/Q523618",
+        "cityLabel": "Edd",
+        "population": "11259"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q986",
+        "countryLabel": "Eritrea",
+        "city": "http://www.wikidata.org/entity/Q395433",
+        "cityLabel": "Agordat",
+        "population": "8857"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q986",
+        "countryLabel": "Eritrea",
+        "city": "http://www.wikidata.org/entity/Q1019356",
+        "cityLabel": "Mendefera",
+        "population": "28492"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q986",
+        "countryLabel": "Eritrea",
+        "city": "http://www.wikidata.org/entity/Q1364365",
+        "cityLabel": "Zula",
+        "population": "2612"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q986",
+        "countryLabel": "Eritrea",
+        "city": "http://www.wikidata.org/entity/Q808100",
+        "cityLabel": "Barentu, Eritrea",
+        "population": "18500"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q986",
+        "countryLabel": "Eritrea",
+        "city": "http://www.wikidata.org/entity/Q275635",
+        "native": "ምጽዋዕ",
+        "cityLabel": "Massawa",
+        "population": "39758"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q986",
+        "countryLabel": "Eritrea",
+        "city": "http://www.wikidata.org/entity/Q1969147",
+        "cityLabel": "Nefasit",
+        "population": "8600"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q986",
+        "countryLabel": "Eritrea",
+        "city": "http://www.wikidata.org/entity/Q1797764",
+        "cityLabel": "Teseney",
+        "population": "3753"
+    }
+]

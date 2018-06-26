@@ -1,0 +1,2402 @@
+[
+    {
+        "country": "http://www.wikidata.org/entity/Q20",
+        "countryLabel": "Norway",
+        "city": "http://www.wikidata.org/entity/Q484052",
+        "cityLabel": "Bamble",
+        "population": "14088"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q20",
+        "countryLabel": "Norway",
+        "city": "http://www.wikidata.org/entity/Q488622",
+        "cityLabel": "Hole",
+        "population": "6767"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q20",
+        "countryLabel": "Norway",
+        "city": "http://www.wikidata.org/entity/Q484012",
+        "cityLabel": "Bø",
+        "population": "2632"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q20",
+        "countryLabel": "Norway",
+        "city": "http://www.wikidata.org/entity/Q486717",
+        "cityLabel": "Balsfjord",
+        "population": "5701"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q20",
+        "countryLabel": "Norway",
+        "city": "http://www.wikidata.org/entity/Q488975",
+        "cityLabel": "Lærdal",
+        "population": "2172"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q20",
+        "countryLabel": "Norway",
+        "city": "http://www.wikidata.org/entity/Q488398",
+        "cityLabel": "Lunner",
+        "population": "9044"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q20",
+        "countryLabel": "Norway",
+        "city": "http://www.wikidata.org/entity/Q488979",
+        "cityLabel": "Nærøy",
+        "population": "5126"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q20",
+        "countryLabel": "Norway",
+        "city": "http://www.wikidata.org/entity/Q500284",
+        "cityLabel": "Orkdal",
+        "population": "11779"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q20",
+        "countryLabel": "Norway",
+        "city": "http://www.wikidata.org/entity/Q484046",
+        "cityLabel": "Nesset",
+        "population": "2970"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q20",
+        "countryLabel": "Norway",
+        "city": "http://www.wikidata.org/entity/Q484093",
+        "cityLabel": "Søndre Land",
+        "population": "5758"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q20",
+        "countryLabel": "Norway",
+        "city": "http://www.wikidata.org/entity/Q503660",
+        "cityLabel": "Verdal",
+        "population": "14885"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q20",
+        "countryLabel": "Norway",
+        "city": "http://www.wikidata.org/entity/Q494018",
+        "cityLabel": "Lyngen",
+        "population": "2861"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q20",
+        "countryLabel": "Norway",
+        "city": "http://www.wikidata.org/entity/Q484111",
+        "cityLabel": "Averøy",
+        "population": "5826"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q20",
+        "countryLabel": "Norway",
+        "city": "http://www.wikidata.org/entity/Q505956",
+        "cityLabel": "Songdalen",
+        "population": "6419"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q20",
+        "countryLabel": "Norway",
+        "city": "http://www.wikidata.org/entity/Q493961",
+        "cityLabel": "Ulstein",
+        "population": "8430"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q20",
+        "countryLabel": "Norway",
+        "city": "http://www.wikidata.org/entity/Q484128",
+        "cityLabel": "Fræna",
+        "population": "9717"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q20",
+        "countryLabel": "Norway",
+        "city": "http://www.wikidata.org/entity/Q484070",
+        "cityLabel": "Kvinnherad",
+        "population": "13271"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q20",
+        "countryLabel": "Norway",
+        "city": "http://www.wikidata.org/entity/Q486713",
+        "cityLabel": "Gausdal",
+        "population": "6227"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q20",
+        "countryLabel": "Norway",
+        "city": "http://www.wikidata.org/entity/Q503622",
+        "cityLabel": "Naustdal",
+        "population": "2840"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q20",
+        "countryLabel": "Norway",
+        "city": "http://www.wikidata.org/entity/Q485253",
+        "cityLabel": "Stord",
+        "population": "18775"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q20",
+        "countryLabel": "Norway",
+        "city": "http://www.wikidata.org/entity/Q490038",
+        "cityLabel": "Skånland",
+        "population": "3041"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q20",
+        "countryLabel": "Norway",
+        "city": "http://www.wikidata.org/entity/Q499397",
+        "cityLabel": "Fjaler",
+        "population": "2830"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q20",
+        "countryLabel": "Norway",
+        "city": "http://www.wikidata.org/entity/Q499711",
+        "cityLabel": "Frei",
+        "population": "5274"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q20",
+        "countryLabel": "Norway",
+        "city": "http://www.wikidata.org/entity/Q490462",
+        "cityLabel": "Farsund",
+        "population": "9705"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q20",
+        "countryLabel": "Norway",
+        "city": "http://www.wikidata.org/entity/Q488445",
+        "cityLabel": "Volda",
+        "population": "9037"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q20",
+        "countryLabel": "Norway",
+        "city": "http://www.wikidata.org/entity/Q488435",
+        "cityLabel": "Hvaler",
+        "population": "4511"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q20",
+        "countryLabel": "Norway",
+        "city": "http://www.wikidata.org/entity/Q501401",
+        "cityLabel": "Søgne",
+        "population": "11260"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q20",
+        "countryLabel": "Norway",
+        "city": "http://www.wikidata.org/entity/Q499429",
+        "cityLabel": "Aure",
+        "population": "3536"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q20",
+        "countryLabel": "Norway",
+        "city": "http://www.wikidata.org/entity/Q493992",
+        "cityLabel": "Vanylven",
+        "population": "3256"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q20",
+        "countryLabel": "Norway",
+        "city": "http://www.wikidata.org/entity/Q499786",
+        "cityLabel": "Hof",
+        "population": "3163"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q20",
+        "countryLabel": "Norway",
+        "city": "http://www.wikidata.org/entity/Q499719",
+        "cityLabel": "Vågsøy",
+        "population": "6046"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q20",
+        "countryLabel": "Norway",
+        "city": "http://www.wikidata.org/entity/Q488663",
+        "cityLabel": "Røyken",
+        "population": "21492"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q20",
+        "countryLabel": "Norway",
+        "city": "http://www.wikidata.org/entity/Q499779",
+        "cityLabel": "Verran",
+        "population": "2527"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q20",
+        "countryLabel": "Norway",
+        "city": "http://www.wikidata.org/entity/Q503654",
+        "native": "Vaapste",
+        "cityLabel": "Vefsn",
+        "population": "13427"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q20",
+        "countryLabel": "Norway",
+        "city": "http://www.wikidata.org/entity/Q488124",
+        "cityLabel": "Rennebu",
+        "population": "2556"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q20",
+        "countryLabel": "Norway",
+        "city": "http://www.wikidata.org/entity/Q488234",
+        "cityLabel": "Samnanger",
+        "population": "2443"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q20",
+        "countryLabel": "Norway",
+        "city": "http://www.wikidata.org/entity/Q488242",
+        "cityLabel": "Rindal",
+        "population": "2036"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q20",
+        "countryLabel": "Norway",
+        "city": "http://www.wikidata.org/entity/Q493296",
+        "cityLabel": "Eide",
+        "population": "3467"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q20",
+        "countryLabel": "Norway",
+        "city": "http://www.wikidata.org/entity/Q499455",
+        "cityLabel": "Bremanger",
+        "population": "3846"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q20",
+        "countryLabel": "Norway",
+        "city": "http://www.wikidata.org/entity/Q488252",
+        "cityLabel": "Tingvoll",
+        "population": "3103"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q20",
+        "countryLabel": "Norway",
+        "city": "http://www.wikidata.org/entity/Q500186",
+        "cityLabel": "Skaun",
+        "population": "7755"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q20",
+        "countryLabel": "Norway",
+        "city": "http://www.wikidata.org/entity/Q500198",
+        "cityLabel": "Eid",
+        "population": "6015"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q20",
+        "countryLabel": "Norway",
+        "city": "http://www.wikidata.org/entity/Q487529",
+        "cityLabel": "Kvam",
+        "population": "8475"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q20",
+        "countryLabel": "Norway",
+        "city": "http://www.wikidata.org/entity/Q493942",
+        "cityLabel": "Gáivuotna \u2013 Kåfjord \u2013 Kaivuono",
+        "population": "2150"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q20",
+        "countryLabel": "Norway",
+        "city": "http://www.wikidata.org/entity/Q488439",
+        "cityLabel": "Vestre Slidre",
+        "population": "2168"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q20",
+        "countryLabel": "Norway",
+        "city": "http://www.wikidata.org/entity/Q493936",
+        "cityLabel": "Os",
+        "population": "19742"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q20",
+        "countryLabel": "Norway",
+        "city": "http://www.wikidata.org/entity/Q500290",
+        "cityLabel": "Lardal",
+        "population": "2474"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q20",
+        "countryLabel": "Norway",
+        "city": "http://www.wikidata.org/entity/Q490246",
+        "cityLabel": "Vågan",
+        "population": "9350"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q20",
+        "countryLabel": "Norway",
+        "city": "http://www.wikidata.org/entity/Q493315",
+        "cityLabel": "Bardu",
+        "population": "4019"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q20",
+        "countryLabel": "Norway",
+        "city": "http://www.wikidata.org/entity/Q493273",
+        "cityLabel": "Gaular",
+        "population": "2942"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q20",
+        "countryLabel": "Norway",
+        "city": "http://www.wikidata.org/entity/Q499450",
+        "cityLabel": "Bø",
+        "population": "6101"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q20",
+        "countryLabel": "Norway",
+        "city": "http://www.wikidata.org/entity/Q484084",
+        "cityLabel": "Holtålen",
+        "population": "2031"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q20",
+        "countryLabel": "Norway",
+        "city": "http://www.wikidata.org/entity/Q488747",
+        "cityLabel": "Kvinesdal",
+        "population": "5981"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q20",
+        "countryLabel": "Norway",
+        "city": "http://www.wikidata.org/entity/Q494670",
+        "cityLabel": "Giske",
+        "population": "8094"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q20",
+        "countryLabel": "Norway",
+        "city": "http://www.wikidata.org/entity/Q488762",
+        "cityLabel": "Melhus",
+        "population": "16096"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q20",
+        "countryLabel": "Norway",
+        "city": "http://www.wikidata.org/entity/Q486677",
+        "cityLabel": "Dovre",
+        "population": "2701"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q20",
+        "countryLabel": "Norway",
+        "city": "http://www.wikidata.org/entity/Q484077",
+        "cityLabel": "Ullensvang",
+        "population": "3401"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q20",
+        "countryLabel": "Norway",
+        "city": "http://www.wikidata.org/entity/Q488026",
+        "cityLabel": "Nes",
+        "population": "20783"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q20",
+        "countryLabel": "Norway",
+        "city": "http://www.wikidata.org/entity/Q488779",
+        "cityLabel": "Tynset",
+        "population": "5580"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q20",
+        "countryLabel": "Norway",
+        "city": "http://www.wikidata.org/entity/Q488388",
+        "cityLabel": "Hemne",
+        "population": "4260"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q20",
+        "countryLabel": "Norway",
+        "city": "http://www.wikidata.org/entity/Q484218",
+        "cityLabel": "Nord-Odal",
+        "population": "5131"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q20",
+        "countryLabel": "Norway",
+        "city": "http://www.wikidata.org/entity/Q489038",
+        "cityLabel": "Lindesnes",
+        "population": "4943"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q20",
+        "countryLabel": "Norway",
+        "city": "http://www.wikidata.org/entity/Q488067",
+        "cityLabel": "Osterøy",
+        "population": "7957"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q20",
+        "countryLabel": "Norway",
+        "city": "http://www.wikidata.org/entity/Q484119",
+        "cityLabel": "Frøya",
+        "population": "4799"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q20",
+        "countryLabel": "Norway",
+        "city": "http://www.wikidata.org/entity/Q488966",
+        "cityLabel": "Radøy",
+        "population": "5077"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q20",
+        "countryLabel": "Norway",
+        "city": "http://www.wikidata.org/entity/Q504817",
+        "cityLabel": "Askvoll",
+        "population": "3023"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q20",
+        "countryLabel": "Norway",
+        "city": "http://www.wikidata.org/entity/Q484313",
+        "cityLabel": "Selje",
+        "population": "2774"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q20",
+        "countryLabel": "Norway",
+        "city": "http://www.wikidata.org/entity/Q486726",
+        "cityLabel": "Sigdal",
+        "population": "3512"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q20",
+        "countryLabel": "Norway",
+        "city": "http://www.wikidata.org/entity/Q484043",
+        "cityLabel": "Hadsel",
+        "population": "8082"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q20",
+        "countryLabel": "Norway",
+        "city": "http://www.wikidata.org/entity/Q507524",
+        "cityLabel": "Sula",
+        "population": "7626"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q20",
+        "countryLabel": "Norway",
+        "city": "http://www.wikidata.org/entity/Q484101",
+        "cityLabel": "Jølster",
+        "population": "3020"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q20",
+        "countryLabel": "Norway",
+        "city": "http://www.wikidata.org/entity/Q484074",
+        "cityLabel": "Nord-Aurdal",
+        "population": "6458"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q20",
+        "countryLabel": "Norway",
+        "city": "http://www.wikidata.org/entity/Q501510",
+        "cityLabel": "Sande",
+        "population": "2559"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q20",
+        "countryLabel": "Norway",
+        "city": "http://www.wikidata.org/entity/Q503612",
+        "cityLabel": "Luster",
+        "population": "5093"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q20",
+        "countryLabel": "Norway",
+        "city": "http://www.wikidata.org/entity/Q500227",
+        "cityLabel": "Vennesla",
+        "population": "14308"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q20",
+        "countryLabel": "Norway",
+        "city": "http://www.wikidata.org/entity/Q484116",
+        "cityLabel": "Skjåk",
+        "population": "2204"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q20",
+        "countryLabel": "Norway",
+        "city": "http://www.wikidata.org/entity/Q488783",
+        "cityLabel": "Grue",
+        "population": "4763"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q20",
+        "countryLabel": "Norway",
+        "city": "http://www.wikidata.org/entity/Q500223",
+        "cityLabel": "Klepp",
+        "population": "18970"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q20",
+        "countryLabel": "Norway",
+        "city": "http://www.wikidata.org/entity/Q493481",
+        "cityLabel": "Flekkefjord",
+        "population": "9096"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q20",
+        "countryLabel": "Norway",
+        "city": "http://www.wikidata.org/entity/Q488776",
+        "cityLabel": "Hemnes",
+        "population": "4486"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q20",
+        "countryLabel": "Norway",
+        "city": "http://www.wikidata.org/entity/Q493981",
+        "cityLabel": "Time",
+        "population": "18572"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q20",
+        "countryLabel": "Norway",
+        "city": "http://www.wikidata.org/entity/Q488054",
+        "cityLabel": "Sør-Fron",
+        "population": "3154"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q20",
+        "countryLabel": "Norway",
+        "city": "http://www.wikidata.org/entity/Q494005",
+        "cityLabel": "Steigen",
+        "population": "2543"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q20",
+        "countryLabel": "Norway",
+        "city": "http://www.wikidata.org/entity/Q493301",
+        "cityLabel": "Gol",
+        "population": "4578"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q20",
+        "countryLabel": "Norway",
+        "city": "http://www.wikidata.org/entity/Q493988",
+        "cityLabel": "Malvik",
+        "population": "13738"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q20",
+        "countryLabel": "Norway",
+        "city": "http://www.wikidata.org/entity/Q493846",
+        "native": "Snåase",
+        "cityLabel": "Snåsa",
+        "population": "2139"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q20",
+        "countryLabel": "Norway",
+        "city": "http://www.wikidata.org/entity/Q499446",
+        "cityLabel": "Våler",
+        "population": "5186"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q20",
+        "countryLabel": "Norway",
+        "city": "http://www.wikidata.org/entity/Q492209",
+        "cityLabel": "Selbu",
+        "population": "4132"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q20",
+        "countryLabel": "Norway",
+        "city": "http://www.wikidata.org/entity/Q488395",
+        "cityLabel": "Lom",
+        "population": "2347"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q20",
+        "countryLabel": "Norway",
+        "city": "http://www.wikidata.org/entity/Q494059",
+        "cityLabel": "Nordreisa",
+        "population": "4895"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q20",
+        "countryLabel": "Norway",
+        "city": "http://www.wikidata.org/entity/Q507201",
+        "cityLabel": "Vestvågøy",
+        "population": "11198"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q20",
+        "countryLabel": "Norway",
+        "city": "http://www.wikidata.org/entity/Q485297",
+        "cityLabel": "Sauda",
+        "population": "4710"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q20",
+        "countryLabel": "Norway",
+        "city": "http://www.wikidata.org/entity/Q500205",
+        "cityLabel": "Rauma",
+        "population": "7492"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q20",
+        "countryLabel": "Norway",
+        "city": "http://www.wikidata.org/entity/Q488611",
+        "cityLabel": "Hurum",
+        "population": "9413"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q20",
+        "countryLabel": "Norway",
+        "city": "http://www.wikidata.org/entity/Q486696",
+        "cityLabel": "Rygge",
+        "population": "15458"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q20",
+        "countryLabel": "Norway",
+        "city": "http://www.wikidata.org/entity/Q485608",
+        "cityLabel": "Hå",
+        "population": "18591"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q20",
+        "countryLabel": "Norway",
+        "city": "http://www.wikidata.org/entity/Q499570",
+        "cityLabel": "Re",
+        "population": "9361"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q20",
+        "countryLabel": "Norway",
+        "city": "http://www.wikidata.org/entity/Q505952",
+        "cityLabel": "Lyngdal",
+        "population": "8497"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q20",
+        "countryLabel": "Norway",
+        "city": "http://www.wikidata.org/entity/Q486704",
+        "cityLabel": "Jevnaker",
+        "population": "6629"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q20",
+        "countryLabel": "Norway",
+        "city": "http://www.wikidata.org/entity/Q488607",
+        "cityLabel": "Lier",
+        "population": "25731"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q20",
+        "countryLabel": "Norway",
+        "city": "http://www.wikidata.org/entity/Q492115",
+        "cityLabel": "Randaberg",
+        "population": "10737"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q20",
+        "countryLabel": "Norway",
+        "city": "http://www.wikidata.org/entity/Q507509",
+        "cityLabel": "Sund",
+        "population": "6975"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q20",
+        "countryLabel": "Norway",
+        "city": "http://www.wikidata.org/entity/Q507499",
+        "cityLabel": "Sel",
+        "population": "5935"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q20",
+        "countryLabel": "Norway",
+        "city": "http://www.wikidata.org/entity/Q492244",
+        "cityLabel": "Midtre Gauldal",
+        "population": "6298"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q20",
+        "countryLabel": "Norway",
+        "city": "http://www.wikidata.org/entity/Q493762",
+        "cityLabel": "Herøy",
+        "population": "8972"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q20",
+        "countryLabel": "Norway",
+        "city": "http://www.wikidata.org/entity/Q488405",
+        "cityLabel": "Lesja",
+        "population": "2055"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q20",
+        "countryLabel": "Norway",
+        "city": "http://www.wikidata.org/entity/Q502197",
+        "cityLabel": "Vindafjord",
+        "population": "8788"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q20",
+        "countryLabel": "Norway",
+        "city": "http://www.wikidata.org/entity/Q484080",
+        "cityLabel": "Austrheim",
+        "population": "2858"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q20",
+        "countryLabel": "Norway",
+        "city": "http://www.wikidata.org/entity/Q486736",
+        "cityLabel": "Marker",
+        "population": "3610"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q20",
+        "countryLabel": "Norway",
+        "city": "http://www.wikidata.org/entity/Q484057",
+        "cityLabel": "Hol",
+        "population": "4497"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q20",
+        "countryLabel": "Norway",
+        "city": "http://www.wikidata.org/entity/Q484106",
+        "cityLabel": "Klæbu",
+        "population": "6067"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q20",
+        "countryLabel": "Norway",
+        "city": "http://www.wikidata.org/entity/Q499770",
+        "cityLabel": "Lenvik",
+        "population": "11618"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q20",
+        "countryLabel": "Norway",
+        "city": "http://www.wikidata.org/entity/Q499761",
+        "cityLabel": "Overhalla",
+        "population": "3825"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q20",
+        "countryLabel": "Norway",
+        "city": "http://www.wikidata.org/entity/Q488948",
+        "cityLabel": "Sola",
+        "population": "26096"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q20",
+        "countryLabel": "Norway",
+        "city": "http://www.wikidata.org/entity/Q488060",
+        "cityLabel": "Vestnes",
+        "population": "6611"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q20",
+        "countryLabel": "Norway",
+        "city": "http://www.wikidata.org/entity/Q484243",
+        "cityLabel": "Bjugn",
+        "population": "4779"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q20",
+        "countryLabel": "Norway",
+        "city": "http://www.wikidata.org/entity/Q499575",
+        "cityLabel": "Haram",
+        "population": "9200"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q20",
+        "countryLabel": "Norway",
+        "city": "http://www.wikidata.org/entity/Q484252",
+        "cityLabel": "Lødingen",
+        "population": "2144"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q20",
+        "countryLabel": "Norway",
+        "city": "http://www.wikidata.org/entity/Q484208",
+        "cityLabel": "Gildeskål",
+        "population": "2043"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q20",
+        "countryLabel": "Norway",
+        "city": "http://www.wikidata.org/entity/Q484191",
+        "cityLabel": "Meldal",
+        "population": "3954"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q20",
+        "countryLabel": "Norway",
+        "city": "http://www.wikidata.org/entity/Q488392",
+        "cityLabel": "Meland",
+        "population": "7812"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q20",
+        "countryLabel": "Norway",
+        "city": "http://www.wikidata.org/entity/Q488951",
+        "cityLabel": "Løten",
+        "population": "7588"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q20",
+        "countryLabel": "Norway",
+        "city": "http://www.wikidata.org/entity/Q484322",
+        "cityLabel": "Rana",
+        "population": "26039"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q20",
+        "countryLabel": "Norway",
+        "city": "http://www.wikidata.org/entity/Q488970",
+        "cityLabel": "Inderøy",
+        "population": "6769"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q20",
+        "countryLabel": "Norway",
+        "city": "http://www.wikidata.org/entity/Q488955",
+        "cityLabel": "Målselv",
+        "population": "6741"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q20",
+        "countryLabel": "Norway",
+        "city": "http://www.wikidata.org/entity/Q493811",
+        "cityLabel": "Flora",
+        "population": "11923"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q20",
+        "countryLabel": "Norway",
+        "city": "http://www.wikidata.org/entity/Q488401",
+        "cityLabel": "Nord-Fron",
+        "population": "5741"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q20",
+        "countryLabel": "Norway",
+        "city": "http://www.wikidata.org/entity/Q493283",
+        "cityLabel": "Gjemnes",
+        "population": "2593"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q20",
+        "countryLabel": "Norway",
+        "city": "http://www.wikidata.org/entity/Q486741",
+        "cityLabel": "Nordre Land",
+        "population": "6751"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q20",
+        "countryLabel": "Norway",
+        "city": "http://www.wikidata.org/entity/Q500194",
+        "cityLabel": "Salangen",
+        "population": "2230"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q20",
+        "countryLabel": "Norway",
+        "city": "http://www.wikidata.org/entity/Q493308",
+        "cityLabel": "Bjerkreim",
+        "population": "2825"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q20",
+        "countryLabel": "Norway",
+        "city": "http://www.wikidata.org/entity/Q493977",
+        "cityLabel": "Tysvær",
+        "population": "10925"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q20",
+        "countryLabel": "Norway",
+        "city": "http://www.wikidata.org/entity/Q490923",
+        "cityLabel": "Sogndal",
+        "population": "7839"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q20",
+        "countryLabel": "Norway",
+        "city": "http://www.wikidata.org/entity/Q489374",
+        "cityLabel": "Frosta",
+        "population": "2631"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q20",
+        "countryLabel": "Norway",
+        "city": "http://www.wikidata.org/entity/Q497248",
+        "cityLabel": "Hemsedal",
+        "population": "2422"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q20",
+        "countryLabel": "Norway",
+        "city": "http://www.wikidata.org/entity/Q488380",
+        "cityLabel": "Midsund",
+        "population": "2088"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q20",
+        "countryLabel": "Norway",
+        "city": "http://www.wikidata.org/entity/Q489342",
+        "cityLabel": "Aukra",
+        "population": "3518"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q20",
+        "countryLabel": "Norway",
+        "city": "http://www.wikidata.org/entity/Q494029",
+        "cityLabel": "Hareid",
+        "population": "5189"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q20",
+        "countryLabel": "Norway",
+        "city": "http://www.wikidata.org/entity/Q494045",
+        "cityLabel": "Rennesøy",
+        "population": "4856"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q20",
+        "countryLabel": "Norway",
+        "city": "http://www.wikidata.org/entity/Q501518",
+        "cityLabel": "Gran",
+        "population": "13695"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q20",
+        "countryLabel": "Norway",
+        "city": "http://www.wikidata.org/entity/Q493279",
+        "cityLabel": "Fusa",
+        "population": "3876"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q20",
+        "countryLabel": "Norway",
+        "city": "http://www.wikidata.org/entity/Q484008",
+        "cityLabel": "Austevoll",
+        "population": "5118"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q20",
+        "countryLabel": "Norway",
+        "city": "http://www.wikidata.org/entity/Q501413",
+        "cityLabel": "Våler",
+        "population": "3760"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q20",
+        "countryLabel": "Norway",
+        "city": "http://www.wikidata.org/entity/Q90595",
+        "cityLabel": "Risør",
+        "population": "6920"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q20",
+        "countryLabel": "Norway",
+        "city": "http://www.wikidata.org/entity/Q104400",
+        "cityLabel": "Hamar Municipality",
+        "population": "30598"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q20",
+        "countryLabel": "Norway",
+        "city": "http://www.wikidata.org/entity/Q308420",
+        "cityLabel": "Østre Toten",
+        "population": "14906"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q20",
+        "countryLabel": "Norway",
+        "city": "http://www.wikidata.org/entity/Q113720",
+        "cityLabel": "Høyanger",
+        "population": "4161"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q20",
+        "countryLabel": "Norway",
+        "city": "http://www.wikidata.org/entity/Q215374",
+        "cityLabel": "Askøy",
+        "population": "28380"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q20",
+        "countryLabel": "Norway",
+        "city": "http://www.wikidata.org/entity/Q109031",
+        "cityLabel": "Voss",
+        "population": "14425"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q20",
+        "countryLabel": "Norway",
+        "city": "http://www.wikidata.org/entity/Q109494",
+        "cityLabel": "Odda",
+        "population": "6930"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q20",
+        "countryLabel": "Norway",
+        "city": "http://www.wikidata.org/entity/Q308245",
+        "cityLabel": "Ørland",
+        "population": "5209"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q20",
+        "countryLabel": "Norway",
+        "city": "http://www.wikidata.org/entity/Q183029",
+        "cityLabel": "Sande",
+        "population": "9297"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q20",
+        "countryLabel": "Norway",
+        "city": "http://www.wikidata.org/entity/Q109483",
+        "cityLabel": "Kristiansund",
+        "population": "24526"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q20",
+        "countryLabel": "Norway",
+        "city": "http://www.wikidata.org/entity/Q107135",
+        "cityLabel": "Fredrikstad",
+        "population": "80536"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q20",
+        "countryLabel": "Norway",
+        "city": "http://www.wikidata.org/entity/Q104379",
+        "cityLabel": "Vadsø",
+        "population": "6160"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q20",
+        "countryLabel": "Norway",
+        "city": "http://www.wikidata.org/entity/Q258084",
+        "native": "Kråangke",
+        "cityLabel": "Grong",
+        "population": "2466"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q20",
+        "countryLabel": "Norway",
+        "city": "http://www.wikidata.org/entity/Q48518",
+        "cityLabel": "Sveio",
+        "population": "5593"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q20",
+        "countryLabel": "Norway",
+        "city": "http://www.wikidata.org/entity/Q88808",
+        "cityLabel": "Evje og Hornnes",
+        "population": "3582"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q20",
+        "countryLabel": "Norway",
+        "city": "http://www.wikidata.org/entity/Q111039",
+        "cityLabel": "Namsos",
+        "population": "13010"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q20",
+        "countryLabel": "Norway",
+        "city": "http://www.wikidata.org/entity/Q113682",
+        "cityLabel": "Lindås",
+        "population": "15607"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q20",
+        "countryLabel": "Norway",
+        "city": "http://www.wikidata.org/entity/Q48696",
+        "cityLabel": "Fauske",
+        "population": "9604"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q20",
+        "countryLabel": "Norway",
+        "city": "http://www.wikidata.org/entity/Q90600",
+        "cityLabel": "Vegårshei",
+        "population": "2036"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q20",
+        "countryLabel": "Norway",
+        "city": "http://www.wikidata.org/entity/Q48844",
+        "cityLabel": "Sortland",
+        "population": "10214"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q20",
+        "countryLabel": "Norway",
+        "city": "http://www.wikidata.org/entity/Q90597",
+        "cityLabel": "Tvedestrand",
+        "population": "6014"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q20",
+        "countryLabel": "Norway",
+        "city": "http://www.wikidata.org/entity/Q48265",
+        "cityLabel": "Skodje",
+        "population": "4620"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q20",
+        "countryLabel": "Norway",
+        "city": "http://www.wikidata.org/entity/Q308134",
+        "cityLabel": "Øksnes",
+        "population": "4529"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q20",
+        "countryLabel": "Norway",
+        "city": "http://www.wikidata.org/entity/Q113491",
+        "cityLabel": "Fitjar",
+        "population": "3140"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q20",
+        "countryLabel": "Norway",
+        "city": "http://www.wikidata.org/entity/Q62641",
+        "cityLabel": "Nordkapp",
+        "population": "3276"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q20",
+        "countryLabel": "Norway",
+        "city": "http://www.wikidata.org/entity/Q48610",
+        "cityLabel": "Sømna",
+        "population": "2031"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q20",
+        "countryLabel": "Norway",
+        "city": "http://www.wikidata.org/entity/Q48615",
+        "cityLabel": "Sør-Odal",
+        "population": "7901"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q20",
+        "countryLabel": "Norway",
+        "city": "http://www.wikidata.org/entity/Q48637",
+        "cityLabel": "Ringebu",
+        "population": "4462"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q20",
+        "countryLabel": "Norway",
+        "city": "http://www.wikidata.org/entity/Q317321",
+        "cityLabel": "Øygarden",
+        "population": "4852"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q20",
+        "countryLabel": "Norway",
+        "city": "http://www.wikidata.org/entity/Q110268",
+        "cityLabel": "Nedre Eiker",
+        "population": "24431"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q20",
+        "countryLabel": "Norway",
+        "city": "http://www.wikidata.org/entity/Q110311",
+        "cityLabel": "Øvre Eiker",
+        "population": "18039"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q20",
+        "countryLabel": "Norway",
+        "city": "http://www.wikidata.org/entity/Q48870",
+        "cityLabel": "Leirfjord",
+        "population": "2216"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q20",
+        "countryLabel": "Norway",
+        "city": "http://www.wikidata.org/entity/Q316779",
+        "cityLabel": "Øyer",
+        "population": "5072"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q20",
+        "countryLabel": "Norway",
+        "city": "http://www.wikidata.org/entity/Q110431",
+        "cityLabel": "Steinkjer",
+        "population": "21781"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q20",
+        "countryLabel": "Norway",
+        "city": "http://www.wikidata.org/entity/Q48924",
+        "cityLabel": "Nore og Uvdal",
+        "population": "2548"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q20",
+        "countryLabel": "Norway",
+        "city": "http://www.wikidata.org/entity/Q473529",
+        "cityLabel": "Fjell",
+        "population": "24870"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q20",
+        "countryLabel": "Norway",
+        "city": "http://www.wikidata.org/entity/Q270835",
+        "cityLabel": "Åfjord",
+        "population": "3272"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q20",
+        "countryLabel": "Norway",
+        "city": "http://www.wikidata.org/entity/Q88813",
+        "cityLabel": "Gjerstad",
+        "population": "2473"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q20",
+        "countryLabel": "Norway",
+        "city": "http://www.wikidata.org/entity/Q649541",
+        "cityLabel": "Kvæfjord",
+        "population": "3029"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q20",
+        "countryLabel": "Norway",
+        "city": "http://www.wikidata.org/entity/Q217793",
+        "cityLabel": "Gulen",
+        "population": "2370"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q20",
+        "countryLabel": "Norway",
+        "city": "http://www.wikidata.org/entity/Q378704",
+        "cityLabel": "Marnardal",
+        "population": "2290"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q20",
+        "countryLabel": "Norway",
+        "city": "http://www.wikidata.org/entity/Q109021",
+        "cityLabel": "Moss",
+        "population": "32182"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q20",
+        "countryLabel": "Norway",
+        "city": "http://www.wikidata.org/entity/Q483877",
+        "cityLabel": "Eigersund",
+        "population": "14942"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q20",
+        "countryLabel": "Norway",
+        "city": "http://www.wikidata.org/entity/Q109048",
+        "cityLabel": "Horten",
+        "population": "27178"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q20",
+        "countryLabel": "Norway",
+        "city": "http://www.wikidata.org/entity/Q104095",
+        "cityLabel": "Molde",
+        "population": "26732"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q20",
+        "countryLabel": "Norway",
+        "city": "http://www.wikidata.org/entity/Q206469",
+        "cityLabel": "Nøtterøy",
+        "population": "21621"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q20",
+        "countryLabel": "Norway",
+        "city": "http://www.wikidata.org/entity/Q271140",
+        "cityLabel": "Årdal",
+        "population": "5359"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q20",
+        "countryLabel": "Norway",
+        "city": "http://www.wikidata.org/entity/Q39383",
+        "cityLabel": "Bodø",
+        "population": "50488"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q20",
+        "countryLabel": "Norway",
+        "city": "http://www.wikidata.org/entity/Q48501",
+        "cityLabel": "Stranda",
+        "population": "4598"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q20",
+        "countryLabel": "Norway",
+        "city": "http://www.wikidata.org/entity/Q62266",
+        "cityLabel": "Ålesund",
+        "population": "43721"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q20",
+        "countryLabel": "Norway",
+        "city": "http://www.wikidata.org/entity/Q113552",
+        "cityLabel": "Bømlo",
+        "population": "11778"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q20",
+        "countryLabel": "Norway",
+        "city": "http://www.wikidata.org/entity/Q329894",
+        "cityLabel": "Øystre Slidre",
+        "population": "3220"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q20",
+        "countryLabel": "Norway",
+        "city": "http://www.wikidata.org/entity/Q484001",
+        "cityLabel": "Modum",
+        "population": "13794"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q20",
+        "countryLabel": "Norway",
+        "city": "http://www.wikidata.org/entity/Q216430",
+        "cityLabel": "Levanger",
+        "population": "19610"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q20",
+        "countryLabel": "Norway",
+        "city": "http://www.wikidata.org/entity/Q483906",
+        "cityLabel": "Råde",
+        "population": "7357"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q20",
+        "countryLabel": "Norway",
+        "city": "http://www.wikidata.org/entity/Q48414",
+        "cityLabel": "Sør-Aurdal",
+        "population": "3058"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q20",
+        "countryLabel": "Norway",
+        "city": "http://www.wikidata.org/entity/Q383492",
+        "cityLabel": "Gloppen",
+        "population": "5784"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q20",
+        "countryLabel": "Norway",
+        "city": "http://www.wikidata.org/entity/Q48545",
+        "cityLabel": "Surnadal",
+        "population": "5969"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q20",
+        "countryLabel": "Norway",
+        "city": "http://www.wikidata.org/entity/Q483969",
+        "cityLabel": "Rakkestad",
+        "population": "8084"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q20",
+        "countryLabel": "Norway",
+        "city": "http://www.wikidata.org/entity/Q48769",
+        "cityLabel": "Åsnes",
+        "population": "7456"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q20",
+        "countryLabel": "Norway",
+        "city": "http://www.wikidata.org/entity/Q48529",
+        "cityLabel": "Trysil",
+        "population": "6525"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q20",
+        "countryLabel": "Norway",
+        "city": "http://www.wikidata.org/entity/Q48323",
+        "cityLabel": "Meløy",
+        "population": "6471"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q20",
+        "countryLabel": "Norway",
+        "city": "http://www.wikidata.org/entity/Q93633",
+        "cityLabel": "Flesberg",
+        "population": "2699"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q20",
+        "countryLabel": "Norway",
+        "city": "http://www.wikidata.org/entity/Q108031",
+        "cityLabel": "Gjøvik",
+        "population": "30137"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q20",
+        "countryLabel": "Norway",
+        "city": "http://www.wikidata.org/entity/Q48728",
+        "cityLabel": "Karlsøy",
+        "population": "2282"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q20",
+        "countryLabel": "Norway",
+        "city": "http://www.wikidata.org/entity/Q108983",
+        "cityLabel": "Vardø",
+        "population": "2137"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q20",
+        "countryLabel": "Norway",
+        "city": "http://www.wikidata.org/entity/Q107392",
+        "cityLabel": "Tønsberg",
+        "population": "42276"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q20",
+        "countryLabel": "Norway",
+        "city": "http://www.wikidata.org/entity/Q48717",
+        "cityLabel": "Vestre Toten",
+        "population": "13180"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q20",
+        "countryLabel": "Norway",
+        "city": "http://www.wikidata.org/entity/Q221119",
+        "cityLabel": "Bodø municipality",
+        "population": "51022"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q20",
+        "countryLabel": "Norway",
+        "city": "http://www.wikidata.org/entity/Q48880",
+        "cityLabel": "Saltdal",
+        "population": "4700"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q20",
+        "countryLabel": "Norway",
+        "city": "http://www.wikidata.org/entity/Q250055",
+        "cityLabel": "Hjelmeland",
+        "population": "2737"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q20",
+        "countryLabel": "Norway",
+        "city": "http://www.wikidata.org/entity/Q112855",
+        "cityLabel": "Brønnøy",
+        "population": "7962"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q20",
+        "countryLabel": "Norway",
+        "city": "http://www.wikidata.org/entity/Q109475",
+        "cityLabel": "Hobøl",
+        "population": "5382"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q20",
+        "countryLabel": "Norway",
+        "city": "http://www.wikidata.org/entity/Q48827",
+        "cityLabel": "Sør-Varanger",
+        "population": "10227"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q20",
+        "countryLabel": "Norway",
+        "city": "http://www.wikidata.org/entity/Q48886",
+        "cityLabel": "Krødsherad",
+        "population": "2275"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q20",
+        "countryLabel": "Norway",
+        "city": "http://www.wikidata.org/entity/Q483986",
+        "cityLabel": "Nes",
+        "population": "3422"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q20",
+        "countryLabel": "Norway",
+        "city": "http://www.wikidata.org/entity/Q48858",
+        "cityLabel": "Sokndal",
+        "population": "3313"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q20",
+        "countryLabel": "Norway",
+        "city": "http://www.wikidata.org/entity/Q156453",
+        "cityLabel": "Ørsta",
+        "population": "10677"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q20",
+        "countryLabel": "Norway",
+        "city": "http://www.wikidata.org/entity/Q303521",
+        "cityLabel": "Vik",
+        "population": "2689"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q20",
+        "countryLabel": "Norway",
+        "city": "http://www.wikidata.org/entity/Q107396",
+        "cityLabel": "Leikanger",
+        "population": "2298"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q20",
+        "countryLabel": "Norway",
+        "city": "http://www.wikidata.org/entity/Q108966",
+        "cityLabel": "Mandal",
+        "population": "15529"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q20",
+        "countryLabel": "Norway",
+        "city": "http://www.wikidata.org/entity/Q48316",
+        "cityLabel": "Tysnes",
+        "population": "2797"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q20",
+        "countryLabel": "Norway",
+        "city": "http://www.wikidata.org/entity/Q88802",
+        "cityLabel": "Birkenes",
+        "population": "5147"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q20",
+        "countryLabel": "Norway",
+        "city": "http://www.wikidata.org/entity/Q48508",
+        "cityLabel": "Sykkylven",
+        "population": "7675"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q20",
+        "countryLabel": "Norway",
+        "city": "http://www.wikidata.org/entity/Q48521",
+        "cityLabel": "Sunndal",
+        "population": "7160"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q20",
+        "countryLabel": "Norway",
+        "city": "http://www.wikidata.org/entity/Q48542",
+        "cityLabel": "Stange",
+        "population": "20119"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q20",
+        "countryLabel": "Norway",
+        "city": "http://www.wikidata.org/entity/Q483964",
+        "native": "Deatnu",
+        "cityLabel": "Tana",
+        "population": "2937"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q20",
+        "countryLabel": "Norway",
+        "city": "http://www.wikidata.org/entity/Q113571",
+        "cityLabel": "Førde",
+        "population": "12900"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q20",
+        "countryLabel": "Norway",
+        "city": "http://www.wikidata.org/entity/Q128762",
+        "cityLabel": "Skjervøy",
+        "population": "2920"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q20",
+        "countryLabel": "Norway",
+        "city": "http://www.wikidata.org/entity/Q113710",
+        "cityLabel": "Andøy",
+        "population": "4980"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q20",
+        "countryLabel": "Norway",
+        "city": "http://www.wikidata.org/entity/Q48591",
+        "cityLabel": "Strand",
+        "population": "12464"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q20",
+        "countryLabel": "Norway",
+        "city": "http://www.wikidata.org/entity/Q48526",
+        "cityLabel": "Stor-Elvdal",
+        "population": "2600"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q20",
+        "countryLabel": "Norway",
+        "city": "http://www.wikidata.org/entity/Q48813",
+        "cityLabel": "Båtsfjord",
+        "population": "2211"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q20",
+        "countryLabel": "Norway",
+        "city": "http://www.wikidata.org/entity/Q48701",
+        "cityLabel": "Svelvik",
+        "population": "6604"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q20",
+        "countryLabel": "Norway",
+        "city": "http://www.wikidata.org/entity/Q48325",
+        "cityLabel": "Sørreisa",
+        "population": "3452"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q20",
+        "countryLabel": "Norway",
+        "city": "http://www.wikidata.org/entity/Q48678",
+        "cityLabel": "Trøgstad",
+        "population": "5343"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q20",
+        "countryLabel": "Norway",
+        "city": "http://www.wikidata.org/entity/Q308260",
+        "cityLabel": "Ørskog",
+        "population": "2310"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q20",
+        "countryLabel": "Norway",
+        "city": "http://www.wikidata.org/entity/Q48782",
+        "cityLabel": "Etne",
+        "population": "4106"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q20",
+        "countryLabel": "Norway",
+        "city": "http://www.wikidata.org/entity/Q48732",
+        "cityLabel": "Meråker",
+        "population": "2523"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q20",
+        "countryLabel": "Norway",
+        "city": "http://www.wikidata.org/entity/Q113740",
+        "cityLabel": "Eidsberg",
+        "population": "11396"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q20",
+        "countryLabel": "Norway",
+        "city": "http://www.wikidata.org/entity/Q48577",
+        "cityLabel": "Suldal",
+        "population": "3903"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q20",
+        "countryLabel": "Norway",
+        "city": "http://www.wikidata.org/entity/Q109469",
+        "cityLabel": "Askim",
+        "population": "15615"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q20",
+        "countryLabel": "Norway",
+        "city": "http://www.wikidata.org/entity/Q101341",
+        "cityLabel": "Lillehammer",
+        "population": "27476"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q20",
+        "countryLabel": "Norway",
+        "city": "http://www.wikidata.org/entity/Q255148",
+        "cityLabel": "Gjesdal",
+        "population": "11853"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q20",
+        "countryLabel": "Norway",
+        "city": "http://www.wikidata.org/entity/Q156125",
+        "cityLabel": "Larvik",
+        "population": "43867"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q20",
+        "countryLabel": "Norway",
+        "city": "http://www.wikidata.org/entity/Q271063",
+        "cityLabel": "Åmot",
+        "population": "4429"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q20",
+        "countryLabel": "Norway",
+        "city": "http://www.wikidata.org/entity/Q48928",
+        "cityLabel": "Vaksdal",
+        "population": "4125"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q20",
+        "countryLabel": "Norway",
+        "city": "http://www.wikidata.org/entity/Q108999",
+        "native": "Plassje",
+        "cityLabel": "Røros",
+        "population": "5635"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q20",
+        "countryLabel": "Norway",
+        "city": "http://www.wikidata.org/entity/Q48913",
+        "cityLabel": "Eidskog",
+        "population": "6142"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q20",
+        "countryLabel": "Norway",
+        "city": "http://www.wikidata.org/entity/Q48687",
+        "cityLabel": "Tjøme",
+        "population": "4971"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q20",
+        "countryLabel": "Norway",
+        "city": "http://www.wikidata.org/entity/Q48668",
+        "cityLabel": "Spydeberg",
+        "population": "5736"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q20",
+        "countryLabel": "Norway",
+        "city": "http://www.wikidata.org/entity/Q217808",
+        "cityLabel": "Alstahaug",
+        "population": "7437"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q20",
+        "countryLabel": "Norway",
+        "city": "http://www.wikidata.org/entity/Q108025",
+        "cityLabel": "Sarpsborg",
+        "population": "54678"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q20",
+        "countryLabel": "Norway",
+        "city": "http://www.wikidata.org/entity/Q109499",
+        "cityLabel": "Kongsvinger",
+        "population": "17835"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q20",
+        "countryLabel": "Norway",
+        "city": "http://www.wikidata.org/entity/Q483871",
+        "cityLabel": "Holmestrand",
+        "population": "10741"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q20",
+        "countryLabel": "Norway",
+        "city": "http://www.wikidata.org/entity/Q48750",
+        "cityLabel": "Finnøy",
+        "population": "3221"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q20",
+        "countryLabel": "Norway",
+        "city": "http://www.wikidata.org/entity/Q108988",
+        "cityLabel": "Kongsberg",
+        "population": "27013"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q20",
+        "countryLabel": "Norway",
+        "city": "http://www.wikidata.org/entity/Q217802",
+        "cityLabel": "Stjørdal",
+        "population": "23308"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q20",
+        "countryLabel": "Norway",
+        "city": "http://www.wikidata.org/entity/Q483902",
+        "cityLabel": "Karmøy",
+        "population": "42187"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q20",
+        "countryLabel": "Norway",
+        "city": "http://www.wikidata.org/entity/Q483885",
+        "cityLabel": "Porsanger",
+        "population": "3978"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q20",
+        "countryLabel": "Norway",
+        "city": "http://www.wikidata.org/entity/Q156420",
+        "cityLabel": "Skiptvet",
+        "population": "3742"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q20",
+        "countryLabel": "Norway",
+        "city": "http://www.wikidata.org/entity/Q110848",
+        "cityLabel": "Ringerike",
+        "population": "29801"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q20",
+        "countryLabel": "Norway",
+        "city": "http://www.wikidata.org/entity/Q90590",
+        "cityLabel": "Grimstad",
+        "population": "22550"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q20",
+        "countryLabel": "Norway",
+        "city": "http://www.wikidata.org/entity/Q515536",
+        "cityLabel": "Lund",
+        "population": "3243"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q20",
+        "countryLabel": "Norway",
+        "city": "http://www.wikidata.org/entity/Q483899",
+        "cityLabel": "Smøla",
+        "population": "2141"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q20",
+        "countryLabel": "Norway",
+        "city": "http://www.wikidata.org/entity/Q88810",
+        "cityLabel": "Froland",
+        "population": "5618"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q20",
+        "countryLabel": "Norway",
+        "city": "http://www.wikidata.org/entity/Q48723",
+        "cityLabel": "Alvdal",
+        "population": "2426"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q20",
+        "countryLabel": "Norway",
+        "city": "http://www.wikidata.org/entity/Q90593",
+        "cityLabel": "Lillesand",
+        "population": "10577"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q20",
+        "countryLabel": "Norway",
+        "city": "http://www.wikidata.org/entity/Q113514",
+        "cityLabel": "Ballangen",
+        "population": "2556"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q20",
+        "countryLabel": "Norway",
+        "city": "http://www.wikidata.org/entity/Q113538",
+        "cityLabel": "Ål",
+        "population": "4711"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q20",
+        "countryLabel": "Norway",
+        "city": "http://www.wikidata.org/entity/Q48833",
+        "cityLabel": "Vikna",
+        "population": "4387"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q20",
+        "countryLabel": "Norway",
+        "city": "http://www.wikidata.org/entity/Q109005",
+        "cityLabel": "Sandefjord",
+        "population": "45820"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q20",
+        "countryLabel": "Norway",
+        "city": "http://www.wikidata.org/entity/Q483964",
+        "native": "Tana",
+        "cityLabel": "Tana",
+        "population": "2937"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q20",
+        "countryLabel": "Norway",
+        "city": "http://www.wikidata.org/entity/Q113466",
+        "cityLabel": "Ringsaker",
+        "population": "31732"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q20",
+        "countryLabel": "Norway",
+        "city": "http://www.wikidata.org/entity/Q109036",
+        "cityLabel": "Haugesund",
+        "population": "36951"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q20",
+        "countryLabel": "Norway",
+        "city": "http://www.wikidata.org/entity/Q113438",
+        "cityLabel": "Vågå",
+        "population": "3664"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q20",
+        "countryLabel": "Norway",
+        "city": "http://www.wikidata.org/entity/Q109042",
+        "cityLabel": "Halden",
+        "population": "30544"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q20",
+        "countryLabel": "Norway",
+        "city": "http://www.wikidata.org/entity/Q109140",
+        "cityLabel": "Elverum",
+        "population": "21030"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q20",
+        "countryLabel": "Norway",
+        "city": "http://www.wikidata.org/entity/Q113595",
+        "cityLabel": "Oppdal",
+        "population": "6886"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q20",
+        "countryLabel": "Norway",
+        "city": "http://www.wikidata.org/entity/Q107351",
+        "cityLabel": "Hammerfest",
+        "population": "10582"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q20",
+        "countryLabel": "Norway",
+        "city": "http://www.wikidata.org/entity/Q109025",
+        "cityLabel": "Hitra",
+        "population": "4622"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q20",
+        "countryLabel": "Norway",
+        "city": "http://www.wikidata.org/entity/Q62140",
+        "cityLabel": "Harstad",
+        "population": "24845"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q20",
+        "countryLabel": "Norway",
+        "city": "http://www.wikidata.org/entity/Q25923",
+        "cityLabel": "Longyearbyen",
+        "population": "2144"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q20",
+        "countryLabel": "Norway",
+        "city": "http://www.wikidata.org/entity/Q4735943",
+        "cityLabel": "Alta-Talvik",
+        "population": "4380"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q20",
+        "countryLabel": "Norway",
+        "city": "http://www.wikidata.org/entity/Q57919",
+        "cityLabel": "Arendal",
+        "population": "44313"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q20",
+        "countryLabel": "Norway",
+        "city": "http://www.wikidata.org/entity/Q493472",
+        "cityLabel": "Honningsvåg",
+        "population": "2415"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q20",
+        "countryLabel": "Norway",
+        "city": "http://www.wikidata.org/entity/Q486687",
+        "cityLabel": "Andebu",
+        "population": "5937"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q20",
+        "countryLabel": "Norway",
+        "city": "http://www.wikidata.org/entity/Q995929",
+        "cityLabel": "Brønnøysund",
+        "population": "4955"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q20",
+        "countryLabel": "Norway",
+        "city": "http://www.wikidata.org/entity/Q2241",
+        "cityLabel": "Tokke",
+        "population": "2246"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q20",
+        "countryLabel": "Norway",
+        "city": "http://www.wikidata.org/entity/Q2290",
+        "cityLabel": "Porsgrunn",
+        "population": "35955"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q20",
+        "countryLabel": "Norway",
+        "city": "http://www.wikidata.org/entity/Q2367",
+        "cityLabel": "Drangedal",
+        "population": "4136"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q20",
+        "countryLabel": "Norway",
+        "city": "http://www.wikidata.org/entity/Q53294816",
+        "cityLabel": "Talvik municipality",
+        "population": "3266"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q20",
+        "countryLabel": "Norway",
+        "city": "http://www.wikidata.org/entity/Q2372",
+        "cityLabel": "Kragerø",
+        "population": "10607"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q20",
+        "countryLabel": "Norway",
+        "city": "http://www.wikidata.org/entity/Q57870",
+        "cityLabel": "Rælingen",
+        "population": "17426"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q20",
+        "countryLabel": "Norway",
+        "city": "http://www.wikidata.org/entity/Q2365",
+        "cityLabel": "Tinn",
+        "population": "5940"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q20",
+        "countryLabel": "Norway",
+        "city": "http://www.wikidata.org/entity/Q25416",
+        "cityLabel": "Stavanger",
+        "population": "132729"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q20",
+        "countryLabel": "Norway",
+        "city": "http://www.wikidata.org/entity/Q2381",
+        "cityLabel": "Sauherad",
+        "population": "4338"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q20",
+        "countryLabel": "Norway",
+        "city": "http://www.wikidata.org/entity/Q57917",
+        "cityLabel": "Ullensaker",
+        "population": "34189"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q20",
+        "countryLabel": "Norway",
+        "city": "http://www.wikidata.org/entity/Q57076",
+        "cityLabel": "Bærum",
+        "population": "122348"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q20",
+        "countryLabel": "Norway",
+        "city": "http://www.wikidata.org/entity/Q57081",
+        "cityLabel": "Enebakk",
+        "population": "10870"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q20",
+        "countryLabel": "Norway",
+        "city": "http://www.wikidata.org/entity/Q57082",
+        "cityLabel": "Fet",
+        "population": "11374"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q20",
+        "countryLabel": "Norway",
+        "city": "http://www.wikidata.org/entity/Q56869",
+        "cityLabel": "Asker",
+        "population": "60106"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q20",
+        "countryLabel": "Norway",
+        "city": "http://www.wikidata.org/entity/Q5499099",
+        "cityLabel": "Stokke",
+        "population": "11657"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q20",
+        "countryLabel": "Norway",
+        "city": "http://www.wikidata.org/entity/Q26087",
+        "cityLabel": "Tromsø",
+        "population": "71627"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q20",
+        "countryLabel": "Norway",
+        "city": "http://www.wikidata.org/entity/Q57083",
+        "cityLabel": "Frogn",
+        "population": "15695"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q20",
+        "countryLabel": "Norway",
+        "city": "http://www.wikidata.org/entity/Q57084",
+        "cityLabel": "Gjerdrum",
+        "population": "6323"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q20",
+        "countryLabel": "Norway",
+        "city": "http://www.wikidata.org/entity/Q57864",
+        "cityLabel": "Nesodden",
+        "population": "18623"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q20",
+        "countryLabel": "Norway",
+        "city": "http://www.wikidata.org/entity/Q389371",
+        "cityLabel": "Leksvik",
+        "population": "3531"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q20",
+        "countryLabel": "Norway",
+        "city": "http://www.wikidata.org/entity/Q1825",
+        "cityLabel": "Karasjok",
+        "population": "2668"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q20",
+        "countryLabel": "Norway",
+        "city": "http://www.wikidata.org/entity/Q57871",
+        "cityLabel": "Skedsmo",
+        "population": "52522"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q20",
+        "countryLabel": "Norway",
+        "city": "http://www.wikidata.org/entity/Q2232",
+        "cityLabel": "Kviteseid",
+        "population": "2448"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q20",
+        "countryLabel": "Norway",
+        "city": "http://www.wikidata.org/entity/Q57862",
+        "cityLabel": "Nannestad",
+        "population": "12267"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q20",
+        "countryLabel": "Norway",
+        "city": "http://www.wikidata.org/entity/Q585",
+        "cityLabel": "Oslo",
+        "population": "634463"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q20",
+        "countryLabel": "Norway",
+        "city": "http://www.wikidata.org/entity/Q57865",
+        "cityLabel": "Nittedal",
+        "population": "22857"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q20",
+        "countryLabel": "Norway",
+        "city": "http://www.wikidata.org/entity/Q2236",
+        "cityLabel": "Seljord",
+        "population": "2991"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q20",
+        "countryLabel": "Norway",
+        "city": "http://www.wikidata.org/entity/Q488157",
+        "cityLabel": "Rissa",
+        "population": "6644"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q20",
+        "countryLabel": "Norway",
+        "city": "http://www.wikidata.org/entity/Q2415",
+        "cityLabel": "Kristiansand",
+        "population": "88447"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q20",
+        "countryLabel": "Norway",
+        "city": "http://www.wikidata.org/entity/Q5223",
+        "cityLabel": "Stryn",
+        "population": "7168"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q20",
+        "countryLabel": "Norway",
+        "city": "http://www.wikidata.org/entity/Q57858",
+        "cityLabel": "Hurdal",
+        "population": "2837"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q20",
+        "countryLabel": "Norway",
+        "city": "http://www.wikidata.org/entity/Q57860",
+        "cityLabel": "Lørenskog",
+        "population": "36368"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q20",
+        "countryLabel": "Norway",
+        "city": "http://www.wikidata.org/entity/Q57912",
+        "cityLabel": "Ski",
+        "population": "29735"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q20",
+        "countryLabel": "Norway",
+        "city": "http://www.wikidata.org/entity/Q25804",
+        "cityLabel": "Trondheim",
+        "population": "190464"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q20",
+        "countryLabel": "Norway",
+        "city": "http://www.wikidata.org/entity/Q2308",
+        "cityLabel": "Siljan",
+        "population": "2335"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q20",
+        "countryLabel": "Norway",
+        "city": "http://www.wikidata.org/entity/Q27587",
+        "cityLabel": "Sandnes",
+        "population": "74820"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q20",
+        "countryLabel": "Norway",
+        "city": "http://www.wikidata.org/entity/Q26793",
+        "cityLabel": "Bergen",
+        "population": "278556"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q20",
+        "countryLabel": "Norway",
+        "city": "http://www.wikidata.org/entity/Q57918",
+        "cityLabel": "Vestby",
+        "population": "16732"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q20",
+        "countryLabel": "Norway",
+        "city": "http://www.wikidata.org/entity/Q26525",
+        "cityLabel": "Drammen",
+        "population": "67895"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q20",
+        "countryLabel": "Norway",
+        "city": "http://www.wikidata.org/entity/Q59101",
+        "cityLabel": "Narvik",
+        "population": "18787"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q20",
+        "countryLabel": "Norway",
+        "city": "http://www.wikidata.org/entity/Q6459",
+        "cityLabel": "Kautokeino",
+        "population": "2956"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q20",
+        "countryLabel": "Norway",
+        "city": "http://www.wikidata.org/entity/Q56915",
+        "cityLabel": "Aurskog-Høland",
+        "population": "15914"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q20",
+        "countryLabel": "Norway",
+        "city": "http://www.wikidata.org/entity/Q2326",
+        "cityLabel": "Notodden",
+        "population": "12717"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q20",
+        "countryLabel": "Norway",
+        "city": "http://www.wikidata.org/entity/Q2272",
+        "cityLabel": "Skien",
+        "population": "53952"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q20",
+        "countryLabel": "Norway",
+        "city": "http://www.wikidata.org/entity/Q2245",
+        "cityLabel": "Vinje",
+        "population": "3727"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q20",
+        "countryLabel": "Norway",
+        "city": "http://www.wikidata.org/entity/Q57914",
+        "cityLabel": "Sørum",
+        "population": "17443"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q20",
+        "countryLabel": "Norway",
+        "city": "http://www.wikidata.org/entity/Q54062",
+        "cityLabel": "Ås",
+        "population": "18992"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q20",
+        "countryLabel": "Norway",
+        "city": "http://www.wikidata.org/entity/Q2375",
+        "cityLabel": "Nome",
+        "population": "6534"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q20",
+        "countryLabel": "Norway",
+        "city": "http://www.wikidata.org/entity/Q57868",
+        "cityLabel": "Oppegård",
+        "population": "26792"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q20",
+        "countryLabel": "Norway",
+        "city": "http://www.wikidata.org/entity/Q57080",
+        "cityLabel": "Eidsvoll",
+        "population": "23811"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q20",
+        "countryLabel": "Norway",
+        "city": "http://www.wikidata.org/entity/Q6535",
+        "cityLabel": "Alta",
+        "population": "20097"
+    }
+]

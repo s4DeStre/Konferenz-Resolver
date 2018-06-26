@@ -1,0 +1,361 @@
+[
+    {
+        "country": "http://www.wikidata.org/entity/Q43",
+        "countryLabel": "Turkey",
+        "city": "http://www.wikidata.org/entity/Q210292",
+        "cityLabel": "Yozgat",
+        "population": "79611"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q43",
+        "countryLabel": "Turkey",
+        "city": "http://www.wikidata.org/entity/Q93338",
+        "cityLabel": "Gaziantep",
+        "population": "1556381"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q43",
+        "countryLabel": "Turkey",
+        "city": "http://www.wikidata.org/entity/Q35997",
+        "cityLabel": "İzmir",
+        "population": "4168415"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q43",
+        "countryLabel": "Turkey",
+        "city": "http://www.wikidata.org/entity/Q182025",
+        "cityLabel": "Aksaray",
+        "population": "195990"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q43",
+        "countryLabel": "Turkey",
+        "city": "http://www.wikidata.org/entity/Q208006",
+        "cityLabel": "Bilecik",
+        "population": "51260"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q43",
+        "countryLabel": "Turkey",
+        "city": "http://www.wikidata.org/entity/Q216912",
+        "native": "Muğla",
+        "cityLabel": "Muğla",
+        "population": "56619"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q43",
+        "countryLabel": "Turkey",
+        "city": "http://www.wikidata.org/entity/Q1004561",
+        "cityLabel": "Yeniceoba",
+        "population": "6872"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q43",
+        "countryLabel": "Turkey",
+        "city": "http://www.wikidata.org/entity/Q170457",
+        "cityLabel": "Aydın",
+        "population": "191037"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q43",
+        "countryLabel": "Turkey",
+        "city": "http://www.wikidata.org/entity/Q6487",
+        "native": "Antalya",
+        "cityLabel": "Antalya",
+        "population": "1068099"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q43",
+        "countryLabel": "Turkey",
+        "city": "http://www.wikidata.org/entity/Q211811",
+        "native": "Burdur",
+        "cityLabel": "Burdur",
+        "population": "67097"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q43",
+        "countryLabel": "Turkey",
+        "city": "http://www.wikidata.org/entity/Q43387",
+        "native": "Edirne",
+        "cityLabel": "Edirne",
+        "population": "128000"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q43",
+        "countryLabel": "Turkey",
+        "city": "http://www.wikidata.org/entity/Q166824",
+        "cityLabel": "Afyonkarahisar",
+        "population": "263297"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q43",
+        "countryLabel": "Turkey",
+        "city": "http://www.wikidata.org/entity/Q83061",
+        "native": "Van",
+        "cityLabel": "Van",
+        "population": "353419"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q43",
+        "countryLabel": "Turkey",
+        "city": "http://www.wikidata.org/entity/Q185346",
+        "cityLabel": "Ceyhan",
+        "population": "178543"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q43",
+        "countryLabel": "Turkey",
+        "city": "http://www.wikidata.org/entity/Q38545",
+        "native": "Adana",
+        "cityLabel": "Adana",
+        "population": "1636229"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q43",
+        "countryLabel": "Turkey",
+        "city": "http://www.wikidata.org/entity/Q127063",
+        "cityLabel": "Kars",
+        "population": "102001"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q43",
+        "countryLabel": "Turkey",
+        "city": "http://www.wikidata.org/entity/Q599416",
+        "native": "Sinop",
+        "cityLabel": "Sinop",
+        "population": "57399"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q43",
+        "countryLabel": "Turkey",
+        "city": "http://www.wikidata.org/entity/Q653312",
+        "cityLabel": "Arhavi",
+        "population": "16504"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q43",
+        "countryLabel": "Turkey",
+        "city": "http://www.wikidata.org/entity/Q201095",
+        "native": "Giresun",
+        "cityLabel": "Giresun",
+        "population": "96948"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q43",
+        "countryLabel": "Turkey",
+        "city": "http://www.wikidata.org/entity/Q155915",
+        "cityLabel": "Kastamonu",
+        "population": "110908"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q43",
+        "countryLabel": "Turkey",
+        "city": "http://www.wikidata.org/entity/Q174060",
+        "cityLabel": "Elâzığ",
+        "population": "347857"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q43",
+        "countryLabel": "Turkey",
+        "city": "http://www.wikidata.org/entity/Q48338",
+        "native": "Kayseri",
+        "cityLabel": "Kayseri",
+        "population": "904699"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q43",
+        "countryLabel": "Turkey",
+        "city": "http://www.wikidata.org/entity/Q147089",
+        "cityLabel": "Manisa",
+        "population": "356702"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q43",
+        "countryLabel": "Turkey",
+        "city": "http://www.wikidata.org/entity/Q170967",
+        "native": "Denizli",
+        "cityLabel": "Denizli",
+        "population": "963464"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q43",
+        "countryLabel": "Turkey",
+        "city": "http://www.wikidata.org/entity/Q1012887",
+        "native": "Karadeniz Ereğli",
+        "cityLabel": "Karadeniz Ereğli",
+        "population": "174151"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q43",
+        "countryLabel": "Turkey",
+        "city": "http://www.wikidata.org/entity/Q24004465",
+        "cityLabel": "Q24004465",
+        "population": "2697"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q43",
+        "countryLabel": "Turkey",
+        "city": "http://www.wikidata.org/entity/Q217047",
+        "native": "Kemer",
+        "cityLabel": "Kemer",
+        "population": "22500"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q43",
+        "countryLabel": "Turkey",
+        "city": "http://www.wikidata.org/entity/Q171810",
+        "cityLabel": "Alanya",
+        "population": "285407"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q43",
+        "countryLabel": "Turkey",
+        "city": "http://www.wikidata.org/entity/Q175323",
+        "native": "Adapazarı",
+        "cityLabel": "Adapazarı",
+        "population": "274898"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q43",
+        "countryLabel": "Turkey",
+        "city": "http://www.wikidata.org/entity/Q83061",
+        "native": "Wan",
+        "cityLabel": "Van",
+        "population": "353419"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q43",
+        "countryLabel": "Turkey",
+        "city": "http://www.wikidata.org/entity/Q581187",
+        "cityLabel": "Bucak",
+        "population": "64783"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q43",
+        "countryLabel": "Turkey",
+        "city": "http://www.wikidata.org/entity/Q3640",
+        "native": "Ankara",
+        "cityLabel": "Ankara",
+        "population": "5270575"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q43",
+        "countryLabel": "Turkey",
+        "city": "http://www.wikidata.org/entity/Q199723",
+        "cityLabel": "Balıkesir",
+        "population": "1189057"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q43",
+        "countryLabel": "Turkey",
+        "city": "http://www.wikidata.org/entity/Q27162",
+        "cityLabel": "Gölcük",
+        "population": "156901"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q43",
+        "countryLabel": "Turkey",
+        "city": "http://www.wikidata.org/entity/Q80561",
+        "cityLabel": "Antakya",
+        "population": "354768"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q43",
+        "countryLabel": "Turkey",
+        "city": "http://www.wikidata.org/entity/Q45301",
+        "native": "Trabzon",
+        "cityLabel": "Trabzon",
+        "population": "426882"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q43",
+        "countryLabel": "Turkey",
+        "city": "http://www.wikidata.org/entity/Q152405",
+        "native": "Side",
+        "cityLabel": "Side",
+        "population": "11000"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q43",
+        "countryLabel": "Turkey",
+        "city": "http://www.wikidata.org/entity/Q1012824",
+        "cityLabel": "Kadirli",
+        "population": "119857"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q43",
+        "countryLabel": "Turkey",
+        "city": "http://www.wikidata.org/entity/Q1417212",
+        "cityLabel": "Finike",
+        "population": "11329"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q43",
+        "countryLabel": "Turkey",
+        "city": "http://www.wikidata.org/entity/Q206885",
+        "native": "Düzce",
+        "cityLabel": "Düzce",
+        "population": "135557"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q43",
+        "countryLabel": "Turkey",
+        "city": "http://www.wikidata.org/entity/Q926426",
+        "cityLabel": "Kozan",
+        "population": "130875"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q43",
+        "countryLabel": "Turkey",
+        "city": "http://www.wikidata.org/entity/Q40738",
+        "native": "Bursa",
+        "cityLabel": "Bursa",
+        "population": "1562828"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q43",
+        "countryLabel": "Turkey",
+        "city": "http://www.wikidata.org/entity/Q40738",
+        "native": "Bursa",
+        "cityLabel": "Bursa",
+        "population": "2901396"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q43",
+        "countryLabel": "Turkey",
+        "city": "http://www.wikidata.org/entity/Q159835",
+        "cityLabel": "Batman",
+        "population": "348963"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q43",
+        "countryLabel": "Turkey",
+        "city": "http://www.wikidata.org/entity/Q168197",
+        "cityLabel": "Adıyaman",
+        "population": "296316"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q43",
+        "countryLabel": "Turkey",
+        "city": "http://www.wikidata.org/entity/Q406",
+        "native": "İstanbul",
+        "cityLabel": "Istanbul",
+        "population": "14657434"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q43",
+        "countryLabel": "Turkey",
+        "city": "http://www.wikidata.org/entity/Q206879",
+        "native": "Nevşehir",
+        "cityLabel": "Nevşehir",
+        "population": "67864"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q43",
+        "countryLabel": "Turkey",
+        "city": "http://www.wikidata.org/entity/Q83061",
+        "native": "Վան",
+        "cityLabel": "Van",
+        "population": "353419"
+    }
+]

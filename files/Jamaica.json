@@ -1,0 +1,74 @@
+[
+    {
+        "country": "http://www.wikidata.org/entity/Q766",
+        "countryLabel": "Jamaica",
+        "city": "http://www.wikidata.org/entity/Q1632220",
+        "native": "Lucea",
+        "cityLabel": "Lucea",
+        "population": "6002"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q766",
+        "countryLabel": "Jamaica",
+        "city": "http://www.wikidata.org/entity/Q34692",
+        "cityLabel": "Kingston",
+        "population": "937700"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q766",
+        "countryLabel": "Jamaica",
+        "city": "http://www.wikidata.org/entity/Q769578",
+        "cityLabel": "Linstead",
+        "population": "22757"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q766",
+        "countryLabel": "Jamaica",
+        "city": "http://www.wikidata.org/entity/Q974239",
+        "cityLabel": "Negril",
+        "population": "4500"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q766",
+        "countryLabel": "Jamaica",
+        "city": "http://www.wikidata.org/entity/Q637555",
+        "cityLabel": "Montego Bay",
+        "population": "110115"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q766",
+        "countryLabel": "Jamaica",
+        "city": "http://www.wikidata.org/entity/Q644663",
+        "native": "Portmore",
+        "cityLabel": "Portmore",
+        "population": "170000"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q766",
+        "countryLabel": "Jamaica",
+        "city": "http://www.wikidata.org/entity/Q846939",
+        "cityLabel": "Spanish Town",
+        "population": "131056"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q766",
+        "countryLabel": "Jamaica",
+        "city": "http://www.wikidata.org/entity/Q880512",
+        "cityLabel": "Black River",
+        "population": "4261"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q766",
+        "countryLabel": "Jamaica",
+        "city": "http://www.wikidata.org/entity/Q630692",
+        "cityLabel": "Saint Ann's Bay, Jamaica",
+        "population": "13671"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q766",
+        "countryLabel": "Jamaica",
+        "city": "http://www.wikidata.org/entity/Q771267",
+        "cityLabel": "Old Harbour",
+        "population": "28665"
+    }
+]

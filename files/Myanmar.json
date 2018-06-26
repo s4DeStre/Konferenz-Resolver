@@ -1,0 +1,95 @@
+[
+    {
+        "country": "http://www.wikidata.org/entity/Q836",
+        "countryLabel": "Myanmar",
+        "city": "http://www.wikidata.org/entity/Q1017971",
+        "cityLabel": "Loikaw",
+        "population": "11000"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q836",
+        "countryLabel": "Myanmar",
+        "city": "http://www.wikidata.org/entity/Q3411169",
+        "cityLabel": "Pyapon",
+        "population": "76741"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q836",
+        "countryLabel": "Myanmar",
+        "city": "http://www.wikidata.org/entity/Q685941",
+        "native": "မော်လမြိုင်မြို့",
+        "cityLabel": "Mawlamyine",
+        "population": "500000"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q836",
+        "countryLabel": "Myanmar",
+        "city": "http://www.wikidata.org/entity/Q738748",
+        "cityLabel": "Sittwe",
+        "population": "181000"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q836",
+        "countryLabel": "Myanmar",
+        "city": "http://www.wikidata.org/entity/Q37995",
+        "cityLabel": "Yangon",
+        "population": "5430000"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q836",
+        "countryLabel": "Myanmar",
+        "city": "http://www.wikidata.org/entity/Q185518",
+        "cityLabel": "Mandalay",
+        "population": "952570"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q836",
+        "countryLabel": "Myanmar",
+        "city": "http://www.wikidata.org/entity/Q1018173",
+        "cityLabel": "Sagaing",
+        "population": "69917"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q836",
+        "countryLabel": "Myanmar",
+        "city": "http://www.wikidata.org/entity/Q454949",
+        "cityLabel": "Amarapura",
+        "population": "23200"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q836",
+        "countryLabel": "Myanmar",
+        "city": "http://www.wikidata.org/entity/Q800122",
+        "cityLabel": "Bago",
+        "population": "284179"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q836",
+        "countryLabel": "Myanmar",
+        "city": "http://www.wikidata.org/entity/Q738563",
+        "cityLabel": "Hakha",
+        "population": "20000"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q836",
+        "countryLabel": "Myanmar",
+        "city": "http://www.wikidata.org/entity/Q1062370",
+        "cityLabel": "Myitkyina",
+        "population": "150000"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q836",
+        "countryLabel": "Myanmar",
+        "city": "http://www.wikidata.org/entity/Q37400",
+        "native": "နေပြည်တော်",
+        "cityLabel": "Naypyidaw",
+        "population": "1160242"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q836",
+        "countryLabel": "Myanmar",
+        "city": "http://www.wikidata.org/entity/Q1018167",
+        "cityLabel": "Dawei",
+        "population": "139900"
+    }
+]

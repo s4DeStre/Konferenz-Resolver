@@ -1,0 +1,17 @@
+[
+    {
+        "country": "http://www.wikidata.org/entity/Q971",
+        "countryLabel": "Republic of the Congo",
+        "city": "http://www.wikidata.org/entity/Q2362433",
+        "cityLabel": "Ewo",
+        "population": "9062"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q971",
+        "countryLabel": "Republic of the Congo",
+        "city": "http://www.wikidata.org/entity/Q3844",
+        "native": "Brazzaville",
+        "cityLabel": "Brazzaville",
+        "population": "1827000"
+    }
+]

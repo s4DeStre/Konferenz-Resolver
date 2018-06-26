@@ -1,0 +1,16 @@
+[
+    {
+        "country": "http://www.wikidata.org/entity/Q4628",
+        "countryLabel": "Faroe Islands",
+        "city": "http://www.wikidata.org/entity/Q10704",
+        "cityLabel": "Tórshavn",
+        "population": "13085"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q4628",
+        "countryLabel": "Faroe Islands",
+        "city": "http://www.wikidata.org/entity/Q969578",
+        "cityLabel": "Runavík Municipality",
+        "population": "3796"
+    }
+]

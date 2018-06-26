@@ -1,0 +1,469 @@
+[
+    {
+        "country": "http://www.wikidata.org/entity/Q419",
+        "countryLabel": "Peru",
+        "city": "http://www.wikidata.org/entity/Q793809",
+        "cityLabel": "Huaraz",
+        "population": "131377"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q419",
+        "countryLabel": "Peru",
+        "city": "http://www.wikidata.org/entity/Q193289",
+        "cityLabel": "Iquitos",
+        "population": "370962"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q419",
+        "countryLabel": "Peru",
+        "city": "http://www.wikidata.org/entity/Q232842",
+        "cityLabel": "Puno",
+        "population": "120229"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q419",
+        "countryLabel": "Peru",
+        "city": "http://www.wikidata.org/entity/Q1026270",
+        "cityLabel": "Paita",
+        "population": "179346"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q419",
+        "countryLabel": "Peru",
+        "city": "http://www.wikidata.org/entity/Q2143690",
+        "cityLabel": "Ferreñafe",
+        "population": "31777"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q419",
+        "countryLabel": "Peru",
+        "city": "http://www.wikidata.org/entity/Q990685",
+        "cityLabel": "Chincha Alta",
+        "population": "63671"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q419",
+        "countryLabel": "Peru",
+        "city": "http://www.wikidata.org/entity/Q2726653",
+        "cityLabel": "Puquio",
+        "population": "15870"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q419",
+        "countryLabel": "Peru",
+        "city": "http://www.wikidata.org/entity/Q3057885",
+        "cityLabel": "Satipo",
+        "population": "10052"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q419",
+        "countryLabel": "Peru",
+        "city": "http://www.wikidata.org/entity/Q3344870",
+        "cityLabel": "Esperanza",
+        "population": "4405"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q419",
+        "countryLabel": "Peru",
+        "city": "http://www.wikidata.org/entity/Q214173",
+        "cityLabel": "Trujillo",
+        "population": "970000"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q419",
+        "countryLabel": "Peru",
+        "city": "http://www.wikidata.org/entity/Q3344843",
+        "cityLabel": "Virú",
+        "population": "36029"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q419",
+        "countryLabel": "Peru",
+        "city": "http://www.wikidata.org/entity/Q2964558",
+        "cityLabel": "Chota",
+        "population": "54611"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q419",
+        "countryLabel": "Peru",
+        "city": "http://www.wikidata.org/entity/Q2588438",
+        "cityLabel": "Juli",
+        "population": "23741"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q419",
+        "countryLabel": "Peru",
+        "city": "http://www.wikidata.org/entity/Q518431",
+        "cityLabel": "Chimbote",
+        "population": "334568"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q419",
+        "countryLabel": "Peru",
+        "city": "http://www.wikidata.org/entity/Q504394",
+        "cityLabel": "Huánuco",
+        "population": "120000"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q419",
+        "countryLabel": "Peru",
+        "city": "http://www.wikidata.org/entity/Q723677",
+        "cityLabel": "Huaral",
+        "population": "790011"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q419",
+        "countryLabel": "Peru",
+        "city": "http://www.wikidata.org/entity/Q504215",
+        "cityLabel": "Ayacucho",
+        "population": "180766"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q419",
+        "countryLabel": "Peru",
+        "city": "http://www.wikidata.org/entity/Q117625",
+        "cityLabel": "Yurimaguas",
+        "population": "644547"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q419",
+        "countryLabel": "Peru",
+        "city": "http://www.wikidata.org/entity/Q757133",
+        "cityLabel": "Chachapoyas",
+        "population": "29869"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q419",
+        "countryLabel": "Peru",
+        "city": "http://www.wikidata.org/entity/Q827640",
+        "cityLabel": "Tumbes",
+        "population": "164404"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q419",
+        "countryLabel": "Peru",
+        "city": "http://www.wikidata.org/entity/Q2351948",
+        "cityLabel": "Mollendo",
+        "population": "28305"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q419",
+        "countryLabel": "Peru",
+        "city": "http://www.wikidata.org/entity/Q793765",
+        "cityLabel": "Bagua Grande",
+        "population": "40947"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q419",
+        "countryLabel": "Peru",
+        "city": "http://www.wikidata.org/entity/Q723584",
+        "cityLabel": "Talara",
+        "population": "84978"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q419",
+        "countryLabel": "Peru",
+        "city": "http://www.wikidata.org/entity/Q1759360",
+        "cityLabel": "La Oroya",
+        "population": "33000"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q419",
+        "countryLabel": "Peru",
+        "city": "http://www.wikidata.org/entity/Q2989631",
+        "cityLabel": "Paucartambo",
+        "population": "4309"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q419",
+        "countryLabel": "Peru",
+        "city": "http://www.wikidata.org/entity/Q5582862",
+        "native": "Qusqu",
+        "cityLabel": "Cusco",
+        "population": "435114"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q419",
+        "countryLabel": "Peru",
+        "city": "http://www.wikidata.org/entity/Q1711521",
+        "cityLabel": "Nazca",
+        "population": "27000"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q419",
+        "countryLabel": "Peru",
+        "city": "http://www.wikidata.org/entity/Q1759366",
+        "cityLabel": "Tarma",
+        "population": "60542"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q419",
+        "countryLabel": "Peru",
+        "city": "http://www.wikidata.org/entity/Q3056421",
+        "cityLabel": "Otuzco",
+        "population": "25134"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q419",
+        "countryLabel": "Peru",
+        "city": "http://www.wikidata.org/entity/Q25767774",
+        "cityLabel": "Mala, Cañete Province",
+        "population": "53532"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q419",
+        "countryLabel": "Peru",
+        "city": "http://www.wikidata.org/entity/Q1002052",
+        "cityLabel": "Huacho",
+        "population": "55632"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q419",
+        "countryLabel": "Peru",
+        "city": "http://www.wikidata.org/entity/Q1974445",
+        "native": "Santo Tomás",
+        "cityLabel": "Santo Tomás",
+        "population": "25087"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q419",
+        "countryLabel": "Peru",
+        "city": "http://www.wikidata.org/entity/Q917434",
+        "cityLabel": "Jauja",
+        "population": "16424"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q419",
+        "countryLabel": "Peru",
+        "city": "http://www.wikidata.org/entity/Q4419079",
+        "cityLabel": "Sicuani",
+        "population": "57551"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q419",
+        "countryLabel": "Peru",
+        "city": "http://www.wikidata.org/entity/Q2877763",
+        "cityLabel": "Zarumilla",
+        "population": "16971"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q419",
+        "countryLabel": "Peru",
+        "city": "http://www.wikidata.org/entity/Q510413",
+        "native": "Sullana",
+        "cityLabel": "Sullana",
+        "population": "162434"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q419",
+        "countryLabel": "Peru",
+        "city": "http://www.wikidata.org/entity/Q2582671",
+        "cityLabel": "Barranca",
+        "population": "54463"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q419",
+        "countryLabel": "Peru",
+        "city": "http://www.wikidata.org/entity/Q696074",
+        "native": "Juliaca",
+        "cityLabel": "Juliaca",
+        "population": "225146"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q419",
+        "countryLabel": "Peru",
+        "city": "http://www.wikidata.org/entity/Q840712",
+        "cityLabel": "Ica",
+        "population": "290000"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q419",
+        "countryLabel": "Peru",
+        "city": "http://www.wikidata.org/entity/Q2868",
+        "cityLabel": "Lima",
+        "population": "8574974"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q419",
+        "countryLabel": "Peru",
+        "city": "http://www.wikidata.org/entity/Q927933",
+        "cityLabel": "Tarapoto",
+        "population": "118000"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q419",
+        "countryLabel": "Peru",
+        "city": "http://www.wikidata.org/entity/Q260911",
+        "cityLabel": "Chiclayo",
+        "population": "574408"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q419",
+        "countryLabel": "Peru",
+        "city": "http://www.wikidata.org/entity/Q205119",
+        "cityLabel": "Cajamarca",
+        "population": "283767"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q419",
+        "countryLabel": "Peru",
+        "city": "http://www.wikidata.org/entity/Q223966",
+        "cityLabel": "Piura",
+        "population": "477801"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q419",
+        "countryLabel": "Peru",
+        "city": "http://www.wikidata.org/entity/Q919678",
+        "cityLabel": "Yungay",
+        "population": "8000"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q419",
+        "countryLabel": "Peru",
+        "city": "http://www.wikidata.org/entity/Q290504",
+        "cityLabel": "Pisco",
+        "population": "109961"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q419",
+        "countryLabel": "Peru",
+        "city": "http://www.wikidata.org/entity/Q2158344",
+        "cityLabel": "Huanta",
+        "population": "30234"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q419",
+        "countryLabel": "Peru",
+        "city": "http://www.wikidata.org/entity/Q541435",
+        "cityLabel": "Puerto Maldonado",
+        "population": "92000"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q419",
+        "countryLabel": "Peru",
+        "city": "http://www.wikidata.org/entity/Q272795",
+        "cityLabel": "Tacna",
+        "population": "320240"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q419",
+        "countryLabel": "Peru",
+        "city": "http://www.wikidata.org/entity/Q674320",
+        "cityLabel": "Cerro de Pasco",
+        "population": "26444"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q419",
+        "countryLabel": "Peru",
+        "city": "http://www.wikidata.org/entity/Q1035471",
+        "cityLabel": "Caraz",
+        "population": "23841"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q419",
+        "countryLabel": "Peru",
+        "city": "http://www.wikidata.org/entity/Q1279608",
+        "cityLabel": "Pacasmayo",
+        "population": "26125"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q419",
+        "countryLabel": "Peru",
+        "city": "http://www.wikidata.org/entity/Q1229885",
+        "native": "Jaén",
+        "cityLabel": "Jaén",
+        "population": "135021"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q419",
+        "countryLabel": "Peru",
+        "city": "http://www.wikidata.org/entity/Q1974467",
+        "cityLabel": "Tingo María",
+        "population": "50414"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q419",
+        "countryLabel": "Peru",
+        "city": "http://www.wikidata.org/entity/Q1000341",
+        "cityLabel": "Ilo",
+        "population": "68694"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q419",
+        "countryLabel": "Peru",
+        "city": "http://www.wikidata.org/entity/Q217071",
+        "cityLabel": "Pucallpa",
+        "population": "211611"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q419",
+        "countryLabel": "Peru",
+        "city": "http://www.wikidata.org/entity/Q768086",
+        "cityLabel": "Lambayeque",
+        "population": "72000"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q419",
+        "countryLabel": "Peru",
+        "city": "http://www.wikidata.org/entity/Q1000346",
+        "cityLabel": "Moquegua",
+        "population": "170480"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q419",
+        "countryLabel": "Peru",
+        "city": "http://www.wikidata.org/entity/Q1000333",
+        "cityLabel": "Huancavelica",
+        "population": "37255"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q419",
+        "countryLabel": "Peru",
+        "city": "http://www.wikidata.org/entity/Q215238",
+        "cityLabel": "Abancay",
+        "population": "51462"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q419",
+        "countryLabel": "Peru",
+        "city": "http://www.wikidata.org/entity/Q3236446",
+        "cityLabel": "Sechura",
+        "population": "32144"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q419",
+        "countryLabel": "Peru",
+        "city": "http://www.wikidata.org/entity/Q1014474",
+        "cityLabel": "San Pedro de Lloc",
+        "population": "16198"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q419",
+        "countryLabel": "Peru",
+        "city": "http://www.wikidata.org/entity/Q11168982",
+        "cityLabel": "Chancay",
+        "population": "32312"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q419",
+        "countryLabel": "Peru",
+        "city": "http://www.wikidata.org/entity/Q159273",
+        "cityLabel": "Arequipa",
+        "population": "1000351"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q419",
+        "countryLabel": "Peru",
+        "city": "http://www.wikidata.org/entity/Q1853969",
+        "cityLabel": "San Vicente de Cañete",
+        "population": "25829"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q419",
+        "countryLabel": "Peru",
+        "city": "http://www.wikidata.org/entity/Q468782",
+        "cityLabel": "Huancayo",
+        "population": "323054"
+    }
+]

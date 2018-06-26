@@ -1,0 +1,88 @@
+[
+    {
+        "country": "http://www.wikidata.org/entity/Q851",
+        "countryLabel": "Saudi Arabia",
+        "city": "http://www.wikidata.org/entity/Q35484",
+        "cityLabel": "Medina",
+        "population": "1180770"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q851",
+        "countryLabel": "Saudi Arabia",
+        "city": "http://www.wikidata.org/entity/Q3692",
+        "native": "الرياض",
+        "cityLabel": "Riyadh",
+        "population": "8002100"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q851",
+        "countryLabel": "Saudi Arabia",
+        "city": "http://www.wikidata.org/entity/Q12184496",
+        "cityLabel": "Q12184496",
+        "population": "7650"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q851",
+        "countryLabel": "Saudi Arabia",
+        "city": "http://www.wikidata.org/entity/Q4116151",
+        "cityLabel": "Q4116151",
+        "population": "60867"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q851",
+        "countryLabel": "Saudi Arabia",
+        "city": "http://www.wikidata.org/entity/Q27136",
+        "cityLabel": "Hofuf",
+        "population": "1500000"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q851",
+        "countryLabel": "Saudi Arabia",
+        "city": "http://www.wikidata.org/entity/Q5806",
+        "cityLabel": "Mecca",
+        "population": "1675368"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q851",
+        "countryLabel": "Saudi Arabia",
+        "city": "http://www.wikidata.org/entity/Q27430",
+        "cityLabel": "Jubail",
+        "population": "337778"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q851",
+        "countryLabel": "Saudi Arabia",
+        "city": "http://www.wikidata.org/entity/Q160320",
+        "native": "الدمام",
+        "cityLabel": "Dammam",
+        "population": "903000"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q851",
+        "countryLabel": "Saudi Arabia",
+        "city": "http://www.wikidata.org/entity/Q259253",
+        "cityLabel": "Buraidah",
+        "population": "614093"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q851",
+        "countryLabel": "Saudi Arabia",
+        "city": "http://www.wikidata.org/entity/Q2884439",
+        "cityLabel": "Bareq",
+        "population": "75351"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q851",
+        "countryLabel": "Saudi Arabia",
+        "city": "http://www.wikidata.org/entity/Q374365",
+        "cityLabel": "Jeddah",
+        "population": "3400000"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q851",
+        "countryLabel": "Saudi Arabia",
+        "city": "http://www.wikidata.org/entity/Q27138",
+        "cityLabel": "Unaizah",
+        "population": "163729"
+    }
+]

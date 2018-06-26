@@ -1,0 +1,58 @@
+[
+    {
+        "country": "http://www.wikidata.org/entity/Q1020",
+        "countryLabel": "Malawi",
+        "city": "http://www.wikidata.org/entity/Q3876",
+        "cityLabel": "Lilongwe",
+        "population": "781538"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q1020",
+        "countryLabel": "Malawi",
+        "city": "http://www.wikidata.org/entity/Q502216",
+        "cityLabel": "Mzuzu",
+        "population": "150100"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q1020",
+        "countryLabel": "Malawi",
+        "city": "http://www.wikidata.org/entity/Q804607",
+        "cityLabel": "Balaka Township, Malawi",
+        "population": "24000"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q1020",
+        "countryLabel": "Malawi",
+        "city": "http://www.wikidata.org/entity/Q188693",
+        "cityLabel": "Blantyre",
+        "population": "1895973"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q1020",
+        "countryLabel": "Malawi",
+        "city": "http://www.wikidata.org/entity/Q2144010",
+        "cityLabel": "Thyolo",
+        "population": "7029"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q1020",
+        "countryLabel": "Malawi",
+        "city": "http://www.wikidata.org/entity/Q1890257",
+        "cityLabel": "Mangochi",
+        "population": "51429"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q1020",
+        "countryLabel": "Malawi",
+        "city": "http://www.wikidata.org/entity/Q1865092",
+        "cityLabel": "Mulanje",
+        "population": "20870"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q1020",
+        "countryLabel": "Malawi",
+        "city": "http://www.wikidata.org/entity/Q219117",
+        "cityLabel": "Zomba, Malawi",
+        "population": "101140"
+    }
+]

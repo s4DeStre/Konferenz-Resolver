@@ -1,0 +1,17 @@
+[
+    {
+        "country": "http://www.wikidata.org/entity/Q172107",
+        "countryLabel": "Polish\u2013Lithuanian Commonwealth",
+        "city": "http://www.wikidata.org/entity/Q956207",
+        "cityLabel": "Ivanava",
+        "population": "16594"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q172107",
+        "countryLabel": "Polish\u2013Lithuanian Commonwealth",
+        "city": "http://www.wikidata.org/entity/Q157053",
+        "native": "Чернігів",
+        "cityLabel": "Chernihiv",
+        "population": "294522"
+    }
+]

@@ -1,0 +1,119 @@
+[
+    {
+        "country": "http://www.wikidata.org/entity/Q881",
+        "countryLabel": "Vietnam",
+        "city": "http://www.wikidata.org/entity/Q146695",
+        "cityLabel": "Phú Quốc",
+        "population": "70000"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q881",
+        "countryLabel": "Vietnam",
+        "city": "http://www.wikidata.org/entity/Q36160",
+        "native": "Hội An",
+        "cityLabel": "Hội An",
+        "population": "121716"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q881",
+        "countryLabel": "Vietnam",
+        "city": "http://www.wikidata.org/entity/Q36114",
+        "cityLabel": "Vi Thanh",
+        "population": "97200"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q881",
+        "countryLabel": "Vietnam",
+        "city": "http://www.wikidata.org/entity/Q216075",
+        "cityLabel": "Can Tho",
+        "population": "1237300"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q881",
+        "countryLabel": "Vietnam",
+        "city": "http://www.wikidata.org/entity/Q25281",
+        "cityLabel": "Da Lat",
+        "population": "406105"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q881",
+        "countryLabel": "Vietnam",
+        "city": "http://www.wikidata.org/entity/Q1854",
+        "cityLabel": "Ho Chi Minh City",
+        "population": "10380000"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q881",
+        "countryLabel": "Vietnam",
+        "city": "http://www.wikidata.org/entity/Q21194",
+        "cityLabel": "Vung Tau",
+        "population": "450000"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q881",
+        "countryLabel": "Vietnam",
+        "city": "http://www.wikidata.org/entity/Q33421",
+        "cityLabel": "Long Xuyen",
+        "population": "40000"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q881",
+        "countryLabel": "Vietnam",
+        "city": "http://www.wikidata.org/entity/Q72818",
+        "cityLabel": "Haiphong",
+        "population": "2103500"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q881",
+        "countryLabel": "Vietnam",
+        "city": "http://www.wikidata.org/entity/Q1031051",
+        "native": "Cẩm Phả",
+        "cityLabel": "Cẩm Phả",
+        "population": "195800"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q881",
+        "countryLabel": "Vietnam",
+        "city": "http://www.wikidata.org/entity/Q130324",
+        "native": "Hòa Bình",
+        "cityLabel": "Hoa Binh",
+        "population": "121309"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q881",
+        "countryLabel": "Vietnam",
+        "city": "http://www.wikidata.org/entity/Q1858",
+        "native": "Hà Nội",
+        "cityLabel": "Hanoi",
+        "population": "7785000"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q881",
+        "countryLabel": "Vietnam",
+        "city": "http://www.wikidata.org/entity/Q25282",
+        "cityLabel": "Da Nang",
+        "population": "1007400"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q881",
+        "countryLabel": "Vietnam",
+        "city": "http://www.wikidata.org/entity/Q373214",
+        "cityLabel": "Châu Đốc",
+        "population": "157298"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q881",
+        "countryLabel": "Vietnam",
+        "city": "http://www.wikidata.org/entity/Q35747",
+        "cityLabel": "Tuy Hòa",
+        "population": "202030"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q881",
+        "countryLabel": "Vietnam",
+        "city": "http://www.wikidata.org/entity/Q19316",
+        "native": "Biên Hòa",
+        "cityLabel": "Biên Hòa",
+        "population": "1104000"
+    }
+]

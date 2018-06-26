@@ -1,0 +1,37 @@
+[
+    {
+        "country": "http://www.wikidata.org/entity/Q347",
+        "countryLabel": "Liechtenstein",
+        "city": "http://www.wikidata.org/entity/Q49663",
+        "cityLabel": "Balzers",
+        "population": "4583"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q347",
+        "countryLabel": "Liechtenstein",
+        "city": "http://www.wikidata.org/entity/Q49657",
+        "cityLabel": "Schaan",
+        "population": "5959"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q347",
+        "countryLabel": "Liechtenstein",
+        "city": "http://www.wikidata.org/entity/Q4540",
+        "cityLabel": "Eschen",
+        "population": "4375"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q347",
+        "countryLabel": "Liechtenstein",
+        "city": "http://www.wikidata.org/entity/Q49651",
+        "cityLabel": "Triesenberg",
+        "population": "2596"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q347",
+        "countryLabel": "Liechtenstein",
+        "city": "http://www.wikidata.org/entity/Q1844",
+        "cityLabel": "Vaduz",
+        "population": "5429"
+    }
+]

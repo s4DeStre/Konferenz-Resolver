@@ -1,0 +1,242 @@
+[
+    {
+        "country": "http://www.wikidata.org/entity/Q298",
+        "countryLabel": "Chile",
+        "city": "http://www.wikidata.org/entity/Q188011",
+        "cityLabel": "Santo Domingo",
+        "population": "7418"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q298",
+        "countryLabel": "Chile",
+        "city": "http://www.wikidata.org/entity/Q3753",
+        "cityLabel": "Cañete",
+        "population": "34537"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q298",
+        "countryLabel": "Chile",
+        "city": "http://www.wikidata.org/entity/Q3744",
+        "cityLabel": "Castro",
+        "population": "47365"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q298",
+        "countryLabel": "Chile",
+        "city": "http://www.wikidata.org/entity/Q2887",
+        "native": "Santiago de Chile",
+        "cityLabel": "Santiago",
+        "population": "6310000"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q298",
+        "countryLabel": "Chile",
+        "city": "http://www.wikidata.org/entity/Q14502",
+        "cityLabel": "Lo Barnechea",
+        "population": "105833"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q298",
+        "countryLabel": "Chile",
+        "city": "http://www.wikidata.org/entity/Q51599",
+        "cityLabel": "Punta Arenas",
+        "population": "127454"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q298",
+        "countryLabel": "Chile",
+        "city": "http://www.wikidata.org/entity/Q14440",
+        "cityLabel": "Iquique",
+        "population": "191468"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q298",
+        "countryLabel": "Chile",
+        "city": "http://www.wikidata.org/entity/Q14477",
+        "cityLabel": "Lampa",
+        "population": "102034"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q298",
+        "countryLabel": "Chile",
+        "city": "http://www.wikidata.org/entity/Q187893",
+        "cityLabel": "San Pedro de Atacama",
+        "population": "5605"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q298",
+        "countryLabel": "Chile",
+        "city": "http://www.wikidata.org/entity/Q3892",
+        "cityLabel": "Curanilahue",
+        "population": "32288"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q298",
+        "countryLabel": "Chile",
+        "city": "http://www.wikidata.org/entity/Q3759",
+        "native": "Chaitén",
+        "cityLabel": "Chaitén",
+        "population": "5071"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q298",
+        "countryLabel": "Chile",
+        "city": "http://www.wikidata.org/entity/Q3756",
+        "native": "Cerro Navia",
+        "cityLabel": "Cerro Navia",
+        "population": "132622"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q298",
+        "countryLabel": "Chile",
+        "city": "http://www.wikidata.org/entity/Q3797",
+        "cityLabel": "Cochamó",
+        "population": "3908"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q298",
+        "countryLabel": "Chile",
+        "city": "http://www.wikidata.org/entity/Q13030",
+        "native": "Curicó",
+        "cityLabel": "Curicó",
+        "population": "149136"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q298",
+        "countryLabel": "Chile",
+        "city": "http://www.wikidata.org/entity/Q3871",
+        "cityLabel": "Coquimbo",
+        "population": "200117"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q298",
+        "countryLabel": "Chile",
+        "city": "http://www.wikidata.org/entity/Q36214",
+        "cityLabel": "Puerto Montt",
+        "population": "245902"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q298",
+        "countryLabel": "Chile",
+        "city": "http://www.wikidata.org/entity/Q3612",
+        "native": "Antofagasta",
+        "cityLabel": "Antofagasta",
+        "population": "380695"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q298",
+        "countryLabel": "Chile",
+        "city": "http://www.wikidata.org/entity/Q51596",
+        "cityLabel": "Puerto Varas",
+        "population": "44578"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q298",
+        "countryLabel": "Chile",
+        "city": "http://www.wikidata.org/entity/Q3810",
+        "cityLabel": "Coyhaique",
+        "population": "57818"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q298",
+        "countryLabel": "Chile",
+        "city": "http://www.wikidata.org/entity/Q51120",
+        "cityLabel": "Porvenir",
+        "population": "6801"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q298",
+        "countryLabel": "Chile",
+        "city": "http://www.wikidata.org/entity/Q3779",
+        "cityLabel": "Chillán Viejo",
+        "population": "30907"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q298",
+        "countryLabel": "Chile",
+        "city": "http://www.wikidata.org/entity/Q201064",
+        "native": "Zapallar",
+        "cityLabel": "Zapallar",
+        "population": "7339"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q298",
+        "countryLabel": "Chile",
+        "city": "http://www.wikidata.org/entity/Q16922",
+        "cityLabel": "Mariquina",
+        "population": "21278"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q298",
+        "countryLabel": "Chile",
+        "city": "http://www.wikidata.org/entity/Q33986",
+        "native": "Valparaíso",
+        "cityLabel": "Valparaíso",
+        "population": "296655"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q298",
+        "countryLabel": "Chile",
+        "city": "http://www.wikidata.org/entity/Q3800",
+        "cityLabel": "Cochrane",
+        "population": "2976"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q298",
+        "countryLabel": "Chile",
+        "city": "http://www.wikidata.org/entity/Q3738",
+        "cityLabel": "Cartagena",
+        "population": "22738"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q298",
+        "countryLabel": "Chile",
+        "city": "http://www.wikidata.org/entity/Q233369",
+        "cityLabel": "Hanga Roa",
+        "population": "5035"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q298",
+        "countryLabel": "Chile",
+        "city": "http://www.wikidata.org/entity/Q3770",
+        "cityLabel": "Chile Chico",
+        "population": "4627"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q298",
+        "countryLabel": "Chile",
+        "city": "http://www.wikidata.org/entity/Q13063",
+        "cityLabel": "Galvarino",
+        "population": "11996"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q298",
+        "countryLabel": "Chile",
+        "city": "http://www.wikidata.org/entity/Q184345",
+        "native": "Viña del Mar",
+        "cityLabel": "Viña del Mar",
+        "population": "334248"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q298",
+        "countryLabel": "Chile",
+        "city": "http://www.wikidata.org/entity/Q14467",
+        "native": "La Serena",
+        "cityLabel": "La Serena",
+        "population": "211275"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q298",
+        "countryLabel": "Chile",
+        "city": "http://www.wikidata.org/entity/Q51602",
+        "cityLabel": "Purén",
+        "population": "12868"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q298",
+        "countryLabel": "Chile",
+        "city": "http://www.wikidata.org/entity/Q51059",
+        "cityLabel": "Osorno",
+        "population": "145475"
+    }
+]

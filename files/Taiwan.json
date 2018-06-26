@@ -1,0 +1,81 @@
+[
+    {
+        "country": "http://www.wikidata.org/entity/Q865",
+        "countryLabel": "Taiwan",
+        "city": "http://www.wikidata.org/entity/Q701651",
+        "cityLabel": "Miaoli",
+        "population": "90963"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q865",
+        "countryLabel": "Taiwan",
+        "city": "http://www.wikidata.org/entity/Q715975",
+        "native": "桃園",
+        "cityLabel": "Taoyuan District",
+        "population": "2058328"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q865",
+        "countryLabel": "Taiwan",
+        "city": "http://www.wikidata.org/entity/Q473035",
+        "cityLabel": "Beigang, Yunlin",
+        "population": "40988"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q865",
+        "countryLabel": "Taiwan",
+        "city": "http://www.wikidata.org/entity/Q249996",
+        "cityLabel": "Keelung",
+        "population": "387207"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q865",
+        "countryLabel": "Taiwan",
+        "city": "http://www.wikidata.org/entity/Q249994",
+        "cityLabel": "Hsinchu",
+        "population": "421432"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q865",
+        "countryLabel": "Taiwan",
+        "city": "http://www.wikidata.org/entity/Q713310",
+        "cityLabel": "Hualien City",
+        "population": "109251"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q865",
+        "countryLabel": "Taiwan",
+        "city": "http://www.wikidata.org/entity/Q680842",
+        "cityLabel": "Yilan City",
+        "population": "96268"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q865",
+        "countryLabel": "Taiwan",
+        "city": "http://www.wikidata.org/entity/Q1867",
+        "native": "台北市",
+        "cityLabel": "Taipei",
+        "population": "2684567"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q865",
+        "countryLabel": "Taiwan",
+        "city": "http://www.wikidata.org/entity/Q140631",
+        "cityLabel": "Tainan",
+        "population": "1840257"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q865",
+        "countryLabel": "Taiwan",
+        "city": "http://www.wikidata.org/entity/Q713381",
+        "cityLabel": "Taitung City",
+        "population": "108905"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q865",
+        "countryLabel": "Taiwan",
+        "city": "http://www.wikidata.org/entity/Q181557",
+        "cityLabel": "Kaohsiung City",
+        "population": "2777384"
+    }
+]

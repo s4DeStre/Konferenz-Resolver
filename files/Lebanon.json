@@ -1,0 +1,32 @@
+[
+    {
+        "country": "http://www.wikidata.org/entity/Q822",
+        "countryLabel": "Lebanon",
+        "city": "http://www.wikidata.org/entity/Q178835",
+        "cityLabel": "Baalbek",
+        "population": "24000"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q822",
+        "countryLabel": "Lebanon",
+        "city": "http://www.wikidata.org/entity/Q3820",
+        "cityLabel": "Beirut",
+        "population": "361366"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q822",
+        "countryLabel": "Lebanon",
+        "city": "http://www.wikidata.org/entity/Q26569",
+        "native": "زحلة",
+        "cityLabel": "Zahlé",
+        "population": "100000"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q822",
+        "countryLabel": "Lebanon",
+        "city": "http://www.wikidata.org/entity/Q82070",
+        "native": "صور",
+        "cityLabel": "Tyre",
+        "population": "135204"
+    }
+]

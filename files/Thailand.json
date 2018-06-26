@@ -1,0 +1,5194 @@
+[
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q4831587",
+        "native": "เทศบาลเมืองอโยธยา",
+        "cityLabel": "Ayodya",
+        "population": "19854"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q15980656",
+        "native": "เทศบาลเมืองตะลุบัน",
+        "cityLabel": "Taluban",
+        "population": "14137"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q13025392",
+        "native": "เทศบาลเมืองสะเดา",
+        "cityLabel": "Sadao",
+        "population": "21086"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q21408195",
+        "native": "เทศบาลเมืองแจระแม",
+        "cityLabel": "Chaeramae",
+        "population": "11092"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q595853",
+        "native": "เทศบาลเมืองนครนายก",
+        "cityLabel": "Nakhon Nayok",
+        "population": "16195"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q1000353",
+        "native": "เทศบาลเมืองกระบี่",
+        "cityLabel": "Krabi",
+        "population": "30499"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q15264887",
+        "native": "เทศบาลเมืองเมืองพล",
+        "cityLabel": "Mueang Phon",
+        "population": "11593"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q4784166",
+        "native": "เทศบาลเมืองอรัญญประเทศ",
+        "cityLabel": "Aranyaprathet",
+        "population": "16211"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q1025964",
+        "native": "เทศบาลเมืองตราด",
+        "cityLabel": "Trat",
+        "population": "10413"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q15199201",
+        "native": "เทศบาลเมืองบางบัวทอง",
+        "cityLabel": "Bang Bua Thong",
+        "population": "50141"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q986737",
+        "native": "เทศบาลเมืองสุโขทัยธานี",
+        "cityLabel": "Sukhothai Thani",
+        "population": "15618"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q15310499",
+        "native": "เทศบาลเมืองพระพุทธบาท",
+        "cityLabel": "Phra Phutthabat",
+        "population": "34322"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q15980692",
+        "native": "เทศบาลเมืองคูคต",
+        "cityLabel": "Khu Khot",
+        "population": "46214"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q13025406",
+        "native": "เทศบาลเมืองเมืองแกนพัฒนา",
+        "cityLabel": "Mueang Kaen Phatthana",
+        "population": "13188"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q13025407",
+        "native": "เทศบาลเมืองเมืองปัก",
+        "cityLabel": "Mueang Pak",
+        "population": "14272"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q13025410",
+        "native": "เทศบาลเมืองแม่โจ้",
+        "cityLabel": "Mae Cho",
+        "population": "23140"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q13025390",
+        "native": "เทศบาลเมืองวิเชียรบุรี",
+        "cityLabel": "Wichian Buri",
+        "population": "22995"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q13025388",
+        "native": "เทศบาลเมืองวังน้ำเย็น",
+        "cityLabel": "Wang Nam Yen",
+        "population": "21301"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q1026460",
+        "native": "เทศบาลเมืองบุรีรัมย์",
+        "cityLabel": "Buri Ram",
+        "population": "28613"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q13025393",
+        "native": "เทศบาลเมืองวารินชำราบ",
+        "cityLabel": "Warin Chamrap",
+        "population": "28154"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q13025394",
+        "native": "เทศบาลเมืองลำสามแก้ว",
+        "cityLabel": "Lam Sam Kaeo",
+        "population": "63271"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q15176892",
+        "native": "เทศบาลเมืองพระประแดง",
+        "cityLabel": "Phra Pradaeng",
+        "population": "10190"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q530178",
+        "native": "เทศบาลเมืองอ่างศิลา",
+        "cityLabel": "Ang Sila",
+        "population": "33053"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q1059129",
+        "native": "เทศบาลเมืองชัยนาท",
+        "cityLabel": "Chai Nat",
+        "population": "12541"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q15629547",
+        "native": "เทศบาลเมืองป่าตอง",
+        "cityLabel": "Pa Tong",
+        "population": "20363"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q15199204",
+        "native": "เทศบาลเมืองบางกรวย",
+        "cityLabel": "Bang Kruai",
+        "population": "41858"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q13025368",
+        "native": "เทศบาลเมืองบ้านบึง",
+        "cityLabel": "Ban Bueng",
+        "population": "19346"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q13025403",
+        "native": "เทศบาลเมืองหนองสำโรง",
+        "cityLabel": "Nong Samrong",
+        "population": "27354"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q1017738",
+        "native": "เทศบาลเมืองร้อยเอ็ด",
+        "cityLabel": "Roi Et",
+        "population": "35219"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q13025380",
+        "native": "เทศบาลเมืองปากพูน",
+        "cityLabel": "Pak Phun",
+        "population": "33407"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q15980679",
+        "native": "เทศบาลเมืองท่าใหม่",
+        "cityLabel": "Tha Mai",
+        "population": "9843"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q19858114",
+        "native": "เทศบาลเมืองบ้านทุ่ม",
+        "cityLabel": "Ban Thum",
+        "population": "17564"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q138589",
+        "native": "เทศบาลเมืองชลบุรี",
+        "cityLabel": "Chon Buri",
+        "population": "29961"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q2624333",
+        "native": "เทศบาลเมืองปาดังเบซาร์",
+        "cityLabel": "Padang Besar",
+        "population": "15680"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q13025385",
+        "native": "เทศบาลเมืองสามพราน",
+        "cityLabel": "Sam Phran",
+        "population": "17611"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q13025373",
+        "native": "เทศบาลเมืองบึงยี่โถ",
+        "cityLabel": "Bueng Yitho",
+        "population": "31288"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q13409879",
+        "native": "เทศบาลเมืองศรีราชา",
+        "cityLabel": "Si Racha",
+        "population": "23400"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q4189383",
+        "native": "เทศบาลเมืองตากใบ",
+        "cityLabel": "Tak Bai",
+        "population": "18943"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q15980681",
+        "native": "เทศบาลเมืองบ้านหมี่",
+        "cityLabel": "Ban Mi",
+        "population": "3503"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q13025362",
+        "native": "เทศบาลเมืองท่าเรือพระแท่น",
+        "cityLabel": "Tha Ruea Phra Thaen",
+        "population": "11966"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q21408231",
+        "native": "เทศบาลเมืองกระนวน",
+        "cityLabel": "Kranuan",
+        "population": "10726"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q13025361",
+        "native": "เทศบาลเมืองท่าโขลง",
+        "cityLabel": "Tha Khlong",
+        "population": "72774"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q118901",
+        "native": "เทศบาลเมืองตาก",
+        "cityLabel": "Tak",
+        "population": "17565"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q13025387",
+        "native": "เทศบาลเมืองสัตหีบ",
+        "cityLabel": "Sattahip",
+        "population": "23418"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q13025352",
+        "native": "เทศบาลเมืองชุมเห็ด",
+        "cityLabel": "Chum Het",
+        "population": "20713"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q15199163",
+        "native": "เทศบาลเมืองพิมลราช",
+        "cityLabel": "Phimon Rat",
+        "population": "41498"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q6664229",
+        "native": "เทศบาลเมืองสิงหนคร",
+        "cityLabel": "Singhanakhon",
+        "population": "42423"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q13025355",
+        "native": "เทศบาลเมืองต้นเปา",
+        "cityLabel": "Ton Pao",
+        "population": "15175"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q15217918",
+        "native": "เทศบาลเมืองสองพี่น้อง",
+        "cityLabel": "Song Phi Nong",
+        "population": "12926"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q17155186",
+        "native": "เทศบาลเมืองศิลา",
+        "cityLabel": "Sila",
+        "population": "49569"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q13025372",
+        "native": "เทศบาลเมืองบ้านพรุ",
+        "cityLabel": "Ban Phru",
+        "population": "23518"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q15980700",
+        "native": "เทศบาลเมืองบางมูลนาก",
+        "cityLabel": "Bang Mun Nak",
+        "population": "8756"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q13025357",
+        "native": "เทศบาลเมืองบัวขาว",
+        "cityLabel": "Bua Khao",
+        "population": "11753"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q15980702",
+        "native": "เทศบาลเมืองเสนา",
+        "cityLabel": "Sena",
+        "population": "4060"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q13025359",
+        "native": "เทศบาลเมืองท่าบ่อ",
+        "cityLabel": "Tha Bo",
+        "population": "18320"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q4853694",
+        "native": "เทศบาลเมืองบ้านโป่ง",
+        "cityLabel": "Ban Pong",
+        "population": "17692"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q13025378",
+        "native": "เทศบาลเมืองปากพนัง",
+        "cityLabel": "Pak Phanang",
+        "population": "20425"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q13025398",
+        "native": "เทศบาลเมืองหนองปรือ",
+        "cityLabel": "Nong Prue",
+        "population": "70594"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q1013447",
+        "native": "เทศบาลเมืองสวรรคโลก",
+        "cityLabel": "Sawankhalok",
+        "population": "17148"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q16363550",
+        "native": "เทศบาลเมืองบางระจัน",
+        "cityLabel": "Bang Rachan",
+        "population": "14577"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q7678201",
+        "native": "เทศบาลเมืองตาคลี",
+        "cityLabel": "Takhli",
+        "population": "24563"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q997062",
+        "native": "เทศบาลเมืองชัยภูมิ",
+        "cityLabel": "Chaiyaphum",
+        "population": "36923"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q13025381",
+        "native": "เทศบาลเมืองพนัสนิคม",
+        "cityLabel": "Phanat Nikhom",
+        "population": "11032"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q13025369",
+        "native": "เทศบาลเมืองบ้านดุง",
+        "cityLabel": "Ban Dung",
+        "population": "15913"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q15629541",
+        "native": "เทศบาลเมืองกะทู้",
+        "cityLabel": "Kathu",
+        "population": "26078"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q11980393",
+        "native": "เทศบาลเมืองกันทรลักษ์",
+        "cityLabel": "Kantharalak",
+        "population": "19392"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q15147902",
+        "native": "เทศบาลเมืองโนนสูง-น้ำคำ",
+        "cityLabel": "Non Sung - Nam Kham",
+        "population": "10132"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q52028",
+        "native": "เทศบาลนครเชียงใหม่",
+        "cityLabel": "Chiang Mai",
+        "population": "132634"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q777162",
+        "native": "เทศบาลเมืองนครพนม",
+        "cityLabel": "Nakhon Phanom",
+        "population": "26437"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q27943194",
+        "native": "เทศบาลเมืองทุ่งตำเสา",
+        "cityLabel": "Thung Tam Sao",
+        "population": "16344"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q927810",
+        "native": "เทศบาลเมืองชะอำ",
+        "cityLabel": "Cha-am",
+        "population": "35581"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q13025379",
+        "native": "เทศบาลเมืองปู่เจ้าสมิงพราย",
+        "cityLabel": "Pu Chao Saming Phrai",
+        "population": "76658"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q15980695",
+        "native": "เทศบาลเมืองหล่มสัก",
+        "cityLabel": "Lom Sak",
+        "population": "12290"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q13025358",
+        "native": "เทศบาลเมืองตะกั่วป่า",
+        "cityLabel": "Takua Pa",
+        "population": "8815"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q1012440",
+        "native": "เทศบาลเมืองระนอง",
+        "cityLabel": "Ranong",
+        "population": "16125"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q15154234",
+        "native": "เทศบาลเมืองนาสาร",
+        "cityLabel": "Na San",
+        "population": "19801"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q13025382",
+        "native": "เทศบาลเมืองพิบูลมังสาหาร",
+        "cityLabel": "Phibun Mangsahan",
+        "population": "10842"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q1012635",
+        "native": "เทศบาลเมืองกาฬสินธุ์",
+        "cityLabel": "Kalasin",
+        "population": "34437"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q27565344",
+        "native": "เทศบาลเมืองคลองแห",
+        "cityLabel": "Khlong Hae",
+        "population": "34923"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q598784",
+        "native": "เทศบาลเมืองเลย",
+        "cityLabel": "Loei",
+        "population": "22339"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q15264893",
+        "native": "เทศบาลเมืองบ้านไผ่",
+        "cityLabel": "Ban Phai",
+        "population": "28913"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q2900126",
+        "native": "เทศบาลเมืองเบตง",
+        "cityLabel": "Betong",
+        "population": "26640"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q667576",
+        "native": "เทศบาลเมืองหัวหิน",
+        "cityLabel": "Hua Hin",
+        "population": "59369"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q15980683",
+        "native": "เทศบาลเมืองชุมแสง",
+        "cityLabel": "Chum Saeng",
+        "population": "8426"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q6900669",
+        "native": "เทศบาลเมืองแม่เหียะ",
+        "cityLabel": "Mae Hia",
+        "population": "18564"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q530241",
+        "native": "เทศบาลเมืองอ่างทอง",
+        "cityLabel": "Ang Thong",
+        "population": "13277"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q15217707",
+        "native": "เทศบาลเมืองกระทุ่มล้ม",
+        "cityLabel": "Krathum Lom",
+        "population": "24237"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q15980698",
+        "native": "เทศบาลเมืองตะพานหิน",
+        "cityLabel": "Taphan Hin",
+        "population": "15329"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q11980574",
+        "native": "เทศบาลเมืองคลองหลวง",
+        "cityLabel": "Khlong Luang",
+        "population": "56128"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q13025375",
+        "native": "เทศบาลเมืองปากน้ำสมุทรปราการ",
+        "cityLabel": "Pak Nam Samut Prakan",
+        "population": "28016"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q13025371",
+        "native": "เทศบาลเมืองปากช่อง",
+        "cityLabel": "Pak Chong",
+        "population": "35736"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q13025272",
+        "native": "เทศบาลเมืองศรีสัชนาลัย",
+        "cityLabel": "Si Satchanalai",
+        "population": "15691"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q1014345",
+        "native": "เทศบาลเมืองน่าน",
+        "cityLabel": "Nan",
+        "population": "20595"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q13025370",
+        "native": "เทศบาลเมืองบ้านสวน",
+        "cityLabel": "Ban Suan",
+        "population": "66092"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q637500",
+        "native": "เทศบาลเมืองชุมพร",
+        "cityLabel": "Chumphon",
+        "population": "33516"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q13025411",
+        "native": "เทศบาลเมืองแสนสุข",
+        "cityLabel": "Saen Suk",
+        "population": "45142"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q6664179",
+        "native": "เทศบาลเมืองนางรอง",
+        "cityLabel": "Nang Rong",
+        "population": "21493"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q15999229",
+        "native": "เทศบาลเมืองบ้านฉาง",
+        "cityLabel": "Ban Chang",
+        "population": "27668"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q1026368",
+        "native": "เทศบาลเมืองฉะเชิงเทรา",
+        "cityLabel": "Chachoengsao",
+        "population": "39570"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q15980680",
+        "native": "เทศบาลเมืองขลุง",
+        "cityLabel": "Khlung",
+        "population": "11073"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q15199303",
+        "native": "เทศบาลเมืองทุ่งสง",
+        "cityLabel": "Thung Song",
+        "population": "30500"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q13025263",
+        "native": "เทศบาลเมืองล้อมแรด",
+        "cityLabel": "Lom Raet",
+        "population": "15360"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q1025966",
+        "native": "เทศบาลเมืองปัตตานี",
+        "cityLabel": "Pattani",
+        "population": "44234"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q641383",
+        "native": "เทศบาลเมืองเพชรบุรี",
+        "cityLabel": "Phetchaburi",
+        "population": "23235"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q13025389",
+        "native": "เทศบาลเมืองลัดหลวง",
+        "cityLabel": "Lat Luang",
+        "population": "73898"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q15225134",
+        "native": "เทศบาลเมืองแก่งคอย",
+        "cityLabel": "Kaeng Khoi",
+        "population": "12752"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q686387",
+        "native": "เทศบาลเมืองสระบุรี",
+        "cityLabel": "Saraburi",
+        "population": "61750"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q13025413",
+        "native": "เทศบาลเมืองไร่ขิง",
+        "cityLabel": "Rai Khing",
+        "population": "28144"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q2960445",
+        "native": "เทศบาลเมืองกำแพงเพชร",
+        "cityLabel": "Kamphaeng Phet",
+        "population": "29178"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q13025363",
+        "native": "เทศบาลเมืองบัวใหญ่",
+        "cityLabel": "Bua Yai",
+        "population": "14168"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q15216155",
+        "native": "เทศบาลเมืองกระทุ่มแบน",
+        "cityLabel": "Krathum Baen",
+        "population": "21904"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q743005",
+        "native": "เทศบาลเมืองแม่ฮ่องสอน",
+        "cityLabel": "Mae Hong Son",
+        "population": "6526"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q13025360",
+        "native": "เทศบาลเมืองนครปฐม",
+        "cityLabel": "Nakhon Pathom",
+        "population": "12572"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q13025400",
+        "native": "เทศบาลเมืองสีคิ้ว",
+        "cityLabel": "Sikhio",
+        "population": "18209"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q6900620",
+        "native": "เทศบาลเมืองท่าข้าม",
+        "cityLabel": "Tha Kham",
+        "population": "19939"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q13025367",
+        "native": "เทศบาลเมืองบางศรีเมือง",
+        "cityLabel": "Bang Si Mueang",
+        "population": "30750"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q13025401",
+        "native": "เทศบาลเมืองเขลางค์นคร",
+        "cityLabel": "Khelang Nakhon",
+        "population": "60412"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q15272853",
+        "native": "เทศบาลเมืองดอกคำใต้",
+        "cityLabel": "Dok Khamtai",
+        "population": "13450"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q15265045",
+        "native": "เทศบาลเมืองวังสะพุง",
+        "cityLabel": "Wang Saphung",
+        "population": "11992"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q1015899",
+        "native": "เทศบาลเมืองจันทบุรี",
+        "cityLabel": "Chanthaburi",
+        "population": "23835"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q24573306",
+        "native": "เทศบาลเมืองอรัญญิก",
+        "cityLabel": "Aranyik",
+        "population": "29825"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q13025414",
+        "native": "เทศบาลเมืองโพธาราม",
+        "cityLabel": "Photharam",
+        "population": "9575"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q13025374",
+        "native": "เทศบาลเมืองปรกฟ้า",
+        "cityLabel": "Prok Fa",
+        "population": "14218"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q3809214",
+        "native": "เทศบาลเมืองมาบตาพุด",
+        "cityLabel": "Map Ta Phut",
+        "population": "60928"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q13025353",
+        "native": "เทศบาลเมืองชุมแพ",
+        "cityLabel": "Chum Phae",
+        "population": "31597"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q13025348",
+        "native": "เทศบาลเมืองกันตัง",
+        "cityLabel": "Kantang",
+        "population": "12533"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q6485624",
+        "native": "เทศบาลเมืองหลังสวน",
+        "cityLabel": "Lang Suan",
+        "population": "11250"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q15310409",
+        "native": "เทศบาลเมืองเดชอุดม",
+        "cityLabel": "Det Udom",
+        "population": "14264"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q535747",
+        "native": "เทศบาลเมืองนราธิวาส",
+        "cityLabel": "Narathiwat",
+        "population": "41342"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q978805",
+        "native": "เทศบาลเมืองสุพรรณบุรี",
+        "cityLabel": "Suphanburi",
+        "population": "26164"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q1017730",
+        "native": "เทศบาลเมืองยโสธร",
+        "cityLabel": "Yasothon",
+        "population": "20414"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q1017743",
+        "native": "เทศบาลเมืองมุกดาหาร",
+        "cityLabel": "Mukdahan",
+        "population": "33102"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q1026138",
+        "native": "เทศบาลเมืองหนองคาย",
+        "cityLabel": "Nong Khai",
+        "population": "48274"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q15383135",
+        "native": "เทศบาลเมืองดอนสัก",
+        "cityLabel": "Don Sak",
+        "population": "11934"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q41798807",
+        "native": "เทศบาลตำบลสมหวัง",
+        "cityLabel": "Som Wang",
+        "population": "4653"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q44055611",
+        "native": "เทศบาลตำบลพันดอน",
+        "cityLabel": "Phan Don",
+        "population": "5703"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q37788230",
+        "native": "เทศบาลตำบลกุสุมาลย์",
+        "cityLabel": "Kusuman",
+        "population": "4166"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q1207145",
+        "native": "เทศบาลเมืองแพร่",
+        "cityLabel": "Phrae",
+        "population": "16668"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q37789980",
+        "native": "เทศบาลตำบลวาริชภูมิ",
+        "cityLabel": "Waritchaphum",
+        "population": "2787"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q1365804",
+        "native": "เทศบาลเมืองปราจีนบุรี",
+        "cityLabel": "Prachin Buri",
+        "population": "17768"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q43254491",
+        "native": "เทศบาลตำบลกุมภวาปี",
+        "cityLabel": "Kumphawapi",
+        "population": "8667"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q15966545",
+        "native": "เทศบาลตำบลโคกสวาย",
+        "cityLabel": "Khok Sawai",
+        "population": "5480"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q20203631",
+        "native": "เทศบาลตำบลสุนทรภู่",
+        "cityLabel": "Sunthon Phu",
+        "population": "15006"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q179539",
+        "native": "เทศบาลเมืองพัทลุง",
+        "cityLabel": "Phatthalung",
+        "population": "35039"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q19858139",
+        "native": "เทศบาลตำบลปากปวน",
+        "cityLabel": "Pak Puan",
+        "population": "7956"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q1367916",
+        "native": "เทศบาลเมืองสระแก้ว",
+        "cityLabel": "Sa Kaeo",
+        "population": "17864"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q30091900",
+        "native": "เทศบาลตำบลบ้านใหม่ไชยพจน์",
+        "cityLabel": "Ban Mai Chaiyaphot",
+        "population": "4303"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q47016496",
+        "native": "เทศบาลตำบลบ้านเดื่อ",
+        "cityLabel": "Ban Duea",
+        "population": "15463"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q20680206",
+        "native": "เทศบาลตำบลหนองไผ่",
+        "cityLabel": "Nong Phai",
+        "population": "7813"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q21914307",
+        "native": "เทศบาลตำบลนาคำไฮ",
+        "cityLabel": "Na Kham Hai",
+        "population": "5079"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q17320422",
+        "native": "เทศบาลตำบลจานแสนไชย",
+        "cityLabel": "Chan Saen Chai",
+        "population": "7220"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q15899774",
+        "native": "เทศบาลตำบลหนองหัวฟาน",
+        "cityLabel": "Hua Fan",
+        "population": "4865"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q19825965",
+        "native": "เทศบาลตำบลจันทบเพชร",
+        "cityLabel": "Chanthop Phet",
+        "population": "7695"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q43975459",
+        "native": "เทศบาลตำบลวังสวรรค์",
+        "cityLabel": "Wang Sawan",
+        "population": "2549"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q18279726",
+        "native": "เทศบาลตำบลโนนสว่าง",
+        "cityLabel": "Non Sawang",
+        "population": "6832"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q1207432",
+        "native": "เทศบาลเมืองศรีสะเกษ",
+        "cityLabel": "Si Sa Ket",
+        "population": "42405"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q21150906",
+        "native": "เทศบาลตำบลจรเข้สามพัน",
+        "cityLabel": "Chorakhe Sam Phan",
+        "population": "13157"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q1207138",
+        "native": "เทศบาลเมืองราชบุรี",
+        "cityLabel": "Ratchaburi",
+        "population": "36339"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q18515630",
+        "native": "เทศบาลตำบลสังขะ",
+        "cityLabel": "Sangkha",
+        "population": "3920"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q37789455",
+        "native": "เทศบาลตำบลพรรณานคร",
+        "cityLabel": "Phanna Nakhon",
+        "population": "6137"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q37416704",
+        "native": "เทศบาลตำบลโคกสี",
+        "cityLabel": "Khok Si",
+        "population": "11456"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q42108582",
+        "native": "เทศบาลตำบลวังเหนือ",
+        "cityLabel": "Wang Nuea",
+        "population": "2150"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q15896459",
+        "native": "เทศบาลตำบลกุดจิก",
+        "cityLabel": "Kut Chik",
+        "population": "2679"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q47067537",
+        "native": "เทศบาลตำบลห้วยเกิ้ง",
+        "cityLabel": "Huai Koeng",
+        "population": "5424"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q20876671",
+        "native": "เทศบาลตำบลพรหมบุรี",
+        "cityLabel": "Phrom Buri",
+        "population": "3274"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q37420151",
+        "native": "เทศบาลตำบลหนองหลวง",
+        "cityLabel": "Nong Luang",
+        "population": "8249"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q51748828",
+        "native": "เทศบาลตำบลบางทราย",
+        "cityLabel": "Bang Sai",
+        "population": "12269"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q21278778",
+        "native": "เทศบาลตำบลท่าพระ",
+        "cityLabel": "Tha Phra",
+        "population": "9170"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q16746771",
+        "native": "เทศบาลตำบลหินดาด",
+        "cityLabel": "Hin Dat",
+        "population": "2829"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q37424104",
+        "native": "เทศบาลตำบลบ้านต้าย",
+        "cityLabel": "Ban Tai",
+        "population": "6438"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q16022987",
+        "native": "เทศบาลตำบลดำเนินสะดวก",
+        "cityLabel": "Damnoen Saduak",
+        "population": "7943"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q21116551",
+        "native": "เทศบาลตำบลท่าศาลา",
+        "cityLabel": "Tha Sala",
+        "population": "14591"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q373340",
+        "native": "เทศบาลเมืองประจวบคีรีขันธ์",
+        "cityLabel": "Prachuap Khiri Khan",
+        "population": "54018"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q27898006",
+        "native": "เทศบาลตำบลลิ้นฟ้า",
+        "cityLabel": "Lin Fa",
+        "population": "4531"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q44973203",
+        "native": "เทศบาลตำบลบ้านโพน",
+        "cityLabel": "Ban Phon",
+        "population": "6528"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q19943614",
+        "native": "เทศบาลตำบลบ้านกรวดปัญญาวัฒน์",
+        "cityLabel": "Ban Kruat Panyawat",
+        "population": "9065"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q1207067",
+        "native": "เทศบาลเมืองสุรินทร์",
+        "cityLabel": "Surin",
+        "population": "39728"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q1210731",
+        "native": "เทศบาลเมืองมหาสารคาม",
+        "cityLabel": "Maha Sarakham",
+        "population": "52866"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q473674",
+        "native": "เทศบาลเมืองอำนาจเจริญ",
+        "cityLabel": "Amnat Charoen",
+        "population": "26305"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q28654902",
+        "native": "เทศบาลตำบลบ้านแฮด",
+        "cityLabel": "Ban Haet",
+        "population": "6722"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q1363891",
+        "native": "เทศบาลเมืองลพบุรี",
+        "cityLabel": "Lopburi",
+        "population": "24166"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q19823085",
+        "native": "เทศบาลตำบลบ้านกรวด",
+        "cityLabel": "Ban Kruat",
+        "population": "4014"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q18278180",
+        "native": "เทศบาลตำบลสวนขัน",
+        "cityLabel": "Suan Khan",
+        "population": "5036"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q15911858",
+        "native": "เทศบาลตำบลนาจาน",
+        "cityLabel": "Na Chan",
+        "population": "9995"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q50309145",
+        "native": "เทศบาลตำบลภูผาแดง",
+        "cityLabel": "Phu Pha Daeng",
+        "population": "8481"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q28944154",
+        "native": "เทศบาลตำบลตลาดนิคมปราสาท",
+        "cityLabel": "Talat Nikhom Prasat",
+        "population": "4821"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q41776289",
+        "native": "เทศบาลตำบลอูบมุง",
+        "cityLabel": "Up Mung",
+        "population": "8556"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q45215019",
+        "native": "เทศบาลตำบลบ้านตาด",
+        "cityLabel": "Ban Tat",
+        "population": "12760"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q15890145",
+        "native": "เทศบาลตำบลท่าเยี่ยม",
+        "cityLabel": "Tha Yiam",
+        "population": "10785"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q1207122",
+        "native": "เทศบาลเมืองพะเยา",
+        "cityLabel": "Phayao",
+        "population": "17467"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q1207017",
+        "native": "เทศบาลเมืองหนองบัวลำภู",
+        "cityLabel": "Nong Bua Lam Phu",
+        "population": "21528"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q49168904",
+        "native": "เทศบาลตำบลท่าวุ้ง",
+        "cityLabel": "Tha Wung",
+        "population": "2233"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q16859565",
+        "native": "เทศบาลตำบลผักไหม",
+        "cityLabel": "Phak Mai",
+        "population": "7835"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q41624864",
+        "native": "เทศบาลตำบลโพหัก",
+        "cityLabel": "Pho Hak",
+        "population": "10614"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q1211214",
+        "native": "เทศบาลเมืองลำพูน",
+        "cityLabel": "Lamphun",
+        "population": "12595"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q42171411",
+        "native": "เทศบาลตำบลโคกสูง",
+        "cityLabel": "Khok Sung",
+        "population": "8832"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q45733759",
+        "native": "เทศบาลตำบลหนองตำลึง",
+        "cityLabel": "Nong Tamlueng",
+        "population": "18110"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q51135838",
+        "native": "เทศบาลตำบลหลวงเหนือ",
+        "cityLabel": "Luang Nuea",
+        "population": "4362"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q1210752",
+        "native": "เทศบาลเมืองสิงห์บุรี",
+        "cityLabel": "Sing Buri",
+        "population": "17843"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q27943195",
+        "native": "เทศบาลตำบลกระบี่น้อย",
+        "cityLabel": "Krabi Noi",
+        "population": "16673"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q44970001",
+        "native": "เทศบาลตำบลนาแก้ว",
+        "cityLabel": "Na Kaeo",
+        "population": "11281"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q1770801",
+        "native": "เทศบาลเมืองสุไหงโกลก",
+        "cityLabel": "Su-ngai Kolok",
+        "population": "41590"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q1365723",
+        "native": "เทศบาลเมืองปทุมธานี",
+        "cityLabel": "Pathum Thani",
+        "population": "22948"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q22682168",
+        "native": "เทศบาลตำบลเกล็ดแก้ว",
+        "cityLabel": "Klet Kaeo",
+        "population": "14089"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q18562219",
+        "native": "เทศบาลตำบลหอไกร",
+        "cityLabel": "Ho Krai",
+        "population": "6118"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q15899767",
+        "native": "เทศบาลตำบลโนนเมือง",
+        "cityLabel": "Non Mueang",
+        "population": "3987"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q45260469",
+        "native": "เทศบาลตำบลบ้านจั่น",
+        "cityLabel": "Ban Chan",
+        "population": "6850"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q15904519",
+        "native": "เทศบาลตำบลบางพลับ",
+        "cityLabel": "Bang Phlap",
+        "population": "9434"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q27943198",
+        "native": "เทศบาลตำบลสะอาด",
+        "cityLabel": "Sa-at",
+        "population": "9792"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q37788902",
+        "native": "เทศบาลตำบลอากาศอำนวย",
+        "cityLabel": "Akat Amnuai",
+        "population": "9070"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q239121",
+        "native": "เทศบาลเมืองกาญจนบุรี",
+        "cityLabel": "Kanchanaburi",
+        "population": "29581"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q1361155",
+        "native": "เทศบาลเมืองสมุทรสงคราม",
+        "cityLabel": "Samut Songkhram",
+        "population": "28493"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q1365823",
+        "native": "เทศบาลเมืองพิจิตร",
+        "cityLabel": "Phichit",
+        "population": "22299"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q37790285",
+        "native": "เทศบาลตำบลพังโคนศรีจำปา",
+        "cityLabel": "Phang Khon Si Champa",
+        "population": "7350"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q37418960",
+        "native": "เทศบาลตำบลพันนา",
+        "cityLabel": "Phan Na",
+        "population": "6857"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q45215299",
+        "native": "เทศบาลตำบลพิมพา",
+        "cityLabel": "Phimpha",
+        "population": "3346"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q42745713",
+        "native": "เทศบาลตำบลทุ่งฝน",
+        "cityLabel": "Thung Fon",
+        "population": "7343"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q23304273",
+        "native": "เทศบาลตำบลม่วงสามสิบ",
+        "cityLabel": "Muang Sam Sip",
+        "population": "3332"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q37790738",
+        "native": "เทศบาลตำบลวานรนิวาส",
+        "cityLabel": "Wanon Niwat",
+        "population": "6020"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q204587",
+        "native": "เทศบาลเมืองพังงา",
+        "cityLabel": "Phang Nga",
+        "population": "10412"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q1359241",
+        "native": "เทศบาลเมืองอุตรดิตถ์",
+        "cityLabel": "Uttaradit",
+        "population": "33930"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q1332721",
+        "native": "เทศบาลเมืองอุทัยธานี",
+        "cityLabel": "Uthai Thani",
+        "population": "15434"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q37423392",
+        "native": "เทศบาลตำบลบงใต้",
+        "cityLabel": "Bong Tai",
+        "population": "10168"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q49169724",
+        "native": "เทศบาลตำบลบ้านเป็ด",
+        "cityLabel": "Ban Pet",
+        "population": "42772"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q43129592",
+        "native": "เทศบาลตำบลโนนสะอาด",
+        "cityLabel": "Non Sa-at",
+        "population": "4717"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q49169136",
+        "native": "เทศบาลตำบลหนองบัว",
+        "cityLabel": "Nong Bua",
+        "population": "6180"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q26268069",
+        "native": "เทศบาลตำบลบ้านต๋อม",
+        "cityLabel": "Ban Tom",
+        "population": "12586"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q27943197",
+        "native": "เทศบาลตำบลนาดี",
+        "cityLabel": "Na Di",
+        "population": "6594"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q22693745",
+        "native": "เทศบาลตำบลเรณูนคร",
+        "cityLabel": "Renu Nakhon",
+        "population": "4939"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q37422376",
+        "native": "เทศบาลตำบลดอนเขือง",
+        "cityLabel": "Don Khueang",
+        "population": "4410"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q45032348",
+        "native": "เทศบาลตำบลกุดบาก",
+        "cityLabel": "Kut Bak",
+        "population": "5112"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q41074460",
+        "native": "เทศบาลตำบลดงมะไฟ",
+        "cityLabel": "Dong Mafai",
+        "population": "6083"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q21665598",
+        "native": "เทศบาลตำบลกุดดู่",
+        "cityLabel": "Kut Du",
+        "population": "2877"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q23009156",
+        "native": "เทศบาลตำบลท่าอุเทน",
+        "cityLabel": "Tha Uthen",
+        "population": "4914"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q16267152",
+        "native": "เทศบาลตำบลศาลายา",
+        "cityLabel": "Salaya",
+        "population": "11318"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q16859276",
+        "native": "เทศบาลตำบลแวงน่าง",
+        "cityLabel": "Waeng Nang",
+        "population": "5454"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q21509765",
+        "native": "เทศบาลตำบลป่าสัก",
+        "cityLabel": "Pa Sak",
+        "population": "13589"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q37854216",
+        "native": "เทศบาลตำบลบ้านแก้ง",
+        "cityLabel": "Ban Kaeng",
+        "population": "14529"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q15904167",
+        "native": "เทศบาลตำบลเทพาลัย",
+        "cityLabel": "Thephalai",
+        "population": "2882"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q30095154",
+        "native": "เทศบาลตำบลกระจับ",
+        "cityLabel": "Krachap",
+        "population": "7911"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q1211346",
+        "native": "เทศบาลเมืองเพชรบูรณ์",
+        "cityLabel": "Phetchabun",
+        "population": "22121"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q21914293",
+        "native": "เทศบาลตำบลนามะเฟือง",
+        "cityLabel": "Na Mafueang",
+        "population": "4096"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q51726627",
+        "native": "เทศบาลตำบลนาป่า",
+        "cityLabel": "Na Pa",
+        "population": "38548"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q16262992",
+        "native": "เทศบาลตำบลเชียงคำ",
+        "cityLabel": "Chiang Kham",
+        "population": "7005"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q38887490",
+        "native": "เทศบาลตำบลซำสูง",
+        "cityLabel": "Sam Sung",
+        "population": "5310"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q47517363",
+        "native": "เทศบาลตำบลดอนหัวฬ่อ",
+        "cityLabel": "Don Hua Lo",
+        "population": "11779"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q42156602",
+        "native": "เทศบาลตำบลบ้านเสด็จ",
+        "cityLabel": "Ban Sadet",
+        "population": "19210"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q37789131",
+        "native": "เทศบาลตำบลส่องดาว",
+        "cityLabel": "Song Dao",
+        "population": "4947"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q37854934",
+        "native": "เทศบาลตำบลโคกสูง",
+        "cityLabel": "Khok Sung",
+        "population": "4702"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q18290851",
+        "native": "เทศบาลตำบลบางพระ",
+        "cityLabel": "Bang Phra",
+        "population": "4482"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q15896488",
+        "native": "เทศบาลตำบลพันดุง",
+        "cityLabel": "Phan Dung",
+        "population": "5383"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q26689956",
+        "native": "เทศบาลตำบลทุ่งควายกิน",
+        "cityLabel": "Thung Khwai Kin",
+        "population": "6866"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q42171534",
+        "native": "เทศบาลตำบลบวกค้าง",
+        "cityLabel": "Buak Khang",
+        "population": "8112"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q15966556",
+        "native": "เทศบาลตำบลโนนสูง",
+        "cityLabel": "Non Sung",
+        "population": "9828"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q42171638",
+        "native": "เทศบาลตำบลบ่อพลับ",
+        "cityLabel": "Bo Phlap",
+        "population": "9281"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q37864271",
+        "native": "เทศบาลตำบลเทพสถิต",
+        "cityLabel": "Thep Sathit",
+        "population": "4013"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q28922656",
+        "native": "เทศบาลตำบลโกตาบารู",
+        "cityLabel": "Kota Baru",
+        "population": "5532"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q29342342",
+        "native": "เทศบาลตำบลดอนยายหอม",
+        "cityLabel": "Don Yai Hom",
+        "population": "6547"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q1365666",
+        "native": "เทศบาลเมืองสตูล",
+        "cityLabel": "Satun",
+        "population": "23612"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q20010333",
+        "native": "เทศบาลตำบลหลักเขต",
+        "cityLabel": "Lak Khet",
+        "population": "6702"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q37790483",
+        "native": "เทศบาลตำบลเจริญศิลป์",
+        "cityLabel": "Charoen Sin",
+        "population": "6871"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q18711717",
+        "native": "เทศบาลตำบลอ่าวลึกใต้",
+        "cityLabel": "Ao Luek Tai",
+        "population": "5880"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q20680182",
+        "native": "เทศบาลตำบลบางประมุง",
+        "cityLabel": "Bang Pramung",
+        "population": "5064"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q51950669",
+        "native": "เทศบาลตำบลหลวงใต้",
+        "cityLabel": "Luang Tai",
+        "population": "5675"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q15243208",
+        "native": "เทศบาลตำบลป่ากุมเกาะ",
+        "cityLabel": "Pa Kum Ko",
+        "population": "7946"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q15253729",
+        "native": "เทศบาลตำบลโนนเจริญ",
+        "cityLabel": "Non Charoen",
+        "population": "8494"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q15310428",
+        "native": "เทศบาลตำบลขามป้อม",
+        "cityLabel": "Kham Pom",
+        "population": "9209"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q15244581",
+        "native": "เทศบาลตำบลขามสะแกแสง",
+        "cityLabel": "Kham Sakaesaeng",
+        "population": "5385"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q17297862",
+        "native": "เทศบาลตำบลหนองแซง",
+        "cityLabel": "Nong Saeng",
+        "population": "2900"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q15839185",
+        "native": "เทศบาลตำบลเกาะพะงัน",
+        "cityLabel": "Ko Pha-ngan",
+        "population": "7035"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q15861702",
+        "native": "เทศบาลตำบลตลาดแค",
+        "cityLabel": "Talat Khae",
+        "population": "3602"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q16559902",
+        "native": "เทศบาลตำบลโพธิ์ชัย",
+        "cityLabel": "Pho Chai",
+        "population": "6682"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q15814018",
+        "native": "เทศบาลตำบลช้างซ้าย",
+        "cityLabel": "Chang Sai",
+        "population": "10763"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q15243204",
+        "native": "เทศบาลตำบลลานหอย",
+        "cityLabel": "Lan Hoi",
+        "population": "3836"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q16500043",
+        "native": "เทศบาลตำบลบางซ้าย",
+        "cityLabel": "Bang Sai",
+        "population": "5303"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q16325321",
+        "native": "เทศบาลตำบลละแม",
+        "cityLabel": "Lamae",
+        "population": "2957"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q15629539",
+        "native": "เทศบาลตำบลรัษฎา",
+        "cityLabel": "Ratsada",
+        "population": "45535"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q15272704",
+        "native": "เทศบาลตำบลขึ่ง",
+        "cityLabel": "Khueng",
+        "population": "4032"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q15629842",
+        "native": "เทศบาลตำบลเทพกระษัตรี",
+        "cityLabel": "Thep Krasatti",
+        "population": "7672"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q15839187",
+        "native": "เทศบาลตำบลเกาะเต่า",
+        "cityLabel": "Ko Tao",
+        "population": "2140"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q16390436",
+        "native": "เทศบาลตำบลมหาราช",
+        "cityLabel": "Maha Rat",
+        "population": "3312"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q15980713",
+        "native": "เทศบาลตำบลกบินทร์",
+        "cityLabel": "Kabin",
+        "population": "4172"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q15629589",
+        "native": "เทศบาลตำบลป่าคลอก",
+        "cityLabel": "Pa Khlok",
+        "population": "15060"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q15310482",
+        "native": "เทศบาลตำบลลำลูกกา",
+        "cityLabel": "Lam Luk Ka",
+        "population": "15881"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q15889803",
+        "native": "เทศบาลตำบลแม่สายมิตรภาพ",
+        "cityLabel": "Mae Sai Mittraphap",
+        "population": "9318"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q16000037",
+        "native": "เทศบาลตำบลลำไทร",
+        "cityLabel": "Lam Sai",
+        "population": "2748"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q15244558",
+        "native": "เทศบาลตำบลรังกาใหญ่",
+        "cityLabel": "Rang Ka Yai",
+        "population": "14488"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q15629555",
+        "native": "เทศบาลตำบลกะรน",
+        "cityLabel": "Karon",
+        "population": "8169"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q15240700",
+        "native": "เทศบาลตำบลนาเชือก",
+        "cityLabel": "Na Chueak",
+        "population": "3940"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q15260331",
+        "native": "เทศบาลตำบลแก้งคร้อ",
+        "cityLabel": "Kaeng Khro",
+        "population": "9012"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q15890137",
+        "native": "เทศบาลตำบลจระเข้หิน",
+        "cityLabel": "Chorakhe Hin",
+        "population": "6214"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q15890123",
+        "native": "เทศบาลตำบลอรพิมพ์",
+        "cityLabel": "Oraphim",
+        "population": "5940"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q15243206",
+        "native": "เทศบาลตำบลเมืองเก่า",
+        "cityLabel": "Mueang Kao",
+        "population": "7435"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q12010953",
+        "native": "เทศบาลตำบลยะหริ่ง",
+        "cityLabel": "Yaring",
+        "population": "6352"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q15885922",
+        "native": "เทศบาลตำบลสระพระ",
+        "cityLabel": "Sa Phra",
+        "population": "5536"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q15629557",
+        "native": "เทศบาลตำบลราไวย์",
+        "cityLabel": "Rawai",
+        "population": "16988"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q15244288",
+        "native": "เทศบาลตำบลท่าช้าง",
+        "cityLabel": "Tha Chang",
+        "population": "5050"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q15380573",
+        "native": "เทศบาลตำบลประโคนชัย",
+        "cityLabel": "Prakhon Chai",
+        "population": "10404"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q19001445",
+        "native": "เทศบาลตำบลเวียงพร้าว",
+        "cityLabel": "Wiang Phrao",
+        "population": "5014"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q16390169",
+        "native": "เทศบาลตำบลภาชี",
+        "cityLabel": "Phachi",
+        "population": "5595"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q16513029",
+        "native": "เทศบาลตำบลลาดบัวหลวง",
+        "cityLabel": "Lat Bua Luang",
+        "population": "2595"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q16325249",
+        "native": "เทศบาลตำบลบัลลังก์",
+        "cityLabel": "Banlang",
+        "population": "7957"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q15244613",
+        "native": "เทศบาลตำบลเมืองคง",
+        "cityLabel": "Mueang Khong",
+        "population": "2468"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q16440427",
+        "native": "เทศบาลตำบลอุทัย",
+        "cityLabel": "Uthai",
+        "population": "4954"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q15253733",
+        "native": "เทศบาลตำบลหนองตาด",
+        "cityLabel": "Nong Tat",
+        "population": "10953"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q15310423",
+        "native": "เทศบาลตำบลตาลสุม",
+        "cityLabel": "Tan Sum",
+        "population": "3267"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q15980682",
+        "native": "เทศบาลตำบลโคกสำโรง",
+        "cityLabel": "Khok Samrong",
+        "population": "6456"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q15980709",
+        "native": "เทศบาลตำบลเจ้าเจ็ด",
+        "cityLabel": "Chao Chet",
+        "population": "10711"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q15217704",
+        "native": "เทศบาลตำบลอ้อมใหญ่",
+        "cityLabel": "Om Yai",
+        "population": "23982"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q15244241",
+        "native": "เทศบาลตำบลตลาด",
+        "cityLabel": "Talat",
+        "population": "7184"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q16560106",
+        "native": "เทศบาลตำบลกวนวัน",
+        "cityLabel": "Kuan Wan",
+        "population": "4120"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q16558022",
+        "native": "เทศบาลตำบลหนองสองห้อง",
+        "cityLabel": "Nong Song Hong",
+        "population": "5349"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q15244626",
+        "native": "เทศบาลตำบลครบุรีใต้",
+        "cityLabel": "Khon Buri Tai",
+        "population": "7781"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q15738346",
+        "native": "เทศบาลตำบลท่าทองใหม่",
+        "cityLabel": "Tha Thong Mai",
+        "population": "6771"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q15814006",
+        "native": "เทศบาลตำบลช้างขวา",
+        "cityLabel": "Chang Khwa",
+        "population": "10075"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q15839184",
+        "native": "เทศบาลตำบลเพชรพะงัน",
+        "cityLabel": "Phet Pha-ngan",
+        "population": "4079"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q15980715",
+        "native": "เทศบาลตำบลเมืองแกลง",
+        "cityLabel": "Mueang Klaeng",
+        "population": "17764"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q16559846",
+        "native": "เทศบาลตำบลหาดคำ",
+        "cityLabel": "Hat Kham",
+        "population": "8575"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q15310472",
+        "native": "เทศบาลตำบลแม่จัน",
+        "cityLabel": "Mae Chan",
+        "population": "3733"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q15240697",
+        "native": "เทศบาลตำบลโคกพระ",
+        "cityLabel": "Khok Phra",
+        "population": "3630"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q16325318",
+        "native": "เทศบาลตำบลท่าแซะ",
+        "cityLabel": "Tha Sae",
+        "population": "2178"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q15244222",
+        "native": "เทศบาลตำบลปรุใหญ่",
+        "cityLabel": "Pru Yai",
+        "population": "9662"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q15244437",
+        "native": "เทศบาลตำบลสีมามงคล",
+        "cityLabel": "Sima Mongkhon",
+        "population": "8426"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q15688410",
+        "native": "เทศบาลตำบลวังหว้า",
+        "cityLabel": "Wang Wa",
+        "population": "5394"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q15303460",
+        "native": "เทศบาลตำบลบ้านโพธิ์",
+        "cityLabel": "Ban Pho",
+        "population": "9201"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q15222417",
+        "native": "เทศบาลตำบลลำนารายณ์",
+        "cityLabel": "Lam Narai",
+        "population": "16470"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q15688358",
+        "native": "เทศบาลตำบลศรีประจันต์",
+        "cityLabel": "Si Prachan",
+        "population": "6185"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q12005687",
+        "native": "เทศบาลตำบลท่ามะกา",
+        "cityLabel": "Tha Maka",
+        "population": "8093"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q15273763",
+        "native": "เทศบาลตำบลแม่สาย",
+        "cityLabel": "Mae Sai",
+        "population": "20699"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q15382312",
+        "native": "เทศบาลตำบลอัมพวา",
+        "cityLabel": "Amphawa",
+        "population": "5212"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q15271457",
+        "native": "เทศบาลตำบลสุเทพ",
+        "cityLabel": "Suthep",
+        "population": "16830"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q15244247",
+        "native": "เทศบาลตำบลไชยมงคล",
+        "cityLabel": "Chai Mongkhon",
+        "population": "7478"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q15303454",
+        "native": "เทศบาลตำบลจักราช",
+        "cityLabel": "Chakkarat",
+        "population": "4173"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q15244449",
+        "native": "เทศบาลตำบลหมูสี",
+        "cityLabel": "Mu Si",
+        "population": "12639"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q15221497",
+        "native": "เทศบาลตำบลอินทร์บุรี",
+        "cityLabel": "In Buri",
+        "population": "5032"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q15980693",
+        "native": "เทศบาลตำบลหลักหก",
+        "cityLabel": "Lak Hok",
+        "population": "19975"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q15980674",
+        "native": "เทศบาลตำบลบางคล้า",
+        "cityLabel": "Bang Khla",
+        "population": "9311"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q15273747",
+        "native": "เทศบาลตำบลสันมะเค็ด",
+        "cityLabel": "San Makhet",
+        "population": "10359"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q15272670",
+        "native": "เทศบาลตำบลคุ้งตะเภา",
+        "cityLabel": "Khung Taphao",
+        "population": "8888"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q16390164",
+        "native": "เทศบาลตำบลบ้านแพรก",
+        "cityLabel": "Ban Phraek",
+        "population": "2149"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q15980706",
+        "native": "เทศบาลตำบลท่าเรือ",
+        "cityLabel": "Tha Ruea",
+        "population": "6979"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q17093684",
+        "native": "เทศบาลตำบลโนนสมบูรณ์",
+        "cityLabel": "Non Sombun",
+        "population": "5964"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q15272689",
+        "native": "เทศบาลตำบลทุ่งช้าง",
+        "cityLabel": "Thung Chang",
+        "population": "3467"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q16611496",
+        "native": "เทศบาลตำบลศรีเชียงใหม่",
+        "cityLabel": "Si Chiang Mai",
+        "population": "7142"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q19698463",
+        "native": "เทศบาลตำบลจอมแจ้ง",
+        "cityLabel": "Chom Chaeng",
+        "population": "9334"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q15264898",
+        "native": "เทศบาลตำบลพระลับ",
+        "cityLabel": "Phra Lap",
+        "population": "22178"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q15738321",
+        "native": "เทศบาลตำบลวัดประดู่",
+        "cityLabel": "Wat Pradu",
+        "population": "15436"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q15738328",
+        "native": "เทศบาลตำบลขุนทะเล",
+        "cityLabel": "Khun Thale",
+        "population": "12885"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q15217902",
+        "native": "เทศบาลตำบลบ้านกร่าง",
+        "cityLabel": "Ban Krang",
+        "population": "5391"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q15890128",
+        "native": "เทศบาลตำบลไทรโยง-ไชยวาล",
+        "cityLabel": "Sai Yong - Chai Wan",
+        "population": "3676"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q15383176",
+        "native": "เทศบาลตำบลแม่ระมาด",
+        "cityLabel": "Mae Ramat",
+        "population": "4034"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q15244190",
+        "native": "เทศบาลตำบลโคกกรวด",
+        "cityLabel": "Khok Kruat",
+        "population": "7192"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q15216159",
+        "native": "เทศบาลตำบลนาดี",
+        "cityLabel": "Na Di",
+        "population": "24344"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q15272681",
+        "native": "เทศบาลตำบลเวียงสา",
+        "cityLabel": "Wiang Sa",
+        "population": "3110"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q15244255",
+        "native": "เทศบาลตำบลบ้านใหม่",
+        "cityLabel": "Ban Mai",
+        "population": "18255"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q15839181",
+        "native": "เทศบาลตำบลบ้านใต้",
+        "cityLabel": "Ban Tai",
+        "population": "3179"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q16956760",
+        "native": "เทศบาลตำบลเจดีย์แม่ครัว",
+        "cityLabel": "Chedi Mae Khrua",
+        "population": "7873"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q15996034",
+        "native": "เทศบาลตำบลบ้านค่าย",
+        "cityLabel": "Ban Khai",
+        "population": "3172"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q15814009",
+        "native": "เทศบาลตำบลกาญจนดิษฐ์",
+        "cityLabel": "Kanchanadit",
+        "population": "9492"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q15244502",
+        "native": "เทศบาลตำบลหนองน้ำใส",
+        "cityLabel": "Nong Nam Sai",
+        "population": "13037"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q15980677",
+        "native": "เทศบาลตำบลวัดสิงห์",
+        "cityLabel": "Wat Sing",
+        "population": "3638"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q15629844",
+        "native": "เทศบาลตำบลเชิงทะเล",
+        "cityLabel": "Choeng Thale",
+        "population": "6623"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q15303457",
+        "native": "เทศบาลตำบลพระทองคำ",
+        "cityLabel": "Phra Thong Kham",
+        "population": "4504"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q15997463",
+        "native": "เทศบาลตำบลชุมแสง",
+        "cityLabel": "Chum Saeng",
+        "population": "3769"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q15272693",
+        "native": "เทศบาลตำบลท่าวังผา",
+        "cityLabel": "Tha Wang Pha",
+        "population": "5242"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q15989171",
+        "native": "เทศบาลตำบลคำชะอี",
+        "cityLabel": "Khamcha-i",
+        "population": "2507"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q15272683",
+        "native": "เทศบาลตำบลปัว",
+        "cityLabel": "Pua",
+        "population": "10831"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q15629584",
+        "native": "เทศบาลตำบลศรีสุนทร",
+        "cityLabel": "Si Sunthon",
+        "population": "21191"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q11960114",
+        "native": "เทศบาลตำบลบ้านแพ้ว",
+        "cityLabel": "Ban Phaeo",
+        "population": "3020"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q15303427",
+        "native": "เทศบาลตำบลวัดธาตุ",
+        "cityLabel": "Wat That",
+        "population": "9754"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q18983379",
+        "native": "เทศบาลตำบลแม่อาย",
+        "cityLabel": "Mae Ai",
+        "population": "9699"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q15244617",
+        "native": "เทศบาลตำบลเสิงสาง",
+        "cityLabel": "Soeng Sang",
+        "population": "7756"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q15980673",
+        "native": "เทศบาลตำบลป่าโมก",
+        "cityLabel": "Pa Mok",
+        "population": "9300"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q17121366",
+        "native": "เทศบาลตำบลวังหิน",
+        "cityLabel": "Wang Hin",
+        "population": "4548"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q16000036",
+        "native": "เทศบาลตำบลบางเตย",
+        "cityLabel": "Bang Toei",
+        "population": "10164"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q15995629",
+        "native": "เทศบาลตำบลบ้านปลวกแดง",
+        "cityLabel": "Ban Pluak Daeng",
+        "population": "4897"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q15244542",
+        "native": "เทศบาลตำบลขามทะเลสอ",
+        "cityLabel": "Kham Thale So",
+        "population": "4186"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q17298358",
+        "native": "เทศบาลตำบลท่าหลวง",
+        "cityLabel": "Tha Luang",
+        "population": "9003"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q16515187",
+        "native": "เทศบาลตำบลบัวเชด",
+        "cityLabel": "Buachet",
+        "population": "6418"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q15688434",
+        "native": "เทศบาลตำบลวังน้ำซับ",
+        "cityLabel": "Wang Nam Sap",
+        "population": "6731"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q15258030",
+        "native": "เทศบาลตำบลสิ",
+        "cityLabel": "Si",
+        "population": "3896"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q15980694",
+        "native": "เทศบาลตำบลบางพูน",
+        "cityLabel": "Bang Phun",
+        "population": "24625"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q15814020",
+        "native": "เทศบาลตำบลกรูด",
+        "cityLabel": "Krut",
+        "population": "9695"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q15861673",
+        "native": "เทศบาลตำบลโชคชัย",
+        "cityLabel": "Chok Chai",
+        "population": "12568"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q15980716",
+        "native": "เทศบาลตำบลศรีพนมมาศ",
+        "cityLabel": "Si Phanom Mat",
+        "population": "3073"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q15629559",
+        "native": "เทศบาลตำบลฉลอง",
+        "cityLabel": "Chalong",
+        "population": "23612"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q15268904",
+        "native": "เทศบาลตำบลพยัคฆภูมิพิสัย",
+        "cityLabel": "Phayakkhaphum Phisai",
+        "population": "8308"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q15273756",
+        "native": "เทศบาลตำบลเวียงเชียงแสน",
+        "cityLabel": "Wiang Chiang Saen",
+        "population": "5030"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q15217897",
+        "native": "เทศบาลตำบลท้าวอู่ทอง",
+        "cityLabel": "Thao U Thong",
+        "population": "15632"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q16308052",
+        "native": "เทศบาลตำบลท่าข้าม",
+        "cityLabel": "Tha Kham",
+        "population": "5961"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q15244623",
+        "native": "เทศบาลตำบลแชะ",
+        "cityLabel": "Chae",
+        "population": "6345"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q15989168",
+        "native": "เทศบาลตำบลดอนตาล",
+        "cityLabel": "Don Tan",
+        "population": "2735"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q15995307",
+        "native": "เทศบาลตำบลมาบข่า",
+        "cityLabel": "Map Kha",
+        "population": "8519"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q15217904",
+        "native": "เทศบาลตำบลโพธิ์พระยา",
+        "cityLabel": "Pho Phraya",
+        "population": "3480"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q16325379",
+        "native": "เทศบาลตำบลกำเนิดนพคุณ",
+        "cityLabel": "Kamnoet Nopphakhun",
+        "population": "2865"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q15982805",
+        "native": "เทศบาลตำบลบางนอน",
+        "cityLabel": "Bang Non",
+        "population": "12466"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q15244588",
+        "native": "เทศบาลตำบลโนนไทย",
+        "cityLabel": "Non Thai",
+        "population": "3433"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q15989144",
+        "native": "เทศบาลตำบลนิคมคำสร้อย",
+        "cityLabel": "Nikhom Kham Soi",
+        "population": "6475"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q15257719",
+        "native": "เทศบาลตำบลสนม",
+        "cityLabel": "Sanom",
+        "population": "5074"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q15244029",
+        "native": "เทศบาลตำบลสูงเนิน",
+        "cityLabel": "Sung Noen",
+        "population": "10061"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q16335071",
+        "native": "เทศบาลตำบลศรีมหาโพธิ",
+        "cityLabel": "Si Maha Phot",
+        "population": "3518"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q11990772",
+        "native": "เทศบาลตำบลนากลาง",
+        "cityLabel": "Na Klang",
+        "population": "20609"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q15813145",
+        "native": "เทศบาลตำบลหนองบัวสะอาด",
+        "cityLabel": "Nong Bua Sa-at",
+        "population": "6829"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q15244570",
+        "native": "เทศบาลตำบลลำนางแก้ว",
+        "cityLabel": "Lam Nang Kaeo",
+        "population": "4716"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q15982811",
+        "native": "เทศบาลตำบลราชกรูด",
+        "cityLabel": "Ratchakrut",
+        "population": "8569"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q15310375",
+        "native": "เทศบาลตำบลพระสมุทรเจดีย์",
+        "cityLabel": "Phra Samut Chedi",
+        "population": "13082"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q15268937",
+        "native": "เทศบาลตำบลโพนทอง",
+        "cityLabel": "Phon Thong",
+        "population": "11739"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q16363568",
+        "native": "เทศบาลตำบลหนองม่วง",
+        "cityLabel": "Nong Muang",
+        "population": "5443"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q15244236",
+        "native": "เทศบาลตำบลเมืองใหม่โคกกรวด",
+        "cityLabel": "Mueang Mai Khok Kruat",
+        "population": "13515"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q16369161",
+        "native": "เทศบาลตำบลสระโบสถ์",
+        "cityLabel": "Sa Bot",
+        "population": "7477"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q15980663",
+        "native": "เทศบาลตำบลห้วยยอด",
+        "cityLabel": "Huai Yot",
+        "population": "12902"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q15244228",
+        "native": "เทศบาลตำบลหนองไผ่ล้อม",
+        "cityLabel": "Nong Phai Lom",
+        "population": "18518"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q13025252",
+        "native": "เทศบาลตำบลพยุห์",
+        "cityLabel": "Phayu",
+        "population": "4075"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q13025259",
+        "native": "เทศบาลตำบลมะขามคู่",
+        "cityLabel": "Makham Khu",
+        "population": "11228"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q13025292",
+        "native": "เทศบาลตำบลหลักช้าง",
+        "cityLabel": "Lak Chang",
+        "population": "7727"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q13025271",
+        "native": "เทศบาลตำบลสวนหลวง",
+        "cityLabel": "Suan Luang",
+        "population": "30318"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q14635071",
+        "native": "เทศบาลตำบลบ้านด่านโขงเจียม",
+        "cityLabel": "Ban Dan Khong Chiam",
+        "population": "2741"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q15197211",
+        "native": "เทศบาลตำบลวังไผ่",
+        "cityLabel": "Wang Phai",
+        "population": "6462"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q15106517",
+        "native": "เทศบาลตำบลบางปู",
+        "cityLabel": "Bang Pu",
+        "population": "120058"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q15199316",
+        "native": "เทศบาลตำบลชะมาย",
+        "cityLabel": "Chamai",
+        "population": "12968"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q13025251",
+        "native": "เทศบาลตำบลพนม",
+        "cityLabel": "Phanom",
+        "population": "5074"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q15207967",
+        "native": "เทศบาลตำบลนาวง",
+        "cityLabel": "Na Wong",
+        "population": "3850"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q15977653",
+        "native": "เทศบาลตำบลสีดา",
+        "cityLabel": "Sida",
+        "population": "3811"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q13025250",
+        "native": "เทศบาลตำบลป่าแงะ",
+        "cityLabel": "Pa Ngae",
+        "population": "7874"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q13025308",
+        "native": "เทศบาลตำบลหินตก",
+        "cityLabel": "Hin Tok",
+        "population": "8570"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q13025305",
+        "native": "เทศบาลตำบลอู่ทอง",
+        "cityLabel": "U Thong",
+        "population": "8237"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q13025249",
+        "native": "เทศบาลตำบลปากนคร",
+        "cityLabel": "Pak Nakhon",
+        "population": "6282"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q13025261",
+        "native": "เทศบาลตำบลลาดบัวขาว",
+        "cityLabel": "Lat Bua Khao",
+        "population": "4304"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q7047828",
+        "native": "เทศบาลตำบลนกออก",
+        "cityLabel": "Nok Ok",
+        "population": "5928"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q13025326",
+        "native": "เทศบาลตำบลแสลงโทน",
+        "cityLabel": "Salaeng Thon",
+        "population": "6096"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q13025291",
+        "native": "เทศบาลตำบลหัวทะเล",
+        "cityLabel": "Hua Thale",
+        "population": "26111"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q7710650",
+        "native": "เทศบาลตำบลธัญบุรี",
+        "cityLabel": "Thanyaburi",
+        "population": "58838"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q13025285",
+        "native": "เทศบาลตำบลหนองบัว",
+        "cityLabel": "Nong Bua",
+        "population": "32726"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q6470966",
+        "native": "เทศบาลตำบลแหลมทอง",
+        "cityLabel": "Laem Thong",
+        "population": "6052"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q5874079",
+        "native": "เทศบาลตำบลหอคำ",
+        "cityLabel": "Ho Kham",
+        "population": "7237"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q13025319",
+        "native": "เทศบาลตำบลเมืองขุขันธ์",
+        "cityLabel": "Mueang Khukhan",
+        "population": "4949"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q13025282",
+        "native": "เทศบาลตำบลหนองกราด",
+        "cityLabel": "Nong Krat",
+        "population": "4103"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q13025237",
+        "native": "เทศบาลตำบลบึงสำโรง",
+        "cityLabel": "Bueng Samrong",
+        "population": "5494"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q13025316",
+        "native": "เทศบาลตำบลเถินบุรี",
+        "cityLabel": "Thoen Buri",
+        "population": "6807"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q13025260",
+        "native": "เทศบาลตำบลพุดซา",
+        "cityLabel": "Phutsa",
+        "population": "9853"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q15199383",
+        "native": "เทศบาลตำบลเกาะทวด",
+        "cityLabel": "Ko Thuat",
+        "population": "5200"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q13025302",
+        "native": "เทศบาลตำบลเกาะเพชร",
+        "cityLabel": "Ko Phet",
+        "population": "6954"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q15208051",
+        "native": "เทศบาลตำบลท่ามะเดื่อ",
+        "cityLabel": "Tha Maduea",
+        "population": "4432"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q15199217",
+        "native": "เทศบาลตำบลฉวาง",
+        "cityLabel": "Chawang",
+        "population": "2669"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q15198896",
+        "native": "เทศบาลตำบลทุ่งใส",
+        "cityLabel": "Thung Sai",
+        "population": "10951"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q5213803",
+        "native": "เทศบาลตำบลด่านคล้า",
+        "cityLabel": "Dan Khla",
+        "population": "8540"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q6931931",
+        "native": "เทศบาลตำบลเมืองยาง",
+        "cityLabel": "Mueang Yang",
+        "population": "8235"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q13025324",
+        "native": "เทศบาลตำบลแหลมสัก",
+        "cityLabel": "Laem Sak",
+        "population": "4050"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q13025330",
+        "native": "เทศบาลตำบลโคกสูง",
+        "cityLabel": "Khok Sung",
+        "population": "10178"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q13025344",
+        "native": "เทศบาลตำบลไม้ยา",
+        "cityLabel": "Mai Ya",
+        "population": "10804"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q13025325",
+        "native": "เทศบาลตำบลเสาไห้",
+        "cityLabel": "Sao Hai",
+        "population": "3267"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q13025257",
+        "native": "เทศบาลตำบลศรีนคร",
+        "cityLabel": "Si Nakhon",
+        "population": "3273"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q15199337",
+        "native": "เทศบาลตำบลทุ่งสัง",
+        "cityLabel": "Thung Sang",
+        "population": "5525"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q15141380",
+        "native": "เทศบาลตำบลวิชิต",
+        "cityLabel": "Wichit",
+        "population": "46440"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q13025329",
+        "native": "เทศบาลตำบลเสาธงหิน",
+        "cityLabel": "Sao Thong Hin",
+        "population": "36676"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q15199289",
+        "native": "เทศบาลตำบลท่าประจะ",
+        "cityLabel": "Tha Pracha",
+        "population": "6168"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q13025332",
+        "native": "เทศบาลตำบลโนนแดง",
+        "cityLabel": "Non Daeng",
+        "population": "4576"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q13025303",
+        "native": "เทศบาลตำบลอิสาณ",
+        "cityLabel": "Isan",
+        "population": "18536"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q14211528",
+        "native": "เทศบาลตำบลช่องเม็ก",
+        "cityLabel": "Chong Mek",
+        "population": "3628"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q15154799",
+        "native": "เทศบาลตำบลน้ำจืด",
+        "cityLabel": "Nam Chuet",
+        "population": "3733"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q15059697",
+        "native": "เทศบาลตำบลวังกะ",
+        "cityLabel": "Wang Ka",
+        "population": "6877"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q13025287",
+        "native": "เทศบาลตำบลหมอนนาง",
+        "cityLabel": "Mon Nang",
+        "population": "13499"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q13025268",
+        "native": "เทศบาลตำบลร่อนพิบูลย์",
+        "cityLabel": "Ron Phibun",
+        "population": "8086"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q15977623",
+        "native": "เทศบาลตำบลบ้านนา",
+        "cityLabel": "Ban Na",
+        "population": "3397"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q15978637",
+        "native": "เทศบาลตำบลทุ่งหลวง",
+        "cityLabel": "Thung Luang",
+        "population": "10901"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q13025294",
+        "native": "เทศบาลตำบลหัวไทร",
+        "cityLabel": "Hua Sai",
+        "population": "4457"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q13025289",
+        "native": "เทศบาลตำบลหนองสาหร่าย",
+        "cityLabel": "Nong Sarai",
+        "population": "3561"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q13025270",
+        "native": "เทศบาลตำบลศิลาแลง",
+        "cityLabel": "Sila Laeng",
+        "population": "3958"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q13025278",
+        "native": "เทศบาลตำบลสิชล",
+        "cityLabel": "Sichon",
+        "population": "7027"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q15198866",
+        "native": "เทศบาลตำบลอ่าวขนอม",
+        "cityLabel": "Ao Khanom",
+        "population": "9263"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q13025327",
+        "native": "เทศบาลตำบลแม่ตาว",
+        "cityLabel": "Mae Tao",
+        "population": "6792"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q13025320",
+        "native": "เทศบาลตำบลเขาพระ",
+        "cityLabel": "Khao Phra",
+        "population": "8172"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q13025281",
+        "native": "เทศบาลตำบลสุรนารี",
+        "cityLabel": "Suranari",
+        "population": "17747"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q13025269",
+        "native": "เทศบาลตำบลสตึก",
+        "cityLabel": "Satuek",
+        "population": "11444"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q13025279",
+        "native": "เทศบาลตำบลหนองขนาน",
+        "cityLabel": "Nong Khanan",
+        "population": "6359"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q13025255",
+        "native": "เทศบาลตำบลพะวง",
+        "cityLabel": "Phawong",
+        "population": "30541"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q13025280",
+        "native": "เทศบาลตำบลสำโรงเหนือ",
+        "cityLabel": "Samrong Nuea",
+        "population": "30382"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q15141861",
+        "native": "เทศบาลตำบลเนินมะปราง",
+        "cityLabel": "Noen Maprang",
+        "population": "3455"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q15978508",
+        "native": "เทศบาลตำบลท่าชนะ",
+        "cityLabel": "Tha Chana",
+        "population": "3067"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q15212053",
+        "native": "เทศบาลตำบลบางเก่า",
+        "cityLabel": "Bang Kao",
+        "population": "4165"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q15978485",
+        "native": "เทศบาลตำบลพุมเรียง",
+        "cityLabel": "Phumriang",
+        "population": "7736"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q13025284",
+        "native": "เทศบาลตำบลหนองบัวตะเกียด",
+        "cityLabel": "Nong Bua Takiat",
+        "population": "8837"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q15978647",
+        "native": "เทศบาลตำบลเขานิพันธ์",
+        "cityLabel": "Khao Niphan",
+        "population": "6279"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q13025311",
+        "native": "เทศบาลตำบลเขาชุมทอง",
+        "cityLabel": "Khao Chum Thong",
+        "population": "4463"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q13025298",
+        "native": "เทศบาลตำบลหินกอง",
+        "cityLabel": "Hin Kong",
+        "population": "9320"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q13025299",
+        "native": "เทศบาลตำบลอุทุมพรพิสัย",
+        "cityLabel": "Uthumphon Phisai",
+        "population": "7417"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q13025346",
+        "native": "เทศบาลตำบลไทรน้อย",
+        "cityLabel": "Sai Noi",
+        "population": "2506"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q13025288",
+        "native": "เทศบาลตำบลหน้าสตน",
+        "cityLabel": "Na Saton",
+        "population": "8421"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q13025295",
+        "native": "เทศบาลตำบลหาดเจ้าสำราญ",
+        "cityLabel": "Hat Chao Samran",
+        "population": "4828"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q13025240",
+        "native": "เทศบาลตำบลบ้านบางม่วง",
+        "cityLabel": "Ban Bang Muang",
+        "population": "13786"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q15215166",
+        "native": "เทศบาลตำบลระแหง",
+        "cityLabel": "Rahaeng",
+        "population": "9643"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q15978653",
+        "native": "เทศบาลตำบลบ้านส้อง",
+        "cityLabel": "Ban Song",
+        "population": "17373"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q13025333",
+        "native": "เทศบาลตำบลโพธิ์ชัย",
+        "cityLabel": "Pho Chai",
+        "population": "6884"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q13025304",
+        "native": "เทศบาลตำบลเกาะแต้ว",
+        "cityLabel": "Ko Taeo",
+        "population": "11121"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q13025297",
+        "native": "เทศบาลตำบลหาดเสี้ยว",
+        "cityLabel": "Hat Siao",
+        "population": "6913"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q6401844",
+        "native": "เทศบาลตำบลคลองใหญ่",
+        "cityLabel": "Khlong Yai",
+        "population": "4913"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q15206494",
+        "native": "เทศบาลตำบลคูเต่า",
+        "cityLabel": "Khu Tao",
+        "population": "11085"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q13025315",
+        "native": "เทศบาลตำบลเขาแก้วศรีสมบูรณ์",
+        "cityLabel": "Khao Kaeo Si Sombun",
+        "population": "7967"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q13025307",
+        "native": "เทศบาลตำบลห้วยแถลง",
+        "cityLabel": "Huai Thalaeng",
+        "population": "3431"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q15199188",
+        "native": "เทศบาลตำบลปลายบาง",
+        "cityLabel": "Plai Bang",
+        "population": "39197"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q15978535",
+        "native": "เทศบาลตำบลท่าฉาง",
+        "cityLabel": "Tha Chang",
+        "population": "11108"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q13025254",
+        "native": "เทศบาลตำบลพิปูน",
+        "cityLabel": "Phipun",
+        "population": "2812"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q13025322",
+        "native": "เทศบาลตำบลเวียงพางคำ",
+        "cityLabel": "Wiang Phang Kham",
+        "population": "11569"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q13025313",
+        "native": "เทศบาลตำบลเขาย้อย",
+        "cityLabel": "Khao Yoi",
+        "population": "15416"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q13025283",
+        "native": "เทศบาลตำบลหนองจอก",
+        "cityLabel": "Nong Chok",
+        "population": "2768"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q7125389",
+        "native": "เทศบาลตำบลปักธงชัย",
+        "cityLabel": "Pak Thong Chai",
+        "population": "5251"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q13025310",
+        "native": "เทศบาลตำบลห้วยข้าวก่ำ",
+        "cityLabel": "Huai Khao Kam",
+        "population": "8498"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q15978514",
+        "native": "เทศบาลตำบลบ้านเชี่ยวหลาน",
+        "cityLabel": "Ban Chiao Lan",
+        "population": "4555"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q13025301",
+        "native": "เทศบาลตำบลเกาะสีชัง",
+        "cityLabel": "Ko Sichang",
+        "population": "4811"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q13025258",
+        "native": "เทศบาลตำบลวังใหม่",
+        "cityLabel": "Wang Mai",
+        "population": "8860"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q13025247",
+        "native": "เทศบาลตำบลปะลุรู",
+        "cityLabel": "Paluru",
+        "population": "8314"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q15199264",
+        "native": "เทศบาลตำบลกะทูน",
+        "cityLabel": "Kathun",
+        "population": "5573"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q1059194",
+        "native": "เทศบาลตำบลตลาดไชยา",
+        "cityLabel": "Talat Chaiya",
+        "population": "5216"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q13025245",
+        "native": "เทศบาลตำบลปรางค์กู่",
+        "cityLabel": "Prang Ku",
+        "population": "2891"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q13025277",
+        "native": "เทศบาลตำบลสันกำแพง",
+        "cityLabel": "San Kamphaeng",
+        "population": "17857"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q13025253",
+        "native": "เทศบาลตำบลพรหมโลก",
+        "cityLabel": "Phrommalok",
+        "population": "6823"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q13025340",
+        "native": "เทศบาลตำบลไม้เรียง",
+        "cityLabel": "Mai Riang",
+        "population": "2462"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q13025323",
+        "native": "เทศบาลตำบลเวียงฝาง",
+        "cityLabel": "Wiang Fang",
+        "population": "7284"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q15199267",
+        "native": "เทศบาลตำบลควนกลาง",
+        "cityLabel": "Khuan Klang",
+        "population": "4029"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q15199032",
+        "native": "เทศบาลตำบลขุนทะเล",
+        "cityLabel": "Khun Thale",
+        "population": "10245"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q15212108",
+        "native": "เทศบาลตำบลบ้านแหลม",
+        "cityLabel": "Ban Laem",
+        "population": "12541"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q7049350",
+        "native": "เทศบาลตำบลหนองหัวแรต",
+        "cityLabel": "Nong Hua Raet",
+        "population": "8950"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q5071051",
+        "native": "เทศบาลตำบลจันดี",
+        "cityLabel": "Chan Di",
+        "population": "7459"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q4985499",
+        "native": "เทศบาลตำบลบึงกาฬ",
+        "cityLabel": "Bueng Kan",
+        "population": "4729"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q13025286",
+        "native": "เทศบาลตำบลหนองแค",
+        "cityLabel": "Nong Khae",
+        "population": "12866"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q15978632",
+        "native": "เทศบาลตำบลย่านดินแดง",
+        "cityLabel": "Yan Din Daeng",
+        "population": "2646"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q15199329",
+        "native": "เทศบาลตำบลนาบอน",
+        "cityLabel": "Na Bon",
+        "population": "2808"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q13025262",
+        "native": "เทศบาลตำบลลำปลายมาศ",
+        "cityLabel": "Lam Plai Mat",
+        "population": "14815"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q13025331",
+        "native": "เทศบาลตำบลโพธิ์กลาง",
+        "cityLabel": "Pho Klang",
+        "population": "26804"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q13025273",
+        "native": "เทศบาลตำบลสระยายโสม",
+        "cityLabel": "Sa Yai Som",
+        "population": "3009"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q15198974",
+        "native": "เทศบาลตำบลโพธิ์เสด็จ",
+        "cityLabel": "Pho Sadet",
+        "population": "9512"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q7967605",
+        "native": "เทศบาลตำบลวังไทร",
+        "cityLabel": "Wang Sai",
+        "population": "11420"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q13025266",
+        "native": "เทศบาลตำบลวังบงค์",
+        "cityLabel": "Wang Bong",
+        "population": "3434"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q15199227",
+        "native": "เทศบาลตำบลปากน้ำฉวาง",
+        "cityLabel": "Pak Nam Chawang",
+        "population": "5316"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q13025314",
+        "native": "เทศบาลตำบลเชียงใหม่",
+        "cityLabel": "Chiang Mai",
+        "population": "8231"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q13025300",
+        "native": "เทศบาลตำบลห้วยทับทัน",
+        "cityLabel": "Huai Thap Than",
+        "population": "3268"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q15212080",
+        "native": "เทศบาลตำบลท่ายาง",
+        "cityLabel": "Tha Yang",
+        "population": "28437"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q13025341",
+        "native": "เทศบาลตำบลไพรบึง",
+        "cityLabel": "Phrai Bueng",
+        "population": "10864"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q806041",
+        "native": "เทศบาลตำบลบ้านเพ",
+        "cityLabel": "Ban Phe",
+        "population": "17116"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q15199281",
+        "native": "เทศบาลตำบลการะเกด",
+        "cityLabel": "Karaket",
+        "population": "6956"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q15977651",
+        "native": "เทศบาลตำบลบ้านเหลื่อม",
+        "cityLabel": "Ban Lueam",
+        "population": "3698"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q13025274",
+        "native": "เทศบาลตำบลศรีรัตนะ",
+        "cityLabel": "Si Rattana",
+        "population": "4799"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q13025242",
+        "native": "เทศบาลตำบลบ้านหลวง",
+        "cityLabel": "Ban Luang",
+        "population": "13301"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q15978511",
+        "native": "เทศบาลตำบลบ้านตาขุน",
+        "cityLabel": "Ban Ta Khun",
+        "population": "2447"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q15978542",
+        "native": "เทศบาลตำบลเวียงสระ",
+        "cityLabel": "Wiang Sa",
+        "population": "9904"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q13025241",
+        "native": "เทศบาลตำบลบ้านสวน",
+        "cityLabel": "Ban Suan",
+        "population": "4525"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q15199388",
+        "native": "เทศบาลตำบลชะเมา",
+        "cityLabel": "Chamao",
+        "population": "3572"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q13025243",
+        "native": "เทศบาลตำบลบ้านลาด",
+        "cityLabel": "Ban Lat",
+        "population": "3698"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q15199350",
+        "native": "เทศบาลตำบลท่ายาง",
+        "cityLabel": "Tha Yang",
+        "population": "5010"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q15977652",
+        "native": "เทศบาลตำบลประทาย",
+        "cityLabel": "Prathai",
+        "population": "6273"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q13025290",
+        "native": "เทศบาลตำบลหนองไข่น้ำ",
+        "cityLabel": "Nong Khai Nam",
+        "population": "6067"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q13224249",
+        "native": "เทศบาลตำบลไชยปราการ",
+        "cityLabel": "Chai Prakan",
+        "population": "16090"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q4986833",
+        "native": "เทศบาลตำบลบูเก๊ะตา",
+        "cityLabel": "Buke Ta",
+        "population": "4732"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q13025235",
+        "native": "เทศบาลตำบลบ่อปลาทอง",
+        "cityLabel": "Bo Pla Thong",
+        "population": "3695"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q15198942",
+        "native": "เทศบาลตำบลพรหมคีรี",
+        "cityLabel": "Phrom Khiri",
+        "population": "4829"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q13025239",
+        "native": "เทศบาลตำบลบ้านบัว",
+        "cityLabel": "Ban Bua",
+        "population": "9864"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q13025321",
+        "native": "เทศบาลตำบลเมืองพาน",
+        "cityLabel": "Mueang Phan",
+        "population": "6713"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q13025236",
+        "native": "เทศบาลตำบลบุสูง",
+        "cityLabel": "Bu Sung",
+        "population": "10063"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q13025293",
+        "native": "เทศบาลตำบลหัวสะพาน",
+        "cityLabel": "Hua Saphan",
+        "population": "6148"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q13025234",
+        "native": "เทศบาลตำบลบ้านกลาง",
+        "cityLabel": "Ban Klang",
+        "population": "10143"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q15978651",
+        "native": "เทศบาลตำบลเมืองเวียง",
+        "cityLabel": "Mueang Wiang",
+        "population": "8010"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q844430",
+        "native": "เทศบาลนครภูเก็ต",
+        "cityLabel": "Phuket",
+        "population": "77610"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q13025193",
+        "native": "เทศบาลตำบลจอมทอง",
+        "cityLabel": "Chom Thong",
+        "population": "9777"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q13025205",
+        "native": "เทศบาลตำบลตะขบ",
+        "cityLabel": "Takhop",
+        "population": "5397"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q13025345",
+        "native": "เทศบาลนครอ้อมน้อย",
+        "cityLabel": "Om Noi",
+        "population": "52457"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q1015445",
+        "native": "เทศบาลนครแม่สอด",
+        "cityLabel": "Mae Sot",
+        "population": "31530"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q6735086",
+        "native": "เทศบาลตำบลใหม่",
+        "cityLabel": "Mai",
+        "population": "12430"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q13025197",
+        "native": "เทศบาลตำบลดงแดง",
+        "cityLabel": "Dong Daeng",
+        "population": "8837"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q13025210",
+        "native": "เทศบาลตำบลทางพูน",
+        "cityLabel": "Thang Phun",
+        "population": "8623"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q13025347",
+        "native": "เทศบาลนครเกาะสมุย",
+        "cityLabel": "Ko Samui",
+        "population": "67265"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q13025208",
+        "native": "เทศบาลตำบลที่วัง",
+        "cityLabel": "Thi Wang",
+        "population": "13768"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q13025204",
+        "native": "เทศบาลตำบลด่านขุนทด",
+        "cityLabel": "Dan Khun Thot",
+        "population": "6432"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q13025206",
+        "native": "เทศบาลตำบลถ้ำใหญ่",
+        "cityLabel": "Tham Yai",
+        "population": "12388"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q13025207",
+        "native": "เทศบาลตำบลทับยา",
+        "cityLabel": "Thap Ya",
+        "population": "6077"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q1207083",
+        "native": "เทศบาลนครยะลา",
+        "cityLabel": "Yala",
+        "population": "61250"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q651286",
+        "native": "เทศบาลนครหาดใหญ่",
+        "cityLabel": "Hat Yai",
+        "population": "159130"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q13025209",
+        "native": "เทศบาลตำบลทอนหงส์",
+        "cityLabel": "Thon Hong",
+        "population": "3310"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q203370",
+        "native": "เทศบาลนครพระนครศรีอยุธยา",
+        "cityLabel": "Phra Nakhon Si Ayutthaya",
+        "population": "52952"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q840951",
+        "native": "เทศบาลนครสุราษฎร์ธานี",
+        "cityLabel": "Surat Thani",
+        "population": "130703"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q13025222",
+        "native": "เทศบาลตำบลบางเสาธง",
+        "cityLabel": "Bang Sao Thong",
+        "population": "23630"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q2658511",
+        "native": "เทศบาลตำบลบางปะอิน",
+        "cityLabel": "Bang Pa-in",
+        "population": "7380"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q3381309",
+        "native": "เทศบาลตำบลพิมาย",
+        "cityLabel": "Phimai",
+        "population": "8696"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q1359220",
+        "native": "เทศบาลนครสมุทรสาคร",
+        "cityLabel": "Samut Sakhon",
+        "population": "60103"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q13025198",
+        "native": "เทศบาลตำบลคำพอุง",
+        "cityLabel": "Kham Pha-ung",
+        "population": "9261"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q13025226",
+        "native": "เทศบาลตำบลบางเมือง",
+        "cityLabel": "Bang Mueang",
+        "population": "102291"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q1015123",
+        "native": "เทศบาลนครระยอง",
+        "cityLabel": "Rayong",
+        "population": "61902"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q1012639",
+        "native": "เทศบาลนครสกลนคร",
+        "cityLabel": "Sakon Nakhon",
+        "population": "53618"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q13025217",
+        "native": "เทศบาลตำบลท้องเนียน",
+        "cityLabel": "Thong Nian",
+        "population": "5503"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q13025214",
+        "native": "เทศบาลตำบลท่าศาลา",
+        "cityLabel": "Tha Sala",
+        "population": "3044"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q13025223",
+        "native": "เทศบาลตำบลบางตะบูน",
+        "cityLabel": "Bang Tabun",
+        "population": "5431"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q13025220",
+        "native": "เทศบาลตำบลนายาง",
+        "cityLabel": "Na Yang",
+        "population": "18961"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q816331",
+        "native": "เทศบาลนครอุดรธานี",
+        "cityLabel": "Udon Thani",
+        "population": "141662"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q13025225",
+        "native": "เทศบาลตำบลนาสาร",
+        "cityLabel": "Na San",
+        "population": "10135"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q13025182",
+        "native": "เทศบาลตำบลกลางดง",
+        "cityLabel": "Klang Dong",
+        "population": "5158"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q13023548",
+        "native": "เทศบาลตำบลหนองบัวบาน",
+        "cityLabel": "Nong Bua Ban",
+        "population": "6057"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q13025202",
+        "native": "เทศบาลตำบลดอนหวาย",
+        "cityLabel": "Don Wai",
+        "population": "3568"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q13025233",
+        "native": "เทศบาลตำบลบ้านด่าน",
+        "cityLabel": "Ban Dan",
+        "population": "4780"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q13025184",
+        "native": "เทศบาลตำบลกลางดง",
+        "cityLabel": "Klang Dong",
+        "population": "12215"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q13025201",
+        "native": "เทศบาลตำบลดู่ใต้",
+        "cityLabel": "Du Tai",
+        "population": "8443"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q13025203",
+        "native": "เทศบาลตำบลด่านเกวียน",
+        "cityLabel": "Dan Kwian",
+        "population": "9610"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q13025190",
+        "native": "เทศบาลตำบลดอนตรอ",
+        "cityLabel": "Don Tro",
+        "population": "5638"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q1012610",
+        "native": "เทศบาลนครลำปาง",
+        "cityLabel": "Lampang",
+        "population": "55044"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q13025231",
+        "native": "เทศบาลตำบลนาหนองทุ่ม",
+        "cityLabel": "Na Nong Thum",
+        "population": "11276"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q13025343",
+        "native": "เทศบาลนครเจ้าพระยาสุรศักดิ์",
+        "cityLabel": "Chao Phraya Surasak",
+        "population": "133000"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q13025343",
+        "native": "เทศบาลนครเจ้าพระยาสุรศักดิ์",
+        "cityLabel": "Chao Phraya Surasak",
+        "population": "119007"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q1025958",
+        "native": "เทศบาลนครแหลมฉบัง",
+        "cityLabel": "Laem Chabang",
+        "population": "77798"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q856772",
+        "native": "เทศบาลนครเชียงราย",
+        "cityLabel": "Chiang Rai",
+        "population": "70610"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q520338",
+        "native": "เทศบาลนครนครปฐม",
+        "cityLabel": "Nakhon Pathom",
+        "population": "78780"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q768864",
+        "native": "เทศบาลนครนนทบุรี",
+        "cityLabel": "Nonthaburi",
+        "population": "256190"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q13025187",
+        "native": "เทศบาลตำบลกะปาง",
+        "cityLabel": "Kapang",
+        "population": "15220"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q1012424",
+        "native": "เทศบาลนครนครศรีธรรมราช",
+        "cityLabel": "Nakhon Si Thammarat",
+        "population": "106322"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q876526",
+        "native": "เทศบาลนครขอนแก่น",
+        "cityLabel": "Khon Kaen",
+        "population": "115928"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q4856861",
+        "native": "เทศบาลตำบลบันนังสตา",
+        "cityLabel": "Bannang Sata",
+        "population": "2828"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q13025221",
+        "native": "เทศบาลตำบลบางม่วง",
+        "cityLabel": "Bang Muang",
+        "population": "5469"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q13025232",
+        "native": "เทศบาลตำบลบางใหญ่",
+        "cityLabel": "Bang Yai",
+        "population": "10767"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q13025224",
+        "native": "เทศบาลตำบลบัวงาม",
+        "cityLabel": "Bua Ngam",
+        "population": "7086"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q170919",
+        "native": "เมืองพัทยา",
+        "cityLabel": "Pattaya",
+        "population": "115840"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q13025186",
+        "native": "เทศบาลตำบลกองควาย",
+        "cityLabel": "Kong Khwai",
+        "population": "5435"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q867579",
+        "native": "เทศบาลนครพิษณุโลก",
+        "cityLabel": "Phitsanulok",
+        "population": "70871"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q1743446",
+        "native": "เทศบาลตำบลน้ำตกไทรโยคน้อย",
+        "cityLabel": "Nam Tok Sai Yok Noi",
+        "population": "3808"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q13025227",
+        "native": "เทศบาลตำบลบางแก้ว",
+        "cityLabel": "Bang Kaeo",
+        "population": "3796"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q14230710",
+        "native": "เทศบาลนครรังสิต",
+        "cityLabel": "Rangsit",
+        "population": "79319"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q13025195",
+        "native": "เทศบาลตำบลจอหอ",
+        "cityLabel": "Cho Ho",
+        "population": "16527"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q1861",
+        "native": "กรุงเทพมหานคร",
+        "cityLabel": "Bangkok",
+        "population": "5696409"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q2892289",
+        "native": "เทศบาลตำบลปาย",
+        "cityLabel": "Pai",
+        "population": "2314"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q1012434",
+        "native": "เทศบาลนครนครสวรรค์",
+        "cityLabel": "Nakhon Sawan",
+        "population": "86439"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q13025199",
+        "native": "เทศบาลตำบลคลองไผ่",
+        "cityLabel": "Khlong Phai",
+        "population": "3858"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q1014322",
+        "native": "เทศบาลนครตรัง",
+        "cityLabel": "Trang",
+        "population": "60591"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q13025211",
+        "native": "เทศบาลตำบลทุ่งเสลี่ยม",
+        "cityLabel": "Thung Saliam",
+        "population": "7760"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q13025229",
+        "native": "เทศบาลตำบลนาเหรง",
+        "cityLabel": "Na Reng",
+        "population": "7567"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q13025219",
+        "native": "เทศบาลตำบลนาน้อย",
+        "cityLabel": "Na Noi",
+        "population": "2639"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q13025213",
+        "native": "เทศบาลตำบลท่าไม้รวก",
+        "cityLabel": "Tha Mai Ruak",
+        "population": "9059"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q13025196",
+        "native": "เทศบาลตำบลชะอวด",
+        "cityLabel": "Cha-uat",
+        "population": "3961"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q132179",
+        "native": "เทศบาลนครอุบลราชธานี",
+        "cityLabel": "Ubon Ratchathani",
+        "population": "79023"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q13025200",
+        "native": "เทศบาลตำบลชะรัด",
+        "cityLabel": "Charat",
+        "population": "7063"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q13025216",
+        "native": "เทศบาลตำบลท่าแลง",
+        "cityLabel": "Tha Laeng",
+        "population": "6045"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q13025178",
+        "native": "เทศบาลตำบลกงพานพันดอน",
+        "cityLabel": "Kong Phan Phan Don",
+        "population": "11739"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q3196149",
+        "native": "เทศบาลตำบลเขมราฐ",
+        "cityLabel": "Khemarat",
+        "population": "6288"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q13139252",
+        "native": "เทศบาลนครสมุทรปราการ",
+        "cityLabel": "Samut Prakan",
+        "population": "51309"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q3360716",
+        "native": "เทศบาลนครปากเกร็ด",
+        "cityLabel": "Pak Kret",
+        "population": "184501"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q13025212",
+        "native": "เทศบาลตำบลท่าแพ",
+        "cityLabel": "Tha Phae",
+        "population": "4424"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q1390973",
+        "native": "เทศบาลตำบลบางละมุง",
+        "cityLabel": "Bang Lamung",
+        "population": "11324"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q633036",
+        "native": "เทศบาลนครนครราชสีมา",
+        "cityLabel": "Nakhon Ratchasima",
+        "population": "134440"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q13025188",
+        "native": "เทศบาลตำบลขนอม",
+        "cityLabel": "Khanom",
+        "population": "4235"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q13025189",
+        "native": "เทศบาลตำบลกำแพง",
+        "cityLabel": "Kamphaeng",
+        "population": "3128"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q2055930",
+        "native": "เทศบาลตำบลเมืองรามันห์",
+        "cityLabel": "Mueang Raman",
+        "population": "5062"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q13023514",
+        "native": "เทศบาลตำบลท่างิ้ว",
+        "cityLabel": "Tha Ngio",
+        "population": "10554"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q795595",
+        "native": "เทศบาลนครสงขลา",
+        "cityLabel": "Songkhla",
+        "population": "63834"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand",
+        "city": "http://www.wikidata.org/entity/Q13025192",
+        "native": "เทศบาลตำบลชุมพวง",
+        "cityLabel": "Chum Phuang",
+        "population": "9265"
+    }
+]

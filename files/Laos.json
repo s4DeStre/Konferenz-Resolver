@@ -1,0 +1,75 @@
+[
+    {
+        "country": "http://www.wikidata.org/entity/Q819",
+        "countryLabel": "Laos",
+        "city": "http://www.wikidata.org/entity/Q757905",
+        "cityLabel": "Attapeu",
+        "population": "19200"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q819",
+        "countryLabel": "Laos",
+        "city": "http://www.wikidata.org/entity/Q190165",
+        "cityLabel": "Luang Prabang",
+        "population": "53792"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q819",
+        "countryLabel": "Laos",
+        "city": "http://www.wikidata.org/entity/Q383622",
+        "native": "ປາກເຊ",
+        "cityLabel": "Pakse",
+        "population": "119848"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q819",
+        "countryLabel": "Laos",
+        "city": "http://www.wikidata.org/entity/Q611444",
+        "cityLabel": "Champasak",
+        "population": "13400"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q819",
+        "countryLabel": "Laos",
+        "city": "http://www.wikidata.org/entity/Q2087536",
+        "cityLabel": "Sekong",
+        "population": "5000"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q819",
+        "countryLabel": "Laos",
+        "city": "http://www.wikidata.org/entity/Q717371",
+        "cityLabel": "Ban Houayxay",
+        "population": "17687"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q819",
+        "countryLabel": "Laos",
+        "city": "http://www.wikidata.org/entity/Q9326",
+        "native": "ວຽງຈັນ",
+        "cityLabel": "Vientiane",
+        "population": "760000"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q819",
+        "countryLabel": "Laos",
+        "city": "http://www.wikidata.org/entity/Q1018701",
+        "cityLabel": "Thakhek",
+        "population": "70000"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q819",
+        "countryLabel": "Laos",
+        "city": "http://www.wikidata.org/entity/Q750443",
+        "cityLabel": "Savannakhet",
+        "population": "124000"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q819",
+        "countryLabel": "Laos",
+        "city": "http://www.wikidata.org/entity/Q966990",
+        "native": "ຜົ້ງສາລີ",
+        "cityLabel": "Phongsali",
+        "population": "15083"
+    }
+]

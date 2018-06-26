@@ -1,0 +1,17 @@
+[
+    {
+        "country": "http://www.wikidata.org/entity/Q1025",
+        "countryLabel": "Mauritania",
+        "city": "http://www.wikidata.org/entity/Q3688",
+        "cityLabel": "Nouakchott",
+        "population": "958399"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q1025",
+        "countryLabel": "Mauritania",
+        "city": "http://www.wikidata.org/entity/Q184184",
+        "native": "نواذيبو",
+        "cityLabel": "Nouadhibou",
+        "population": "85953"
+    }
+]

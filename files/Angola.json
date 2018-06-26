@@ -1,0 +1,200 @@
+[
+    {
+        "country": "http://www.wikidata.org/entity/Q916",
+        "countryLabel": "Angola",
+        "city": "http://www.wikidata.org/entity/Q10327178",
+        "cityLabel": "Massangano",
+        "population": "24000"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q916",
+        "countryLabel": "Angola",
+        "city": "http://www.wikidata.org/entity/Q1152298",
+        "cityLabel": "Kilamba",
+        "population": "80000"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q916",
+        "countryLabel": "Angola",
+        "city": "http://www.wikidata.org/entity/Q2341822",
+        "cityLabel": "Catabola",
+        "population": "18858"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q916",
+        "countryLabel": "Angola",
+        "city": "http://www.wikidata.org/entity/Q207322",
+        "cityLabel": "Huambo",
+        "population": "665564"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q916",
+        "countryLabel": "Angola",
+        "city": "http://www.wikidata.org/entity/Q2572141",
+        "cityLabel": "Seles",
+        "population": "202000"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q916",
+        "countryLabel": "Angola",
+        "city": "http://www.wikidata.org/entity/Q2351452",
+        "cityLabel": "N'zeto",
+        "population": "11633"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q916",
+        "countryLabel": "Angola",
+        "city": "http://www.wikidata.org/entity/Q459360",
+        "native": "Cabinda",
+        "cityLabel": "Cabinda",
+        "population": "377931"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q916",
+        "countryLabel": "Angola",
+        "city": "http://www.wikidata.org/entity/Q291729",
+        "cityLabel": "Ícolo e Bengo",
+        "population": "59000"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q916",
+        "countryLabel": "Angola",
+        "city": "http://www.wikidata.org/entity/Q1872804",
+        "cityLabel": "Luau, Moxico",
+        "population": "90000"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q916",
+        "countryLabel": "Angola",
+        "city": "http://www.wikidata.org/entity/Q2343957",
+        "cityLabel": "Caconda",
+        "population": "186098"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q916",
+        "countryLabel": "Angola",
+        "city": "http://www.wikidata.org/entity/Q635017",
+        "cityLabel": "Saurimo",
+        "population": "200000"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q916",
+        "countryLabel": "Angola",
+        "city": "http://www.wikidata.org/entity/Q1027956",
+        "cityLabel": "Camacupa",
+        "population": "19150"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q916",
+        "countryLabel": "Angola",
+        "city": "http://www.wikidata.org/entity/Q618643",
+        "cityLabel": "Luena",
+        "population": "456000"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q916",
+        "countryLabel": "Angola",
+        "city": "http://www.wikidata.org/entity/Q931694",
+        "cityLabel": "Caluquembe",
+        "population": "25933"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q916",
+        "countryLabel": "Angola",
+        "city": "http://www.wikidata.org/entity/Q780534",
+        "cityLabel": "Sumbe",
+        "population": "26000"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q916",
+        "countryLabel": "Angola",
+        "city": "http://www.wikidata.org/entity/Q620866",
+        "cityLabel": "Lucapa",
+        "population": "125000"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q916",
+        "countryLabel": "Angola",
+        "city": "http://www.wikidata.org/entity/Q1025053",
+        "cityLabel": "Cacongo",
+        "population": "21000"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q916",
+        "countryLabel": "Angola",
+        "city": "http://www.wikidata.org/entity/Q727233",
+        "cityLabel": "Belas",
+        "population": "500000"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q916",
+        "countryLabel": "Angola",
+        "city": "http://www.wikidata.org/entity/Q1052090",
+        "cityLabel": "Caála",
+        "population": "21205"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q916",
+        "countryLabel": "Angola",
+        "city": "http://www.wikidata.org/entity/Q221914",
+        "cityLabel": "Moçâmedes",
+        "population": "162000"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q916",
+        "countryLabel": "Angola",
+        "city": "http://www.wikidata.org/entity/Q3897",
+        "native": "Luanda",
+        "cityLabel": "Luanda",
+        "population": "7250000"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q916",
+        "countryLabel": "Angola",
+        "city": "http://www.wikidata.org/entity/Q1018592",
+        "cityLabel": "Porto Amboim",
+        "population": "137000"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q916",
+        "countryLabel": "Angola",
+        "city": "http://www.wikidata.org/entity/Q591126",
+        "cityLabel": "Cassongue",
+        "population": "117000"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q916",
+        "countryLabel": "Angola",
+        "city": "http://www.wikidata.org/entity/Q2944558",
+        "cityLabel": "Tômbua",
+        "population": "90000"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q916",
+        "countryLabel": "Angola",
+        "city": "http://www.wikidata.org/entity/Q598594",
+        "cityLabel": "Quilengues",
+        "population": "113825"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q916",
+        "countryLabel": "Angola",
+        "city": "http://www.wikidata.org/entity/Q2342492",
+        "cityLabel": "Longonjo",
+        "population": "24350"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q916",
+        "countryLabel": "Angola",
+        "city": "http://www.wikidata.org/entity/Q818731",
+        "cityLabel": "Menongue",
+        "population": "281000"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q916",
+        "countryLabel": "Angola",
+        "city": "http://www.wikidata.org/entity/Q843980",
+        "cityLabel": "Kuito",
+        "population": "114000"
+    }
+]

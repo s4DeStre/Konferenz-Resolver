@@ -1,0 +1,18 @@
+[
+    {
+        "country": "http://www.wikidata.org/entity/Q399",
+        "countryLabel": "Armenia",
+        "city": "http://www.wikidata.org/entity/Q199500",
+        "native": "Գյումրի, Կիւմրի",
+        "cityLabel": "Gyumri",
+        "population": "121976"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q399",
+        "countryLabel": "Armenia",
+        "city": "http://www.wikidata.org/entity/Q1953",
+        "native": "Երևան",
+        "cityLabel": "Yerevan",
+        "population": "1074000"
+    }
+]

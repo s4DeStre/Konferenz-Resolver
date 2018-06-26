@@ -1,0 +1,51 @@
+[
+    {
+        "country": "http://www.wikidata.org/entity/Q1013",
+        "countryLabel": "Lesotho",
+        "city": "http://www.wikidata.org/entity/Q1003318",
+        "cityLabel": "Quthing",
+        "population": "15000"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q1013",
+        "countryLabel": "Lesotho",
+        "city": "http://www.wikidata.org/entity/Q844423",
+        "cityLabel": "Teyateyaneng",
+        "population": "75115"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q1013",
+        "countryLabel": "Lesotho",
+        "city": "http://www.wikidata.org/entity/Q777028",
+        "cityLabel": "Thaba-Tseka",
+        "population": "5423"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q1013",
+        "countryLabel": "Lesotho",
+        "city": "http://www.wikidata.org/entity/Q382249",
+        "cityLabel": "Butha-Buthe",
+        "population": "10000"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q1013",
+        "countryLabel": "Lesotho",
+        "city": "http://www.wikidata.org/entity/Q3909",
+        "cityLabel": "Maseru",
+        "population": "227880"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q1013",
+        "countryLabel": "Lesotho",
+        "city": "http://www.wikidata.org/entity/Q1013379",
+        "cityLabel": "Mafeteng",
+        "population": "57059"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q1013",
+        "countryLabel": "Lesotho",
+        "city": "http://www.wikidata.org/entity/Q1013428",
+        "cityLabel": "Mokhotlong",
+        "population": "8809"
+    }
+]

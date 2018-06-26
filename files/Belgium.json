@@ -1,0 +1,548 @@
+[
+    {
+        "country": "http://www.wikidata.org/entity/Q31",
+        "countryLabel": "Belgium",
+        "city": "http://www.wikidata.org/entity/Q682982",
+        "cityLabel": "Geer",
+        "population": "3373"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q31",
+        "countryLabel": "Belgium",
+        "city": "http://www.wikidata.org/entity/Q179034",
+        "cityLabel": "Waterloo",
+        "population": "29959"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q31",
+        "countryLabel": "Belgium",
+        "city": "http://www.wikidata.org/entity/Q228863",
+        "native": "Zulte",
+        "cityLabel": "Zulte",
+        "population": "14611"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q31",
+        "countryLabel": "Belgium",
+        "city": "http://www.wikidata.org/entity/Q42878311",
+        "cityLabel": "Pelt",
+        "population": "32000"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q31",
+        "countryLabel": "Belgium",
+        "city": "http://www.wikidata.org/entity/Q241918",
+        "native": "Jette",
+        "cityLabel": "Jette",
+        "population": "43564"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q31",
+        "countryLabel": "Belgium",
+        "city": "http://www.wikidata.org/entity/Q202954",
+        "cityLabel": "Verviers",
+        "population": "55463"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q31",
+        "countryLabel": "Belgium",
+        "city": "http://www.wikidata.org/entity/Q681109",
+        "native": "Blegneye",
+        "cityLabel": "Blegny",
+        "population": "13212"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q31",
+        "countryLabel": "Belgium",
+        "city": "http://www.wikidata.org/entity/Q220145",
+        "cityLabel": "Mouscron",
+        "population": "57773"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q31",
+        "countryLabel": "Belgium",
+        "city": "http://www.wikidata.org/entity/Q895293",
+        "cityLabel": "Boutersem",
+        "population": "8178"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q31",
+        "countryLabel": "Belgium",
+        "city": "http://www.wikidata.org/entity/Q984874",
+        "cityLabel": "Geetbets",
+        "population": "6037"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q31",
+        "countryLabel": "Belgium",
+        "city": "http://www.wikidata.org/entity/Q2607948",
+        "cityLabel": "Kemzeke",
+        "population": "2882"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q31",
+        "countryLabel": "Belgium",
+        "city": "http://www.wikidata.org/entity/Q211572",
+        "native": "La Louvière",
+        "cityLabel": "La Louvière",
+        "population": "80579"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q31",
+        "countryLabel": "Belgium",
+        "city": "http://www.wikidata.org/entity/Q118958",
+        "native": "Leuven",
+        "cityLabel": "Leuven",
+        "population": "100291"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q31",
+        "countryLabel": "Belgium",
+        "city": "http://www.wikidata.org/entity/Q3992",
+        "cityLabel": "Liège",
+        "population": "197885"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q31",
+        "countryLabel": "Belgium",
+        "city": "http://www.wikidata.org/entity/Q14062",
+        "cityLabel": "Zelzate",
+        "population": "12703"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q31",
+        "countryLabel": "Belgium",
+        "city": "http://www.wikidata.org/entity/Q173219",
+        "native": "Tournai",
+        "cityLabel": "Tournai",
+        "population": "69751"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q31",
+        "countryLabel": "Belgium",
+        "city": "http://www.wikidata.org/entity/Q455969",
+        "cityLabel": "Amay",
+        "population": "13863"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q31",
+        "countryLabel": "Belgium",
+        "city": "http://www.wikidata.org/entity/Q2505670",
+        "cityLabel": "Sint-Kruis",
+        "population": "15892"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q31",
+        "countryLabel": "Belgium",
+        "city": "http://www.wikidata.org/entity/Q12994",
+        "native": "Brugge",
+        "cityLabel": "Bruges",
+        "population": "118053"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q31",
+        "countryLabel": "Belgium",
+        "city": "http://www.wikidata.org/entity/Q392343",
+        "cityLabel": "Wevelgem",
+        "population": "31291"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q31",
+        "countryLabel": "Belgium",
+        "city": "http://www.wikidata.org/entity/Q207095",
+        "cityLabel": "Huy",
+        "population": "21354"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q31",
+        "countryLabel": "Belgium",
+        "city": "http://www.wikidata.org/entity/Q323408",
+        "cityLabel": "Damme",
+        "population": "10907"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q31",
+        "countryLabel": "Belgium",
+        "city": "http://www.wikidata.org/entity/Q1952054",
+        "cityLabel": "Oostnieuwkerke",
+        "population": "3437"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q31",
+        "countryLabel": "Belgium",
+        "city": "http://www.wikidata.org/entity/Q159981",
+        "cityLabel": "Burg-Reuland",
+        "population": "3956"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q31",
+        "countryLabel": "Belgium",
+        "city": "http://www.wikidata.org/entity/Q12460",
+        "native": "Lier",
+        "cityLabel": "Lier",
+        "population": "33492"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q31",
+        "countryLabel": "Belgium",
+        "city": "http://www.wikidata.org/entity/Q2291533",
+        "cityLabel": "Averbode",
+        "population": "3289"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q31",
+        "countryLabel": "Belgium",
+        "city": "http://www.wikidata.org/entity/Q239",
+        "native": "Brussel",
+        "cityLabel": "Brussels",
+        "population": "176545"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q31",
+        "countryLabel": "Belgium",
+        "city": "http://www.wikidata.org/entity/Q272243",
+        "cityLabel": "Saint-Josse-ten-Noode",
+        "population": "27447"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q31",
+        "countryLabel": "Belgium",
+        "city": "http://www.wikidata.org/entity/Q3040923",
+        "cityLabel": "Dudzele",
+        "population": "2565"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q31",
+        "countryLabel": "Belgium",
+        "city": "http://www.wikidata.org/entity/Q239",
+        "native": "Bruxelles",
+        "cityLabel": "Brussels",
+        "population": "176545"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q31",
+        "countryLabel": "Belgium",
+        "city": "http://www.wikidata.org/entity/Q203312",
+        "cityLabel": "Uccle",
+        "population": "81089"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q31",
+        "countryLabel": "Belgium",
+        "city": "http://www.wikidata.org/entity/Q217216",
+        "native": "Bouillon",
+        "cityLabel": "Bouillon",
+        "population": "5426"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q31",
+        "countryLabel": "Belgium",
+        "city": "http://www.wikidata.org/entity/Q2262095",
+        "cityLabel": "Sint-Pauwels",
+        "population": "4359"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q31",
+        "countryLabel": "Belgium",
+        "city": "http://www.wikidata.org/entity/Q724942",
+        "cityLabel": "Kapellen",
+        "population": "26540"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q31",
+        "countryLabel": "Belgium",
+        "city": "http://www.wikidata.org/entity/Q681039",
+        "cityLabel": "Beyne-Heusay",
+        "population": "12096"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q31",
+        "countryLabel": "Belgium",
+        "city": "http://www.wikidata.org/entity/Q739996",
+        "cityLabel": "Assebroek",
+        "population": "19737"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q31",
+        "countryLabel": "Belgium",
+        "city": "http://www.wikidata.org/entity/Q159868",
+        "cityLabel": "Amel",
+        "population": "5466"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q31",
+        "countryLabel": "Belgium",
+        "city": "http://www.wikidata.org/entity/Q572472",
+        "cityLabel": "Anthisnes",
+        "population": "4100"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q31",
+        "countryLabel": "Belgium",
+        "city": "http://www.wikidata.org/entity/Q2340735",
+        "cityLabel": "Loppem",
+        "population": "5110"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q31",
+        "countryLabel": "Belgium",
+        "city": "http://www.wikidata.org/entity/Q515710",
+        "cityLabel": "Asse",
+        "population": "32402"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q31",
+        "countryLabel": "Belgium",
+        "city": "http://www.wikidata.org/entity/Q95112",
+        "cityLabel": "Bernissart",
+        "population": "11679"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q31",
+        "countryLabel": "Belgium",
+        "city": "http://www.wikidata.org/entity/Q1797837",
+        "cityLabel": "Ekeren",
+        "population": "22874"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q31",
+        "countryLabel": "Belgium",
+        "city": "http://www.wikidata.org/entity/Q13122",
+        "cityLabel": "Dendermonde",
+        "population": "45367"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q31",
+        "countryLabel": "Belgium",
+        "city": "http://www.wikidata.org/entity/Q912030",
+        "cityLabel": "Sint-Amands",
+        "population": "8418"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q31",
+        "countryLabel": "Belgium",
+        "city": "http://www.wikidata.org/entity/Q134121",
+        "cityLabel": "Namur",
+        "population": "110665"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q31",
+        "countryLabel": "Belgium",
+        "city": "http://www.wikidata.org/entity/Q159961",
+        "cityLabel": "Waimes",
+        "population": "7482"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q31",
+        "countryLabel": "Belgium",
+        "city": "http://www.wikidata.org/entity/Q159838",
+        "cityLabel": "Malmedy",
+        "population": "12345"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q31",
+        "countryLabel": "Belgium",
+        "city": "http://www.wikidata.org/entity/Q675960",
+        "cityLabel": "Arlon",
+        "population": "26929"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q31",
+        "countryLabel": "Belgium",
+        "city": "http://www.wikidata.org/entity/Q319463",
+        "native": "Nivelles",
+        "cityLabel": "Nivelles",
+        "population": "24200"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q31",
+        "countryLabel": "Belgium",
+        "city": "http://www.wikidata.org/entity/Q1296",
+        "native": "Gent",
+        "cityLabel": "Ghent",
+        "population": "257029"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q31",
+        "countryLabel": "Belgium",
+        "city": "http://www.wikidata.org/entity/Q152748",
+        "native": "Saint-Vith",
+        "cityLabel": "Sankt Vith",
+        "population": "9530"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q31",
+        "countryLabel": "Belgium",
+        "city": "http://www.wikidata.org/entity/Q81046",
+        "cityLabel": "Charleroi",
+        "population": "201761"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q31",
+        "countryLabel": "Belgium",
+        "city": "http://www.wikidata.org/entity/Q735827",
+        "cityLabel": "Lochristi",
+        "population": "22220"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q31",
+        "countryLabel": "Belgium",
+        "city": "http://www.wikidata.org/entity/Q623310",
+        "native": "Nieuwpoort",
+        "cityLabel": "Nieuwpoort",
+        "population": "11267"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q31",
+        "countryLabel": "Belgium",
+        "city": "http://www.wikidata.org/entity/Q943502",
+        "cityLabel": "Landen",
+        "population": "15919"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q31",
+        "countryLabel": "Belgium",
+        "city": "http://www.wikidata.org/entity/Q9005",
+        "cityLabel": "Brussels",
+        "population": "1175000"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q31",
+        "countryLabel": "Belgium",
+        "city": "http://www.wikidata.org/entity/Q159864",
+        "cityLabel": "Kelmis",
+        "population": "10869"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q31",
+        "countryLabel": "Belgium",
+        "city": "http://www.wikidata.org/entity/Q1958445",
+        "cityLabel": "Achterbroek",
+        "population": "2188"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q31",
+        "countryLabel": "Belgium",
+        "city": "http://www.wikidata.org/entity/Q328104",
+        "cityLabel": "Blankenberge",
+        "population": "19879"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q31",
+        "countryLabel": "Belgium",
+        "city": "http://www.wikidata.org/entity/Q846182",
+        "cityLabel": "Dalhem",
+        "population": "7331"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q31",
+        "countryLabel": "Belgium",
+        "city": "http://www.wikidata.org/entity/Q12892",
+        "native": "Antwerpen",
+        "cityLabel": "Antwerp",
+        "population": "520504"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q31",
+        "countryLabel": "Belgium",
+        "city": "http://www.wikidata.org/entity/Q2687417",
+        "native": "Wilrijk",
+        "cityLabel": "Wilrijk",
+        "population": "38319"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q31",
+        "countryLabel": "Belgium",
+        "city": "http://www.wikidata.org/entity/Q102728",
+        "cityLabel": "Ypres",
+        "population": "19995"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q31",
+        "countryLabel": "Belgium",
+        "city": "http://www.wikidata.org/entity/Q108247",
+        "cityLabel": "Dinant",
+        "population": "13494"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q31",
+        "countryLabel": "Belgium",
+        "city": "http://www.wikidata.org/entity/Q12996",
+        "native": "Oostende",
+        "cityLabel": "Ostend",
+        "population": "70600"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q31",
+        "countryLabel": "Belgium",
+        "city": "http://www.wikidata.org/entity/Q272272",
+        "cityLabel": "Berchem-Sainte-Agathe / Sint-Agatha-Berchem",
+        "population": "23938"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q31",
+        "countryLabel": "Belgium",
+        "city": "http://www.wikidata.org/entity/Q151831",
+        "cityLabel": "Eupen",
+        "population": "19063"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q31",
+        "countryLabel": "Belgium",
+        "city": "http://www.wikidata.org/entity/Q110989",
+        "native": "Maaseik",
+        "cityLabel": "Maaseik",
+        "population": "25233"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q31",
+        "countryLabel": "Belgium",
+        "city": "http://www.wikidata.org/entity/Q12886",
+        "cityLabel": "Anderlecht",
+        "population": "117412"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q31",
+        "countryLabel": "Belgium",
+        "city": "http://www.wikidata.org/entity/Q12886",
+        "cityLabel": "Anderlecht",
+        "population": "118241"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q31",
+        "countryLabel": "Belgium",
+        "city": "http://www.wikidata.org/entity/Q1201672",
+        "cityLabel": "Deurne, Antwerp",
+        "population": "69408"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q31",
+        "countryLabel": "Belgium",
+        "city": "http://www.wikidata.org/entity/Q241918",
+        "native": "Jette",
+        "cityLabel": "Jette",
+        "population": "43564"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q31",
+        "countryLabel": "Belgium",
+        "city": "http://www.wikidata.org/entity/Q83407",
+        "native": "Mons",
+        "cityLabel": "Mons",
+        "population": "95047"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q31",
+        "countryLabel": "Belgium",
+        "city": "http://www.wikidata.org/entity/Q723972",
+        "cityLabel": "Boom",
+        "population": "17782"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q31",
+        "countryLabel": "Belgium",
+        "city": "http://www.wikidata.org/entity/Q1924402",
+        "cityLabel": "Lissewege",
+        "population": "7412"
+    }
+]

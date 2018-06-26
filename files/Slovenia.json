@@ -1,0 +1,134 @@
+[
+    {
+        "country": "http://www.wikidata.org/entity/Q215",
+        "countryLabel": "Slovenia",
+        "city": "http://www.wikidata.org/entity/Q202852",
+        "cityLabel": "Bled",
+        "population": "8192"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q215",
+        "countryLabel": "Slovenia",
+        "city": "http://www.wikidata.org/entity/Q1012",
+        "native": "Celje",
+        "cityLabel": "Celje",
+        "population": "37584"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q215",
+        "countryLabel": "Slovenia",
+        "city": "http://www.wikidata.org/entity/Q15877",
+        "native": "Izola",
+        "cityLabel": "Izola",
+        "population": "10381"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q215",
+        "countryLabel": "Slovenia",
+        "city": "http://www.wikidata.org/entity/Q1010",
+        "native": "Maribor",
+        "cityLabel": "Maribor",
+        "population": "112325"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q215",
+        "countryLabel": "Slovenia",
+        "city": "http://www.wikidata.org/entity/Q1018",
+        "native": "Nova Gorica",
+        "cityLabel": "Nova Gorica",
+        "population": "13852"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q215",
+        "countryLabel": "Slovenia",
+        "city": "http://www.wikidata.org/entity/Q15899",
+        "native": "Murska Sobota",
+        "cityLabel": "Murska Sobota",
+        "population": "11679"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q215",
+        "countryLabel": "Slovenia",
+        "city": "http://www.wikidata.org/entity/Q15867",
+        "cityLabel": "Dravograd",
+        "population": "3163"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q215",
+        "countryLabel": "Slovenia",
+        "city": "http://www.wikidata.org/entity/Q5266",
+        "native": "Novo mesto",
+        "cityLabel": "Novo Mesto",
+        "population": "23341"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q215",
+        "countryLabel": "Slovenia",
+        "city": "http://www.wikidata.org/entity/Q1382",
+        "native": "Piran",
+        "cityLabel": "Piran",
+        "population": "17491"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q215",
+        "countryLabel": "Slovenia",
+        "city": "http://www.wikidata.org/entity/Q15854",
+        "cityLabel": "Ajdovščina",
+        "population": "6596"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q215",
+        "countryLabel": "Slovenia",
+        "city": "http://www.wikidata.org/entity/Q1015",
+        "native": "Capodistria",
+        "cityLabel": "Koper",
+        "population": "47539"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q215",
+        "countryLabel": "Slovenia",
+        "city": "http://www.wikidata.org/entity/Q15906",
+        "native": "Ptuj",
+        "cityLabel": "Ptuj",
+        "population": "23957"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q215",
+        "countryLabel": "Slovenia",
+        "city": "http://www.wikidata.org/entity/Q1015",
+        "native": "Koper",
+        "cityLabel": "Koper",
+        "population": "47539"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q215",
+        "countryLabel": "Slovenia",
+        "city": "http://www.wikidata.org/entity/Q437",
+        "native": "Ljubljana",
+        "cityLabel": "Ljubljana",
+        "population": "280310"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q215",
+        "countryLabel": "Slovenia",
+        "city": "http://www.wikidata.org/entity/Q15928",
+        "cityLabel": "Velenje",
+        "population": "25333"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q215",
+        "countryLabel": "Slovenia",
+        "city": "http://www.wikidata.org/entity/Q1012",
+        "native": "Cilli",
+        "cityLabel": "Celje",
+        "population": "37584"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q215",
+        "countryLabel": "Slovenia",
+        "city": "http://www.wikidata.org/entity/Q1382",
+        "native": "Pirano",
+        "cityLabel": "Piran",
+        "population": "17491"
+    }
+]

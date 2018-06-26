@@ -1,0 +1,23 @@
+[
+    {
+        "country": "http://www.wikidata.org/entity/Q921",
+        "countryLabel": "Brunei",
+        "city": "http://www.wikidata.org/entity/Q2159472",
+        "cityLabel": "Seria",
+        "population": "21082"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q921",
+        "countryLabel": "Brunei",
+        "city": "http://www.wikidata.org/entity/Q9279",
+        "cityLabel": "Bandar Seri Begawan",
+        "population": "50000"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q921",
+        "countryLabel": "Brunei",
+        "city": "http://www.wikidata.org/entity/Q588045",
+        "cityLabel": "Kuala Belait",
+        "population": "30267"
+    }
+]

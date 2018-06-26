@@ -1,0 +1,45 @@
+[
+    {
+        "country": "http://www.wikidata.org/entity/Q1006",
+        "countryLabel": "Guinea",
+        "city": "http://www.wikidata.org/entity/Q1020384",
+        "cityLabel": "Labé",
+        "population": "107695"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q1006",
+        "countryLabel": "Guinea",
+        "city": "http://www.wikidata.org/entity/Q3733",
+        "native": "Conakry",
+        "cityLabel": "Conakry",
+        "population": "1667864"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q1006",
+        "countryLabel": "Guinea",
+        "city": "http://www.wikidata.org/entity/Q1100543",
+        "cityLabel": "Dabola",
+        "population": "38617"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q1006",
+        "countryLabel": "Guinea",
+        "city": "http://www.wikidata.org/entity/Q740687",
+        "cityLabel": "Guéckédougou",
+        "population": "221715"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q1006",
+        "countryLabel": "Guinea",
+        "city": "http://www.wikidata.org/entity/Q2908600",
+        "cityLabel": "Boffa",
+        "population": "27047"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q1006",
+        "countryLabel": "Guinea",
+        "city": "http://www.wikidata.org/entity/Q42316051",
+        "cityLabel": "Baala",
+        "population": "2404"
+    }
+]

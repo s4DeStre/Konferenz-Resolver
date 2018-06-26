@@ -1,0 +1,76 @@
+[
+    {
+        "country": "http://www.wikidata.org/entity/Q902",
+        "countryLabel": "Bangladesh",
+        "city": "http://www.wikidata.org/entity/Q747840",
+        "cityLabel": "Barisal",
+        "population": "230000"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q902",
+        "countryLabel": "Bangladesh",
+        "city": "http://www.wikidata.org/entity/Q994514",
+        "cityLabel": "Rangpur",
+        "population": "294265"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q902",
+        "countryLabel": "Bangladesh",
+        "city": "http://www.wikidata.org/entity/Q376749",
+        "cityLabel": "Chittagong",
+        "population": "2581643"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q902",
+        "countryLabel": "Bangladesh",
+        "city": "http://www.wikidata.org/entity/Q21123396",
+        "native": "বাসাইল",
+        "cityLabel": "Q21123396",
+        "population": "11347"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q902",
+        "countryLabel": "Bangladesh",
+        "city": "http://www.wikidata.org/entity/Q897320",
+        "cityLabel": "Brahmanbaria",
+        "population": "268279"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q902",
+        "countryLabel": "Bangladesh",
+        "city": "http://www.wikidata.org/entity/Q4495844",
+        "cityLabel": "Harinakunda",
+        "population": "17533"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q902",
+        "countryLabel": "Bangladesh",
+        "city": "http://www.wikidata.org/entity/Q21123396",
+        "native": "Basail",
+        "cityLabel": "Q21123396",
+        "population": "11347"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q902",
+        "countryLabel": "Bangladesh",
+        "city": "http://www.wikidata.org/entity/Q243325",
+        "cityLabel": "Khulna",
+        "population": "1311100"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q902",
+        "countryLabel": "Bangladesh",
+        "city": "http://www.wikidata.org/entity/Q1354",
+        "native": "ঢাকা",
+        "cityLabel": "Dhaka",
+        "population": "8906039"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q902",
+        "countryLabel": "Bangladesh",
+        "city": "http://www.wikidata.org/entity/Q322155",
+        "native": "রাজশাহী",
+        "cityLabel": "Rajshahi",
+        "population": "448087"
+    }
+]

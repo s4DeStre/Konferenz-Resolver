@@ -1,0 +1,30 @@
+[
+    {
+        "country": "http://www.wikidata.org/entity/Q1050",
+        "countryLabel": "Swaziland",
+        "city": "http://www.wikidata.org/entity/Q101418",
+        "cityLabel": "Lobamba",
+        "population": "5800"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q1050",
+        "countryLabel": "Swaziland",
+        "city": "http://www.wikidata.org/entity/Q2560293",
+        "cityLabel": "Mhlume",
+        "population": "7761"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q1050",
+        "countryLabel": "Swaziland",
+        "city": "http://www.wikidata.org/entity/Q495730",
+        "cityLabel": "Manzini",
+        "population": "110508"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q1050",
+        "countryLabel": "Swaziland",
+        "city": "http://www.wikidata.org/entity/Q3904",
+        "cityLabel": "Mbabane",
+        "population": "94874"
+    }
+]

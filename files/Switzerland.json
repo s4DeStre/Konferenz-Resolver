@@ -1,0 +1,2354 @@
+[
+    {
+        "country": "http://www.wikidata.org/entity/Q39",
+        "countryLabel": "Switzerland",
+        "city": "http://www.wikidata.org/entity/Q69690",
+        "cityLabel": "Ittigen",
+        "population": "11336"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q39",
+        "countryLabel": "Switzerland",
+        "city": "http://www.wikidata.org/entity/Q69354",
+        "cityLabel": "Montreux",
+        "population": "26433"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q39",
+        "countryLabel": "Switzerland",
+        "city": "http://www.wikidata.org/entity/Q69007",
+        "native": "Chur",
+        "cityLabel": "Chur",
+        "population": "34547"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q39",
+        "countryLabel": "Switzerland",
+        "city": "http://www.wikidata.org/entity/Q64147",
+        "cityLabel": "Visp",
+        "population": "7726"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q39",
+        "countryLabel": "Switzerland",
+        "city": "http://www.wikidata.org/entity/Q64679",
+        "cityLabel": "Pratteln",
+        "population": "15282"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q39",
+        "countryLabel": "Switzerland",
+        "city": "http://www.wikidata.org/entity/Q63946",
+        "native": "Yverdon-les-Bains",
+        "cityLabel": "Yverdon-les-Bains",
+        "population": "28377"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q39",
+        "countryLabel": "Switzerland",
+        "city": "http://www.wikidata.org/entity/Q63946",
+        "native": "Yverdon-les-Bains",
+        "cityLabel": "Yverdon-les-Bains",
+        "population": "28486"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q39",
+        "countryLabel": "Switzerland",
+        "city": "http://www.wikidata.org/entity/Q69235",
+        "cityLabel": "Cham",
+        "population": "15020"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q39",
+        "countryLabel": "Switzerland",
+        "city": "http://www.wikidata.org/entity/Q70",
+        "cityLabel": "Bern",
+        "population": "141833"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q39",
+        "countryLabel": "Switzerland",
+        "city": "http://www.wikidata.org/entity/Q69364",
+        "native": "Carouge",
+        "cityLabel": "Carouge",
+        "population": "20375"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q39",
+        "countryLabel": "Switzerland",
+        "city": "http://www.wikidata.org/entity/Q581647",
+        "cityLabel": "Arlesheim",
+        "population": "9136"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q39",
+        "countryLabel": "Switzerland",
+        "city": "http://www.wikidata.org/entity/Q64070",
+        "cityLabel": "Dietikon",
+        "population": "24843"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q39",
+        "countryLabel": "Switzerland",
+        "city": "http://www.wikidata.org/entity/Q64070",
+        "cityLabel": "Dietikon",
+        "population": "26936"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q39",
+        "countryLabel": "Switzerland",
+        "city": "http://www.wikidata.org/entity/Q69729",
+        "cityLabel": "Rapperswil-Jona",
+        "population": "26354"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q39",
+        "countryLabel": "Switzerland",
+        "city": "http://www.wikidata.org/entity/Q63896",
+        "cityLabel": "Delémont",
+        "population": "11809"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q39",
+        "countryLabel": "Switzerland",
+        "city": "http://www.wikidata.org/entity/Q71",
+        "native": "Genève",
+        "cityLabel": "Geneva",
+        "population": "198899"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q39",
+        "countryLabel": "Switzerland",
+        "city": "http://www.wikidata.org/entity/Q64099",
+        "cityLabel": "Brugg",
+        "population": "11171"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q39",
+        "countryLabel": "Switzerland",
+        "city": "http://www.wikidata.org/entity/Q63922",
+        "cityLabel": "Vernier",
+        "population": "33744"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q39",
+        "countryLabel": "Switzerland",
+        "city": "http://www.wikidata.org/entity/Q445711",
+        "cityLabel": "Altstetten",
+        "population": "31116"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q39",
+        "countryLabel": "Switzerland",
+        "city": "http://www.wikidata.org/entity/Q68308",
+        "cityLabel": "Bulle",
+        "population": "20177"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q39",
+        "countryLabel": "Switzerland",
+        "city": "http://www.wikidata.org/entity/Q69401",
+        "cityLabel": "Morges",
+        "population": "15676"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q39",
+        "countryLabel": "Switzerland",
+        "city": "http://www.wikidata.org/entity/Q68305",
+        "cityLabel": "Wetzikon",
+        "population": "23274"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q39",
+        "countryLabel": "Switzerland",
+        "city": "http://www.wikidata.org/entity/Q68305",
+        "cityLabel": "Wetzikon",
+        "population": "24452"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q39",
+        "countryLabel": "Switzerland",
+        "city": "http://www.wikidata.org/entity/Q69216",
+        "cityLabel": "Küsnacht",
+        "population": "14250"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q39",
+        "countryLabel": "Switzerland",
+        "city": "http://www.wikidata.org/entity/Q69678",
+        "cityLabel": "Belp",
+        "population": "11651"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q39",
+        "countryLabel": "Switzerland",
+        "city": "http://www.wikidata.org/entity/Q64087",
+        "cityLabel": "Baar",
+        "population": "24232"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q39",
+        "countryLabel": "Switzerland",
+        "city": "http://www.wikidata.org/entity/Q64224",
+        "cityLabel": "Opfikon",
+        "population": "16116"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q39",
+        "countryLabel": "Switzerland",
+        "city": "http://www.wikidata.org/entity/Q64224",
+        "cityLabel": "Opfikon",
+        "population": "19864"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q39",
+        "countryLabel": "Switzerland",
+        "city": "http://www.wikidata.org/entity/Q36378",
+        "cityLabel": "Fribourg",
+        "population": "38829"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q39",
+        "countryLabel": "Switzerland",
+        "city": "http://www.wikidata.org/entity/Q68950",
+        "cityLabel": "Einsiedeln",
+        "population": "14632"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q39",
+        "countryLabel": "Switzerland",
+        "city": "http://www.wikidata.org/entity/Q68261",
+        "cityLabel": "Meilen",
+        "population": "13958"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q39",
+        "countryLabel": "Switzerland",
+        "city": "http://www.wikidata.org/entity/Q69433",
+        "cityLabel": "Lenzburg",
+        "population": "9505"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q39",
+        "countryLabel": "Switzerland",
+        "city": "http://www.wikidata.org/entity/Q64051",
+        "cityLabel": "Monthey",
+        "population": "16880"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q39",
+        "countryLabel": "Switzerland",
+        "city": "http://www.wikidata.org/entity/Q68155",
+        "cityLabel": "Schwyz",
+        "population": "14885"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q39",
+        "countryLabel": "Switzerland",
+        "city": "http://www.wikidata.org/entity/Q68290",
+        "cityLabel": "Affoltern am Albis",
+        "population": "12080"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q39",
+        "countryLabel": "Switzerland",
+        "city": "http://www.wikidata.org/entity/Q68290",
+        "cityLabel": "Affoltern am Albis",
+        "population": "11276"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q39",
+        "countryLabel": "Switzerland",
+        "city": "http://www.wikidata.org/entity/Q64727",
+        "cityLabel": "Allschwil",
+        "population": "19898"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q39",
+        "countryLabel": "Switzerland",
+        "city": "http://www.wikidata.org/entity/Q69774",
+        "cityLabel": "Stäfa",
+        "population": "14389"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q39",
+        "countryLabel": "Switzerland",
+        "city": "http://www.wikidata.org/entity/Q68230",
+        "cityLabel": "Meyrin",
+        "population": "21718"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q39",
+        "countryLabel": "Switzerland",
+        "city": "http://www.wikidata.org/entity/Q64873",
+        "cityLabel": "Illnau-Effretikon",
+        "population": "16117"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q39",
+        "countryLabel": "Switzerland",
+        "city": "http://www.wikidata.org/entity/Q64873",
+        "cityLabel": "Illnau-Effretikon",
+        "population": "16928"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q39",
+        "countryLabel": "Switzerland",
+        "city": "http://www.wikidata.org/entity/Q4191",
+        "native": "Luzern",
+        "cityLabel": "Lucerne",
+        "population": "81592"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q39",
+        "countryLabel": "Switzerland",
+        "city": "http://www.wikidata.org/entity/Q63939",
+        "cityLabel": "Baden",
+        "population": "19122"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q39",
+        "countryLabel": "Switzerland",
+        "city": "http://www.wikidata.org/entity/Q68277",
+        "cityLabel": "Buchs",
+        "population": "12531"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q39",
+        "countryLabel": "Switzerland",
+        "city": "http://www.wikidata.org/entity/Q63931",
+        "cityLabel": "Stans",
+        "population": "8333"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q39",
+        "countryLabel": "Switzerland",
+        "city": "http://www.wikidata.org/entity/Q64065",
+        "cityLabel": "Lancy",
+        "population": "28909"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q39",
+        "countryLabel": "Switzerland",
+        "city": "http://www.wikidata.org/entity/Q68240",
+        "cityLabel": "Onex",
+        "population": "17851"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q39",
+        "countryLabel": "Switzerland",
+        "city": "http://www.wikidata.org/entity/Q64032",
+        "cityLabel": "Uster",
+        "population": "32748"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q39",
+        "countryLabel": "Switzerland",
+        "city": "http://www.wikidata.org/entity/Q69738",
+        "cityLabel": "Pully",
+        "population": "17368"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q39",
+        "countryLabel": "Switzerland",
+        "city": "http://www.wikidata.org/entity/Q69726",
+        "native": "Langenthal",
+        "cityLabel": "Langenthal",
+        "population": "15184"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q39",
+        "countryLabel": "Switzerland",
+        "city": "http://www.wikidata.org/entity/Q63912",
+        "cityLabel": "Glarus",
+        "population": "12515"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q39",
+        "countryLabel": "Switzerland",
+        "city": "http://www.wikidata.org/entity/Q69668",
+        "cityLabel": "Steffisburg",
+        "population": "15515"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q39",
+        "countryLabel": "Switzerland",
+        "city": "http://www.wikidata.org/entity/Q64627",
+        "cityLabel": "Männedorf",
+        "population": "10913"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q39",
+        "countryLabel": "Switzerland",
+        "city": "http://www.wikidata.org/entity/Q68956",
+        "cityLabel": "Martigny",
+        "population": "17998"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q39",
+        "countryLabel": "Switzerland",
+        "city": "http://www.wikidata.org/entity/Q9009",
+        "native": "Schaffhausen",
+        "cityLabel": "Schaffhausen",
+        "population": "36148"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q39",
+        "countryLabel": "Switzerland",
+        "city": "http://www.wikidata.org/entity/Q69109",
+        "cityLabel": "Urdorf",
+        "population": "9471"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q39",
+        "countryLabel": "Switzerland",
+        "city": "http://www.wikidata.org/entity/Q69109",
+        "cityLabel": "Urdorf",
+        "population": "9768"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q39",
+        "countryLabel": "Switzerland",
+        "city": "http://www.wikidata.org/entity/Q69621",
+        "cityLabel": "Binningen",
+        "population": "14817"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q39",
+        "countryLabel": "Switzerland",
+        "city": "http://www.wikidata.org/entity/Q7024",
+        "cityLabel": "Lugano",
+        "population": "63932"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q39",
+        "countryLabel": "Switzerland",
+        "city": "http://www.wikidata.org/entity/Q68269",
+        "cityLabel": "Pfäffikon",
+        "population": "11027"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q39",
+        "countryLabel": "Switzerland",
+        "city": "http://www.wikidata.org/entity/Q68269",
+        "cityLabel": "Pfäffikon",
+        "population": "11817"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q39",
+        "countryLabel": "Switzerland",
+        "city": "http://www.wikidata.org/entity/Q69780",
+        "cityLabel": "Freienbach",
+        "population": "15758"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q39",
+        "countryLabel": "Switzerland",
+        "city": "http://www.wikidata.org/entity/Q68150",
+        "cityLabel": "Altdorf",
+        "population": "9211"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q39",
+        "countryLabel": "Switzerland",
+        "city": "http://www.wikidata.org/entity/Q68120",
+        "cityLabel": "Frauenfeld",
+        "population": "24119"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q39",
+        "countryLabel": "Switzerland",
+        "city": "http://www.wikidata.org/entity/Q63905",
+        "cityLabel": "Kreuzlingen",
+        "population": "20520"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q39",
+        "countryLabel": "Switzerland",
+        "city": "http://www.wikidata.org/entity/Q68244",
+        "cityLabel": "Wohlen",
+        "population": "14879"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q39",
+        "countryLabel": "Switzerland",
+        "city": "http://www.wikidata.org/entity/Q69718",
+        "cityLabel": "Wädenswil",
+        "population": "20967"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q39",
+        "countryLabel": "Switzerland",
+        "city": "http://www.wikidata.org/entity/Q69718",
+        "cityLabel": "Wädenswil",
+        "population": "21716"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q39",
+        "countryLabel": "Switzerland",
+        "city": "http://www.wikidata.org/entity/Q69765",
+        "cityLabel": "Muri bei Bern",
+        "population": "12750"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q39",
+        "countryLabel": "Switzerland",
+        "city": "http://www.wikidata.org/entity/Q69747",
+        "cityLabel": "Reinach",
+        "population": "18661"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q39",
+        "countryLabel": "Switzerland",
+        "city": "http://www.wikidata.org/entity/Q78",
+        "cityLabel": "Basel",
+        "population": "175940"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q39",
+        "countryLabel": "Switzerland",
+        "city": "http://www.wikidata.org/entity/Q68311",
+        "cityLabel": "Burgdorf",
+        "population": "15907"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q39",
+        "countryLabel": "Switzerland",
+        "city": "http://www.wikidata.org/entity/Q14274",
+        "native": "Aarau",
+        "cityLabel": "Aarau",
+        "population": "20687"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q39",
+        "countryLabel": "Switzerland",
+        "city": "http://www.wikidata.org/entity/Q68248",
+        "cityLabel": "Grenchen",
+        "population": "16173"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q39",
+        "countryLabel": "Switzerland",
+        "city": "http://www.wikidata.org/entity/Q68144",
+        "cityLabel": "Zug",
+        "population": "29804"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q39",
+        "countryLabel": "Switzerland",
+        "city": "http://www.wikidata.org/entity/Q25607",
+        "cityLabel": "St. Gallen",
+        "population": "75481"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q39",
+        "countryLabel": "Switzerland",
+        "city": "http://www.wikidata.org/entity/Q69734",
+        "cityLabel": "Bassersdorf",
+        "population": "11243"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q39",
+        "countryLabel": "Switzerland",
+        "city": "http://www.wikidata.org/entity/Q69734",
+        "cityLabel": "Bassersdorf",
+        "population": "11593"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q39",
+        "countryLabel": "Switzerland",
+        "city": "http://www.wikidata.org/entity/Q64093",
+        "cityLabel": "Le Locle",
+        "population": "10433"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q39",
+        "countryLabel": "Switzerland",
+        "city": "http://www.wikidata.org/entity/Q69682",
+        "cityLabel": "Ostermundigen",
+        "population": "15871"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q39",
+        "countryLabel": "Switzerland",
+        "city": "http://www.wikidata.org/entity/Q69374",
+        "cityLabel": "Wallisellen",
+        "population": "14188"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q39",
+        "countryLabel": "Switzerland",
+        "city": "http://www.wikidata.org/entity/Q69374",
+        "cityLabel": "Wallisellen",
+        "population": "15855"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q39",
+        "countryLabel": "Switzerland",
+        "city": "http://www.wikidata.org/entity/Q69512",
+        "cityLabel": "Lyss",
+        "population": "14080"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q39",
+        "countryLabel": "Switzerland",
+        "city": "http://www.wikidata.org/entity/Q63964",
+        "native": "Sarnen",
+        "cityLabel": "Sarnen",
+        "population": "10233"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q39",
+        "countryLabel": "Switzerland",
+        "city": "http://www.wikidata.org/entity/Q64205",
+        "cityLabel": "Regensdorf",
+        "population": "16975"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q39",
+        "countryLabel": "Switzerland",
+        "city": "http://www.wikidata.org/entity/Q64205",
+        "cityLabel": "Regensdorf",
+        "population": "18253"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q39",
+        "countryLabel": "Switzerland",
+        "city": "http://www.wikidata.org/entity/Q68297",
+        "cityLabel": "Sierre",
+        "population": "15945"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q39",
+        "countryLabel": "Switzerland",
+        "city": "http://www.wikidata.org/entity/Q64044",
+        "cityLabel": "Bellinzona",
+        "population": "42615"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q39",
+        "countryLabel": "Switzerland",
+        "city": "http://www.wikidata.org/entity/Q64210",
+        "cityLabel": "Spreitenbach",
+        "population": "11270"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q39",
+        "countryLabel": "Switzerland",
+        "city": "http://www.wikidata.org/entity/Q64077",
+        "cityLabel": "Wil",
+        "population": "18301"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q39",
+        "countryLabel": "Switzerland",
+        "city": "http://www.wikidata.org/entity/Q68227",
+        "native": "Richterswil",
+        "cityLabel": "Richterswil",
+        "population": "11799"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q39",
+        "countryLabel": "Switzerland",
+        "city": "http://www.wikidata.org/entity/Q68227",
+        "native": "Richterswil",
+        "cityLabel": "Richterswil",
+        "population": "13407"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q39",
+        "countryLabel": "Switzerland",
+        "city": "http://www.wikidata.org/entity/Q69745",
+        "native": "Renens",
+        "cityLabel": "Renens",
+        "population": "20232"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q39",
+        "countryLabel": "Switzerland",
+        "city": "http://www.wikidata.org/entity/Q69148",
+        "cityLabel": "Schlieren",
+        "population": "17199"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q39",
+        "countryLabel": "Switzerland",
+        "city": "http://www.wikidata.org/entity/Q69148",
+        "cityLabel": "Schlieren",
+        "population": "18666"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q39",
+        "countryLabel": "Switzerland",
+        "city": "http://www.wikidata.org/entity/Q68972",
+        "cityLabel": "Liestal",
+        "population": "14148"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q39",
+        "countryLabel": "Switzerland",
+        "city": "http://www.wikidata.org/entity/Q68978",
+        "cityLabel": "Thun",
+        "population": "42735"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q39",
+        "countryLabel": "Switzerland",
+        "city": "http://www.wikidata.org/entity/Q68136",
+        "cityLabel": "Sion",
+        "population": "33999"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q39",
+        "countryLabel": "Switzerland",
+        "city": "http://www.wikidata.org/entity/Q68286",
+        "cityLabel": "Horgen",
+        "population": "20207"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q39",
+        "countryLabel": "Switzerland",
+        "city": "http://www.wikidata.org/entity/Q72",
+        "native": "Zürich",
+        "cityLabel": "Zürich",
+        "population": "415682"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q39",
+        "countryLabel": "Switzerland",
+        "city": "http://www.wikidata.org/entity/Q70635",
+        "cityLabel": "Glarus Nord",
+        "population": "17198"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q39",
+        "countryLabel": "Switzerland",
+        "city": "http://www.wikidata.org/entity/Q64156",
+        "cityLabel": "Arbon",
+        "population": "14012"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q39",
+        "countryLabel": "Switzerland",
+        "city": "http://www.wikidata.org/entity/Q69345",
+        "cityLabel": "Neuchâtel",
+        "population": "33772"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q39",
+        "countryLabel": "Switzerland",
+        "city": "http://www.wikidata.org/entity/Q69383",
+        "cityLabel": "Hinwil",
+        "population": "11179"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q39",
+        "countryLabel": "Switzerland",
+        "city": "http://www.wikidata.org/entity/Q64082",
+        "cityLabel": "Dübendorf",
+        "population": "25341"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q39",
+        "countryLabel": "Switzerland",
+        "city": "http://www.wikidata.org/entity/Q64082",
+        "cityLabel": "Dübendorf",
+        "population": "28002"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q39",
+        "countryLabel": "Switzerland",
+        "city": "http://www.wikidata.org/entity/Q68959",
+        "cityLabel": "Thalwil",
+        "population": "17340"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q39",
+        "countryLabel": "Switzerland",
+        "city": "http://www.wikidata.org/entity/Q68959",
+        "cityLabel": "Thalwil",
+        "population": "17784"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q39",
+        "countryLabel": "Switzerland",
+        "city": "http://www.wikidata.org/entity/Q807",
+        "cityLabel": "Lausanne",
+        "population": "144426"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q39",
+        "countryLabel": "Switzerland",
+        "city": "http://www.wikidata.org/entity/Q69752",
+        "cityLabel": "Rüti",
+        "population": "12098"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q39",
+        "countryLabel": "Switzerland",
+        "city": "http://www.wikidata.org/entity/Q69783",
+        "cityLabel": "Münsingen",
+        "population": "12001"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q39",
+        "countryLabel": "Switzerland",
+        "city": "http://www.wikidata.org/entity/Q64058",
+        "cityLabel": "Köniz",
+        "population": "39375"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q39",
+        "countryLabel": "Switzerland",
+        "city": "http://www.wikidata.org/entity/Q69675",
+        "cityLabel": "Zollikofen",
+        "population": "10410"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q39",
+        "countryLabel": "Switzerland",
+        "city": "http://www.wikidata.org/entity/Q69777",
+        "cityLabel": "Gossau",
+        "population": "17941"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q39",
+        "countryLabel": "Switzerland",
+        "city": "http://www.wikidata.org/entity/Q68965",
+        "cityLabel": "Solothurn",
+        "population": "16465"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q39",
+        "countryLabel": "Switzerland",
+        "city": "http://www.wikidata.org/entity/Q69754",
+        "cityLabel": "Volketswil",
+        "population": "17851"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q39",
+        "countryLabel": "Switzerland",
+        "city": "http://www.wikidata.org/entity/Q69754",
+        "cityLabel": "Volketswil",
+        "population": "18615"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q39",
+        "countryLabel": "Switzerland",
+        "city": "http://www.wikidata.org/entity/Q63970",
+        "native": "Herisau",
+        "cityLabel": "Herisau",
+        "population": "15222"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q39",
+        "countryLabel": "Switzerland",
+        "city": "http://www.wikidata.org/entity/Q68103",
+        "cityLabel": "Interlaken",
+        "population": "5659"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q39",
+        "countryLabel": "Switzerland",
+        "city": "http://www.wikidata.org/entity/Q64027",
+        "cityLabel": "Nyon",
+        "population": "20272"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q39",
+        "countryLabel": "Switzerland",
+        "city": "http://www.wikidata.org/entity/Q69222",
+        "cityLabel": "Aarwangen",
+        "population": "4312"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q39",
+        "countryLabel": "Switzerland",
+        "city": "http://www.wikidata.org/entity/Q455496",
+        "cityLabel": "Höngg",
+        "population": "21581"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q39",
+        "countryLabel": "Switzerland",
+        "city": "http://www.wikidata.org/entity/Q656446",
+        "cityLabel": "Unterstrass",
+        "population": "21875"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q39",
+        "countryLabel": "Switzerland",
+        "city": "http://www.wikidata.org/entity/Q70262",
+        "cityLabel": "La Tène",
+        "population": "4976"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q39",
+        "countryLabel": "Switzerland",
+        "city": "http://www.wikidata.org/entity/Q9125",
+        "cityLabel": "Winterthur",
+        "population": "109775"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q39",
+        "countryLabel": "Switzerland",
+        "city": "http://www.wikidata.org/entity/Q382903",
+        "cityLabel": "Affoltern",
+        "population": "25082"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q39",
+        "countryLabel": "Switzerland",
+        "city": "http://www.wikidata.org/entity/Q69175",
+        "cityLabel": "Eglisau",
+        "population": "5170"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q39",
+        "countryLabel": "Switzerland",
+        "city": "http://www.wikidata.org/entity/Q69175",
+        "cityLabel": "Eglisau",
+        "population": "5021"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q39",
+        "countryLabel": "Switzerland",
+        "city": "http://www.wikidata.org/entity/Q19944645",
+        "cityLabel": "Surses",
+        "population": "2356"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q39",
+        "countryLabel": "Switzerland",
+        "city": "http://www.wikidata.org/entity/Q68160",
+        "cityLabel": "Vevey",
+        "population": "19605"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q39",
+        "countryLabel": "Switzerland",
+        "city": "http://www.wikidata.org/entity/Q1034",
+        "cityLabel": "Biel/Bienne",
+        "population": "54456"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q39",
+        "countryLabel": "Switzerland",
+        "city": "http://www.wikidata.org/entity/Q69887",
+        "cityLabel": "Bachenbülach",
+        "population": "4092"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q39",
+        "countryLabel": "Switzerland",
+        "city": "http://www.wikidata.org/entity/Q693269",
+        "cityLabel": "Fluntern",
+        "population": "7856"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q39",
+        "countryLabel": "Switzerland",
+        "city": "http://www.wikidata.org/entity/Q11935",
+        "native": "Locarno",
+        "cityLabel": "Locarno",
+        "population": "15483"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q39",
+        "countryLabel": "Switzerland",
+        "city": "http://www.wikidata.org/entity/Q693483",
+        "cityLabel": "Oberstrass",
+        "population": "10452"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q39",
+        "countryLabel": "Switzerland",
+        "city": "http://www.wikidata.org/entity/Q63954",
+        "cityLabel": "Arosa",
+        "population": "3205"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q39",
+        "countryLabel": "Switzerland",
+        "city": "http://www.wikidata.org/entity/Q69191",
+        "cityLabel": "Laufenburg",
+        "population": "2030"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q39",
+        "countryLabel": "Switzerland",
+        "city": "http://www.wikidata.org/entity/Q642353",
+        "cityLabel": "Wollishofen",
+        "population": "17892"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q39",
+        "countryLabel": "Switzerland",
+        "city": "http://www.wikidata.org/entity/Q69186",
+        "cityLabel": "Beringen",
+        "population": "4541"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q39",
+        "countryLabel": "Switzerland",
+        "city": "http://www.wikidata.org/entity/Q68994",
+        "cityLabel": "Adelboden",
+        "population": "3437"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q39",
+        "countryLabel": "Switzerland",
+        "city": "http://www.wikidata.org/entity/Q68165",
+        "cityLabel": "Kloten",
+        "population": "18402"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q39",
+        "countryLabel": "Switzerland",
+        "city": "http://www.wikidata.org/entity/Q68165",
+        "cityLabel": "Kloten",
+        "population": "19362"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q39",
+        "countryLabel": "Switzerland",
+        "city": "http://www.wikidata.org/entity/Q69135",
+        "cityLabel": "Silenen",
+        "population": "2228"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q39",
+        "countryLabel": "Switzerland",
+        "city": "http://www.wikidata.org/entity/Q14571",
+        "cityLabel": "Kriens",
+        "population": "26751"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q39",
+        "countryLabel": "Switzerland",
+        "city": "http://www.wikidata.org/entity/Q27494",
+        "cityLabel": "Zermatt",
+        "population": "5770"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q39",
+        "countryLabel": "Switzerland",
+        "city": "http://www.wikidata.org/entity/Q68097",
+        "cityLabel": "Davos",
+        "population": "11109"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q39",
+        "countryLabel": "Switzerland",
+        "city": "http://www.wikidata.org/entity/Q27576",
+        "cityLabel": "Wettingen",
+        "population": "20135"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q39",
+        "countryLabel": "Switzerland",
+        "city": "http://www.wikidata.org/entity/Q693454",
+        "cityLabel": "Hottingen",
+        "population": "10708"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q39",
+        "countryLabel": "Switzerland",
+        "city": "http://www.wikidata.org/entity/Q5262",
+        "native": "Riehen",
+        "cityLabel": "Riehen",
+        "population": "20699"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q39",
+        "countryLabel": "Switzerland",
+        "city": "http://www.wikidata.org/entity/Q688652",
+        "cityLabel": "Littau",
+        "population": "17224"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q39",
+        "countryLabel": "Switzerland",
+        "city": "http://www.wikidata.org/entity/Q68124",
+        "cityLabel": "La Chaux-de-Fonds",
+        "population": "38965"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q39",
+        "countryLabel": "Switzerland",
+        "city": "http://www.wikidata.org/entity/Q15730054",
+        "cityLabel": "Glarus",
+        "population": "5996"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q39",
+        "countryLabel": "Switzerland",
+        "city": "http://www.wikidata.org/entity/Q68210",
+        "cityLabel": "Adliswil",
+        "population": "18037"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q39",
+        "countryLabel": "Switzerland",
+        "city": "http://www.wikidata.org/entity/Q68210",
+        "cityLabel": "Adliswil",
+        "population": "18731"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q39",
+        "countryLabel": "Switzerland",
+        "city": "http://www.wikidata.org/entity/Q69619",
+        "cityLabel": "Huttwil",
+        "population": "4741"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q39",
+        "countryLabel": "Switzerland",
+        "city": "http://www.wikidata.org/entity/Q43195",
+        "cityLabel": "Aigle",
+        "population": "9961"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q39",
+        "countryLabel": "Switzerland",
+        "city": "http://www.wikidata.org/entity/Q69790",
+        "cityLabel": "Cadenazzo",
+        "population": "2855"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q39",
+        "countryLabel": "Switzerland",
+        "city": "http://www.wikidata.org/entity/Q69963",
+        "cityLabel": "Oberengstringen",
+        "population": "6416"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q39",
+        "countryLabel": "Switzerland",
+        "city": "http://www.wikidata.org/entity/Q69963",
+        "cityLabel": "Oberengstringen",
+        "population": "6569"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q39",
+        "countryLabel": "Switzerland",
+        "city": "http://www.wikidata.org/entity/Q69188",
+        "cityLabel": "Hombrechtikon",
+        "population": "8595"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q39",
+        "countryLabel": "Switzerland",
+        "city": "http://www.wikidata.org/entity/Q657525",
+        "cityLabel": "Schwamendingen",
+        "population": "11209"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q39",
+        "countryLabel": "Switzerland",
+        "city": "http://www.wikidata.org/entity/Q69203",
+        "cityLabel": "Erlenbach",
+        "population": "5112"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q39",
+        "countryLabel": "Switzerland",
+        "city": "http://www.wikidata.org/entity/Q69203",
+        "cityLabel": "Erlenbach",
+        "population": "5567"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q39",
+        "countryLabel": "Switzerland",
+        "city": "http://www.wikidata.org/entity/Q70012",
+        "native": "Ettingen",
+        "cityLabel": "Ettingen",
+        "population": "4812"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q39",
+        "countryLabel": "Switzerland",
+        "city": "http://www.wikidata.org/entity/Q69503",
+        "cityLabel": "Poschiavo",
+        "population": "3534"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q39",
+        "countryLabel": "Switzerland",
+        "city": "http://www.wikidata.org/entity/Q69237",
+        "cityLabel": "Altnau",
+        "population": "2149"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q39",
+        "countryLabel": "Switzerland",
+        "city": "http://www.wikidata.org/entity/Q15583",
+        "cityLabel": "Brig-Glis",
+        "population": "12935"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q39",
+        "countryLabel": "Switzerland",
+        "city": "http://www.wikidata.org/entity/Q69224",
+        "cityLabel": "Herrliberg",
+        "population": "6290"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q39",
+        "countryLabel": "Switzerland",
+        "city": "http://www.wikidata.org/entity/Q9093",
+        "cityLabel": "Bülach",
+        "population": "20046"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q39",
+        "countryLabel": "Switzerland",
+        "city": "http://www.wikidata.org/entity/Q69048",
+        "cityLabel": "Kaiseraugst",
+        "population": "5576"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q39",
+        "countryLabel": "Switzerland",
+        "city": "http://www.wikidata.org/entity/Q69233",
+        "cityLabel": "Münsterlingen",
+        "population": "3177"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q39",
+        "countryLabel": "Switzerland",
+        "city": "http://www.wikidata.org/entity/Q392079",
+        "cityLabel": "Witikon",
+        "population": "10267"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q39",
+        "countryLabel": "Switzerland",
+        "city": "http://www.wikidata.org/entity/Q648218",
+        "cityLabel": "Enge",
+        "population": "8836"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q39",
+        "countryLabel": "Switzerland",
+        "city": "http://www.wikidata.org/entity/Q69476",
+        "native": "La Neuveville",
+        "cityLabel": "La Neuveville",
+        "population": "3444"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q39",
+        "countryLabel": "Switzerland",
+        "city": "http://www.wikidata.org/entity/Q19843359",
+        "cityLabel": "Mont-Vully",
+        "population": "3556"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q39",
+        "countryLabel": "Switzerland",
+        "city": "http://www.wikidata.org/entity/Q7123",
+        "cityLabel": "Sursee",
+        "population": "9079"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q39",
+        "countryLabel": "Switzerland",
+        "city": "http://www.wikidata.org/entity/Q66191",
+        "cityLabel": "Muttenz",
+        "population": "17339"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q39",
+        "countryLabel": "Switzerland",
+        "city": "http://www.wikidata.org/entity/Q4225",
+        "cityLabel": "Emmen",
+        "population": "29292"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q39",
+        "countryLabel": "Switzerland",
+        "city": "http://www.wikidata.org/entity/Q70022",
+        "cityLabel": "Oberglatt",
+        "population": "6063"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q39",
+        "countryLabel": "Switzerland",
+        "city": "http://www.wikidata.org/entity/Q70022",
+        "cityLabel": "Oberglatt",
+        "population": "6964"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q39",
+        "countryLabel": "Switzerland",
+        "city": "http://www.wikidata.org/entity/Q476940",
+        "cityLabel": "Hirslanden",
+        "population": "7285"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q39",
+        "countryLabel": "Switzerland",
+        "city": "http://www.wikidata.org/entity/Q69208",
+        "cityLabel": "Windisch",
+        "population": "7339"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q39",
+        "countryLabel": "Switzerland",
+        "city": "http://www.wikidata.org/entity/Q69438",
+        "cityLabel": "Endingen",
+        "population": "2573"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q39",
+        "countryLabel": "Switzerland",
+        "city": "http://www.wikidata.org/entity/Q659434",
+        "cityLabel": "Ennenda",
+        "population": "2808"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q39",
+        "countryLabel": "Switzerland",
+        "city": "http://www.wikidata.org/entity/Q69704",
+        "cityLabel": "Münchwilen",
+        "population": "5377"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q39",
+        "countryLabel": "Switzerland",
+        "city": "http://www.wikidata.org/entity/Q678030",
+        "cityLabel": "Wipkingen",
+        "population": "15835"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q39",
+        "countryLabel": "Switzerland",
+        "city": "http://www.wikidata.org/entity/Q69131",
+        "cityLabel": "Aadorf",
+        "population": "8599"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q39",
+        "countryLabel": "Switzerland",
+        "city": "http://www.wikidata.org/entity/Q68129",
+        "native": "Olten",
+        "cityLabel": "Olten",
+        "population": "17133"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q39",
+        "countryLabel": "Switzerland",
+        "city": "http://www.wikidata.org/entity/Q691367",
+        "cityLabel": "Leimbach",
+        "population": "5730"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q39",
+        "countryLabel": "Switzerland",
+        "city": "http://www.wikidata.org/entity/Q67513",
+        "cityLabel": "Ottenbach",
+        "population": "2556"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q39",
+        "countryLabel": "Switzerland",
+        "city": "http://www.wikidata.org/entity/Q64832",
+        "cityLabel": "Elsau",
+        "population": "3616"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q39",
+        "countryLabel": "Switzerland",
+        "city": "http://www.wikidata.org/entity/Q67582",
+        "cityLabel": "Oberdiessbach",
+        "population": "3490"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q39",
+        "countryLabel": "Switzerland",
+        "city": "http://www.wikidata.org/entity/Q57111",
+        "cityLabel": "Cossonay",
+        "population": "3647"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q39",
+        "countryLabel": "Switzerland",
+        "city": "http://www.wikidata.org/entity/Q67539",
+        "cityLabel": "Buchs",
+        "population": "6303"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q39",
+        "countryLabel": "Switzerland",
+        "city": "http://www.wikidata.org/entity/Q67907",
+        "cityLabel": "Stadel bei Niederglatt",
+        "population": "2271"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q39",
+        "countryLabel": "Switzerland",
+        "city": "http://www.wikidata.org/entity/Q67272",
+        "cityLabel": "Wald",
+        "population": "9758"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q39",
+        "countryLabel": "Switzerland",
+        "city": "http://www.wikidata.org/entity/Q65510",
+        "cityLabel": "Bonstetten",
+        "population": "5491"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q39",
+        "countryLabel": "Switzerland",
+        "city": "http://www.wikidata.org/entity/Q64139",
+        "cityLabel": "Bremgarten",
+        "population": "7791"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q39",
+        "countryLabel": "Switzerland",
+        "city": "http://www.wikidata.org/entity/Q65841",
+        "cityLabel": "Hittnau",
+        "population": "3613"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q39",
+        "countryLabel": "Switzerland",
+        "city": "http://www.wikidata.org/entity/Q57097",
+        "native": "Coppet",
+        "cityLabel": "Coppet",
+        "population": "2333"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q39",
+        "countryLabel": "Switzerland",
+        "city": "http://www.wikidata.org/entity/Q64877",
+        "cityLabel": "Egg",
+        "population": "8442"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q39",
+        "countryLabel": "Switzerland",
+        "city": "http://www.wikidata.org/entity/Q65316",
+        "native": "Meisterschwanden",
+        "cityLabel": "Meisterschwanden",
+        "population": "2369"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q39",
+        "countryLabel": "Switzerland",
+        "city": "http://www.wikidata.org/entity/Q65942",
+        "cityLabel": "Obfelden",
+        "population": "5340"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q39",
+        "countryLabel": "Switzerland",
+        "city": "http://www.wikidata.org/entity/Q64165",
+        "cityLabel": "Aarburg",
+        "population": "7711"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q39",
+        "countryLabel": "Switzerland",
+        "city": "http://www.wikidata.org/entity/Q68363",
+        "cityLabel": "Laufen",
+        "population": "5491"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q39",
+        "countryLabel": "Switzerland",
+        "city": "http://www.wikidata.org/entity/Q68413",
+        "cityLabel": "Kleinandelfingen",
+        "population": "2077"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q39",
+        "countryLabel": "Switzerland",
+        "city": "http://www.wikidata.org/entity/Q64882",
+        "cityLabel": "Greifensee",
+        "population": "5226"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q39",
+        "countryLabel": "Switzerland",
+        "city": "http://www.wikidata.org/entity/Q64882",
+        "cityLabel": "Greifensee",
+        "population": "5345"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q39",
+        "countryLabel": "Switzerland",
+        "city": "http://www.wikidata.org/entity/Q65877",
+        "cityLabel": "Embrach",
+        "population": "9419"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q39",
+        "countryLabel": "Switzerland",
+        "city": "http://www.wikidata.org/entity/Q67168",
+        "cityLabel": "Urnäsch",
+        "population": "2247"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q39",
+        "countryLabel": "Switzerland",
+        "city": "http://www.wikidata.org/entity/Q68417",
+        "cityLabel": "Henggart",
+        "population": "2256"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q39",
+        "countryLabel": "Switzerland",
+        "city": "http://www.wikidata.org/entity/Q67211",
+        "cityLabel": "Zell",
+        "population": "5929"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q39",
+        "countryLabel": "Switzerland",
+        "city": "http://www.wikidata.org/entity/Q65858",
+        "cityLabel": "Turbenthal",
+        "population": "4748"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q39",
+        "countryLabel": "Switzerland",
+        "city": "http://www.wikidata.org/entity/Q65812",
+        "cityLabel": "Brütten",
+        "population": "2016"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q39",
+        "countryLabel": "Switzerland",
+        "city": "http://www.wikidata.org/entity/Q67525",
+        "cityLabel": "Gossau",
+        "population": "9937"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q39",
+        "countryLabel": "Switzerland",
+        "city": "http://www.wikidata.org/entity/Q64571",
+        "cityLabel": "Sargans",
+        "population": "6026"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q39",
+        "countryLabel": "Switzerland",
+        "city": "http://www.wikidata.org/entity/Q68327",
+        "cityLabel": "Aeschi bei Spiez",
+        "population": "2217"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q39",
+        "countryLabel": "Switzerland",
+        "city": "http://www.wikidata.org/entity/Q65528",
+        "cityLabel": "Oberrieden",
+        "population": "5071"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q39",
+        "countryLabel": "Switzerland",
+        "city": "http://www.wikidata.org/entity/Q67354",
+        "cityLabel": "Oetwil am See",
+        "population": "4754"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q39",
+        "countryLabel": "Switzerland",
+        "city": "http://www.wikidata.org/entity/Q276792",
+        "cityLabel": "Seebach",
+        "population": "24008"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q39",
+        "countryLabel": "Switzerland",
+        "city": "http://www.wikidata.org/entity/Q70631",
+        "native": "Landquart GR",
+        "cityLabel": "Landquart",
+        "population": "4318"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q39",
+        "countryLabel": "Switzerland",
+        "city": "http://www.wikidata.org/entity/Q67058",
+        "cityLabel": "Uetikon am See",
+        "population": "6145"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q39",
+        "countryLabel": "Switzerland",
+        "city": "http://www.wikidata.org/entity/Q167179",
+        "cityLabel": "Oerlikon",
+        "population": "21658"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q39",
+        "countryLabel": "Switzerland",
+        "city": "http://www.wikidata.org/entity/Q68395",
+        "cityLabel": "Neerach",
+        "population": "3140"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q39",
+        "countryLabel": "Switzerland",
+        "city": "http://www.wikidata.org/entity/Q65040",
+        "cityLabel": "Neftenbach",
+        "population": "5533"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q39",
+        "countryLabel": "Switzerland",
+        "city": "http://www.wikidata.org/entity/Q67887",
+        "cityLabel": "Steinmaur",
+        "population": "3460"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q39",
+        "countryLabel": "Switzerland",
+        "city": "http://www.wikidata.org/entity/Q67920",
+        "cityLabel": "Niederglatt",
+        "population": "4917"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q39",
+        "countryLabel": "Switzerland",
+        "city": "http://www.wikidata.org/entity/Q64113",
+        "cityLabel": "Aarberg",
+        "population": "4422"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q39",
+        "countryLabel": "Switzerland",
+        "city": "http://www.wikidata.org/entity/Q68283",
+        "cityLabel": "Murten",
+        "population": "6024"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q39",
+        "countryLabel": "Switzerland",
+        "city": "http://www.wikidata.org/entity/Q65347",
+        "cityLabel": "Langnau am Albis",
+        "population": "7500"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q39",
+        "countryLabel": "Switzerland",
+        "city": "http://www.wikidata.org/entity/Q65347",
+        "cityLabel": "Langnau am Albis",
+        "population": "7254"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q39",
+        "countryLabel": "Switzerland",
+        "city": "http://www.wikidata.org/entity/Q80797",
+        "cityLabel": "Albisrieden",
+        "population": "19145"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q39",
+        "countryLabel": "Switzerland",
+        "city": "http://www.wikidata.org/entity/Q68457",
+        "cityLabel": "Rickenbach",
+        "population": "2655"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q39",
+        "countryLabel": "Switzerland",
+        "city": "http://www.wikidata.org/entity/Q70375",
+        "cityLabel": "Weisslingen",
+        "population": "3301"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q39",
+        "countryLabel": "Switzerland",
+        "city": "http://www.wikidata.org/entity/Q64865",
+        "cityLabel": "Bischofszell",
+        "population": "5895"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q39",
+        "countryLabel": "Switzerland",
+        "city": "http://www.wikidata.org/entity/Q67203",
+        "cityLabel": "Tavannes",
+        "population": "3612"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q39",
+        "countryLabel": "Switzerland",
+        "city": "http://www.wikidata.org/entity/Q67935",
+        "cityLabel": "Selzach",
+        "population": "3301"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q39",
+        "countryLabel": "Switzerland",
+        "city": "http://www.wikidata.org/entity/Q64186",
+        "cityLabel": "Bad Zurzach",
+        "population": "4149"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q39",
+        "countryLabel": "Switzerland",
+        "city": "http://www.wikidata.org/entity/Q70369",
+        "cityLabel": "Fehraltorf",
+        "population": "6378"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q39",
+        "countryLabel": "Switzerland",
+        "city": "http://www.wikidata.org/entity/Q65934",
+        "cityLabel": "Wettswil am Albis",
+        "population": "5097"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q39",
+        "countryLabel": "Switzerland",
+        "city": "http://www.wikidata.org/entity/Q65455",
+        "cityLabel": "Balsthal",
+        "population": "6019"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q39",
+        "countryLabel": "Switzerland",
+        "city": "http://www.wikidata.org/entity/Q65868",
+        "cityLabel": "Bäretswil",
+        "population": "5026"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q39",
+        "countryLabel": "Switzerland",
+        "city": "http://www.wikidata.org/entity/Q66069",
+        "cityLabel": "Muotathal",
+        "population": "3485"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q39",
+        "countryLabel": "Switzerland",
+        "city": "http://www.wikidata.org/entity/Q65547",
+        "cityLabel": "Mettmenstetten",
+        "population": "4865"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q39",
+        "countryLabel": "Switzerland",
+        "city": "http://www.wikidata.org/entity/Q64011",
+        "cityLabel": "Lauterbrunnen",
+        "population": "2732"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q39",
+        "countryLabel": "Switzerland",
+        "city": "http://www.wikidata.org/entity/Q68423",
+        "cityLabel": "Andelfingen",
+        "population": "2201"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q39",
+        "countryLabel": "Switzerland",
+        "city": "http://www.wikidata.org/entity/Q65129",
+        "cityLabel": "Hedingen",
+        "population": "3678"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q39",
+        "countryLabel": "Switzerland",
+        "city": "http://www.wikidata.org/entity/Q67068",
+        "cityLabel": "Bubikon",
+        "population": "7194"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q39",
+        "countryLabel": "Switzerland",
+        "city": "http://www.wikidata.org/entity/Q65282",
+        "cityLabel": "Birmensdorf",
+        "population": "5965"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q39",
+        "countryLabel": "Switzerland",
+        "city": "http://www.wikidata.org/entity/Q65282",
+        "cityLabel": "Birmensdorf",
+        "population": "6385"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q39",
+        "countryLabel": "Switzerland",
+        "city": "http://www.wikidata.org/entity/Q65119",
+        "cityLabel": "Pfungen",
+        "population": "3831"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q39",
+        "countryLabel": "Switzerland",
+        "city": "http://www.wikidata.org/entity/Q64004",
+        "native": "Grindelwald",
+        "cityLabel": "Grindelwald",
+        "population": "4061"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q39",
+        "countryLabel": "Switzerland",
+        "city": "http://www.wikidata.org/entity/Q64004",
+        "native": "Grindelwald",
+        "cityLabel": "Grindelwald",
+        "population": "4138"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q39",
+        "countryLabel": "Switzerland",
+        "city": "http://www.wikidata.org/entity/Q67898",
+        "cityLabel": "Nürensdorf",
+        "population": "5591"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q39",
+        "countryLabel": "Switzerland",
+        "city": "http://www.wikidata.org/entity/Q67912",
+        "cityLabel": "Lufingen",
+        "population": "2373"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q39",
+        "countryLabel": "Switzerland",
+        "city": "http://www.wikidata.org/entity/Q67894",
+        "cityLabel": "Rümlang",
+        "population": "7019"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q39",
+        "countryLabel": "Switzerland",
+        "city": "http://www.wikidata.org/entity/Q67894",
+        "cityLabel": "Rümlang",
+        "population": "7929"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q39",
+        "countryLabel": "Switzerland",
+        "city": "http://www.wikidata.org/entity/Q64857",
+        "cityLabel": "Maur",
+        "population": "8072"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q39",
+        "countryLabel": "Switzerland",
+        "city": "http://www.wikidata.org/entity/Q64857",
+        "cityLabel": "Maur",
+        "population": "10148"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q39",
+        "countryLabel": "Switzerland",
+        "city": "http://www.wikidata.org/entity/Q64647",
+        "cityLabel": "Vaz/Obervaz",
+        "population": "2630"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q39",
+        "countryLabel": "Switzerland",
+        "city": "http://www.wikidata.org/entity/Q66964",
+        "cityLabel": "Freienstein-Teufen",
+        "population": "2371"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q39",
+        "countryLabel": "Switzerland",
+        "city": "http://www.wikidata.org/entity/Q65854",
+        "cityLabel": "Fischenthal",
+        "population": "2504"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q39",
+        "countryLabel": "Switzerland",
+        "city": "http://www.wikidata.org/entity/Q67909",
+        "cityLabel": "Rorbas",
+        "population": "2837"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q39",
+        "countryLabel": "Switzerland",
+        "city": "http://www.wikidata.org/entity/Q66062",
+        "cityLabel": "Stallikon",
+        "population": "3687"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q39",
+        "countryLabel": "Switzerland",
+        "city": "http://www.wikidata.org/entity/Q68399",
+        "cityLabel": "Glattfelden",
+        "population": "5189"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q39",
+        "countryLabel": "Switzerland",
+        "city": "http://www.wikidata.org/entity/Q63992",
+        "cityLabel": "Ascona",
+        "population": "5429"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q39",
+        "countryLabel": "Switzerland",
+        "city": "http://www.wikidata.org/entity/Q67220",
+        "cityLabel": "Dürnten",
+        "population": "7518"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q39",
+        "countryLabel": "Switzerland",
+        "city": "http://www.wikidata.org/entity/Q64755",
+        "cityLabel": "Merenschwand",
+        "population": "3393"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q39",
+        "countryLabel": "Switzerland",
+        "city": "http://www.wikidata.org/entity/Q65164",
+        "cityLabel": "Dietlikon",
+        "population": "7170"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q39",
+        "countryLabel": "Switzerland",
+        "city": "http://www.wikidata.org/entity/Q65164",
+        "cityLabel": "Dietlikon",
+        "population": "7685"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q39",
+        "countryLabel": "Switzerland",
+        "city": "http://www.wikidata.org/entity/Q64869",
+        "cityLabel": "Fällanden",
+        "population": "8072"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q39",
+        "countryLabel": "Switzerland",
+        "city": "http://www.wikidata.org/entity/Q64869",
+        "cityLabel": "Fällanden",
+        "population": "8575"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q39",
+        "countryLabel": "Switzerland",
+        "city": "http://www.wikidata.org/entity/Q65231",
+        "cityLabel": "Hausen am Albis",
+        "population": "3376"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q39",
+        "countryLabel": "Switzerland",
+        "city": "http://www.wikidata.org/entity/Q65231",
+        "cityLabel": "Hausen am Albis",
+        "population": "3646"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q39",
+        "countryLabel": "Switzerland",
+        "city": "http://www.wikidata.org/entity/Q64967",
+        "cityLabel": "Hettlingen",
+        "population": "3174"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q39",
+        "countryLabel": "Switzerland",
+        "city": "http://www.wikidata.org/entity/Q70377",
+        "cityLabel": "Höri",
+        "population": "2721"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q39",
+        "countryLabel": "Switzerland",
+        "city": "http://www.wikidata.org/entity/Q67120",
+        "cityLabel": "Grüningen",
+        "population": "3361"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q39",
+        "countryLabel": "Switzerland",
+        "city": "http://www.wikidata.org/entity/Q65759",
+        "cityLabel": "Lindau",
+        "population": "5621"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q39",
+        "countryLabel": "Switzerland",
+        "city": "http://www.wikidata.org/entity/Q65805",
+        "cityLabel": "Seuzach",
+        "population": "7291"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q39",
+        "countryLabel": "Switzerland",
+        "city": "http://www.wikidata.org/entity/Q64787",
+        "cityLabel": "Döttingen",
+        "population": "3747"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q39",
+        "countryLabel": "Switzerland",
+        "city": "http://www.wikidata.org/entity/Q67145",
+        "cityLabel": "Bauma",
+        "population": "4925"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q39",
+        "countryLabel": "Switzerland",
+        "city": "http://www.wikidata.org/entity/Q67042",
+        "cityLabel": "Niederhasli",
+        "population": "9188"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q39",
+        "countryLabel": "Switzerland",
+        "city": "http://www.wikidata.org/entity/Q64853",
+        "cityLabel": "Wiesendangen",
+        "population": "6355"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q39",
+        "countryLabel": "Switzerland",
+        "city": "http://www.wikidata.org/entity/Q65268",
+        "cityLabel": "Brienz",
+        "population": "3101"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q39",
+        "countryLabel": "Switzerland",
+        "city": "http://www.wikidata.org/entity/Q66283",
+        "cityLabel": "Feuerthalen",
+        "population": "3636"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q39",
+        "countryLabel": "Switzerland",
+        "city": "http://www.wikidata.org/entity/Q67951",
+        "cityLabel": "Dielsdorf",
+        "population": "5940"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q39",
+        "countryLabel": "Switzerland",
+        "city": "http://www.wikidata.org/entity/Q66390",
+        "cityLabel": "Saint-Imier",
+        "population": "5121"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q39",
+        "countryLabel": "Switzerland",
+        "city": "http://www.wikidata.org/entity/Q66595",
+        "cityLabel": "Therwil",
+        "population": "10018"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q39",
+        "countryLabel": "Switzerland",
+        "city": "http://www.wikidata.org/entity/Q66328",
+        "cityLabel": "Knonau",
+        "population": "2301"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q39",
+        "countryLabel": "Switzerland",
+        "city": "http://www.wikidata.org/entity/Q66744",
+        "cityLabel": "Gommiswald",
+        "population": "5053"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q39",
+        "countryLabel": "Switzerland",
+        "city": "http://www.wikidata.org/entity/Q66678",
+        "cityLabel": "Uitikon",
+        "population": "3947"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q39",
+        "countryLabel": "Switzerland",
+        "city": "http://www.wikidata.org/entity/Q66678",
+        "cityLabel": "Uitikon",
+        "population": "4239"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q39",
+        "countryLabel": "Switzerland",
+        "city": "http://www.wikidata.org/entity/Q66747",
+        "cityLabel": "Mönchaltorf",
+        "population": "3715"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q39",
+        "countryLabel": "Switzerland",
+        "city": "http://www.wikidata.org/entity/Q66814",
+        "cityLabel": "Schwerzenbach",
+        "population": "5088"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q39",
+        "countryLabel": "Switzerland",
+        "city": "http://www.wikidata.org/entity/Q66898",
+        "cityLabel": "Zumikon",
+        "population": "5120"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q39",
+        "countryLabel": "Switzerland",
+        "city": "http://www.wikidata.org/entity/Q66211",
+        "native": "Konolfingen",
+        "cityLabel": "Konolfingen",
+        "population": "4732"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q39",
+        "countryLabel": "Switzerland",
+        "city": "http://www.wikidata.org/entity/Q7124",
+        "cityLabel": "Ruswil",
+        "population": "6636"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q39",
+        "countryLabel": "Switzerland",
+        "city": "http://www.wikidata.org/entity/Q66819",
+        "cityLabel": "Rüschlikon",
+        "population": "5830"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q39",
+        "countryLabel": "Switzerland",
+        "city": "http://www.wikidata.org/entity/Q66868",
+        "native": "Eggersriet",
+        "cityLabel": "Eggersriet",
+        "population": "2182"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q39",
+        "countryLabel": "Switzerland",
+        "city": "http://www.wikidata.org/entity/Q17834",
+        "cityLabel": "Rebstein",
+        "population": "4387"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q39",
+        "countryLabel": "Switzerland",
+        "city": "http://www.wikidata.org/entity/Q7096",
+        "cityLabel": "Ballwil",
+        "population": "2577"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q39",
+        "countryLabel": "Switzerland",
+        "city": "http://www.wikidata.org/entity/Q11939",
+        "native": "Stein am Rhein",
+        "cityLabel": "Stein am Rhein",
+        "population": "4187"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q39",
+        "countryLabel": "Switzerland",
+        "city": "http://www.wikidata.org/entity/Q7102",
+        "cityLabel": "Hochdorf",
+        "population": "8877"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q39",
+        "countryLabel": "Switzerland",
+        "city": "http://www.wikidata.org/entity/Q7109",
+        "cityLabel": "Hohenrain",
+        "population": "2418"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q39",
+        "countryLabel": "Switzerland",
+        "city": "http://www.wikidata.org/entity/Q7114",
+        "cityLabel": "Hitzkirch",
+        "population": "4832"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q39",
+        "countryLabel": "Switzerland",
+        "city": "http://www.wikidata.org/entity/Q66755",
+        "cityLabel": "Dällikon",
+        "population": "4100"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q39",
+        "countryLabel": "Switzerland",
+        "city": "http://www.wikidata.org/entity/Q18473",
+        "cityLabel": "Zuchwil",
+        "population": "8744"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q39",
+        "countryLabel": "Switzerland",
+        "city": "http://www.wikidata.org/entity/Q66633",
+        "cityLabel": "Kilchberg",
+        "population": "8437"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q39",
+        "countryLabel": "Switzerland",
+        "city": "http://www.wikidata.org/entity/Q7107",
+        "cityLabel": "Rain",
+        "population": "2494"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q39",
+        "countryLabel": "Switzerland",
+        "city": "http://www.wikidata.org/entity/Q66414",
+        "cityLabel": "Oetwil an der Limmat",
+        "population": "2332"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q39",
+        "countryLabel": "Switzerland",
+        "city": "http://www.wikidata.org/entity/Q66414",
+        "cityLabel": "Oetwil an der Limmat",
+        "population": "2464"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q39",
+        "countryLabel": "Switzerland",
+        "city": "http://www.wikidata.org/entity/Q7092",
+        "cityLabel": "Eschenbach LU",
+        "population": "3547"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q39",
+        "countryLabel": "Switzerland",
+        "city": "http://www.wikidata.org/entity/Q68236",
+        "cityLabel": "Klosters",
+        "population": "4476"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q39",
+        "countryLabel": "Switzerland",
+        "city": "http://www.wikidata.org/entity/Q67957",
+        "cityLabel": "Russikon",
+        "population": "4355"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q39",
+        "countryLabel": "Switzerland",
+        "city": "http://www.wikidata.org/entity/Q66079",
+        "cityLabel": "Unterengstringen",
+        "population": "3398"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q39",
+        "countryLabel": "Switzerland",
+        "city": "http://www.wikidata.org/entity/Q7098",
+        "cityLabel": "Buchrain",
+        "population": "6049"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q39",
+        "countryLabel": "Switzerland",
+        "city": "http://www.wikidata.org/entity/Q68205",
+        "cityLabel": "Paradiso",
+        "population": "4152"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q39",
+        "countryLabel": "Switzerland",
+        "city": "http://www.wikidata.org/entity/Q66378",
+        "cityLabel": "Reichenbach im Kandertal",
+        "population": "3549"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q39",
+        "countryLabel": "Switzerland",
+        "city": "http://www.wikidata.org/entity/Q69",
+        "cityLabel": "Courrendlin",
+        "population": "2595"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q39",
+        "countryLabel": "Switzerland",
+        "city": "http://www.wikidata.org/entity/Q7097",
+        "cityLabel": "Inwil",
+        "population": "2306"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q39",
+        "countryLabel": "Switzerland",
+        "city": "http://www.wikidata.org/entity/Q66457",
+        "cityLabel": "Rafz",
+        "population": "4462"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q39",
+        "countryLabel": "Switzerland",
+        "city": "http://www.wikidata.org/entity/Q7083",
+        "cityLabel": "Rothenburg",
+        "population": "7227"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q39",
+        "countryLabel": "Switzerland",
+        "city": "http://www.wikidata.org/entity/Q14547",
+        "cityLabel": "Entlebuch",
+        "population": "3349"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q39",
+        "countryLabel": "Switzerland",
+        "city": "http://www.wikidata.org/entity/Q7125",
+        "cityLabel": "Wolhusen",
+        "population": "4143"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q39",
+        "countryLabel": "Switzerland",
+        "city": "http://www.wikidata.org/entity/Q68213",
+        "cityLabel": "Orbe",
+        "population": "6903"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q39",
+        "countryLabel": "Switzerland",
+        "city": "http://www.wikidata.org/entity/Q66829",
+        "cityLabel": "Wangen-Brüttisellen",
+        "population": "7892"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q39",
+        "countryLabel": "Switzerland",
+        "city": "http://www.wikidata.org/entity/Q66588",
+        "cityLabel": "Winkel",
+        "population": "4511"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q39",
+        "countryLabel": "Switzerland",
+        "city": "http://www.wikidata.org/entity/Q66411",
+        "cityLabel": "Niederweningen",
+        "population": "3024"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q39",
+        "countryLabel": "Switzerland",
+        "city": "http://www.wikidata.org/entity/Q66660",
+        "cityLabel": "Geroldswil",
+        "population": "4918"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q39",
+        "countryLabel": "Switzerland",
+        "city": "http://www.wikidata.org/entity/Q66338",
+        "cityLabel": "Hirzel",
+        "population": "2158"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q39",
+        "countryLabel": "Switzerland",
+        "city": "http://www.wikidata.org/entity/Q66093",
+        "cityLabel": "Weiningen",
+        "population": "4760"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q39",
+        "countryLabel": "Switzerland",
+        "city": "http://www.wikidata.org/entity/Q66156",
+        "cityLabel": "Otelfingen",
+        "population": "2831"
+    }
+]

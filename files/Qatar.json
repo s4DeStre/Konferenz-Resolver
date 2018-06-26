@@ -1,0 +1,17 @@
+[
+    {
+        "country": "http://www.wikidata.org/entity/Q846",
+        "countryLabel": "Qatar",
+        "city": "http://www.wikidata.org/entity/Q1156471",
+        "cityLabel": "Al Khor",
+        "population": "193983"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q846",
+        "countryLabel": "Qatar",
+        "city": "http://www.wikidata.org/entity/Q3861",
+        "native": "الدوحة",
+        "cityLabel": "Doha",
+        "population": "1312947"
+    }
+]

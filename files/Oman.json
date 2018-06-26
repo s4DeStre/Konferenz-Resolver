@@ -1,0 +1,16 @@
+[
+    {
+        "country": "http://www.wikidata.org/entity/Q842",
+        "countryLabel": "Oman",
+        "city": "http://www.wikidata.org/entity/Q3826",
+        "cityLabel": "Muscat",
+        "population": "646027"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q842",
+        "countryLabel": "Oman",
+        "city": "http://www.wikidata.org/entity/Q426646",
+        "cityLabel": "Khasab",
+        "population": "17777"
+    }
+]

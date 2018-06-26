@@ -1,0 +1,51 @@
+[
+    {
+        "country": "http://www.wikidata.org/entity/Q1027",
+        "countryLabel": "Mauritius",
+        "city": "http://www.wikidata.org/entity/Q641130",
+        "cityLabel": "Triolet, Mauritius",
+        "population": "23386"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q1027",
+        "countryLabel": "Mauritius",
+        "city": "http://www.wikidata.org/entity/Q2215428",
+        "cityLabel": "Souillac, Mauritius",
+        "population": "4154"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q1027",
+        "countryLabel": "Mauritius",
+        "city": "http://www.wikidata.org/entity/Q1021638",
+        "cityLabel": "Port Mathurin",
+        "population": "5929"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q1027",
+        "countryLabel": "Mauritius",
+        "city": "http://www.wikidata.org/entity/Q1054191",
+        "cityLabel": "Centre de Flacq",
+        "population": "15791"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q1027",
+        "countryLabel": "Mauritius",
+        "city": "http://www.wikidata.org/entity/Q130238",
+        "cityLabel": "Cap Malheureux",
+        "population": "5070"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q1027",
+        "countryLabel": "Mauritius",
+        "city": "http://www.wikidata.org/entity/Q770184",
+        "cityLabel": "Quartier-Militaire",
+        "population": "22745"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q1027",
+        "countryLabel": "Mauritius",
+        "city": "http://www.wikidata.org/entity/Q3929",
+        "cityLabel": "Port Louis",
+        "population": "148001"
+    }
+]

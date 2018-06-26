@@ -1,0 +1,58 @@
+[
+    {
+        "country": "http://www.wikidata.org/entity/Q657",
+        "countryLabel": "Chad",
+        "city": "http://www.wikidata.org/entity/Q3112862",
+        "native": "Goz Beïda",
+        "cityLabel": "Goz Beïda",
+        "population": "66107"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q657",
+        "countryLabel": "Chad",
+        "city": "http://www.wikidata.org/entity/Q3659",
+        "native": "N\u2019Djaména",
+        "cityLabel": "N'Djamena",
+        "population": "1092066"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q657",
+        "countryLabel": "Chad",
+        "city": "http://www.wikidata.org/entity/Q1774419",
+        "native": "Pala",
+        "cityLabel": "Pala",
+        "population": "38975"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q657",
+        "countryLabel": "Chad",
+        "city": "http://www.wikidata.org/entity/Q1070175",
+        "native": "Koumra",
+        "cityLabel": "Koumra",
+        "population": "39852"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q657",
+        "countryLabel": "Chad",
+        "city": "http://www.wikidata.org/entity/Q3071111",
+        "native": "Fianga",
+        "cityLabel": "Fianga",
+        "population": "42606"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q657",
+        "countryLabel": "Chad",
+        "city": "http://www.wikidata.org/entity/Q2586396",
+        "native": "Zouar",
+        "cityLabel": "Zouar, Chad",
+        "population": "6432"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q657",
+        "countryLabel": "Chad",
+        "city": "http://www.wikidata.org/entity/Q3659",
+        "native": "انجمينا",
+        "cityLabel": "N'Djamena",
+        "population": "1092066"
+    }
+]

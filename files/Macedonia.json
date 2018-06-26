@@ -1,0 +1,60 @@
+[
+    {
+        "country": "http://www.wikidata.org/entity/Q221",
+        "countryLabel": "Macedonia",
+        "city": "http://www.wikidata.org/entity/Q162952",
+        "cityLabel": "Pehčevo",
+        "population": "3237"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q221",
+        "countryLabel": "Macedonia",
+        "city": "http://www.wikidata.org/entity/Q157246",
+        "native": "Битола",
+        "cityLabel": "Bitola",
+        "population": "74550"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q221",
+        "countryLabel": "Macedonia",
+        "city": "http://www.wikidata.org/entity/Q384",
+        "cityLabel": "Skopje",
+        "population": "506926"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q221",
+        "countryLabel": "Macedonia",
+        "city": "http://www.wikidata.org/entity/Q158088",
+        "cityLabel": "Kavadarci",
+        "population": "38741"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q221",
+        "countryLabel": "Macedonia",
+        "city": "http://www.wikidata.org/entity/Q164954",
+        "cityLabel": "Negotino",
+        "population": "13284"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q221",
+        "countryLabel": "Macedonia",
+        "city": "http://www.wikidata.org/entity/Q157034",
+        "cityLabel": "Kruševo",
+        "population": "5507"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q221",
+        "countryLabel": "Macedonia",
+        "city": "http://www.wikidata.org/entity/Q689820",
+        "cityLabel": "Debar",
+        "population": "14561"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q221",
+        "countryLabel": "Macedonia",
+        "city": "http://www.wikidata.org/entity/Q54452",
+        "native": "Куманово",
+        "cityLabel": "Kumanovo",
+        "population": "105484"
+    }
+]

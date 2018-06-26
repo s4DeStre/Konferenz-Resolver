@@ -1,0 +1,52 @@
+[
+    {
+        "country": "http://www.wikidata.org/entity/Q810",
+        "countryLabel": "Jordan",
+        "city": "http://www.wikidata.org/entity/Q31572",
+        "cityLabel": "Al Karak",
+        "population": "21678"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q810",
+        "countryLabel": "Jordan",
+        "city": "http://www.wikidata.org/entity/Q194165",
+        "cityLabel": "Irbid",
+        "population": "1088100"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q810",
+        "countryLabel": "Jordan",
+        "city": "http://www.wikidata.org/entity/Q180522",
+        "cityLabel": "Aqaba",
+        "population": "140000"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q810",
+        "countryLabel": "Jordan",
+        "city": "http://www.wikidata.org/entity/Q2305496",
+        "cityLabel": "Sakib",
+        "population": "11586"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q810",
+        "countryLabel": "Jordan",
+        "city": "http://www.wikidata.org/entity/Q5999646",
+        "cityLabel": "al-Maschariqa",
+        "population": "18282"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q810",
+        "countryLabel": "Jordan",
+        "city": "http://www.wikidata.org/entity/Q3805",
+        "cityLabel": "Amman",
+        "population": "4995000"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q810",
+        "countryLabel": "Jordan",
+        "city": "http://www.wikidata.org/entity/Q867586",
+        "native": "السلط",
+        "cityLabel": "Salt",
+        "population": "88900"
+    }
+]

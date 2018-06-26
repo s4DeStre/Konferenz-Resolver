@@ -1,0 +1,2258 @@
+[
+    {
+        "country": "http://www.wikidata.org/entity/Q218",
+        "countryLabel": "Romania",
+        "city": "http://www.wikidata.org/entity/Q258981",
+        "cityLabel": "Lugoj",
+        "population": "40361"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q218",
+        "countryLabel": "Romania",
+        "city": "http://www.wikidata.org/entity/Q100188",
+        "cityLabel": "Cluj-Napoca",
+        "population": "324576"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q218",
+        "countryLabel": "Romania",
+        "city": "http://www.wikidata.org/entity/Q1018184",
+        "cityLabel": "Cavnic",
+        "population": "4976"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q218",
+        "countryLabel": "Romania",
+        "city": "http://www.wikidata.org/entity/Q736296",
+        "native": "Câmpulung",
+        "cityLabel": "Câmpulung",
+        "population": "31767"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q218",
+        "countryLabel": "Romania",
+        "city": "http://www.wikidata.org/entity/Q546686",
+        "cityLabel": "Tecuci",
+        "population": "34871"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q218",
+        "countryLabel": "Romania",
+        "city": "http://www.wikidata.org/entity/Q590443",
+        "cityLabel": "Balș",
+        "population": "18164"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q218",
+        "countryLabel": "Romania",
+        "city": "http://www.wikidata.org/entity/Q585548",
+        "cityLabel": "Ocnele Mari",
+        "population": "3309"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q218",
+        "countryLabel": "Romania",
+        "city": "http://www.wikidata.org/entity/Q526019",
+        "cityLabel": "Brezoi",
+        "population": "6022"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q218",
+        "countryLabel": "Romania",
+        "city": "http://www.wikidata.org/entity/Q508313",
+        "cityLabel": "Nădlac",
+        "population": "7398"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q218",
+        "countryLabel": "Romania",
+        "city": "http://www.wikidata.org/entity/Q602184",
+        "cityLabel": "Solca",
+        "population": "2188"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q218",
+        "countryLabel": "Romania",
+        "city": "http://www.wikidata.org/entity/Q79808",
+        "cityLabel": "Constanța",
+        "population": "283872"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q218",
+        "countryLabel": "Romania",
+        "city": "http://www.wikidata.org/entity/Q10860283",
+        "cityLabel": "Broșteni",
+        "population": "5506"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q218",
+        "countryLabel": "Romania",
+        "city": "http://www.wikidata.org/entity/Q586387",
+        "cityLabel": "Eforie",
+        "population": "9473"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q218",
+        "countryLabel": "Romania",
+        "city": "http://www.wikidata.org/entity/Q1018204",
+        "cityLabel": "Slănic",
+        "population": "6034"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q218",
+        "countryLabel": "Romania",
+        "city": "http://www.wikidata.org/entity/Q3846983",
+        "cityLabel": "Șimleu Silvaniei",
+        "population": "14436"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q218",
+        "countryLabel": "Romania",
+        "city": "http://www.wikidata.org/entity/Q283104",
+        "cityLabel": "Roșiorii de Vede",
+        "population": "27416"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q218",
+        "countryLabel": "Romania",
+        "city": "http://www.wikidata.org/entity/Q685857",
+        "cityLabel": "Medgidia",
+        "population": "39780"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q218",
+        "countryLabel": "Romania",
+        "city": "http://www.wikidata.org/entity/Q589880",
+        "cityLabel": "Pucioasa",
+        "population": "14254"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q218",
+        "countryLabel": "Romania",
+        "city": "http://www.wikidata.org/entity/Q185280",
+        "cityLabel": "Baia Mare",
+        "population": "123738"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q218",
+        "countryLabel": "Romania",
+        "city": "http://www.wikidata.org/entity/Q571769",
+        "cityLabel": "Boldești-Scăeni",
+        "population": "11137"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q218",
+        "countryLabel": "Romania",
+        "city": "http://www.wikidata.org/entity/Q572478",
+        "cityLabel": "Reghin",
+        "population": "33281"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q218",
+        "countryLabel": "Romania",
+        "city": "http://www.wikidata.org/entity/Q598577",
+        "cityLabel": "Fetești",
+        "population": "30217"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q218",
+        "countryLabel": "Romania",
+        "city": "http://www.wikidata.org/entity/Q193420",
+        "cityLabel": "Miercurea Ciuc",
+        "population": "38966"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q218",
+        "countryLabel": "Romania",
+        "city": "http://www.wikidata.org/entity/Q736305",
+        "cityLabel": "Pașcani",
+        "population": "33745"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q218",
+        "countryLabel": "Romania",
+        "city": "http://www.wikidata.org/entity/Q521108",
+        "cityLabel": "Dumbrăveni",
+        "population": "7388"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q218",
+        "countryLabel": "Romania",
+        "city": "http://www.wikidata.org/entity/Q168057",
+        "native": "Craiova",
+        "cityLabel": "Craiova",
+        "population": "269506"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q218",
+        "countryLabel": "Romania",
+        "city": "http://www.wikidata.org/entity/Q83404",
+        "cityLabel": "Timișoara",
+        "population": "319279"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q218",
+        "countryLabel": "Romania",
+        "city": "http://www.wikidata.org/entity/Q83324",
+        "native": "Sibiu",
+        "cityLabel": "Sibiu",
+        "population": "397322"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q218",
+        "countryLabel": "Romania",
+        "city": "http://www.wikidata.org/entity/Q570213",
+        "cityLabel": "Turnu Măgurele",
+        "population": "24772"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q218",
+        "countryLabel": "Romania",
+        "city": "http://www.wikidata.org/entity/Q756587",
+        "native": "Dorohoi",
+        "cityLabel": "Dorohoi",
+        "population": "24309"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q218",
+        "countryLabel": "Romania",
+        "city": "http://www.wikidata.org/entity/Q750243",
+        "cityLabel": "Orșova",
+        "population": "10441"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q218",
+        "countryLabel": "Romania",
+        "city": "http://www.wikidata.org/entity/Q46852",
+        "cityLabel": "Iași",
+        "population": "371889"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q218",
+        "countryLabel": "Romania",
+        "city": "http://www.wikidata.org/entity/Q202362",
+        "cityLabel": "Sfântu Gheorghe",
+        "population": "56006"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q218",
+        "countryLabel": "Romania",
+        "city": "http://www.wikidata.org/entity/Q193890",
+        "cityLabel": "Drobeta-Turnu Severin",
+        "population": "92617"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q218",
+        "countryLabel": "Romania",
+        "city": "http://www.wikidata.org/entity/Q584825",
+        "native": "Scorniceşti",
+        "cityLabel": "Scornicești",
+        "population": "11766"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q218",
+        "countryLabel": "Romania",
+        "city": "http://www.wikidata.org/entity/Q609044",
+        "cityLabel": "Caracal",
+        "population": "35207"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q218",
+        "countryLabel": "Romania",
+        "city": "http://www.wikidata.org/entity/Q587746",
+        "cityLabel": "Siret",
+        "population": "7976"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q218",
+        "countryLabel": "Romania",
+        "city": "http://www.wikidata.org/entity/Q192758",
+        "native": "Râmnicu Vâlcea",
+        "cityLabel": "Râmnicu Vâlcea",
+        "population": "98776"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q218",
+        "countryLabel": "Romania",
+        "city": "http://www.wikidata.org/entity/Q935834",
+        "cityLabel": "Sângeorz-Băi",
+        "population": "9679"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q218",
+        "countryLabel": "Romania",
+        "city": "http://www.wikidata.org/entity/Q467498",
+        "native": "Mangalia",
+        "cityLabel": "Mangalia",
+        "population": "36364"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q218",
+        "countryLabel": "Romania",
+        "city": "http://www.wikidata.org/entity/Q837964",
+        "cityLabel": "Vulcan",
+        "population": "24160"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q218",
+        "countryLabel": "Romania",
+        "city": "http://www.wikidata.org/entity/Q533078",
+        "cityLabel": "Baraolt",
+        "population": "8672"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q218",
+        "countryLabel": "Romania",
+        "city": "http://www.wikidata.org/entity/Q202351",
+        "cityLabel": "Giurgiu",
+        "population": "61353"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q218",
+        "countryLabel": "Romania",
+        "city": "http://www.wikidata.org/entity/Q746041",
+        "cityLabel": "Petroșani",
+        "population": "37160"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q218",
+        "countryLabel": "Romania",
+        "city": "http://www.wikidata.org/entity/Q202357",
+        "cityLabel": "Târgu Jiu",
+        "population": "82504"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q218",
+        "countryLabel": "Romania",
+        "city": "http://www.wikidata.org/entity/Q273801",
+        "cityLabel": "Dej",
+        "population": "33497"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q218",
+        "countryLabel": "Romania",
+        "city": "http://www.wikidata.org/entity/Q334874",
+        "cityLabel": "Sighetu Marmației",
+        "population": "37640"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q218",
+        "countryLabel": "Romania",
+        "city": "http://www.wikidata.org/entity/Q652802",
+        "native": "Câmpulung Moldovenesc",
+        "cityLabel": "Câmpulung Moldovenesc",
+        "population": "16722"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q218",
+        "countryLabel": "Romania",
+        "city": "http://www.wikidata.org/entity/Q624236",
+        "cityLabel": "Blaj",
+        "population": "20630"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q218",
+        "countryLabel": "Romania",
+        "city": "http://www.wikidata.org/entity/Q912235",
+        "cityLabel": "Toplița",
+        "population": "13929"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q218",
+        "countryLabel": "Romania",
+        "city": "http://www.wikidata.org/entity/Q646065",
+        "cityLabel": "Beiuș",
+        "population": "10667"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q218",
+        "countryLabel": "Romania",
+        "city": "http://www.wikidata.org/entity/Q679928",
+        "cityLabel": "Urziceni",
+        "population": "15308"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q218",
+        "countryLabel": "Romania",
+        "city": "http://www.wikidata.org/entity/Q518992",
+        "cityLabel": "Călan",
+        "population": "11279"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q218",
+        "countryLabel": "Romania",
+        "city": "http://www.wikidata.org/entity/Q596609",
+        "cityLabel": "Vișeu de Sus",
+        "population": "15037"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q218",
+        "countryLabel": "Romania",
+        "city": "http://www.wikidata.org/entity/Q374465",
+        "cityLabel": "Mediaș",
+        "population": "47204"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q218",
+        "countryLabel": "Romania",
+        "city": "http://www.wikidata.org/entity/Q201404",
+        "native": "Buzău",
+        "cityLabel": "Buzău",
+        "population": "115494"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q218",
+        "countryLabel": "Romania",
+        "city": "http://www.wikidata.org/entity/Q511951",
+        "cityLabel": "Predeal",
+        "population": "4755"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q218",
+        "countryLabel": "Romania",
+        "city": "http://www.wikidata.org/entity/Q82174",
+        "native": "Brașov",
+        "cityLabel": "Brașov",
+        "population": "290743"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q218",
+        "countryLabel": "Romania",
+        "city": "http://www.wikidata.org/entity/Q756583",
+        "native": "Câmpina",
+        "cityLabel": "Câmpina",
+        "population": "32935"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q218",
+        "countryLabel": "Romania",
+        "city": "http://www.wikidata.org/entity/Q186349",
+        "cityLabel": "Târgu Mureș",
+        "population": "134290"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q218",
+        "countryLabel": "Romania",
+        "city": "http://www.wikidata.org/entity/Q3573941",
+        "cityLabel": "Săliște",
+        "population": "5421"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q218",
+        "countryLabel": "Romania",
+        "city": "http://www.wikidata.org/entity/Q93358",
+        "cityLabel": "Oradea",
+        "population": "196367"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q218",
+        "countryLabel": "Romania",
+        "city": "http://www.wikidata.org/entity/Q754724",
+        "cityLabel": "Gheorgheni",
+        "population": "18377"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q218",
+        "countryLabel": "Romania",
+        "city": "http://www.wikidata.org/entity/Q754733",
+        "cityLabel": "Codlea",
+        "population": "21708"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q218",
+        "countryLabel": "Romania",
+        "city": "http://www.wikidata.org/entity/Q145292",
+        "cityLabel": "Zalău",
+        "population": "56202"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q218",
+        "countryLabel": "Romania",
+        "city": "http://www.wikidata.org/entity/Q737188",
+        "cityLabel": "Oltenița",
+        "population": "24822"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q218",
+        "countryLabel": "Romania",
+        "city": "http://www.wikidata.org/entity/Q750222",
+        "cityLabel": "Marghita",
+        "population": "15770"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q218",
+        "countryLabel": "Romania",
+        "city": "http://www.wikidata.org/entity/Q178855",
+        "native": "Botoșani",
+        "cityLabel": "Botoșani",
+        "population": "106847"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q218",
+        "countryLabel": "Romania",
+        "city": "http://www.wikidata.org/entity/Q623099",
+        "cityLabel": "Odorheiu Secuiesc",
+        "population": "34257"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q218",
+        "countryLabel": "Romania",
+        "city": "http://www.wikidata.org/entity/Q215723",
+        "cityLabel": "Slobozia",
+        "population": "45891"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q218",
+        "countryLabel": "Romania",
+        "city": "http://www.wikidata.org/entity/Q182679",
+        "cityLabel": "Bacău",
+        "population": "144307"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q218",
+        "countryLabel": "Romania",
+        "city": "http://www.wikidata.org/entity/Q568376",
+        "cityLabel": "Breaza",
+        "population": "15928"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q218",
+        "countryLabel": "Romania",
+        "city": "http://www.wikidata.org/entity/Q476226",
+        "cityLabel": "Moinești",
+        "population": "21787"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q218",
+        "countryLabel": "Romania",
+        "city": "http://www.wikidata.org/entity/Q173591",
+        "cityLabel": "Arad",
+        "population": "159074"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q218",
+        "countryLabel": "Romania",
+        "city": "http://www.wikidata.org/entity/Q963829",
+        "cityLabel": "Mihăilești",
+        "population": "7923"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q218",
+        "countryLabel": "Romania",
+        "city": "http://www.wikidata.org/entity/Q2198771",
+        "cityLabel": "Măgurele",
+        "population": "11041"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q218",
+        "countryLabel": "Romania",
+        "city": "http://www.wikidata.org/entity/Q841511",
+        "cityLabel": "Brad",
+        "population": "14495"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q218",
+        "countryLabel": "Romania",
+        "city": "http://www.wikidata.org/entity/Q212561",
+        "cityLabel": "Călărași",
+        "population": "65181"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q218",
+        "countryLabel": "Romania",
+        "city": "http://www.wikidata.org/entity/Q754728",
+        "cityLabel": "Lupeni",
+        "population": "23390"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q218",
+        "countryLabel": "Romania",
+        "city": "http://www.wikidata.org/entity/Q756649",
+        "cityLabel": "Băilești",
+        "population": "17437"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q218",
+        "countryLabel": "Romania",
+        "city": "http://www.wikidata.org/entity/Q496557",
+        "native": "Gherla",
+        "cityLabel": "Gherla",
+        "population": "20982"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q218",
+        "countryLabel": "Romania",
+        "city": "http://www.wikidata.org/entity/Q1006796",
+        "cityLabel": "Făurei",
+        "population": "3592"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q218",
+        "countryLabel": "Romania",
+        "city": "http://www.wikidata.org/entity/Q207074",
+        "cityLabel": "Slatina",
+        "population": "70293"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q218",
+        "countryLabel": "Romania",
+        "city": "http://www.wikidata.org/entity/Q548502",
+        "cityLabel": "Anina",
+        "population": "7485"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q218",
+        "countryLabel": "Romania",
+        "city": "http://www.wikidata.org/entity/Q411080",
+        "cityLabel": "Aiud",
+        "population": "22876"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q218",
+        "countryLabel": "Romania",
+        "city": "http://www.wikidata.org/entity/Q238696",
+        "cityLabel": "Motru",
+        "population": "19079"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q218",
+        "countryLabel": "Romania",
+        "city": "http://www.wikidata.org/entity/Q543436",
+        "cityLabel": "Onești",
+        "population": "39172"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q218",
+        "countryLabel": "Romania",
+        "city": "http://www.wikidata.org/entity/Q204850",
+        "cityLabel": "Deva",
+        "population": "61123"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q218",
+        "countryLabel": "Romania",
+        "city": "http://www.wikidata.org/entity/Q685811",
+        "cityLabel": "Moreni",
+        "population": "18687"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q218",
+        "countryLabel": "Romania",
+        "city": "http://www.wikidata.org/entity/Q303015",
+        "cityLabel": "Fălticeni",
+        "population": "25723"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q218",
+        "countryLabel": "Romania",
+        "city": "http://www.wikidata.org/entity/Q596043",
+        "cityLabel": "Ovidiu",
+        "population": "13847"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q218",
+        "countryLabel": "Romania",
+        "city": "http://www.wikidata.org/entity/Q179585",
+        "cityLabel": "Ploiești",
+        "population": "209945"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q218",
+        "countryLabel": "Romania",
+        "city": "http://www.wikidata.org/entity/Q570113",
+        "cityLabel": "Uricani",
+        "population": "8972"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q218",
+        "countryLabel": "Romania",
+        "city": "http://www.wikidata.org/entity/Q750239",
+        "cityLabel": "Vatra Dornei",
+        "population": "28674"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q218",
+        "countryLabel": "Romania",
+        "city": "http://www.wikidata.org/entity/Q556266",
+        "cityLabel": "Târgu Ocna",
+        "population": "11300"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q218",
+        "countryLabel": "Romania",
+        "city": "http://www.wikidata.org/entity/Q187938",
+        "cityLabel": "Pitești",
+        "population": "155383"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q218",
+        "countryLabel": "Romania",
+        "city": "http://www.wikidata.org/entity/Q508670",
+        "cityLabel": "Chișineu-Criș",
+        "population": "7987"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q218",
+        "countryLabel": "Romania",
+        "city": "http://www.wikidata.org/entity/Q187945",
+        "cityLabel": "Piatra Neamț",
+        "population": "85055"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q218",
+        "countryLabel": "Romania",
+        "city": "http://www.wikidata.org/entity/Q185332",
+        "cityLabel": "Satu Mare",
+        "population": "102411"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q218",
+        "countryLabel": "Romania",
+        "city": "http://www.wikidata.org/entity/Q685869",
+        "cityLabel": "Făgăraș",
+        "population": "30714"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q218",
+        "countryLabel": "Romania",
+        "city": "http://www.wikidata.org/entity/Q33208",
+        "cityLabel": "Caransebeș",
+        "population": "24689"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q218",
+        "countryLabel": "Romania",
+        "city": "http://www.wikidata.org/entity/Q262472",
+        "cityLabel": "Orăștie",
+        "population": "18227"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q218",
+        "countryLabel": "Romania",
+        "city": "http://www.wikidata.org/entity/Q335868",
+        "native": "Bârlad",
+        "cityLabel": "Bârlad",
+        "population": "55837"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q218",
+        "countryLabel": "Romania",
+        "city": "http://www.wikidata.org/entity/Q188673",
+        "native": "Târgoviște",
+        "cityLabel": "Târgoviște",
+        "population": "79610"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q218",
+        "countryLabel": "Romania",
+        "city": "http://www.wikidata.org/entity/Q591285",
+        "cityLabel": "Piatra-Olt",
+        "population": "6299"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q218",
+        "countryLabel": "Romania",
+        "city": "http://www.wikidata.org/entity/Q550055",
+        "cityLabel": "Săcele",
+        "population": "30798"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q218",
+        "countryLabel": "Romania",
+        "city": "http://www.wikidata.org/entity/Q946893",
+        "cityLabel": "Teiuș",
+        "population": "6695"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q218",
+        "countryLabel": "Romania",
+        "city": "http://www.wikidata.org/entity/Q19660",
+        "native": "București",
+        "cityLabel": "Bucharest",
+        "population": "1883425"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q218",
+        "countryLabel": "Romania",
+        "city": "http://www.wikidata.org/entity/Q899427",
+        "cityLabel": "Iernut",
+        "population": "8705"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q218",
+        "countryLabel": "Romania",
+        "city": "http://www.wikidata.org/entity/Q357784",
+        "cityLabel": "Adjud",
+        "population": "16045"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q218",
+        "countryLabel": "Romania",
+        "city": "http://www.wikidata.org/entity/Q338066",
+        "cityLabel": "Târgu Secuiesc",
+        "population": "18491"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q218",
+        "countryLabel": "Romania",
+        "city": "http://www.wikidata.org/entity/Q1017982",
+        "cityLabel": "Geoagiu",
+        "population": "5294"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q218",
+        "countryLabel": "Romania",
+        "city": "http://www.wikidata.org/entity/Q732376",
+        "cityLabel": "Sebeș",
+        "population": "27019"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q218",
+        "countryLabel": "Romania",
+        "city": "http://www.wikidata.org/entity/Q535516",
+        "cityLabel": "Azuga",
+        "population": "4440"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q218",
+        "countryLabel": "Romania",
+        "city": "http://www.wikidata.org/entity/Q188478",
+        "cityLabel": "Brăila",
+        "population": "180302"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q218",
+        "countryLabel": "Romania",
+        "city": "http://www.wikidata.org/entity/Q576804",
+        "cityLabel": "Mărășești",
+        "population": "10671"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q218",
+        "countryLabel": "Romania",
+        "city": "http://www.wikidata.org/entity/Q193001",
+        "cityLabel": "Sighișoara",
+        "population": "28102"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q218",
+        "countryLabel": "Romania",
+        "city": "http://www.wikidata.org/entity/Q458422",
+        "cityLabel": "Câmpia Turzii",
+        "population": "22223"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q218",
+        "countryLabel": "Romania",
+        "city": "http://www.wikidata.org/entity/Q652856",
+        "cityLabel": "Calafat",
+        "population": "17336"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q218",
+        "countryLabel": "Romania",
+        "city": "http://www.wikidata.org/entity/Q754730",
+        "cityLabel": "Salonta",
+        "population": "17735"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q218",
+        "countryLabel": "Romania",
+        "city": "http://www.wikidata.org/entity/Q548575",
+        "cityLabel": "Aninoasa",
+        "population": "4360"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q218",
+        "countryLabel": "Romania",
+        "city": "http://www.wikidata.org/entity/Q170996",
+        "native": "Galaţi",
+        "cityLabel": "Galați",
+        "population": "249432"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q218",
+        "countryLabel": "Romania",
+        "city": "http://www.wikidata.org/entity/Q11585",
+        "cityLabel": "Tulcea",
+        "population": "73707"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q218",
+        "countryLabel": "Romania",
+        "city": "http://www.wikidata.org/entity/Q593157",
+        "cityLabel": "Murfatlar",
+        "population": "10216"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q218",
+        "countryLabel": "Romania",
+        "city": "http://www.wikidata.org/entity/Q935846",
+        "cityLabel": "Vlăhița",
+        "population": "6898"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q218",
+        "countryLabel": "Romania",
+        "city": "http://www.wikidata.org/entity/Q507846",
+        "cityLabel": "Sebiș",
+        "population": "5979"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q218",
+        "countryLabel": "Romania",
+        "city": "http://www.wikidata.org/entity/Q584531",
+        "cityLabel": "Bumbești-Jiu",
+        "population": "8932"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q218",
+        "countryLabel": "Romania",
+        "city": "http://www.wikidata.org/entity/Q215719",
+        "cityLabel": "Hunedoara",
+        "population": "60525"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q218",
+        "countryLabel": "Romania",
+        "city": "http://www.wikidata.org/entity/Q652838",
+        "cityLabel": "Curtea de Argeș",
+        "population": "27359"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q218",
+        "countryLabel": "Romania",
+        "city": "http://www.wikidata.org/entity/Q754729",
+        "native": "Târnăveni",
+        "cityLabel": "Târnăveni",
+        "population": "22075"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q218",
+        "countryLabel": "Romania",
+        "city": "http://www.wikidata.org/entity/Q209809",
+        "cityLabel": "Turda",
+        "population": "47744"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q218",
+        "countryLabel": "Romania",
+        "city": "http://www.wikidata.org/entity/Q192265",
+        "cityLabel": "Focșani",
+        "population": "79315"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q218",
+        "countryLabel": "Romania",
+        "city": "http://www.wikidata.org/entity/Q192269",
+        "native": "Vaslui",
+        "cityLabel": "Vaslui",
+        "population": "55407"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q218",
+        "countryLabel": "Romania",
+        "city": "http://www.wikidata.org/entity/Q431347",
+        "cityLabel": "Rădăuți",
+        "population": "23822"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q218",
+        "countryLabel": "Romania",
+        "city": "http://www.wikidata.org/entity/Q46400",
+        "native": "Suceava",
+        "cityLabel": "Suceava",
+        "population": "92121"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q218",
+        "countryLabel": "Romania",
+        "city": "http://www.wikidata.org/entity/Q617624",
+        "cityLabel": "Râmnicu Sărat",
+        "population": "33843"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q218",
+        "countryLabel": "Romania",
+        "city": "http://www.wikidata.org/entity/Q754725",
+        "cityLabel": "Carei",
+        "population": "21112"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q218",
+        "countryLabel": "Romania",
+        "city": "http://www.wikidata.org/entity/Q174665",
+        "cityLabel": "Alba Iulia",
+        "population": "63536"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q218",
+        "countryLabel": "Romania",
+        "city": "http://www.wikidata.org/entity/Q754726",
+        "cityLabel": "Drăgășani",
+        "population": "17871"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q218",
+        "countryLabel": "Romania",
+        "city": "http://www.wikidata.org/entity/Q592480",
+        "cityLabel": "Târgu Bujor",
+        "population": "6299"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q218",
+        "countryLabel": "Romania",
+        "city": "http://www.wikidata.org/entity/Q209929",
+        "cityLabel": "Alexandria",
+        "population": "45434"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q218",
+        "countryLabel": "Romania",
+        "city": "http://www.wikidata.org/entity/Q187205",
+        "cityLabel": "Bistrița",
+        "population": "75076"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q218",
+        "countryLabel": "Romania",
+        "city": "http://www.wikidata.org/entity/Q202458",
+        "cityLabel": "Remán",
+        "population": "50713"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q218",
+        "countryLabel": "Romania",
+        "city": "http://www.wikidata.org/entity/Q390162",
+        "cityLabel": "Huși",
+        "population": "26266"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q218",
+        "countryLabel": "Romania",
+        "city": "http://www.wikidata.org/entity/Q508057",
+        "cityLabel": "Drăgănești-Olt",
+        "population": "10894"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q218",
+        "countryLabel": "Romania",
+        "city": "http://www.wikidata.org/entity/Q592497",
+        "cityLabel": "Vălenii de Munte",
+        "population": "11707"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q218",
+        "countryLabel": "Romania",
+        "city": "http://www.wikidata.org/entity/Q75634",
+        "cityLabel": "Reșița",
+        "population": "73282"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q218",
+        "countryLabel": "Romania",
+        "city": "http://www.wikidata.org/entity/Q778516",
+        "cityLabel": "Baia de Aramă",
+        "population": "5349"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q218",
+        "countryLabel": "Romania",
+        "city": "http://www.wikidata.org/entity/Q737276",
+        "cityLabel": "Cehu Silvaniei",
+        "population": "7214"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q218",
+        "countryLabel": "Romania",
+        "city": "http://www.wikidata.org/entity/Q276009",
+        "cityLabel": "Amara",
+        "population": "7345"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q218",
+        "countryLabel": "Romania",
+        "city": "http://www.wikidata.org/entity/Q276127",
+        "cityLabel": "Bălcești",
+        "population": "4864"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q218",
+        "countryLabel": "Romania",
+        "city": "http://www.wikidata.org/entity/Q668701",
+        "cityLabel": "Tășnad",
+        "population": "8631"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q218",
+        "countryLabel": "Romania",
+        "city": "http://www.wikidata.org/entity/Q275890",
+        "cityLabel": "Băbeni",
+        "population": "8451"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q218",
+        "countryLabel": "Romania",
+        "city": "http://www.wikidata.org/entity/Q678884",
+        "cityLabel": "Fieni",
+        "population": "7587"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q218",
+        "countryLabel": "Romania",
+        "city": "http://www.wikidata.org/entity/Q276164",
+        "cityLabel": "Căzănești",
+        "population": "3271"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q218",
+        "countryLabel": "Romania",
+        "city": "http://www.wikidata.org/entity/Q373707",
+        "cityLabel": "Luduș",
+        "population": "15328"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q218",
+        "countryLabel": "Romania",
+        "city": "http://www.wikidata.org/entity/Q386888",
+        "cityLabel": "Târgu Lăpuș",
+        "population": "11744"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q218",
+        "countryLabel": "Romania",
+        "city": "http://www.wikidata.org/entity/Q756593",
+        "cityLabel": "Târgu Neamț",
+        "population": "18695"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q218",
+        "countryLabel": "Romania",
+        "city": "http://www.wikidata.org/entity/Q899467",
+        "cityLabel": "Darabani",
+        "population": "9893"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q218",
+        "countryLabel": "Romania",
+        "city": "http://www.wikidata.org/entity/Q899448",
+        "cityLabel": "Negrești",
+        "population": "8380"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q218",
+        "countryLabel": "Romania",
+        "city": "http://www.wikidata.org/entity/Q850962",
+        "cityLabel": "Copșa Mică",
+        "population": "5404"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q218",
+        "countryLabel": "Romania",
+        "city": "http://www.wikidata.org/entity/Q275997",
+        "cityLabel": "Ardud",
+        "population": "6231"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q218",
+        "countryLabel": "Romania",
+        "city": "http://www.wikidata.org/entity/Q764806",
+        "cityLabel": "Rovinari",
+        "population": "11816"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q218",
+        "countryLabel": "Romania",
+        "city": "http://www.wikidata.org/entity/Q305182",
+        "cityLabel": "Dărmănești",
+        "population": "12247"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q218",
+        "countryLabel": "Romania",
+        "city": "http://www.wikidata.org/entity/Q736276",
+        "cityLabel": "Cernavodă",
+        "population": "17022"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q218",
+        "countryLabel": "Romania",
+        "city": "http://www.wikidata.org/entity/Q276156",
+        "cityLabel": "Berbești",
+        "population": "4836"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q218",
+        "countryLabel": "Romania",
+        "city": "http://www.wikidata.org/entity/Q267708",
+        "cityLabel": "Sovata",
+        "population": "10385"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q218",
+        "countryLabel": "Romania",
+        "city": "http://www.wikidata.org/entity/Q376233",
+        "cityLabel": "Săcueni",
+        "population": "11526"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q218",
+        "countryLabel": "Romania",
+        "city": "http://www.wikidata.org/entity/Q276119",
+        "cityLabel": "Liteni",
+        "population": "9596"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q218",
+        "countryLabel": "Romania",
+        "city": "http://www.wikidata.org/entity/Q276152",
+        "cityLabel": "Dragomirești",
+        "population": "3213"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q218",
+        "countryLabel": "Romania",
+        "city": "http://www.wikidata.org/entity/Q276168",
+        "cityLabel": "Pătârlagele",
+        "population": "7304"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q218",
+        "countryLabel": "Romania",
+        "city": "http://www.wikidata.org/entity/Q906711",
+        "cityLabel": "Nucet",
+        "population": "2165"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q218",
+        "countryLabel": "Romania",
+        "city": "http://www.wikidata.org/entity/Q916156",
+        "cityLabel": "Ghimbav",
+        "population": "4698"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q218",
+        "countryLabel": "Romania",
+        "city": "http://www.wikidata.org/entity/Q837173",
+        "cityLabel": "Cisnădie",
+        "population": "14282"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q218",
+        "countryLabel": "Romania",
+        "city": "http://www.wikidata.org/entity/Q386945",
+        "cityLabel": "Babadag",
+        "population": "8940"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q218",
+        "countryLabel": "Romania",
+        "city": "http://www.wikidata.org/entity/Q748068",
+        "cityLabel": "Hârșova",
+        "population": "9642"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q218",
+        "countryLabel": "Romania",
+        "city": "http://www.wikidata.org/entity/Q777619",
+        "cityLabel": "Strehaia",
+        "population": "10506"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q218",
+        "countryLabel": "Romania",
+        "city": "http://www.wikidata.org/entity/Q791387",
+        "cityLabel": "Avrig",
+        "population": "12815"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q218",
+        "countryLabel": "Romania",
+        "city": "http://www.wikidata.org/entity/Q375371",
+        "cityLabel": "Călimănești",
+        "population": "7622"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q218",
+        "countryLabel": "Romania",
+        "city": "http://www.wikidata.org/entity/Q660417",
+        "cityLabel": "Jibou",
+        "population": "10407"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q218",
+        "countryLabel": "Romania",
+        "city": "http://www.wikidata.org/entity/Q275990",
+        "cityLabel": "Răcari",
+        "population": "6930"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q218",
+        "countryLabel": "Romania",
+        "city": "http://www.wikidata.org/entity/Q837167",
+        "cityLabel": "Hațeg",
+        "population": "9685"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q218",
+        "countryLabel": "Romania",
+        "city": "http://www.wikidata.org/entity/Q265012",
+        "cityLabel": "Bușteni",
+        "population": "8894"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q218",
+        "countryLabel": "Romania",
+        "city": "http://www.wikidata.org/entity/Q851021",
+        "cityLabel": "Pâncota",
+        "population": "6946"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q218",
+        "countryLabel": "Romania",
+        "city": "http://www.wikidata.org/entity/Q325732",
+        "cityLabel": "Gătaia",
+        "population": "5861"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q218",
+        "countryLabel": "Romania",
+        "city": "http://www.wikidata.org/entity/Q855721",
+        "cityLabel": "Băile Olănești",
+        "population": "4186"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q218",
+        "countryLabel": "Romania",
+        "city": "http://www.wikidata.org/entity/Q325555",
+        "cityLabel": "Recaș",
+        "population": "8336"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q218",
+        "countryLabel": "Romania",
+        "city": "http://www.wikidata.org/entity/Q276083",
+        "cityLabel": "Potcoava",
+        "population": "5743"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q218",
+        "countryLabel": "Romania",
+        "city": "http://www.wikidata.org/entity/Q835227",
+        "cityLabel": "Ineu",
+        "population": "9260"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q218",
+        "countryLabel": "Romania",
+        "city": "http://www.wikidata.org/entity/Q610341",
+        "cityLabel": "Pogoanele",
+        "population": "7275"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q218",
+        "countryLabel": "Romania",
+        "city": "http://www.wikidata.org/entity/Q751352",
+        "cityLabel": "Plopeni",
+        "population": "7718"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q218",
+        "countryLabel": "Romania",
+        "city": "http://www.wikidata.org/entity/Q837161",
+        "cityLabel": "Sânnicolau Mare",
+        "population": "12312"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q218",
+        "countryLabel": "Romania",
+        "city": "http://www.wikidata.org/entity/Q850969",
+        "cityLabel": "Victoria",
+        "population": "7386"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q218",
+        "countryLabel": "Romania",
+        "city": "http://www.wikidata.org/entity/Q850982",
+        "cityLabel": "Curtici",
+        "population": "7453"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q218",
+        "countryLabel": "Romania",
+        "city": "http://www.wikidata.org/entity/Q423371",
+        "cityLabel": "Ștei",
+        "population": "6529"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q218",
+        "countryLabel": "Romania",
+        "city": "http://www.wikidata.org/entity/Q851056",
+        "cityLabel": "Cristuru Secuiesc",
+        "population": "9650"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q218",
+        "countryLabel": "Romania",
+        "city": "http://www.wikidata.org/entity/Q756585",
+        "cityLabel": "Buhuși",
+        "population": "14562"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q218",
+        "countryLabel": "Romania",
+        "city": "http://www.wikidata.org/entity/Q423414",
+        "cityLabel": "Țicleni",
+        "population": "4414"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q218",
+        "countryLabel": "Romania",
+        "city": "http://www.wikidata.org/entity/Q775799",
+        "cityLabel": "Baia de Arieș",
+        "population": "3461"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q218",
+        "countryLabel": "Romania",
+        "city": "http://www.wikidata.org/entity/Q276042",
+        "cityLabel": "Băneasa",
+        "population": "5384"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q218",
+        "countryLabel": "Romania",
+        "city": "http://www.wikidata.org/entity/Q197687",
+        "cityLabel": "Miercurea Sibiului",
+        "population": "3910"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q218",
+        "countryLabel": "Romania",
+        "city": "http://www.wikidata.org/entity/Q851037",
+        "cityLabel": "Comarnic",
+        "population": "11970"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q218",
+        "countryLabel": "Romania",
+        "city": "http://www.wikidata.org/entity/Q851029",
+        "cityLabel": "Aleșd",
+        "population": "10066"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q218",
+        "countryLabel": "Romania",
+        "city": "http://www.wikidata.org/entity/Q754721",
+        "cityLabel": "Corabia",
+        "population": "16441"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q218",
+        "countryLabel": "Romania",
+        "city": "http://www.wikidata.org/entity/Q186719",
+        "cityLabel": "Ocna Sibiului",
+        "population": "3562"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q218",
+        "countryLabel": "Romania",
+        "city": "http://www.wikidata.org/entity/Q855187",
+        "cityLabel": "Câmpeni",
+        "population": "7221"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q218",
+        "countryLabel": "Romania",
+        "city": "http://www.wikidata.org/entity/Q276336",
+        "cityLabel": "Livada",
+        "population": "6773"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q218",
+        "countryLabel": "Romania",
+        "city": "http://www.wikidata.org/entity/Q899454",
+        "cityLabel": "Panciu",
+        "population": "7664"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q218",
+        "countryLabel": "Romania",
+        "city": "http://www.wikidata.org/entity/Q794200",
+        "cityLabel": "Beclean",
+        "population": "10628"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q218",
+        "countryLabel": "Romania",
+        "city": "http://www.wikidata.org/entity/Q750220",
+        "cityLabel": "Huedin",
+        "population": "9346"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q218",
+        "countryLabel": "Romania",
+        "city": "http://www.wikidata.org/entity/Q276120",
+        "cityLabel": "Ulmeni",
+        "population": "7270"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q218",
+        "countryLabel": "Romania",
+        "city": "http://www.wikidata.org/entity/Q834101",
+        "cityLabel": "Bolintin-Vale",
+        "population": "12929"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q218",
+        "countryLabel": "Romania",
+        "city": "http://www.wikidata.org/entity/Q276154",
+        "cityLabel": "Ștefănești",
+        "population": "5314"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q218",
+        "countryLabel": "Romania",
+        "city": "http://www.wikidata.org/entity/Q203929",
+        "cityLabel": "Zimnicea",
+        "population": "14058"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q218",
+        "countryLabel": "Romania",
+        "city": "http://www.wikidata.org/entity/Q292769",
+        "cityLabel": "Întorsura Buzăului",
+        "population": "7528"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q218",
+        "countryLabel": "Romania",
+        "city": "http://www.wikidata.org/entity/Q641218",
+        "cityLabel": "Videle",
+        "population": "11508"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q218",
+        "countryLabel": "Romania",
+        "city": "http://www.wikidata.org/entity/Q912224",
+        "cityLabel": "Techirghiol",
+        "population": "7292"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q218",
+        "countryLabel": "Romania",
+        "city": "http://www.wikidata.org/entity/Q275904",
+        "cityLabel": "Flămânzi",
+        "population": "10136"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q218",
+        "countryLabel": "Romania",
+        "city": "http://www.wikidata.org/entity/Q771191",
+        "cityLabel": "Berești",
+        "population": "2916"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q218",
+        "countryLabel": "Romania",
+        "city": "http://www.wikidata.org/entity/Q655818",
+        "cityLabel": "Buziaș",
+        "population": "7023"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q218",
+        "countryLabel": "Romania",
+        "city": "http://www.wikidata.org/entity/Q899551",
+        "cityLabel": "Ianca",
+        "population": "10343"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q218",
+        "countryLabel": "Romania",
+        "city": "http://www.wikidata.org/entity/Q756590",
+        "cityLabel": "Comănești",
+        "population": "19568"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q218",
+        "countryLabel": "Romania",
+        "city": "http://www.wikidata.org/entity/Q629776",
+        "cityLabel": "Vânju Mare",
+        "population": "5311"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q218",
+        "countryLabel": "Romania",
+        "city": "http://www.wikidata.org/entity/Q850974",
+        "cityLabel": "Segarcea",
+        "population": "7019"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q218",
+        "countryLabel": "Romania",
+        "city": "http://www.wikidata.org/entity/Q283862",
+        "cityLabel": "Băicoi",
+        "population": "17981"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q218",
+        "countryLabel": "Romania",
+        "city": "http://www.wikidata.org/entity/Q325736",
+        "cityLabel": "Ciacova",
+        "population": "5348"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q218",
+        "countryLabel": "Romania",
+        "city": "http://www.wikidata.org/entity/Q930102",
+        "cityLabel": "Tăuții-Măgherăuș",
+        "population": "7136"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q218",
+        "countryLabel": "Romania",
+        "city": "http://www.wikidata.org/entity/Q851013",
+        "cityLabel": "Vașcău",
+        "population": "2315"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q218",
+        "countryLabel": "Romania",
+        "city": "http://www.wikidata.org/entity/Q739444",
+        "cityLabel": "Topoloveni",
+        "population": "10219"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q218",
+        "countryLabel": "Romania",
+        "city": "http://www.wikidata.org/entity/Q276132",
+        "cityLabel": "Pecica",
+        "population": "12762"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q218",
+        "countryLabel": "Romania",
+        "city": "http://www.wikidata.org/entity/Q829051",
+        "native": "Moldova Nouă",
+        "cityLabel": "Moldova Nouă",
+        "population": "12350"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q218",
+        "countryLabel": "Romania",
+        "city": "http://www.wikidata.org/entity/Q276141",
+        "cityLabel": "Săliștea de Sus",
+        "population": "4893"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q218",
+        "countryLabel": "Romania",
+        "city": "http://www.wikidata.org/entity/Q666521",
+        "cityLabel": "Târgu Cărbunești",
+        "population": "8034"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q218",
+        "countryLabel": "Romania",
+        "city": "http://www.wikidata.org/entity/Q837152",
+        "cityLabel": "Ocna Mureș",
+        "population": "13036"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q218",
+        "countryLabel": "Romania",
+        "city": "http://www.wikidata.org/entity/Q186214",
+        "cityLabel": "Turceni",
+        "population": "7269"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q218",
+        "countryLabel": "Romania",
+        "city": "http://www.wikidata.org/entity/Q851409",
+        "cityLabel": "Budești",
+        "population": "7725"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q218",
+        "countryLabel": "Romania",
+        "city": "http://www.wikidata.org/entity/Q276137",
+        "cityLabel": "Milișăuți",
+        "population": "5005"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q218",
+        "countryLabel": "Romania",
+        "city": "http://www.wikidata.org/entity/Q292759",
+        "cityLabel": "Însurăței",
+        "population": "6528"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q218",
+        "countryLabel": "Romania",
+        "city": "http://www.wikidata.org/entity/Q275910",
+        "cityLabel": "Sântana",
+        "population": "11428"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q218",
+        "countryLabel": "Romania",
+        "city": "http://www.wikidata.org/entity/Q305001",
+        "cityLabel": "Negru Vodă",
+        "population": "5088"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q218",
+        "countryLabel": "Romania",
+        "city": "http://www.wikidata.org/entity/Q851007",
+        "cityLabel": "Deta",
+        "population": "6260"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q218",
+        "countryLabel": "Romania",
+        "city": "http://www.wikidata.org/entity/Q276004",
+        "cityLabel": "Murgeni",
+        "population": "7119"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q218",
+        "countryLabel": "Romania",
+        "city": "http://www.wikidata.org/entity/Q651322",
+        "cityLabel": "Năsăud",
+        "population": "9587"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q218",
+        "countryLabel": "Romania",
+        "city": "http://www.wikidata.org/entity/Q275981",
+        "cityLabel": "Podu Iloaiei",
+        "population": "9573"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q218",
+        "countryLabel": "Romania",
+        "city": "http://www.wikidata.org/entity/Q912204",
+        "cityLabel": "Lehliu Gară",
+        "population": "6502"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q218",
+        "countryLabel": "Romania",
+        "city": "http://www.wikidata.org/entity/Q727421",
+        "cityLabel": "Otopeni",
+        "population": "13861"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q218",
+        "countryLabel": "Romania",
+        "city": "http://www.wikidata.org/entity/Q772576",
+        "cityLabel": "Negrești-Oaș",
+        "population": "11867"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q218",
+        "countryLabel": "Romania",
+        "city": "http://www.wikidata.org/entity/Q331577",
+        "cityLabel": "Abrud",
+        "population": "5072"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q218",
+        "countryLabel": "Romania",
+        "city": "http://www.wikidata.org/entity/Q837170",
+        "cityLabel": "Gura Humorului",
+        "population": "13667"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q218",
+        "countryLabel": "Romania",
+        "city": "http://www.wikidata.org/entity/Q423441",
+        "cityLabel": "Țăndărei",
+        "population": "13219"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q218",
+        "countryLabel": "Romania",
+        "city": "http://www.wikidata.org/entity/Q276117",
+        "cityLabel": "Dolhasca",
+        "population": "10298"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q218",
+        "countryLabel": "Romania",
+        "city": "http://www.wikidata.org/entity/Q276145",
+        "cityLabel": "Vicovu de Sus",
+        "population": "13308"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q218",
+        "countryLabel": "Romania",
+        "city": "http://www.wikidata.org/entity/Q837154",
+        "cityLabel": "Simeria",
+        "population": "12556"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q218",
+        "countryLabel": "Romania",
+        "city": "http://www.wikidata.org/entity/Q765841",
+        "cityLabel": "Urlați",
+        "population": "10541"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q218",
+        "countryLabel": "Romania",
+        "city": "http://www.wikidata.org/entity/Q837157",
+        "cityLabel": "Covasna",
+        "population": "10114"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q218",
+        "countryLabel": "Romania",
+        "city": "http://www.wikidata.org/entity/Q756598",
+        "cityLabel": "Lipova",
+        "population": "10313"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q218",
+        "countryLabel": "Romania",
+        "city": "http://www.wikidata.org/entity/Q328647",
+        "cityLabel": "Sulina",
+        "population": "3663"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q218",
+        "countryLabel": "Romania",
+        "city": "http://www.wikidata.org/entity/Q313689",
+        "cityLabel": "Agnita",
+        "population": "8732"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q218",
+        "countryLabel": "Romania",
+        "city": "http://www.wikidata.org/entity/Q899461",
+        "native": "Horezu",
+        "cityLabel": "Horezu",
+        "population": "6263"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q218",
+        "countryLabel": "Romania",
+        "city": "http://www.wikidata.org/entity/Q923254",
+        "cityLabel": "Fundulea",
+        "population": "6851"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q218",
+        "countryLabel": "Romania",
+        "city": "http://www.wikidata.org/entity/Q679428",
+        "cityLabel": "Tălmaciu",
+        "population": "6905"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q218",
+        "countryLabel": "Romania",
+        "city": "http://www.wikidata.org/entity/Q851042",
+        "cityLabel": "Hârlău",
+        "population": "10905"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q218",
+        "countryLabel": "Romania",
+        "city": "http://www.wikidata.org/entity/Q839796",
+        "cityLabel": "Borsec",
+        "population": "2585"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q218",
+        "countryLabel": "Romania",
+        "city": "http://www.wikidata.org/entity/Q650981",
+        "native": "Băile Herculane",
+        "cityLabel": "Băile Herculane",
+        "population": "5008"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q218",
+        "countryLabel": "Romania",
+        "city": "http://www.wikidata.org/entity/Q275645",
+        "cityLabel": "Fierbinți-Târg",
+        "population": "4969"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q218",
+        "countryLabel": "Romania",
+        "city": "http://www.wikidata.org/entity/Q743752",
+        "cityLabel": "Odobești",
+        "population": "9364"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q218",
+        "countryLabel": "Romania",
+        "city": "http://www.wikidata.org/entity/Q390156",
+        "cityLabel": "Petrila",
+        "population": "22692"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q218",
+        "countryLabel": "Romania",
+        "city": "http://www.wikidata.org/entity/Q851048",
+        "cityLabel": "Făget",
+        "population": "6761"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q218",
+        "countryLabel": "Romania",
+        "city": "http://www.wikidata.org/entity/Q275810",
+        "cityLabel": "Cajvana",
+        "population": "6901"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q218",
+        "countryLabel": "Romania",
+        "city": "http://www.wikidata.org/entity/Q855719",
+        "cityLabel": "Băile Govora",
+        "population": "2449"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q218",
+        "countryLabel": "Romania",
+        "city": "http://www.wikidata.org/entity/Q275642",
+        "cityLabel": "Roznov",
+        "population": "8593"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q218",
+        "countryLabel": "Romania",
+        "city": "http://www.wikidata.org/entity/Q280364",
+        "cityLabel": "Titu",
+        "population": "9658"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q218",
+        "countryLabel": "Romania",
+        "city": "http://www.wikidata.org/entity/Q837960",
+        "cityLabel": "Năvodari",
+        "population": "32981"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q218",
+        "countryLabel": "Romania",
+        "city": "http://www.wikidata.org/entity/Q803706",
+        "cityLabel": "Baia Sprie",
+        "population": "15476"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q218",
+        "countryLabel": "Romania",
+        "city": "http://www.wikidata.org/entity/Q276135",
+        "cityLabel": "Dăbuleni",
+        "population": "12182"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q218",
+        "countryLabel": "Romania",
+        "city": "http://www.wikidata.org/entity/Q756596",
+        "cityLabel": "Filiași",
+        "population": "16900"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q218",
+        "countryLabel": "Romania",
+        "city": "http://www.wikidata.org/entity/Q276146",
+        "cityLabel": "Bucecea",
+        "population": "4274"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q218",
+        "countryLabel": "Romania",
+        "city": "http://www.wikidata.org/entity/Q737830",
+        "cityLabel": "Mizil",
+        "population": "14312"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q218",
+        "countryLabel": "Romania",
+        "city": "http://www.wikidata.org/entity/Q732851",
+        "cityLabel": "Mioveni",
+        "population": "31998"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q218",
+        "countryLabel": "Romania",
+        "city": "http://www.wikidata.org/entity/Q666373",
+        "cityLabel": "Seini",
+        "population": "8987"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q218",
+        "countryLabel": "Romania",
+        "city": "http://www.wikidata.org/entity/Q756578",
+        "cityLabel": "Târgu Frumos",
+        "population": "10475"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q218",
+        "countryLabel": "Romania",
+        "city": "http://www.wikidata.org/entity/Q275895",
+        "cityLabel": "Șomcuta Mare",
+        "population": "7565"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q218",
+        "countryLabel": "Romania",
+        "city": "http://www.wikidata.org/entity/Q790338",
+        "cityLabel": "Râșnov",
+        "population": "15022"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q218",
+        "countryLabel": "Romania",
+        "city": "http://www.wikidata.org/entity/Q276128",
+        "cityLabel": "Frasin",
+        "population": "5876"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q218",
+        "countryLabel": "Romania",
+        "city": "http://www.wikidata.org/entity/Q851001",
+        "cityLabel": "Măcin",
+        "population": "8245"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q218",
+        "countryLabel": "Romania",
+        "city": "http://www.wikidata.org/entity/Q383306",
+        "cityLabel": "Tismana",
+        "population": "7035"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q218",
+        "countryLabel": "Romania",
+        "city": "http://www.wikidata.org/entity/Q639520",
+        "cityLabel": "Voluntari",
+        "population": "42944"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q218",
+        "countryLabel": "Romania",
+        "city": "http://www.wikidata.org/entity/Q789811",
+        "cityLabel": "Bălan",
+        "population": "6115"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q218",
+        "countryLabel": "Romania",
+        "city": "http://www.wikidata.org/entity/Q926163",
+        "cityLabel": "Popești-Leordeni",
+        "population": "21895"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q218",
+        "countryLabel": "Romania",
+        "city": "http://www.wikidata.org/entity/Q386091",
+        "cityLabel": "Novaci",
+        "population": "5431"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q218",
+        "countryLabel": "Romania",
+        "city": "http://www.wikidata.org/entity/Q383085",
+        "cityLabel": "Oravița",
+        "population": "11382"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q218",
+        "countryLabel": "Romania",
+        "city": "http://www.wikidata.org/entity/Q850992",
+        "cityLabel": "Costești",
+        "population": "10375"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q218",
+        "countryLabel": "Romania",
+        "city": "http://www.wikidata.org/entity/Q250006",
+        "cityLabel": "Slănic-Moldova",
+        "population": "4198"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q218",
+        "countryLabel": "Romania",
+        "city": "http://www.wikidata.org/entity/Q221214",
+        "cityLabel": "Cugir",
+        "population": "21376"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q218",
+        "countryLabel": "Romania",
+        "city": "http://www.wikidata.org/entity/Q169127",
+        "cityLabel": "Chitila",
+        "population": "14184"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q218",
+        "countryLabel": "Romania",
+        "city": "http://www.wikidata.org/entity/Q225100",
+        "cityLabel": "Bicaz",
+        "population": "6543"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q218",
+        "countryLabel": "Romania",
+        "city": "http://www.wikidata.org/entity/Q253825",
+        "cityLabel": "Salcea",
+        "population": "9015"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q218",
+        "countryLabel": "Romania",
+        "city": "http://www.wikidata.org/entity/Q169135",
+        "cityLabel": "Pantelimon",
+        "population": "25596"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q218",
+        "countryLabel": "Romania",
+        "city": "http://www.wikidata.org/entity/Q125604",
+        "cityLabel": "Găești",
+        "population": "13317"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q218",
+        "countryLabel": "Romania",
+        "city": "http://www.wikidata.org/entity/Q213296",
+        "cityLabel": "Sinaia",
+        "population": "10410"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q218",
+        "countryLabel": "Romania",
+        "city": "http://www.wikidata.org/entity/Q75504",
+        "cityLabel": "Bocșa",
+        "population": "15842"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q218",
+        "countryLabel": "Romania",
+        "city": "http://www.wikidata.org/entity/Q252061",
+        "cityLabel": "Valea lui Mihai",
+        "population": "9902"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q218",
+        "countryLabel": "Romania",
+        "city": "http://www.wikidata.org/entity/Q209782",
+        "cityLabel": "Borșa",
+        "population": "27611"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q218",
+        "countryLabel": "Romania",
+        "city": "http://www.wikidata.org/entity/Q166829",
+        "cityLabel": "Miercurea Nirajului",
+        "population": "5554"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q218",
+        "countryLabel": "Romania",
+        "city": "http://www.wikidata.org/entity/Q247807",
+        "cityLabel": "Săveni",
+        "population": "6999"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q218",
+        "countryLabel": "Romania",
+        "city": "http://www.wikidata.org/entity/Q167792",
+        "cityLabel": "Sărmașu",
+        "population": "6942"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q218",
+        "countryLabel": "Romania",
+        "city": "http://www.wikidata.org/entity/Q248018",
+        "cityLabel": "Isaccea",
+        "population": "5026"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q218",
+        "countryLabel": "Romania",
+        "city": "http://www.wikidata.org/entity/Q225257",
+        "cityLabel": "Rupea",
+        "population": "5269"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q218",
+        "countryLabel": "Romania",
+        "city": "http://www.wikidata.org/entity/Q253872",
+        "cityLabel": "Bechet",
+        "population": "3657"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q218",
+        "countryLabel": "Romania",
+        "city": "http://www.wikidata.org/entity/Q179297",
+        "cityLabel": "Nehoiu",
+        "population": "10211"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q218",
+        "countryLabel": "Romania",
+        "city": "http://www.wikidata.org/entity/Q75537",
+        "cityLabel": "Oțelu Roșu",
+        "population": "10510"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q218",
+        "countryLabel": "Romania",
+        "city": "http://www.wikidata.org/entity/Q248959",
+        "cityLabel": "Zărnești",
+        "population": "23476"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q218",
+        "countryLabel": "Romania",
+        "city": "http://www.wikidata.org/entity/Q226000",
+        "cityLabel": "Jimbolia",
+        "population": "10808"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q218",
+        "countryLabel": "Romania",
+        "city": "http://www.wikidata.org/entity/Q167121",
+        "cityLabel": "Ungheni",
+        "population": "6945"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q218",
+        "countryLabel": "Romania",
+        "city": "http://www.wikidata.org/entity/Q169064",
+        "cityLabel": "Sângeorgiu de Pădure",
+        "population": "5166"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q218",
+        "countryLabel": "Romania",
+        "city": "http://www.wikidata.org/entity/Q207196",
+        "cityLabel": "Zlatna",
+        "population": "7490"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q218",
+        "countryLabel": "Romania",
+        "city": "http://www.wikidata.org/entity/Q209977",
+        "cityLabel": "Ștefănești",
+        "population": "14541"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q218",
+        "countryLabel": "Romania",
+        "city": "http://www.wikidata.org/entity/Q217131",
+        "cityLabel": "Buftea",
+        "population": "22178"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q218",
+        "countryLabel": "Romania",
+        "city": "http://www.wikidata.org/entity/Q168921",
+        "cityLabel": "Bragadiru",
+        "population": "15329"
+    }
+]

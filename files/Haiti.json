@@ -1,0 +1,51 @@
+[
+    {
+        "country": "http://www.wikidata.org/entity/Q790",
+        "countryLabel": "Haiti",
+        "city": "http://www.wikidata.org/entity/Q997821",
+        "cityLabel": "Delmas",
+        "population": "284079"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q790",
+        "countryLabel": "Haiti",
+        "city": "http://www.wikidata.org/entity/Q34261",
+        "cityLabel": "Port-au-Prince",
+        "population": "987310"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q790",
+        "countryLabel": "Haiti",
+        "city": "http://www.wikidata.org/entity/Q216835",
+        "cityLabel": "Cap-Haïtien",
+        "population": "190289"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q790",
+        "countryLabel": "Haiti",
+        "city": "http://www.wikidata.org/entity/Q852550",
+        "cityLabel": "Gonaïves",
+        "population": "324043"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q790",
+        "countryLabel": "Haiti",
+        "city": "http://www.wikidata.org/entity/Q132189",
+        "cityLabel": "Saint-Marc",
+        "population": "160181"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q790",
+        "countryLabel": "Haiti",
+        "city": "http://www.wikidata.org/entity/Q986207",
+        "cityLabel": "Carrefour",
+        "population": "511345"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q790",
+        "countryLabel": "Haiti",
+        "city": "http://www.wikidata.org/entity/Q1001440",
+        "cityLabel": "Pétion-Ville",
+        "population": "359615"
+    }
+]

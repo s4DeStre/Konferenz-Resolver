@@ -1,0 +1,327 @@
+[
+    {
+        "country": "http://www.wikidata.org/entity/Q858",
+        "countryLabel": "Syria",
+        "city": "http://www.wikidata.org/entity/Q2561767",
+        "cityLabel": "Al-Sanamayn",
+        "population": "26268"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q858",
+        "countryLabel": "Syria",
+        "city": "http://www.wikidata.org/entity/Q481427",
+        "cityLabel": "Amoudah",
+        "population": "26821"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q858",
+        "countryLabel": "Syria",
+        "city": "http://www.wikidata.org/entity/Q310892",
+        "native": "الباب",
+        "cityLabel": "al-Bab",
+        "population": "144705"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q858",
+        "countryLabel": "Syria",
+        "city": "http://www.wikidata.org/entity/Q1736959",
+        "cityLabel": "Katzrin",
+        "population": "6913"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q858",
+        "countryLabel": "Syria",
+        "city": "http://www.wikidata.org/entity/Q172251",
+        "native": "يبرود",
+        "cityLabel": "Yabrud",
+        "population": "47136"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q858",
+        "countryLabel": "Syria",
+        "city": "http://www.wikidata.org/entity/Q174916",
+        "cityLabel": "Tartus",
+        "population": "115769"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q858",
+        "countryLabel": "Syria",
+        "city": "http://www.wikidata.org/entity/Q283368",
+        "native": "الرّقّة",
+        "cityLabel": "Raqqa",
+        "population": "196529"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q858",
+        "countryLabel": "Syria",
+        "city": "http://www.wikidata.org/entity/Q212757",
+        "native": "القامشلي",
+        "cityLabel": "Qamishli",
+        "population": "184231"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q858",
+        "countryLabel": "Syria",
+        "city": "http://www.wikidata.org/entity/Q195410",
+        "native": "القصير",
+        "cityLabel": "Al-Qusayr",
+        "population": "29818"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q858",
+        "countryLabel": "Syria",
+        "city": "http://www.wikidata.org/entity/Q1867822",
+        "cityLabel": "Al-Rastan",
+        "population": "61176"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q858",
+        "countryLabel": "Syria",
+        "city": "http://www.wikidata.org/entity/Q195531",
+        "cityLabel": "Jaramana",
+        "population": "114363"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q858",
+        "countryLabel": "Syria",
+        "city": "http://www.wikidata.org/entity/Q4702405",
+        "cityLabel": "Al-Fu'ah",
+        "population": "10264"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q858",
+        "countryLabel": "Syria",
+        "city": "http://www.wikidata.org/entity/Q825818",
+        "native": "مصياف",
+        "cityLabel": "Masyaf",
+        "population": "37109"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q858",
+        "countryLabel": "Syria",
+        "city": "http://www.wikidata.org/entity/Q41183",
+        "native": "حلب",
+        "cityLabel": "Aleppo",
+        "population": "1800000"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q858",
+        "countryLabel": "Syria",
+        "city": "http://www.wikidata.org/entity/Q1149502",
+        "cityLabel": "Jarabulus",
+        "population": "11570"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q858",
+        "countryLabel": "Syria",
+        "city": "http://www.wikidata.org/entity/Q4703079",
+        "native": "القريتين",
+        "cityLabel": "Al-Qaryatayn",
+        "population": "14208"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q858",
+        "countryLabel": "Syria",
+        "city": "http://www.wikidata.org/entity/Q131301",
+        "native": "حمص",
+        "cityLabel": "Homs",
+        "population": "900492"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q858",
+        "countryLabel": "Syria",
+        "city": "http://www.wikidata.org/entity/Q175923",
+        "cityLabel": "Jableh",
+        "population": "75944"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q858",
+        "countryLabel": "Syria",
+        "city": "http://www.wikidata.org/entity/Q173545",
+        "cityLabel": "Hama",
+        "population": "312994"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q858",
+        "countryLabel": "Syria",
+        "city": "http://www.wikidata.org/entity/Q3766",
+        "native": "Dimaxq",
+        "cityLabel": "Damascus",
+        "population": "1754000"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q858",
+        "countryLabel": "Syria",
+        "city": "http://www.wikidata.org/entity/Q2603127",
+        "cityLabel": "Al-Malikiyah",
+        "population": "39000"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q858",
+        "countryLabel": "Syria",
+        "city": "http://www.wikidata.org/entity/Q311099",
+        "native": "السويداء",
+        "cityLabel": "Al-Suwayda",
+        "population": "64730"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q858",
+        "countryLabel": "Syria",
+        "city": "http://www.wikidata.org/entity/Q311321",
+        "cityLabel": "Al-Hasakah",
+        "population": "188160"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q858",
+        "countryLabel": "Syria",
+        "city": "http://www.wikidata.org/entity/Q200030",
+        "cityLabel": "Latakia",
+        "population": "700000"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q858",
+        "countryLabel": "Syria",
+        "city": "http://www.wikidata.org/entity/Q302268",
+        "cityLabel": "Afrin",
+        "population": "36562"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q858",
+        "countryLabel": "Syria",
+        "city": "http://www.wikidata.org/entity/Q986763",
+        "cityLabel": "Al-Suqaylabiyah",
+        "population": "17313"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q858",
+        "countryLabel": "Syria",
+        "city": "http://www.wikidata.org/entity/Q1676159",
+        "native": "إزرع",
+        "cityLabel": "Izra",
+        "population": "19158"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q858",
+        "countryLabel": "Syria",
+        "city": "http://www.wikidata.org/entity/Q277674",
+        "cityLabel": "Azaz",
+        "population": "66138"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q858",
+        "countryLabel": "Syria",
+        "city": "http://www.wikidata.org/entity/Q4118337",
+        "cityLabel": "Qudsaya",
+        "population": "33571"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q858",
+        "countryLabel": "Syria",
+        "city": "http://www.wikidata.org/entity/Q1002557",
+        "cityLabel": "Safita",
+        "population": "32213"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q858",
+        "countryLabel": "Syria",
+        "city": "http://www.wikidata.org/entity/Q950797",
+        "cityLabel": "Jandairis",
+        "population": "13661"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q858",
+        "countryLabel": "Syria",
+        "city": "http://www.wikidata.org/entity/Q126415",
+        "cityLabel": "Kobanê",
+        "population": "44821"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q858",
+        "countryLabel": "Syria",
+        "city": "http://www.wikidata.org/entity/Q403446",
+        "cityLabel": "Douma",
+        "population": "123494"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q858",
+        "countryLabel": "Syria",
+        "city": "http://www.wikidata.org/entity/Q576368",
+        "cityLabel": "Quneitra",
+        "population": "37022"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q858",
+        "countryLabel": "Syria",
+        "city": "http://www.wikidata.org/entity/Q310895",
+        "native": "الميادين",
+        "cityLabel": "Mayadin",
+        "population": "48922"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q858",
+        "countryLabel": "Syria",
+        "city": "http://www.wikidata.org/entity/Q3766",
+        "native": "دمشقالشاسصعاسغ",
+        "cityLabel": "Damascus",
+        "population": "1754000"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q858",
+        "countryLabel": "Syria",
+        "city": "http://www.wikidata.org/entity/Q2371098",
+        "cityLabel": "Al-Haffah",
+        "population": "4298"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q858",
+        "countryLabel": "Syria",
+        "city": "http://www.wikidata.org/entity/Q1896205",
+        "native": "تل أبيض",
+        "cityLabel": "Tell Abyad",
+        "population": "12490"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q858",
+        "countryLabel": "Syria",
+        "city": "http://www.wikidata.org/entity/Q239097",
+        "native": "دير الزور",
+        "cityLabel": "Deir ez-Zor",
+        "population": "211857"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q858",
+        "countryLabel": "Syria",
+        "city": "http://www.wikidata.org/entity/Q1758024",
+        "cityLabel": "Nawa",
+        "population": "63676"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q858",
+        "countryLabel": "Syria",
+        "city": "http://www.wikidata.org/entity/Q504657",
+        "cityLabel": "Idlib",
+        "population": "165000"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q858",
+        "countryLabel": "Syria",
+        "city": "http://www.wikidata.org/entity/Q4118953",
+        "cityLabel": "Atarib",
+        "population": "10657"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q858",
+        "countryLabel": "Syria",
+        "city": "http://www.wikidata.org/entity/Q1146939",
+        "cityLabel": "Manbij",
+        "population": "74575"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q858",
+        "countryLabel": "Syria",
+        "city": "http://www.wikidata.org/entity/Q263922",
+        "native": "بانياس",
+        "cityLabel": "Baniyas",
+        "population": "43151"
+    }
+]

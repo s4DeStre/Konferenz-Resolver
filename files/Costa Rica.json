@@ -1,0 +1,30 @@
+[
+    {
+        "country": "http://www.wikidata.org/entity/Q800",
+        "countryLabel": "Costa Rica",
+        "city": "http://www.wikidata.org/entity/Q3070",
+        "cityLabel": "San José",
+        "population": "288054"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q800",
+        "countryLabel": "Costa Rica",
+        "city": "http://www.wikidata.org/entity/Q37104",
+        "cityLabel": "Alajuela",
+        "population": "265472"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q800",
+        "countryLabel": "Costa Rica",
+        "city": "http://www.wikidata.org/entity/Q2412778",
+        "cityLabel": "El Roble",
+        "population": "14231"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q800",
+        "countryLabel": "Costa Rica",
+        "city": "http://www.wikidata.org/entity/Q3948919",
+        "cityLabel": "Santa Ana",
+        "population": "11775"
+    }
+]

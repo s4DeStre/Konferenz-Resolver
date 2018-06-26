@@ -1,0 +1,2062 @@
+[
+    {
+        "country": "http://www.wikidata.org/entity/Q258",
+        "countryLabel": "South Africa",
+        "city": "http://www.wikidata.org/entity/Q1530051",
+        "cityLabel": "Swartland Local Municipality",
+        "population": "113762"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q258",
+        "countryLabel": "South Africa",
+        "city": "http://www.wikidata.org/entity/Q1892065",
+        "cityLabel": "Maphumulo Local Municipality",
+        "population": "96724"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q258",
+        "countryLabel": "South Africa",
+        "city": "http://www.wikidata.org/entity/Q14833732",
+        "cityLabel": "Port St. Johns Local Municipality",
+        "population": "156136"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q258",
+        "countryLabel": "South Africa",
+        "city": "http://www.wikidata.org/entity/Q1894966",
+        "cityLabel": "Umjindi Local Municipality",
+        "population": "69577"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q258",
+        "countryLabel": "South Africa",
+        "city": "http://www.wikidata.org/entity/Q922256",
+        "cityLabel": "Mafube Local Municipality",
+        "population": "57876"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q258",
+        "countryLabel": "South Africa",
+        "city": "http://www.wikidata.org/entity/Q1386037",
+        "cityLabel": "Ezingoleni Local Municipality",
+        "population": "52540"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q258",
+        "countryLabel": "South Africa",
+        "city": "http://www.wikidata.org/entity/Q1419305",
+        "cityLabel": "Ikwezi Local Municipality",
+        "population": "10537"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q258",
+        "countryLabel": "South Africa",
+        "city": "http://www.wikidata.org/entity/Q2226422",
+        "cityLabel": "Thembisile Hani Local Municipality",
+        "population": "310458"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q258",
+        "countryLabel": "South Africa",
+        "city": "http://www.wikidata.org/entity/Q1594423",
+        "cityLabel": "Tokologo Local Municipality",
+        "population": "28986"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q258",
+        "countryLabel": "South Africa",
+        "city": "http://www.wikidata.org/entity/Q1254147",
+        "cityLabel": "Dr JS Moroka Local Municipality",
+        "population": "249705"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q258",
+        "countryLabel": "South Africa",
+        "city": "http://www.wikidata.org/entity/Q1943437",
+        "cityLabel": "Molemole Local Municipality",
+        "population": "108321"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q258",
+        "countryLabel": "South Africa",
+        "city": "http://www.wikidata.org/entity/Q1693384",
+        "cityLabel": "Matatiele Local Municipality",
+        "population": "203843"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q258",
+        "countryLabel": "South Africa",
+        "city": "http://www.wikidata.org/entity/Q2006772",
+        "cityLabel": "Prince Albert Local Municipality",
+        "population": "13136"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q258",
+        "countryLabel": "South Africa",
+        "city": "http://www.wikidata.org/entity/Q1303780",
+        "cityLabel": "Pixley ka Seme Local Municipality",
+        "population": "83235"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q258",
+        "countryLabel": "South Africa",
+        "city": "http://www.wikidata.org/entity/Q1887939",
+        "cityLabel": "Maluti-a-Phofung Local Municipality",
+        "population": "335784"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q258",
+        "countryLabel": "South Africa",
+        "city": "http://www.wikidata.org/entity/Q1659754",
+        "cityLabel": "Imbabazane Local Municipality",
+        "population": "113073"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q258",
+        "countryLabel": "South Africa",
+        "city": "http://www.wikidata.org/entity/Q1821165",
+        "cityLabel": "Letsemeng Local Municipality",
+        "population": "38628"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q258",
+        "countryLabel": "South Africa",
+        "city": "http://www.wikidata.org/entity/Q2194994",
+        "cityLabel": "Ngquza Hill Local Municipality",
+        "population": "278481"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q258",
+        "countryLabel": "South Africa",
+        "city": "http://www.wikidata.org/entity/Q1516786",
+        "cityLabel": "Hessequa Local Municipality",
+        "population": "52642"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q258",
+        "countryLabel": "South Africa",
+        "city": "http://www.wikidata.org/entity/Q965471",
+        "cityLabel": "Sol Plaatje Local Municipality",
+        "population": "248041"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q258",
+        "countryLabel": "South Africa",
+        "city": "http://www.wikidata.org/entity/Q885465",
+        "cityLabel": "Blouberg Local Municipality",
+        "population": "162629"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q258",
+        "countryLabel": "South Africa",
+        "city": "http://www.wikidata.org/entity/Q2003963",
+        "cityLabel": "Nquthu Local Municipality",
+        "population": "165307"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q258",
+        "countryLabel": "South Africa",
+        "city": "http://www.wikidata.org/entity/Q8251259",
+        "cityLabel": "Richtersveld Local Municipality",
+        "population": "11982"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q258",
+        "countryLabel": "South Africa",
+        "city": "http://www.wikidata.org/entity/Q1984351",
+        "cityLabel": "Ngqushwa Local Municipality",
+        "population": "72190"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q258",
+        "countryLabel": "South Africa",
+        "city": "http://www.wikidata.org/entity/Q2230868",
+        "cityLabel": "Moses Kotane Local Municipality",
+        "population": "242554"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q258",
+        "countryLabel": "South Africa",
+        "city": "http://www.wikidata.org/entity/Q2065087",
+        "cityLabel": "Tswaing Local Municipality",
+        "population": "124218"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q258",
+        "countryLabel": "South Africa",
+        "city": "http://www.wikidata.org/entity/Q2086957",
+        "cityLabel": "Randfontein Local Municipality",
+        "population": "149286"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q258",
+        "countryLabel": "South Africa",
+        "city": "http://www.wikidata.org/entity/Q1544454",
+        "cityLabel": "Greater Tzaneen Local Municipality",
+        "population": "390095"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q258",
+        "countryLabel": "South Africa",
+        "city": "http://www.wikidata.org/entity/Q2026410",
+        "cityLabel": "Westonaria Local Municipality",
+        "population": "111767"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q258",
+        "countryLabel": "South Africa",
+        "city": "http://www.wikidata.org/entity/Q1873451",
+        "cityLabel": "Matjhabeng Local Municipality",
+        "population": "406461"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q258",
+        "countryLabel": "South Africa",
+        "city": "http://www.wikidata.org/entity/Q1907111",
+        "cityLabel": "Masilonyana Local Municipality",
+        "population": "63334"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q258",
+        "countryLabel": "South Africa",
+        "city": "http://www.wikidata.org/entity/Q4931109",
+        "cityLabel": "George Local Municipality",
+        "population": "193672"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q258",
+        "countryLabel": "South Africa",
+        "city": "http://www.wikidata.org/entity/Q2006800",
+        "cityLabel": "Phokwane Local Municipality",
+        "population": "63000"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q258",
+        "countryLabel": "South Africa",
+        "city": "http://www.wikidata.org/entity/Q1925949",
+        "cityLabel": "Metsimaholo Local Municipality",
+        "population": "149108"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q258",
+        "countryLabel": "South Africa",
+        "city": "http://www.wikidata.org/entity/Q1544427",
+        "cityLabel": "Greater Giyani Local Municipality",
+        "population": "244217"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q258",
+        "countryLabel": "South Africa",
+        "city": "http://www.wikidata.org/entity/Q1660415",
+        "cityLabel": "Polokwane Local Municipality",
+        "population": "628999"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q258",
+        "countryLabel": "South Africa",
+        "city": "http://www.wikidata.org/entity/Q1225159",
+        "cityLabel": "Dihlabeng Local Municipality",
+        "population": "128704"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q258",
+        "countryLabel": "South Africa",
+        "city": "http://www.wikidata.org/entity/Q885667",
+        "cityLabel": "Blue Crane Route Local Municipality",
+        "population": "36002"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q258",
+        "countryLabel": "South Africa",
+        "city": "http://www.wikidata.org/entity/Q1983450",
+        "cityLabel": "Newcastle Local Municipality",
+        "population": "363236"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q258",
+        "countryLabel": "South Africa",
+        "city": "http://www.wikidata.org/entity/Q1531415",
+        "cityLabel": "Midvaal Local Municipality",
+        "population": "95301"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q258",
+        "countryLabel": "South Africa",
+        "city": "http://www.wikidata.org/entity/Q925168",
+        "cityLabel": "Nongoma Local Municipality",
+        "population": "194908"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q258",
+        "countryLabel": "South Africa",
+        "city": "http://www.wikidata.org/entity/Q1301527",
+        "cityLabel": "Govan Mbeki Local Municipality",
+        "population": "294538"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q258",
+        "countryLabel": "South Africa",
+        "city": "http://www.wikidata.org/entity/Q1994391",
+        "cityLabel": "Nkonkobe Local Municipality",
+        "population": "127115"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q258",
+        "countryLabel": "South Africa",
+        "city": "http://www.wikidata.org/entity/Q1740579",
+        "cityLabel": "ǁKhara Hais Local Municipality",
+        "population": "93494"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q258",
+        "countryLabel": "South Africa",
+        "city": "http://www.wikidata.org/entity/Q1663481",
+        "cityLabel": "Ingwe Local Municipality",
+        "population": "100548"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q258",
+        "countryLabel": "South Africa",
+        "city": "http://www.wikidata.org/entity/Q1889000",
+        "cityLabel": "Mandeni Local Municipality",
+        "population": "138078"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q258",
+        "countryLabel": "South Africa",
+        "city": "http://www.wikidata.org/entity/Q1514156",
+        "cityLabel": "Kopanong Local Municipality",
+        "population": "49171"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q258",
+        "countryLabel": "South Africa",
+        "city": "http://www.wikidata.org/entity/Q1660258",
+        "cityLabel": "Impendle Local Municipality",
+        "population": "33105"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q258",
+        "countryLabel": "South Africa",
+        "city": "http://www.wikidata.org/entity/Q2081805",
+        "cityLabel": "City of Matlosana",
+        "population": "398676"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q258",
+        "countryLabel": "South Africa",
+        "city": "http://www.wikidata.org/entity/Q1661010",
+        "cityLabel": "Indaka Local Municipality",
+        "population": "103116"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q258",
+        "countryLabel": "South Africa",
+        "city": "http://www.wikidata.org/entity/Q1227128",
+        "cityLabel": "Dipaleseng Local Municipality",
+        "population": "42390"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q258",
+        "countryLabel": "South Africa",
+        "city": "http://www.wikidata.org/entity/Q859983",
+        "cityLabel": "Joe Morolong Local Municipality",
+        "population": "89530"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q258",
+        "countryLabel": "South Africa",
+        "city": "http://www.wikidata.org/entity/Q1643020",
+        "cityLabel": "Albert Luthuli Local Municipality",
+        "population": "186010"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q258",
+        "countryLabel": "South Africa",
+        "city": "http://www.wikidata.org/entity/Q2006810",
+        "cityLabel": "Vulamehlo Local Municipality",
+        "population": "77403"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q258",
+        "countryLabel": "South Africa",
+        "city": "http://www.wikidata.org/entity/Q1883735",
+        "cityLabel": "Magareng Local Municipality",
+        "population": "24204"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q258",
+        "countryLabel": "South Africa",
+        "city": "http://www.wikidata.org/entity/Q1255574",
+        "cityLabel": "Drakenstein Local Municipality",
+        "population": "251262"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q258",
+        "countryLabel": "South Africa",
+        "city": "http://www.wikidata.org/entity/Q1707740",
+        "cityLabel": "Mossel Bay Local Municipality",
+        "population": "89430"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q258",
+        "countryLabel": "South Africa",
+        "city": "http://www.wikidata.org/entity/Q1888475",
+        "cityLabel": "Mamusa Local Municipality",
+        "population": "60355"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q258",
+        "countryLabel": "South Africa",
+        "city": "http://www.wikidata.org/entity/Q1487822",
+        "cityLabel": "Ga-Segonyana Local Municipality",
+        "population": "93652"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q258",
+        "countryLabel": "South Africa",
+        "city": "http://www.wikidata.org/entity/Q1951578",
+        "cityLabel": "Mthonjaneni Local Municipality",
+        "population": "47818"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q258",
+        "countryLabel": "South Africa",
+        "city": "http://www.wikidata.org/entity/Q1931418",
+        "cityLabel": "Theewaterskloof Local Municipality",
+        "population": "108790"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q258",
+        "countryLabel": "South Africa",
+        "city": "http://www.wikidata.org/entity/Q1316771",
+        "cityLabel": "Ngwathe Local Municipality",
+        "population": "120520"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q258",
+        "countryLabel": "South Africa",
+        "city": "http://www.wikidata.org/entity/Q1671635",
+        "cityLabel": "Intsika Yethu Local Municipality",
+        "population": "145372"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q258",
+        "countryLabel": "South Africa",
+        "city": "http://www.wikidata.org/entity/Q878862",
+        "cityLabel": "Bitou Local Municipality",
+        "population": "49162"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q258",
+        "countryLabel": "South Africa",
+        "city": "http://www.wikidata.org/entity/Q962633",
+        "cityLabel": "Elias Motsoaledi Local Municipality",
+        "population": "249363"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q258",
+        "countryLabel": "South Africa",
+        "city": "http://www.wikidata.org/entity/Q1526250",
+        "cityLabel": "Tswelopele Local Municipality",
+        "population": "47625"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q258",
+        "countryLabel": "South Africa",
+        "city": "http://www.wikidata.org/entity/Q1681863",
+        "cityLabel": "Umtshezi Local Municipality",
+        "population": "83153"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q258",
+        "countryLabel": "South Africa",
+        "city": "http://www.wikidata.org/entity/Q1717872",
+        "cityLabel": "Ndwedwe Local Municipality",
+        "population": "140820"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q258",
+        "countryLabel": "South Africa",
+        "city": "http://www.wikidata.org/entity/Q905003",
+        "cityLabel": "Breede Valley Local Municipality",
+        "population": "166825"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q258",
+        "countryLabel": "South Africa",
+        "city": "http://www.wikidata.org/entity/Q1886243",
+        "cityLabel": "Makana Local Municipality",
+        "population": "80390"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q258",
+        "countryLabel": "South Africa",
+        "city": "http://www.wikidata.org/entity/Q2042724",
+        "cityLabel": "Kgetlengrivier Local Municipality",
+        "population": "51049"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q258",
+        "countryLabel": "South Africa",
+        "city": "http://www.wikidata.org/entity/Q1671847",
+        "cityLabel": "Inxuba Yethemba Local Municipality",
+        "population": "65560"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q258",
+        "countryLabel": "South Africa",
+        "city": "http://www.wikidata.org/entity/Q3643416",
+        "cityLabel": "Kagisano-Molopo Local Municipality",
+        "population": "105789"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q258",
+        "countryLabel": "South Africa",
+        "city": "http://www.wikidata.org/entity/Q1584028",
+        "cityLabel": "Hantam Local Municipality",
+        "population": "21578"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q258",
+        "countryLabel": "South Africa",
+        "city": "http://www.wikidata.org/entity/Q1941155",
+        "cityLabel": "Mkhambathini Local Municipality",
+        "population": "63142"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q258",
+        "countryLabel": "South Africa",
+        "city": "http://www.wikidata.org/entity/Q1517371",
+        "cityLabel": "Great Kei Local Municipality",
+        "population": "38991"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q258",
+        "countryLabel": "South Africa",
+        "city": "http://www.wikidata.org/entity/Q1225310",
+        "cityLabel": "Dikgatlong Local Municipality",
+        "population": "46841"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q258",
+        "countryLabel": "South Africa",
+        "city": "http://www.wikidata.org/entity/Q1723822",
+        "cityLabel": "Kannaland Local Municipality",
+        "population": "24767"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q258",
+        "countryLabel": "South Africa",
+        "city": "http://www.wikidata.org/entity/Q1339806",
+        "cityLabel": "Emthanjeni Local Municipality",
+        "population": "42356"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q258",
+        "countryLabel": "South Africa",
+        "city": "http://www.wikidata.org/entity/Q1785553",
+        "cityLabel": "Kouga Local Municipality",
+        "population": "98558"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q258",
+        "countryLabel": "South Africa",
+        "city": "http://www.wikidata.org/entity/Q2084908",
+        "cityLabel": "Msukaligwa Local Municipality",
+        "population": "149377"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q258",
+        "countryLabel": "South Africa",
+        "city": "http://www.wikidata.org/entity/Q1856473",
+        "cityLabel": "Ulundi Local Municipality",
+        "population": "188317"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q258",
+        "countryLabel": "South Africa",
+        "city": "http://www.wikidata.org/entity/Q1023251",
+        "cityLabel": "Umzumbe",
+        "population": "160975"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q258",
+        "countryLabel": "South Africa",
+        "city": "http://www.wikidata.org/entity/Q1820684",
+        "cityLabel": "Lesedi Local Municipality",
+        "population": "99520"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q258",
+        "countryLabel": "South Africa",
+        "city": "http://www.wikidata.org/entity/Q2042454",
+        "cityLabel": "Overstrand Local Municipality",
+        "population": "93407"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q258",
+        "countryLabel": "South Africa",
+        "city": "http://www.wikidata.org/entity/Q1417176",
+        "cityLabel": "Oudtshoorn Local Municipality",
+        "population": "95933"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q258",
+        "countryLabel": "South Africa",
+        "city": "http://www.wikidata.org/entity/Q2162456",
+        "cityLabel": "Sunday's River Valley Local Municipality",
+        "population": "54504"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q258",
+        "countryLabel": "South Africa",
+        "city": "http://www.wikidata.org/entity/Q1941297",
+        "cityLabel": "Mnquma Local Municipality",
+        "population": "252390"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q258",
+        "countryLabel": "South Africa",
+        "city": "http://www.wikidata.org/entity/Q1632782",
+        "cityLabel": "Swellendam Local Municipality",
+        "population": "35916"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q258",
+        "countryLabel": "South Africa",
+        "city": "http://www.wikidata.org/entity/Q1052585",
+        "cityLabel": "Cederberg Local Municipality",
+        "population": "49768"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q258",
+        "countryLabel": "South Africa",
+        "city": "http://www.wikidata.org/entity/Q2182810",
+        "cityLabel": "Ditsobotla Local Municipality",
+        "population": "168902"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q258",
+        "countryLabel": "South Africa",
+        "city": "http://www.wikidata.org/entity/Q1734288",
+        "cityLabel": "Karoo Hoogland Local Municipality",
+        "population": "12588"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q258",
+        "countryLabel": "South Africa",
+        "city": "http://www.wikidata.org/entity/Q928276",
+        "cityLabel": "Greater Kokstad Local Municipality",
+        "population": "65981"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q258",
+        "countryLabel": "South Africa",
+        "city": "http://www.wikidata.org/entity/Q1681141",
+        "cityLabel": "Mbonambi Local Municipality",
+        "population": "122889"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q258",
+        "countryLabel": "South Africa",
+        "city": "http://www.wikidata.org/entity/Q1922799",
+        "cityLabel": "Nkomazi Local Municipality",
+        "population": "390610"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q258",
+        "countryLabel": "South Africa",
+        "city": "http://www.wikidata.org/entity/Q1028399",
+        "cityLabel": "Camdeboo Local Municipality",
+        "population": "50993"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q258",
+        "countryLabel": "South Africa",
+        "city": "http://www.wikidata.org/entity/Q1932200",
+        "cityLabel": "Mier Local Municipality",
+        "population": "7003"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q258",
+        "countryLabel": "South Africa",
+        "city": "http://www.wikidata.org/entity/Q934141",
+        "cityLabel": "Rustenburg Local Municipality",
+        "population": "549575"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q258",
+        "countryLabel": "South Africa",
+        "city": "http://www.wikidata.org/entity/Q1759943",
+        "cityLabel": "KwaDukuza Local Municipality",
+        "population": "231187"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q258",
+        "countryLabel": "South Africa",
+        "city": "http://www.wikidata.org/entity/Q1509947",
+        "cityLabel": "Modimolle Local Municipality",
+        "population": "68513"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q258",
+        "countryLabel": "South Africa",
+        "city": "http://www.wikidata.org/entity/Q1972906",
+        "cityLabel": "Ndlambe Local Municipality",
+        "population": "61176"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q258",
+        "countryLabel": "South Africa",
+        "city": "http://www.wikidata.org/entity/Q2067601",
+        "cityLabel": "Setsoto Local Municipality",
+        "population": "112597"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q258",
+        "countryLabel": "South Africa",
+        "city": "http://www.wikidata.org/entity/Q2286969",
+        "cityLabel": "Mbombela Local Municipality",
+        "population": "588794"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q258",
+        "countryLabel": "South Africa",
+        "city": "http://www.wikidata.org/entity/Q1544434",
+        "cityLabel": "Greater Letaba Local Municipality",
+        "population": "212701"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q258",
+        "countryLabel": "South Africa",
+        "city": "http://www.wikidata.org/entity/Q2067619",
+        "cityLabel": "UMhlabuyalingana Local Municipality",
+        "population": "156736"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q258",
+        "countryLabel": "South Africa",
+        "city": "http://www.wikidata.org/entity/Q1544453",
+        "cityLabel": "Greater Taung Local Municipality",
+        "population": "177642"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q258",
+        "countryLabel": "South Africa",
+        "city": "http://www.wikidata.org/entity/Q1723052",
+        "cityLabel": "Kamiesberg Local Municipality",
+        "population": "10187"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q258",
+        "countryLabel": "South Africa",
+        "city": "http://www.wikidata.org/entity/Q1926544",
+        "cityLabel": "Mhlontlo Local Municipality",
+        "population": "188226"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q258",
+        "countryLabel": "South Africa",
+        "city": "http://www.wikidata.org/entity/Q1777700",
+        "cityLabel": "Knysna Local Municipality",
+        "population": "68659"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q258",
+        "countryLabel": "South Africa",
+        "city": "http://www.wikidata.org/entity/Q2006754",
+        "cityLabel": "Siyancuma Local Municipality",
+        "population": "37076"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q258",
+        "countryLabel": "South Africa",
+        "city": "http://www.wikidata.org/entity/Q3644604",
+        "cityLabel": "Nkandla Local Municipality",
+        "population": "114416"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q258",
+        "countryLabel": "South Africa",
+        "city": "http://www.wikidata.org/entity/Q2006784",
+        "cityLabel": "Saldanha Bay Local Municipality",
+        "population": "99193"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q258",
+        "countryLabel": "South Africa",
+        "city": "http://www.wikidata.org/entity/Q1298937",
+        "cityLabel": "Mpofana Local Municipality",
+        "population": "38103"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q258",
+        "countryLabel": "South Africa",
+        "city": "http://www.wikidata.org/entity/Q2006821",
+        "cityLabel": "Senqu Local Municipality",
+        "population": "134150"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q258",
+        "countryLabel": "South Africa",
+        "city": "http://www.wikidata.org/entity/Q2006792",
+        "cityLabel": "Thulamela Local Municipality",
+        "population": "618462"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q258",
+        "countryLabel": "South Africa",
+        "city": "http://www.wikidata.org/entity/Q1672186",
+        "cityLabel": "Khâi-Ma Local Municipality",
+        "population": "12465"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q258",
+        "countryLabel": "South Africa",
+        "city": "http://www.wikidata.org/entity/Q1964073",
+        "cityLabel": "Nala Local Municipality",
+        "population": "81220"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q258",
+        "countryLabel": "South Africa",
+        "city": "http://www.wikidata.org/entity/Q10975369",
+        "cityLabel": "Mtubatuba Local Municipality",
+        "population": "175425"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q258",
+        "countryLabel": "South Africa",
+        "city": "http://www.wikidata.org/entity/Q1447551",
+        "cityLabel": "Ubuntu Local Municipality",
+        "population": "18601"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q258",
+        "countryLabel": "South Africa",
+        "city": "http://www.wikidata.org/entity/Q1335678",
+        "cityLabel": "Emfuleni Local Municipality",
+        "population": "721663"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q258",
+        "countryLabel": "South Africa",
+        "city": "http://www.wikidata.org/entity/Q1964128",
+        "cityLabel": "Nama Khoi Local Municipality",
+        "population": "47041"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q258",
+        "countryLabel": "South Africa",
+        "city": "http://www.wikidata.org/entity/Q1341026",
+        "cityLabel": "Endumeni Local Municipality",
+        "population": "64862"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q258",
+        "countryLabel": "South Africa",
+        "city": "http://www.wikidata.org/entity/Q1394367",
+        "cityLabel": "Nokeng tsa Taemane Local Municipality",
+        "population": "53197"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q258",
+        "countryLabel": "South Africa",
+        "city": "http://www.wikidata.org/entity/Q1308343",
+        "cityLabel": "Thabazimbi Local Municipality",
+        "population": "85234"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q258",
+        "countryLabel": "South Africa",
+        "city": "http://www.wikidata.org/entity/Q971361",
+        "cityLabel": "Langeberg Local Municipality",
+        "population": "97724"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q258",
+        "countryLabel": "South Africa",
+        "city": "http://www.wikidata.org/entity/Q1945552",
+        "cityLabel": "Umsobomvu Local Municipality",
+        "population": "28376"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q258",
+        "countryLabel": "South Africa",
+        "city": "http://www.wikidata.org/entity/Q1721381",
+        "cityLabel": "Kai ǃGarib Local Municipality",
+        "population": "65869"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q258",
+        "countryLabel": "South Africa",
+        "city": "http://www.wikidata.org/entity/Q1947071",
+        "cityLabel": "Moqhaka Local Municipality",
+        "population": "160532"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q258",
+        "countryLabel": "South Africa",
+        "city": "http://www.wikidata.org/entity/Q1820064",
+        "cityLabel": "Lepelle-Nkumpi Local Municipality",
+        "population": "230350"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q258",
+        "countryLabel": "South Africa",
+        "city": "http://www.wikidata.org/entity/Q1617222",
+        "cityLabel": "Hibiscus Coast Local Municipality",
+        "population": "256135"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q258",
+        "countryLabel": "South Africa",
+        "city": "http://www.wikidata.org/entity/Q1921092",
+        "cityLabel": "Merafong City Local Municipality",
+        "population": "197520"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q258",
+        "countryLabel": "South Africa",
+        "city": "http://www.wikidata.org/entity/Q1642573",
+        "cityLabel": "Mbhashe Local Municipality",
+        "population": "254909"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q258",
+        "countryLabel": "South Africa",
+        "city": "http://www.wikidata.org/entity/Q1942488",
+        "cityLabel": "Mogalakwena Local Municipality",
+        "population": "307682"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q258",
+        "countryLabel": "South Africa",
+        "city": "http://www.wikidata.org/entity/Q926143",
+        "cityLabel": "Siyathemba Local Municipality",
+        "population": "21591"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q258",
+        "countryLabel": "South Africa",
+        "city": "http://www.wikidata.org/entity/Q1983195",
+        "cityLabel": "Richmond Local Municipality",
+        "population": "65793"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q258",
+        "countryLabel": "South Africa",
+        "city": "http://www.wikidata.org/entity/Q1670648",
+        "cityLabel": "Tsolwana Local Municipality",
+        "population": "33281"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q258",
+        "countryLabel": "South Africa",
+        "city": "http://www.wikidata.org/entity/Q4833492",
+        "cityLabel": "Dannhauser Local Municipality",
+        "population": "102161"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q258",
+        "countryLabel": "South Africa",
+        "city": "http://www.wikidata.org/entity/Q2096545",
+        "cityLabel": "Umzimkhulu Local Municipality",
+        "population": "180302"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q258",
+        "countryLabel": "South Africa",
+        "city": "http://www.wikidata.org/entity/Q1492854",
+        "cityLabel": "Gamagara Local Municipality",
+        "population": "41617"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q258",
+        "countryLabel": "South Africa",
+        "city": "http://www.wikidata.org/entity/Q1537865",
+        "cityLabel": "Makhado Local Municipality",
+        "population": "516031"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q258",
+        "countryLabel": "South Africa",
+        "city": "http://www.wikidata.org/entity/Q1856565",
+        "cityLabel": "Nelson Mandela Bay Metropolitan Municipality",
+        "population": "1152115"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q258",
+        "countryLabel": "South Africa",
+        "city": "http://www.wikidata.org/entity/Q1185115",
+        "cityLabel": "City of Cape Town",
+        "population": "3740026"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q258",
+        "countryLabel": "South Africa",
+        "city": "http://www.wikidata.org/entity/Q1002006",
+        "cityLabel": "Buffalo City Metropolitan Municipality",
+        "population": "755200"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q258",
+        "countryLabel": "South Africa",
+        "city": "http://www.wikidata.org/entity/Q1159185",
+        "cityLabel": "Mangaung Metropolitan Municipality",
+        "population": "747431"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q258",
+        "countryLabel": "South Africa",
+        "city": "http://www.wikidata.org/entity/Q326891",
+        "cityLabel": "Ekurhuleni Metropolitan Municipality",
+        "population": "3178470"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q258",
+        "countryLabel": "South Africa",
+        "city": "http://www.wikidata.org/entity/Q2346838",
+        "cityLabel": "City of Johannesburg Metropolitan Municipality",
+        "population": "4434827"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q258",
+        "countryLabel": "South Africa",
+        "city": "http://www.wikidata.org/entity/Q1094207",
+        "cityLabel": "City of Tshwane Metropolitan Municipality",
+        "population": "2921488"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q258",
+        "countryLabel": "South Africa",
+        "city": "http://www.wikidata.org/entity/Q311544",
+        "cityLabel": "eThekwini",
+        "population": "3442361"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q258",
+        "countryLabel": "South Africa",
+        "city": "http://www.wikidata.org/entity/Q582629",
+        "cityLabel": "Maruleng Local Municipality",
+        "population": "94857"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q258",
+        "countryLabel": "South Africa",
+        "city": "http://www.wikidata.org/entity/Q2656096",
+        "native": "St. Helenabaai",
+        "cityLabel": "St Helena Bay",
+        "population": "11529"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q258",
+        "countryLabel": "South Africa",
+        "city": "http://www.wikidata.org/entity/Q241617",
+        "cityLabel": "Jozini Local Municipality",
+        "population": "186502"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q258",
+        "countryLabel": "South Africa",
+        "city": "http://www.wikidata.org/entity/Q225041",
+        "native": "Lambertsbaai",
+        "cityLabel": "Lambert's Bay",
+        "population": "6120"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q258",
+        "countryLabel": "South Africa",
+        "city": "http://www.wikidata.org/entity/Q775825",
+        "cityLabel": "Okhahlamba Local Municipality",
+        "population": "132068"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q258",
+        "countryLabel": "South Africa",
+        "city": "http://www.wikidata.org/entity/Q430520",
+        "cityLabel": "Sakhisizwe Local Municipality",
+        "population": "63582"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q258",
+        "countryLabel": "South Africa",
+        "city": "http://www.wikidata.org/entity/Q2576320",
+        "cityLabel": "Maquassi Hills Local Municipality",
+        "population": "77794"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q258",
+        "countryLabel": "South Africa",
+        "city": "http://www.wikidata.org/entity/Q254505",
+        "cityLabel": "Umvoti Local Municipality",
+        "population": "103093"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q258",
+        "countryLabel": "South Africa",
+        "city": "http://www.wikidata.org/entity/Q673459",
+        "cityLabel": "Gariep Local Municipality",
+        "population": "33677"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q258",
+        "countryLabel": "South Africa",
+        "city": "http://www.wikidata.org/entity/Q1792173",
+        "cityLabel": "Kungwini Local Municipality",
+        "population": "104149"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q258",
+        "countryLabel": "South Africa",
+        "city": "http://www.wikidata.org/entity/Q2576328",
+        "cityLabel": "Tlokwe Local Municipality",
+        "population": "162762"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q258",
+        "countryLabel": "South Africa",
+        "city": "http://www.wikidata.org/entity/Q993990",
+        "native": "Velddrif",
+        "cityLabel": "Velddrif",
+        "population": "11017"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q258",
+        "countryLabel": "South Africa",
+        "city": "http://www.wikidata.org/entity/Q2166182",
+        "cityLabel": "Roodepoort",
+        "population": "326416"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q258",
+        "countryLabel": "South Africa",
+        "city": "http://www.wikidata.org/entity/Q993081",
+        "native": "Hopefield",
+        "cityLabel": "Hopefield",
+        "population": "6460"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q258",
+        "countryLabel": "South Africa",
+        "city": "http://www.wikidata.org/entity/Q2319575",
+        "cityLabel": "Rawsonville",
+        "population": "3099"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q258",
+        "countryLabel": "South Africa",
+        "city": "http://www.wikidata.org/entity/Q596849",
+        "cityLabel": "Nyandeni Local Municipality",
+        "population": "290390"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q258",
+        "countryLabel": "South Africa",
+        "city": "http://www.wikidata.org/entity/Q1025654",
+        "cityLabel": "Thohoyandou",
+        "population": "69453"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q258",
+        "countryLabel": "South Africa",
+        "city": "http://www.wikidata.org/entity/Q1815510",
+        "cityLabel": "Msunduzi Local Municipality",
+        "population": "618536"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q258",
+        "countryLabel": "South Africa",
+        "city": "http://www.wikidata.org/entity/Q311812",
+        "cityLabel": "eDumbe Local Municipality",
+        "population": "82053"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q258",
+        "countryLabel": "South Africa",
+        "city": "http://www.wikidata.org/entity/Q671160",
+        "cityLabel": "Mohokare Local Municipality",
+        "population": "34146"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q258",
+        "countryLabel": "South Africa",
+        "city": "http://www.wikidata.org/entity/Q427568",
+        "cityLabel": "Naledi Local Municipality",
+        "population": "24314"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q258",
+        "countryLabel": "South Africa",
+        "city": "http://www.wikidata.org/entity/Q311792",
+        "cityLabel": "uMngeni Local Municipality",
+        "population": "92710"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q258",
+        "countryLabel": "South Africa",
+        "city": "http://www.wikidata.org/entity/Q813381",
+        "cityLabel": "Beaufort West Local Municipality",
+        "population": "49586"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q258",
+        "countryLabel": "South Africa",
+        "city": "http://www.wikidata.org/entity/Q211055",
+        "native": "Mafikeng",
+        "cityLabel": "Mahikeng",
+        "population": "15117"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q258",
+        "countryLabel": "South Africa",
+        "city": "http://www.wikidata.org/entity/Q1003379",
+        "native": "Porterville",
+        "cityLabel": "Porterville",
+        "population": "7057"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q258",
+        "countryLabel": "South Africa",
+        "city": "http://www.wikidata.org/entity/Q685302",
+        "cityLabel": "Nketoana Local Municipality",
+        "population": "60324"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q258",
+        "countryLabel": "South Africa",
+        "city": "http://www.wikidata.org/entity/Q605167",
+        "native": "Potchefstroom",
+        "cityLabel": "Potchefstroom",
+        "population": "148804"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q258",
+        "countryLabel": "South Africa",
+        "city": "http://www.wikidata.org/entity/Q138717",
+        "cityLabel": "The Big Five False Bay Local Municipality",
+        "population": "35258"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q258",
+        "countryLabel": "South Africa",
+        "city": "http://www.wikidata.org/entity/Q943414",
+        "native": "Vanrhynsdorp",
+        "cityLabel": "Vanrhynsdorp",
+        "population": "6272"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q258",
+        "countryLabel": "South Africa",
+        "city": "http://www.wikidata.org/entity/Q390436",
+        "cityLabel": "Aganang Local Municipality",
+        "population": "131164"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q258",
+        "countryLabel": "South Africa",
+        "city": "http://www.wikidata.org/entity/Q522028",
+        "cityLabel": "Stellenbosch Local Municipality",
+        "population": "155733"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q258",
+        "countryLabel": "South Africa",
+        "city": "http://www.wikidata.org/entity/Q615965",
+        "cityLabel": "Umzimvubu Local Municipality",
+        "population": "191620"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q258",
+        "countryLabel": "South Africa",
+        "city": "http://www.wikidata.org/entity/Q616669",
+        "cityLabel": "Cape Agulhas Local Municipality",
+        "population": "33038"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q258",
+        "countryLabel": "South Africa",
+        "city": "http://www.wikidata.org/entity/Q3113320",
+        "native": "Malmesbury",
+        "cityLabel": "Malmesbury",
+        "population": "35897"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q258",
+        "countryLabel": "South Africa",
+        "city": "http://www.wikidata.org/entity/Q170313",
+        "native": "Mbombela",
+        "cityLabel": "Nelspruit",
+        "population": "58670"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q258",
+        "countryLabel": "South Africa",
+        "city": "http://www.wikidata.org/entity/Q583728",
+        "cityLabel": "Mbizana Local Municipality",
+        "population": "281905"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q258",
+        "countryLabel": "South Africa",
+        "city": "http://www.wikidata.org/entity/Q1637702",
+        "cityLabel": "Alberton",
+        "population": "121536"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q258",
+        "countryLabel": "South Africa",
+        "city": "http://www.wikidata.org/entity/Q527085",
+        "cityLabel": "Ntabankulu Local Municipality",
+        "population": "123976"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q258",
+        "countryLabel": "South Africa",
+        "city": "http://www.wikidata.org/entity/Q2347801",
+        "cityLabel": "Emalahleni Local Municipality",
+        "population": "395466"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q258",
+        "countryLabel": "South Africa",
+        "city": "http://www.wikidata.org/entity/Q259411",
+        "cityLabel": "Thembelihle Local Municipality",
+        "population": "15701"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q258",
+        "countryLabel": "South Africa",
+        "city": "http://www.wikidata.org/entity/Q253979",
+        "cityLabel": "Phumelela Local Municipality",
+        "population": "47772"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q258",
+        "countryLabel": "South Africa",
+        "city": "http://www.wikidata.org/entity/Q575104",
+        "cityLabel": "Mookgophong Local Municipality",
+        "population": "35640"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q258",
+        "countryLabel": "South Africa",
+        "city": "http://www.wikidata.org/entity/Q1721138",
+        "cityLabel": "Kagisano Local Municipality",
+        "population": "88780"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q258",
+        "countryLabel": "South Africa",
+        "city": "http://www.wikidata.org/entity/Q737965",
+        "cityLabel": "Mutale Local Municipality",
+        "population": "91870"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q258",
+        "countryLabel": "South Africa",
+        "city": "http://www.wikidata.org/entity/Q1816588",
+        "cityLabel": "Lekwa-Teemane Local Municipality",
+        "population": "53248"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q258",
+        "countryLabel": "South Africa",
+        "city": "http://www.wikidata.org/entity/Q127787",
+        "cityLabel": "Mogale City Local Municipality",
+        "population": "362422"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q258",
+        "countryLabel": "South Africa",
+        "city": "http://www.wikidata.org/entity/Q3642609",
+        "cityLabel": "Saron, Western Cape",
+        "population": "7843"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q258",
+        "countryLabel": "South Africa",
+        "city": "http://www.wikidata.org/entity/Q786096",
+        "cityLabel": "Ubuhlebezwe Local Municipality",
+        "population": "101691"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q258",
+        "countryLabel": "South Africa",
+        "city": "http://www.wikidata.org/entity/Q6146167",
+        "cityLabel": "Jamestown, Western Cape",
+        "population": "2840"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q258",
+        "countryLabel": "South Africa",
+        "city": "http://www.wikidata.org/entity/Q34647",
+        "native": "Johannesburg",
+        "cityLabel": "Johannesburg",
+        "population": "4434827"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q258",
+        "countryLabel": "South Africa",
+        "city": "http://www.wikidata.org/entity/Q612412",
+        "cityLabel": "Ventersdorp Local Municipality",
+        "population": "56702"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q258",
+        "countryLabel": "South Africa",
+        "city": "http://www.wikidata.org/entity/Q1003332",
+        "native": "Moorreesburg",
+        "cityLabel": "Moorreesburg",
+        "population": "12877"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q258",
+        "countryLabel": "South Africa",
+        "city": "http://www.wikidata.org/entity/Q809120",
+        "cityLabel": "Barrydale",
+        "population": "4156"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q258",
+        "countryLabel": "South Africa",
+        "city": "http://www.wikidata.org/entity/Q762131",
+        "cityLabel": "Engcobo Local Municipality",
+        "population": "155513"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q258",
+        "countryLabel": "South Africa",
+        "city": "http://www.wikidata.org/entity/Q509059",
+        "cityLabel": "Ntambanana Local Municipality",
+        "population": "74336"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q258",
+        "countryLabel": "South Africa",
+        "city": "http://www.wikidata.org/entity/Q617500",
+        "cityLabel": "Victor Khanye Local Municipality",
+        "population": "75452"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q258",
+        "countryLabel": "South Africa",
+        "city": "http://www.wikidata.org/entity/Q2655391",
+        "cityLabel": "Thaba Chweu Local Municipality",
+        "population": "98387"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q258",
+        "countryLabel": "South Africa",
+        "city": "http://www.wikidata.org/entity/Q1025657",
+        "native": "Clanwilliam",
+        "cityLabel": "Clanwilliam",
+        "population": "7674"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q258",
+        "countryLabel": "South Africa",
+        "city": "http://www.wikidata.org/entity/Q225041",
+        "native": "Lambert\u2019s Bay",
+        "cityLabel": "Lambert's Bay",
+        "population": "6120"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q258",
+        "countryLabel": "South Africa",
+        "city": "http://www.wikidata.org/entity/Q2671213",
+        "cityLabel": "Lichtenburg",
+        "population": "26338"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q258",
+        "countryLabel": "South Africa",
+        "city": "http://www.wikidata.org/entity/Q120788",
+        "cityLabel": "Mkhondo Local Municipality",
+        "population": "171982"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q258",
+        "countryLabel": "South Africa",
+        "city": "http://www.wikidata.org/entity/Q5465",
+        "cityLabel": "Cape Town",
+        "population": "433688"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q258",
+        "countryLabel": "South Africa",
+        "city": "http://www.wikidata.org/entity/Q692264",
+        "cityLabel": "Tsantsabane Local Municipality",
+        "population": "35093"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q258",
+        "countryLabel": "South Africa",
+        "city": "http://www.wikidata.org/entity/Q1815498",
+        "cityLabel": "Lephalale Local Municipality",
+        "population": "115767"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q258",
+        "countryLabel": "South Africa",
+        "city": "http://www.wikidata.org/entity/Q278422",
+        "cityLabel": "Msinga Local Municipality",
+        "population": "177577"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q258",
+        "countryLabel": "South Africa",
+        "city": "http://www.wikidata.org/entity/Q617894",
+        "cityLabel": "Maletswai Local Municipality",
+        "population": "43800"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q258",
+        "countryLabel": "South Africa",
+        "city": "http://www.wikidata.org/entity/Q2317194",
+        "cityLabel": "Emakhazeni Local Municipality",
+        "population": "47216"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q258",
+        "countryLabel": "South Africa",
+        "city": "http://www.wikidata.org/entity/Q2486320",
+        "cityLabel": "Makhuduthamaga Local Municipality",
+        "population": "274358"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q258",
+        "countryLabel": "South Africa",
+        "city": "http://www.wikidata.org/entity/Q1025649",
+        "cityLabel": "Worcester",
+        "population": "97098"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q258",
+        "countryLabel": "South Africa",
+        "city": "http://www.wikidata.org/entity/Q993103",
+        "native": "Klawer",
+        "cityLabel": "Klawer",
+        "population": "6234"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q258",
+        "countryLabel": "South Africa",
+        "city": "http://www.wikidata.org/entity/Q311797",
+        "cityLabel": "UMuziwabantu Local Municipality",
+        "population": "96556"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q258",
+        "countryLabel": "South Africa",
+        "city": "http://www.wikidata.org/entity/Q311800",
+        "cityLabel": "UMhlathuze Local Municipality",
+        "population": "334459"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q258",
+        "countryLabel": "South Africa",
+        "city": "http://www.wikidata.org/entity/Q2671219",
+        "cityLabel": "Ratlou Local Municipality",
+        "population": "107339"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q258",
+        "countryLabel": "South Africa",
+        "city": "http://www.wikidata.org/entity/Q177535",
+        "cityLabel": "UPhongolo Local Municipality",
+        "population": "127238"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q258",
+        "countryLabel": "South Africa",
+        "city": "http://www.wikidata.org/entity/Q767727",
+        "cityLabel": "Emalahleni Local Municipality",
+        "population": "119460"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q258",
+        "countryLabel": "South Africa",
+        "city": "http://www.wikidata.org/entity/Q5468",
+        "cityLabel": "Durban",
+        "population": "595061"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q258",
+        "countryLabel": "South Africa",
+        "city": "http://www.wikidata.org/entity/Q2656096",
+        "native": "Saint Helena Bay",
+        "cityLabel": "St Helena Bay",
+        "population": "11529"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q258",
+        "countryLabel": "South Africa",
+        "city": "http://www.wikidata.org/entity/Q1794872",
+        "cityLabel": "Kwa Sani Local Municipality",
+        "population": "12898"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q258",
+        "countryLabel": "South Africa",
+        "city": "http://www.wikidata.org/entity/Q2312386",
+        "native": "Wolseley",
+        "cityLabel": "Wolseley, Western Cape",
+        "population": "12130"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q258",
+        "countryLabel": "South Africa",
+        "city": "http://www.wikidata.org/entity/Q897489",
+        "cityLabel": "Brakpan",
+        "population": "73080"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q258",
+        "countryLabel": "South Africa",
+        "city": "http://www.wikidata.org/entity/Q2006534",
+        "native": "Piketberg",
+        "cityLabel": "Piketberg",
+        "population": "12075"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q258",
+        "countryLabel": "South Africa",
+        "city": "http://www.wikidata.org/entity/Q178591",
+        "cityLabel": "Laingsburg Local Municipality",
+        "population": "8289"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q258",
+        "countryLabel": "South Africa",
+        "city": "http://www.wikidata.org/entity/Q951049",
+        "cityLabel": "Oudtshoorn",
+        "population": "61507"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q258",
+        "countryLabel": "South Africa",
+        "city": "http://www.wikidata.org/entity/Q1896233",
+        "cityLabel": "Phalaborwa",
+        "population": "13108"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q258",
+        "countryLabel": "South Africa",
+        "city": "http://www.wikidata.org/entity/Q257196",
+        "cityLabel": "Kgatelopele Local Municipality",
+        "population": "18687"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q258",
+        "countryLabel": "South Africa",
+        "city": "http://www.wikidata.org/entity/Q452531",
+        "cityLabel": "Amahlathi Local Municipality",
+        "population": "122778"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q258",
+        "countryLabel": "South Africa",
+        "city": "http://www.wikidata.org/entity/Q253683",
+        "cityLabel": "Kareeberg Local Municipality",
+        "population": "11673"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q258",
+        "countryLabel": "South Africa",
+        "city": "http://www.wikidata.org/entity/Q267665",
+        "cityLabel": "Fetakgomo Local Municipality",
+        "population": "93795"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q258",
+        "countryLabel": "South Africa",
+        "city": "http://www.wikidata.org/entity/Q1003369",
+        "native": "Darling",
+        "cityLabel": "Darling",
+        "population": "10420"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q258",
+        "countryLabel": "South Africa",
+        "city": "http://www.wikidata.org/entity/Q1020192",
+        "cityLabel": "Uitenhage",
+        "population": "103639"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q258",
+        "countryLabel": "South Africa",
+        "city": "http://www.wikidata.org/entity/Q1003376",
+        "cityLabel": "Steytlerville",
+        "population": "3986"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q258",
+        "countryLabel": "South Africa",
+        "city": "http://www.wikidata.org/entity/Q815084",
+        "cityLabel": "Bela-Bela Local Municipality",
+        "population": "66500"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q258",
+        "countryLabel": "South Africa",
+        "city": "http://www.wikidata.org/entity/Q2576308",
+        "cityLabel": "Mahikeng Local Municipality",
+        "population": "291527"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q258",
+        "countryLabel": "South Africa",
+        "city": "http://www.wikidata.org/entity/Q820158",
+        "cityLabel": "Bergrivier Local Municipality",
+        "population": "61897"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q258",
+        "countryLabel": "South Africa",
+        "city": "http://www.wikidata.org/entity/Q781995",
+        "cityLabel": "Renosterberg Local Municipality",
+        "population": "10978"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q258",
+        "countryLabel": "South Africa",
+        "city": "http://www.wikidata.org/entity/Q311795",
+        "cityLabel": "UMshwathi Local Municipality",
+        "population": "106374"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q258",
+        "countryLabel": "South Africa",
+        "city": "http://www.wikidata.org/entity/Q311805",
+        "cityLabel": "UMlalazi Local Municipality",
+        "population": "213601"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q258",
+        "countryLabel": "South Africa",
+        "city": "http://www.wikidata.org/entity/Q727225",
+        "cityLabel": "Nxuba Local Municipality",
+        "population": "24264"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q258",
+        "countryLabel": "South Africa",
+        "city": "http://www.wikidata.org/entity/Q595051",
+        "cityLabel": "Lekwa Local Municipality",
+        "population": "115662"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q258",
+        "countryLabel": "South Africa",
+        "city": "http://www.wikidata.org/entity/Q310008",
+        "cityLabel": "eMadlangeni Local Municipality",
+        "population": "34442"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q258",
+        "countryLabel": "South Africa",
+        "city": "http://www.wikidata.org/entity/Q670226",
+        "cityLabel": "Bushbuckridge Local Municipality",
+        "population": "541248"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q258",
+        "countryLabel": "South Africa",
+        "city": "http://www.wikidata.org/entity/Q37701",
+        "native": "Bloemfontein",
+        "cityLabel": "Bloemfontein",
+        "population": "256185"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q258",
+        "countryLabel": "South Africa",
+        "city": "http://www.wikidata.org/entity/Q2473039",
+        "cityLabel": "Local Municipality of Madibeng",
+        "population": "477381"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q258",
+        "countryLabel": "South Africa",
+        "city": "http://www.wikidata.org/entity/Q303647",
+        "cityLabel": "Kou-Kamma Local Municipality",
+        "population": "40663"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q258",
+        "countryLabel": "South Africa",
+        "city": "http://www.wikidata.org/entity/Q1013421",
+        "native": "Ulundi",
+        "cityLabel": "Ulundi",
+        "population": "29132"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q258",
+        "countryLabel": "South Africa",
+        "city": "http://www.wikidata.org/entity/Q2296366",
+        "cityLabel": "Randburg",
+        "population": "337053"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q258",
+        "countryLabel": "South Africa",
+        "city": "http://www.wikidata.org/entity/Q767965",
+        "cityLabel": "Matzikama Local Municipality",
+        "population": "67147"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q258",
+        "countryLabel": "South Africa",
+        "city": "http://www.wikidata.org/entity/Q394771",
+        "cityLabel": "ǃKheis Local Municipality",
+        "population": "16637"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q258",
+        "countryLabel": "South Africa",
+        "city": "http://www.wikidata.org/entity/Q1937242",
+        "cityLabel": "Tulbagh",
+        "population": "8969"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q258",
+        "countryLabel": "South Africa",
+        "city": "http://www.wikidata.org/entity/Q1800611",
+        "cityLabel": "Montagu",
+        "population": "15176"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q258",
+        "countryLabel": "South Africa",
+        "city": "http://www.wikidata.org/entity/Q797426",
+        "cityLabel": "Ba-Phalaborwa Local Municipality",
+        "population": "150637"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q258",
+        "countryLabel": "South Africa",
+        "city": "http://www.wikidata.org/entity/Q3926",
+        "cityLabel": "Pretoria",
+        "population": "741651"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q258",
+        "countryLabel": "South Africa",
+        "city": "http://www.wikidata.org/entity/Q2671208",
+        "cityLabel": "Greater Tubatse Local Municipality",
+        "population": "335676"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q258",
+        "countryLabel": "South Africa",
+        "city": "http://www.wikidata.org/entity/Q1025661",
+        "cityLabel": "Musina",
+        "population": "42678"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q258",
+        "countryLabel": "South Africa",
+        "city": "http://www.wikidata.org/entity/Q818106",
+        "cityLabel": "Benoni",
+        "population": "158777"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q258",
+        "countryLabel": "South Africa",
+        "city": "http://www.wikidata.org/entity/Q2671202",
+        "cityLabel": "Ramotshere Moiloa Local Municipality",
+        "population": "150713"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q258",
+        "countryLabel": "South Africa",
+        "city": "http://www.wikidata.org/entity/Q2788523",
+        "cityLabel": "Klapmuts",
+        "population": "7703"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q258",
+        "countryLabel": "South Africa",
+        "city": "http://www.wikidata.org/entity/Q1018144",
+        "cityLabel": "Paarl",
+        "population": "112045"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q258",
+        "countryLabel": "South Africa",
+        "city": "http://www.wikidata.org/entity/Q205363",
+        "cityLabel": "Inkwanca Local Municipality",
+        "population": "21971"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q258",
+        "countryLabel": "South Africa",
+        "city": "http://www.wikidata.org/entity/Q1003362",
+        "native": "Citrusdal",
+        "cityLabel": "Citrusdal",
+        "population": "7177"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q258",
+        "countryLabel": "South Africa",
+        "city": "http://www.wikidata.org/entity/Q812021",
+        "cityLabel": "Baviaans Local Municipality",
+        "population": "17761"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q258",
+        "countryLabel": "South Africa",
+        "city": "http://www.wikidata.org/entity/Q2624429",
+        "cityLabel": "Gouda, Western Cape",
+        "population": "3441"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q258",
+        "countryLabel": "South Africa",
+        "city": "http://www.wikidata.org/entity/Q1054450",
+        "cityLabel": "Centurion",
+        "population": "236580"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q258",
+        "countryLabel": "South Africa",
+        "city": "http://www.wikidata.org/entity/Q670966",
+        "cityLabel": "Elundini Local Municipality",
+        "population": "138141"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q258",
+        "countryLabel": "South Africa",
+        "city": "http://www.wikidata.org/entity/Q123716",
+        "cityLabel": "Lukhanji Local Municipality",
+        "population": "190723"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q258",
+        "countryLabel": "South Africa",
+        "city": "http://www.wikidata.org/entity/Q2292410",
+        "cityLabel": "Steve Tshwete Local Municipality",
+        "population": "229831"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q258",
+        "countryLabel": "South Africa",
+        "city": "http://www.wikidata.org/entity/Q2620432",
+        "native": "Vredenburg",
+        "cityLabel": "Vredenburg",
+        "population": "38382"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q258",
+        "countryLabel": "South Africa",
+        "city": "http://www.wikidata.org/entity/Q638488",
+        "cityLabel": "Hlabisa Local Municipality",
+        "population": "71925"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q258",
+        "countryLabel": "South Africa",
+        "city": "http://www.wikidata.org/entity/Q474835",
+        "cityLabel": "Witzenberg Local Municipality",
+        "population": "115946"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q258",
+        "countryLabel": "South Africa",
+        "city": "http://www.wikidata.org/entity/Q685192",
+        "cityLabel": "Emnambithi-Ladysmith Local Municipality",
+        "population": "237437"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q258",
+        "countryLabel": "South Africa",
+        "city": "http://www.wikidata.org/entity/Q600842",
+        "cityLabel": "Mantsopa Local Municipality",
+        "population": "51056"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q258",
+        "countryLabel": "South Africa",
+        "city": "http://www.wikidata.org/entity/Q2554117",
+        "cityLabel": "Moretele Local Municipality",
+        "population": "186947"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q258",
+        "countryLabel": "South Africa",
+        "city": "http://www.wikidata.org/entity/Q739997",
+        "cityLabel": "Musina Local Municipality",
+        "population": "68359"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q258",
+        "countryLabel": "South Africa",
+        "city": "http://www.wikidata.org/entity/Q989955",
+        "cityLabel": "Vanderbijlpark",
+        "population": "95840"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q258",
+        "countryLabel": "South Africa",
+        "city": "http://www.wikidata.org/entity/Q1026420",
+        "cityLabel": "Sandton",
+        "population": "222415"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q258",
+        "countryLabel": "South Africa",
+        "city": "http://www.wikidata.org/entity/Q775608",
+        "cityLabel": "Naledi Local Municipality",
+        "population": "66781"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q258",
+        "countryLabel": "South Africa",
+        "city": "http://www.wikidata.org/entity/Q2634207",
+        "cityLabel": "Ephraim Mogale Local Municipality",
+        "population": "123648"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q258",
+        "countryLabel": "South Africa",
+        "city": "http://www.wikidata.org/entity/Q2783921",
+        "cityLabel": "King Sabata Dalindyebo Local Municipality",
+        "population": "451710"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q258",
+        "countryLabel": "South Africa",
+        "city": "http://www.wikidata.org/entity/Q311662",
+        "cityLabel": "UMdoni Local Municipality",
+        "population": "78875"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q258",
+        "countryLabel": "South Africa",
+        "city": "http://www.wikidata.org/entity/Q251137",
+        "cityLabel": "Knysna",
+        "population": "51078"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q258",
+        "countryLabel": "South Africa",
+        "city": "http://www.wikidata.org/entity/Q536114",
+        "cityLabel": "Carletonville",
+        "population": "23000"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q258",
+        "countryLabel": "South Africa",
+        "city": "http://www.wikidata.org/entity/Q585092",
+        "cityLabel": "Jeffreys Bay",
+        "population": "27107"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q258",
+        "countryLabel": "South Africa",
+        "city": "http://www.wikidata.org/entity/Q304168",
+        "cityLabel": "Abaqulusi Local Municipality",
+        "population": "211060"
+    }
+]

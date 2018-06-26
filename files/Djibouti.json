@@ -1,0 +1,46 @@
+[
+    {
+        "country": "http://www.wikidata.org/entity/Q977",
+        "countryLabel": "Djibouti",
+        "city": "http://www.wikidata.org/entity/Q820972",
+        "cityLabel": "Tadjoura",
+        "population": "48093"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q977",
+        "countryLabel": "Djibouti",
+        "city": "http://www.wikidata.org/entity/Q3604",
+        "native": "جيبوتي",
+        "cityLabel": "Djibouti",
+        "population": "623891"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q977",
+        "countryLabel": "Djibouti",
+        "city": "http://www.wikidata.org/entity/Q842854",
+        "cityLabel": "Ali Sabieh",
+        "population": "71230"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q977",
+        "countryLabel": "Djibouti",
+        "city": "http://www.wikidata.org/entity/Q3604",
+        "native": "Ville de Djibouti",
+        "cityLabel": "Djibouti",
+        "population": "623891"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q977",
+        "countryLabel": "Djibouti",
+        "city": "http://www.wikidata.org/entity/Q860179",
+        "cityLabel": "Obock",
+        "population": "21200"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q977",
+        "countryLabel": "Djibouti",
+        "city": "http://www.wikidata.org/entity/Q620625",
+        "cityLabel": "Dikhil",
+        "population": "35000"
+    }
+]

@@ -1,0 +1,79 @@
+[
+    {
+        "country": "http://www.wikidata.org/entity/Q424",
+        "countryLabel": "Cambodia",
+        "city": "http://www.wikidata.org/entity/Q10859501",
+        "cityLabel": "Stung Treng",
+        "population": "29665"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q424",
+        "countryLabel": "Cambodia",
+        "city": "http://www.wikidata.org/entity/Q1850",
+        "cityLabel": "Phnom Penh",
+        "population": "1501725"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q424",
+        "countryLabel": "Cambodia",
+        "city": "http://www.wikidata.org/entity/Q14204826",
+        "cityLabel": "Krong Kep",
+        "population": "35990"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q424",
+        "countryLabel": "Cambodia",
+        "city": "http://www.wikidata.org/entity/Q261892",
+        "cityLabel": "Kratié",
+        "population": "60000"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q424",
+        "countryLabel": "Cambodia",
+        "city": "http://www.wikidata.org/entity/Q2530693",
+        "cityLabel": "Senmonorom",
+        "population": "7500"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q424",
+        "countryLabel": "Cambodia",
+        "city": "http://www.wikidata.org/entity/Q855724",
+        "cityLabel": "Kampong Cham",
+        "population": "118242"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q424",
+        "countryLabel": "Cambodia",
+        "city": "http://www.wikidata.org/entity/Q1195207",
+        "cityLabel": "Takéo",
+        "population": "52000"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q424",
+        "countryLabel": "Cambodia",
+        "city": "http://www.wikidata.org/entity/Q748336",
+        "cityLabel": "Battambang",
+        "population": "130000"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q424",
+        "countryLabel": "Cambodia",
+        "city": "http://www.wikidata.org/entity/Q976223",
+        "cityLabel": "Kampong Thom",
+        "population": "31871"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q424",
+        "countryLabel": "Cambodia",
+        "city": "http://www.wikidata.org/entity/Q876549",
+        "cityLabel": "Kampot",
+        "population": "39186"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q424",
+        "countryLabel": "Cambodia",
+        "city": "http://www.wikidata.org/entity/Q11711",
+        "cityLabel": "Siem Reap",
+        "population": "147866"
+    }
+]

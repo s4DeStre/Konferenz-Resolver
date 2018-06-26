@@ -1,0 +1,187 @@
+[
+    {
+        "country": "http://www.wikidata.org/entity/Q833",
+        "countryLabel": "Malaysia",
+        "city": "http://www.wikidata.org/entity/Q220445",
+        "cityLabel": "Kuching",
+        "population": "325132"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q833",
+        "countryLabel": "Malaysia",
+        "city": "http://www.wikidata.org/entity/Q1018501",
+        "cityLabel": "Lahad Datu",
+        "population": "199830"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q833",
+        "countryLabel": "Malaysia",
+        "city": "http://www.wikidata.org/entity/Q986803",
+        "cityLabel": "Miri",
+        "population": "234541"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q833",
+        "countryLabel": "Malaysia",
+        "city": "http://www.wikidata.org/entity/Q2158697",
+        "cityLabel": "Bukit Mertajam",
+        "population": "210000"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q833",
+        "countryLabel": "Malaysia",
+        "city": "http://www.wikidata.org/entity/Q182378",
+        "cityLabel": "Putrajaya",
+        "population": "67964"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q833",
+        "countryLabel": "Malaysia",
+        "city": "http://www.wikidata.org/entity/Q847610",
+        "cityLabel": "Seremban",
+        "population": "419536"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q833",
+        "countryLabel": "Malaysia",
+        "city": "http://www.wikidata.org/entity/Q61092",
+        "cityLabel": "George Town",
+        "population": "708127"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q833",
+        "countryLabel": "Malaysia",
+        "city": "http://www.wikidata.org/entity/Q856003",
+        "cityLabel": "Klang",
+        "population": "878000"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q833",
+        "countryLabel": "Malaysia",
+        "city": "http://www.wikidata.org/entity/Q61089",
+        "native": "Melaka",
+        "cityLabel": "Malacca City",
+        "population": "455300"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q833",
+        "countryLabel": "Malaysia",
+        "city": "http://www.wikidata.org/entity/Q271619",
+        "cityLabel": "Ipoh",
+        "population": "637000"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q833",
+        "countryLabel": "Malaysia",
+        "city": "http://www.wikidata.org/entity/Q846502",
+        "native": "瓜拉登嘉楼",
+        "cityLabel": "Kuala Terengganu",
+        "population": "255109"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q833",
+        "countryLabel": "Malaysia",
+        "city": "http://www.wikidata.org/entity/Q864965",
+        "cityLabel": "Petaling Jaya",
+        "population": "638516"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q833",
+        "countryLabel": "Malaysia",
+        "city": "http://www.wikidata.org/entity/Q995163",
+        "cityLabel": "Tawau",
+        "population": "113809"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q833",
+        "countryLabel": "Malaysia",
+        "city": "http://www.wikidata.org/entity/Q500033",
+        "cityLabel": "Shah Alam",
+        "population": "584340"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q833",
+        "countryLabel": "Malaysia",
+        "city": "http://www.wikidata.org/entity/Q231318",
+        "cityLabel": "Johor Bahru",
+        "population": "497097"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q833",
+        "countryLabel": "Malaysia",
+        "city": "http://www.wikidata.org/entity/Q876876",
+        "cityLabel": "Subang Jaya",
+        "population": "708296"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q833",
+        "countryLabel": "Malaysia",
+        "city": "http://www.wikidata.org/entity/Q1048700",
+        "cityLabel": "Sibu",
+        "population": "247995"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q833",
+        "countryLabel": "Malaysia",
+        "city": "http://www.wikidata.org/entity/Q817578",
+        "cityLabel": "Kuantan",
+        "population": "607778"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q833",
+        "countryLabel": "Malaysia",
+        "city": "http://www.wikidata.org/entity/Q474868",
+        "cityLabel": "Alor Setar",
+        "population": "217000"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q833",
+        "countryLabel": "Malaysia",
+        "city": "http://www.wikidata.org/entity/Q1865",
+        "cityLabel": "Kuala Lumpur",
+        "population": "7590000"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q833",
+        "countryLabel": "Malaysia",
+        "city": "http://www.wikidata.org/entity/Q273303",
+        "cityLabel": "Langkawi",
+        "population": "64792"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q833",
+        "countryLabel": "Malaysia",
+        "city": "http://www.wikidata.org/entity/Q846502",
+        "native": "Kuala Terengganu",
+        "cityLabel": "Kuala Terengganu",
+        "population": "255109"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q833",
+        "countryLabel": "Malaysia",
+        "city": "http://www.wikidata.org/entity/Q1202476",
+        "cityLabel": "Ampang Jaya",
+        "population": "126285"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q833",
+        "countryLabel": "Malaysia",
+        "city": "http://www.wikidata.org/entity/Q137271",
+        "cityLabel": "Kota Kinabalu",
+        "population": "452058"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q833",
+        "countryLabel": "Malaysia",
+        "city": "http://www.wikidata.org/entity/Q137203",
+        "cityLabel": "Sandakan",
+        "population": "396290"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q833",
+        "countryLabel": "Malaysia",
+        "city": "http://www.wikidata.org/entity/Q921155",
+        "cityLabel": "Kangar",
+        "population": "48898"
+    }
+]

@@ -1,0 +1,60 @@
+[
+    {
+        "country": "http://www.wikidata.org/entity/Q15180",
+        "countryLabel": "Soviet Union",
+        "city": "http://www.wikidata.org/entity/Q48256",
+        "native": "Дніпро",
+        "cityLabel": "Dnipro",
+        "population": "983836"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q15180",
+        "countryLabel": "Soviet Union",
+        "city": "http://www.wikidata.org/entity/Q157053",
+        "native": "Чернігів",
+        "cityLabel": "Chernihiv",
+        "population": "294522"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q15180",
+        "countryLabel": "Soviet Union",
+        "city": "http://www.wikidata.org/entity/Q2575351",
+        "cityLabel": "Melekessky District",
+        "population": "35307"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q15180",
+        "countryLabel": "Soviet Union",
+        "city": "http://www.wikidata.org/entity/Q1654415",
+        "cityLabel": "Saraktashsky District",
+        "population": "40069"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q15180",
+        "countryLabel": "Soviet Union",
+        "city": "http://www.wikidata.org/entity/Q2426240",
+        "cityLabel": "Starokulatkinsky District",
+        "population": "12238"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q15180",
+        "countryLabel": "Soviet Union",
+        "city": "http://www.wikidata.org/entity/Q2719740",
+        "cityLabel": "Terengulsky District",
+        "population": "17766"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q15180",
+        "countryLabel": "Soviet Union",
+        "city": "http://www.wikidata.org/entity/Q2719748",
+        "cityLabel": "Staromaynsky District",
+        "population": "17149"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q15180",
+        "countryLabel": "Soviet Union",
+        "city": "http://www.wikidata.org/entity/Q2719761",
+        "cityLabel": "Sursky District",
+        "population": "17411"
+    }
+]

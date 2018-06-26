@@ -1,0 +1,54 @@
+[
+    {
+        "country": "http://www.wikidata.org/entity/Q907112",
+        "countryLabel": "Pridnestrovian Moldavian Republic",
+        "city": "http://www.wikidata.org/entity/Q603400",
+        "cityLabel": "Slobozia",
+        "population": "14618"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q907112",
+        "countryLabel": "Pridnestrovian Moldavian Republic",
+        "city": "http://www.wikidata.org/entity/Q219547",
+        "cityLabel": "Dnestrovsc",
+        "population": "10436"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q907112",
+        "countryLabel": "Pridnestrovian Moldavian Republic",
+        "city": "http://www.wikidata.org/entity/Q688654",
+        "cityLabel": "Dubăsari",
+        "population": "28500"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q907112",
+        "countryLabel": "Pridnestrovian Moldavian Republic",
+        "city": "http://www.wikidata.org/entity/Q1025805",
+        "native": "Григоріополь",
+        "cityLabel": "Grigoriopol",
+        "population": "9381"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q907112",
+        "countryLabel": "Pridnestrovian Moldavian Republic",
+        "city": "http://www.wikidata.org/entity/Q216363",
+        "cityLabel": "Rîbnița",
+        "population": "56988"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q907112",
+        "countryLabel": "Pridnestrovian Moldavian Republic",
+        "city": "http://www.wikidata.org/entity/Q192176",
+        "native": "Bender",
+        "cityLabel": "Bender",
+        "population": "83800"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q907112",
+        "countryLabel": "Pridnestrovian Moldavian Republic",
+        "city": "http://www.wikidata.org/entity/Q192176",
+        "native": "Bender",
+        "cityLabel": "Bender",
+        "population": "91882"
+    }
+]

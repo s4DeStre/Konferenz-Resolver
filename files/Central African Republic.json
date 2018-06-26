@@ -1,0 +1,130 @@
+[
+    {
+        "country": "http://www.wikidata.org/entity/Q929",
+        "countryLabel": "Central African Republic",
+        "city": "http://www.wikidata.org/entity/Q806478",
+        "cityLabel": "Bangassou",
+        "population": "31453"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q929",
+        "countryLabel": "Central African Republic",
+        "city": "http://www.wikidata.org/entity/Q797756",
+        "cityLabel": "Baboua",
+        "population": "6812"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q929",
+        "countryLabel": "Central African Republic",
+        "city": "http://www.wikidata.org/entity/Q805946",
+        "native": "Bämbärî",
+        "cityLabel": "Bambari",
+        "population": "41356"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q929",
+        "countryLabel": "Central African Republic",
+        "city": "http://www.wikidata.org/entity/Q544701",
+        "cityLabel": "Berbérati",
+        "population": "76918"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q929",
+        "countryLabel": "Central African Republic",
+        "city": "http://www.wikidata.org/entity/Q522912",
+        "cityLabel": "Nola, Central African Republic",
+        "population": "29181"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q929",
+        "countryLabel": "Central African Republic",
+        "city": "http://www.wikidata.org/entity/Q512111",
+        "cityLabel": "Bouar",
+        "population": "40353"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q929",
+        "countryLabel": "Central African Republic",
+        "city": "http://www.wikidata.org/entity/Q1757279",
+        "cityLabel": "Sibut",
+        "population": "22419"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q929",
+        "countryLabel": "Central African Republic",
+        "city": "http://www.wikidata.org/entity/Q1210015",
+        "cityLabel": "Kaga-Bandoro",
+        "population": "24661"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q929",
+        "countryLabel": "Central African Republic",
+        "city": "http://www.wikidata.org/entity/Q894513",
+        "cityLabel": "Bossangoa",
+        "population": "36478"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q929",
+        "countryLabel": "Central African Republic",
+        "city": "http://www.wikidata.org/entity/Q593435",
+        "cityLabel": "Mbaïki",
+        "population": "22166"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q929",
+        "countryLabel": "Central African Republic",
+        "city": "http://www.wikidata.org/entity/Q896185",
+        "cityLabel": "Bozoum",
+        "population": "20665"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q929",
+        "countryLabel": "Central African Republic",
+        "city": "http://www.wikidata.org/entity/Q1025621",
+        "cityLabel": "Mobaye",
+        "population": "7176"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q929",
+        "countryLabel": "Central African Republic",
+        "city": "http://www.wikidata.org/entity/Q863461",
+        "cityLabel": "Bimbo",
+        "population": "124176"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q929",
+        "countryLabel": "Central African Republic",
+        "city": "http://www.wikidata.org/entity/Q805946",
+        "native": "Bambari",
+        "cityLabel": "Bambari",
+        "population": "41356"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q929",
+        "countryLabel": "Central African Republic",
+        "city": "http://www.wikidata.org/entity/Q3832",
+        "cityLabel": "Bangui",
+        "population": "734350"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q929",
+        "countryLabel": "Central African Republic",
+        "city": "http://www.wikidata.org/entity/Q598667",
+        "cityLabel": "Bria",
+        "population": "35204"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q929",
+        "countryLabel": "Central African Republic",
+        "city": "http://www.wikidata.org/entity/Q2428075",
+        "cityLabel": "Kabo",
+        "population": "16279"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q929",
+        "countryLabel": "Central African Republic",
+        "city": "http://www.wikidata.org/entity/Q521702",
+        "cityLabel": "Carnot",
+        "population": "45421"
+    }
+]

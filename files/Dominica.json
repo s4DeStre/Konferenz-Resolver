@@ -1,0 +1,16 @@
+[
+    {
+        "country": "http://www.wikidata.org/entity/Q784",
+        "countryLabel": "Dominica",
+        "city": "http://www.wikidata.org/entity/Q36281",
+        "cityLabel": "Roseau",
+        "population": "16582"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q784",
+        "countryLabel": "Dominica",
+        "city": "http://www.wikidata.org/entity/Q1014235",
+        "cityLabel": "Portsmouth",
+        "population": "3633"
+    }
+]

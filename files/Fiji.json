@@ -1,0 +1,74 @@
+[
+    {
+        "country": "http://www.wikidata.org/entity/Q712",
+        "countryLabel": "Fiji",
+        "city": "http://www.wikidata.org/entity/Q26690",
+        "native": "Tavua",
+        "cityLabel": "Tavua",
+        "population": "2388"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q712",
+        "countryLabel": "Fiji",
+        "city": "http://www.wikidata.org/entity/Q26713",
+        "cityLabel": "Ba",
+        "population": "18526"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q712",
+        "countryLabel": "Fiji",
+        "city": "http://www.wikidata.org/entity/Q38807",
+        "cityLabel": "Suva",
+        "population": "88271"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q712",
+        "countryLabel": "Fiji",
+        "city": "http://www.wikidata.org/entity/Q26690",
+        "native": "Tavua",
+        "cityLabel": "Tavua",
+        "population": "2388"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q712",
+        "countryLabel": "Fiji",
+        "city": "http://www.wikidata.org/entity/Q619440",
+        "cityLabel": "Savusavu",
+        "population": "3372"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q712",
+        "countryLabel": "Fiji",
+        "city": "http://www.wikidata.org/entity/Q26720",
+        "cityLabel": "Sigatoka",
+        "population": "9622"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q712",
+        "countryLabel": "Fiji",
+        "city": "http://www.wikidata.org/entity/Q579556",
+        "cityLabel": "Labasa",
+        "population": "27949"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q712",
+        "countryLabel": "Fiji",
+        "city": "http://www.wikidata.org/entity/Q26707",
+        "cityLabel": "Nausori",
+        "population": "47604"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q712",
+        "countryLabel": "Fiji",
+        "city": "http://www.wikidata.org/entity/Q856662",
+        "cityLabel": "Lautoka",
+        "population": "52220"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q712",
+        "countryLabel": "Fiji",
+        "city": "http://www.wikidata.org/entity/Q619443",
+        "cityLabel": "Nadi",
+        "population": "42284"
+    }
+]

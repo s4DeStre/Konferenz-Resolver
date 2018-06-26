@@ -1,0 +1,74 @@
+[
+    {
+        "country": "http://www.wikidata.org/entity/Q574",
+        "countryLabel": "East Timor",
+        "city": "http://www.wikidata.org/entity/Q1011873",
+        "cityLabel": "Manatuto",
+        "population": "9022"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q574",
+        "countryLabel": "East Timor",
+        "city": "http://www.wikidata.org/entity/Q1026949",
+        "cityLabel": "Ainaro",
+        "population": "3085"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q574",
+        "countryLabel": "East Timor",
+        "city": "http://www.wikidata.org/entity/Q1020338",
+        "cityLabel": "Maliana",
+        "population": "15800"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q574",
+        "countryLabel": "East Timor",
+        "city": "http://www.wikidata.org/entity/Q1011863",
+        "cityLabel": "Viqueque",
+        "population": "6078"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q574",
+        "countryLabel": "East Timor",
+        "city": "http://www.wikidata.org/entity/Q811130",
+        "cityLabel": "Baucau",
+        "population": "14961"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q574",
+        "countryLabel": "East Timor",
+        "city": "http://www.wikidata.org/entity/Q946959",
+        "cityLabel": "Liquiçá",
+        "population": "5152"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q574",
+        "countryLabel": "East Timor",
+        "city": "http://www.wikidata.org/entity/Q9310",
+        "native": "Dili",
+        "cityLabel": "Dili",
+        "population": "222323"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q574",
+        "countryLabel": "East Timor",
+        "city": "http://www.wikidata.org/entity/Q9310",
+        "native": "Díli",
+        "cityLabel": "Dili",
+        "population": "222323"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q574",
+        "countryLabel": "East Timor",
+        "city": "http://www.wikidata.org/entity/Q932640",
+        "cityLabel": "Same",
+        "population": "2100"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q574",
+        "countryLabel": "East Timor",
+        "city": "http://www.wikidata.org/entity/Q1018872",
+        "cityLabel": "Gleno",
+        "population": "8133"
+    }
+]

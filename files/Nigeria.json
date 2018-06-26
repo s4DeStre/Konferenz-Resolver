@@ -1,0 +1,108 @@
+[
+    {
+        "country": "http://www.wikidata.org/entity/Q1033",
+        "countryLabel": "Nigeria",
+        "city": "http://www.wikidata.org/entity/Q3787",
+        "cityLabel": "Abuja",
+        "population": "1235880"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q1033",
+        "countryLabel": "Nigeria",
+        "city": "http://www.wikidata.org/entity/Q208318",
+        "cityLabel": "Kaduna",
+        "population": "760084"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q1033",
+        "countryLabel": "Nigeria",
+        "city": "http://www.wikidata.org/entity/Q206484",
+        "cityLabel": "Abeokuta",
+        "population": "888924"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q1033",
+        "countryLabel": "Nigeria",
+        "city": "http://www.wikidata.org/entity/Q221436",
+        "cityLabel": "Maiduguri",
+        "population": "1197497"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q1033",
+        "countryLabel": "Nigeria",
+        "city": "http://www.wikidata.org/entity/Q617618",
+        "cityLabel": "Apapa",
+        "population": "217362"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q1033",
+        "countryLabel": "Nigeria",
+        "city": "http://www.wikidata.org/entity/Q182984",
+        "cityLabel": "Kano",
+        "population": "2828861"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q1033",
+        "countryLabel": "Nigeria",
+        "city": "http://www.wikidata.org/entity/Q321079",
+        "cityLabel": "Jos",
+        "population": "873943"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q1033",
+        "countryLabel": "Nigeria",
+        "city": "http://www.wikidata.org/entity/Q217432",
+        "cityLabel": "Port Harcourt",
+        "population": "1005904"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q1033",
+        "countryLabel": "Nigeria",
+        "city": "http://www.wikidata.org/entity/Q180084",
+        "cityLabel": "Ife",
+        "population": "501952"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q1033",
+        "countryLabel": "Nigeria",
+        "city": "http://www.wikidata.org/entity/Q8673",
+        "cityLabel": "Lagos",
+        "population": "21324000"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q1033",
+        "countryLabel": "Nigeria",
+        "city": "http://www.wikidata.org/entity/Q465022",
+        "native": "Enugu",
+        "cityLabel": "Enugu",
+        "population": "715774"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q1033",
+        "countryLabel": "Nigeria",
+        "city": "http://www.wikidata.org/entity/Q587085",
+        "cityLabel": "Ilorin",
+        "population": "847582"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q1033",
+        "countryLabel": "Nigeria",
+        "city": "http://www.wikidata.org/entity/Q202162",
+        "cityLabel": "Aba",
+        "population": "534265"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q1033",
+        "countryLabel": "Nigeria",
+        "city": "http://www.wikidata.org/entity/Q500366",
+        "cityLabel": "Ogbomosho",
+        "population": "1032000"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q1033",
+        "countryLabel": "Nigeria",
+        "city": "http://www.wikidata.org/entity/Q852238",
+        "cityLabel": "Onitsha",
+        "population": "7635000"
+    }
+]

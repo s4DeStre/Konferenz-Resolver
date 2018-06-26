@@ -1,0 +1,17 @@
+[
+    {
+        "country": "http://www.wikidata.org/entity/Q685",
+        "countryLabel": "Solomon Islands",
+        "city": "http://www.wikidata.org/entity/Q1236908",
+        "cityLabel": "Gizo",
+        "population": "6154"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q685",
+        "countryLabel": "Solomon Islands",
+        "city": "http://www.wikidata.org/entity/Q40921",
+        "native": "Honiara",
+        "cityLabel": "Honiara",
+        "population": "64609"
+    }
+]

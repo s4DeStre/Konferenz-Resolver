@@ -1,0 +1,633 @@
+[
+    {
+        "country": "http://www.wikidata.org/entity/Q79",
+        "countryLabel": "Egypt",
+        "city": "http://www.wikidata.org/entity/Q243699",
+        "cityLabel": "Rosetta",
+        "population": "68947"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q79",
+        "countryLabel": "Egypt",
+        "city": "http://www.wikidata.org/entity/Q1991268",
+        "cityLabel": "Port Fuad",
+        "population": "70417"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q79",
+        "countryLabel": "Egypt",
+        "city": "http://www.wikidata.org/entity/Q14206673",
+        "cityLabel": "el-Kharga Town",
+        "population": "60584"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q79",
+        "countryLabel": "Egypt",
+        "city": "http://www.wikidata.org/entity/Q340572",
+        "cityLabel": "Akhmim",
+        "population": "101509"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q79",
+        "countryLabel": "Egypt",
+        "city": "http://www.wikidata.org/entity/Q87",
+        "native": "الإسكندرية",
+        "cityLabel": "Alexandria",
+        "population": "4870000"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q79",
+        "countryLabel": "Egypt",
+        "city": "http://www.wikidata.org/entity/Q336661",
+        "cityLabel": "Qena",
+        "population": "201191"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q79",
+        "countryLabel": "Egypt",
+        "city": "http://www.wikidata.org/entity/Q134514",
+        "cityLabel": "Suez",
+        "population": "485342"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q79",
+        "countryLabel": "Egypt",
+        "city": "http://www.wikidata.org/entity/Q644",
+        "native": "شرم الشيخ",
+        "cityLabel": "Sharm el-Sheikh",
+        "population": "38478"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q79",
+        "countryLabel": "Egypt",
+        "city": "http://www.wikidata.org/entity/Q804654",
+        "cityLabel": "Balat",
+        "population": "3794"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q79",
+        "countryLabel": "Egypt",
+        "city": "http://www.wikidata.org/entity/Q1404020",
+        "cityLabel": "Ras Gharib",
+        "population": "32318"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q79",
+        "countryLabel": "Egypt",
+        "city": "http://www.wikidata.org/entity/Q393498",
+        "cityLabel": "Mallawi",
+        "population": "139929"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q79",
+        "countryLabel": "Egypt",
+        "city": "http://www.wikidata.org/entity/Q217156",
+        "cityLabel": "Ismaïlia",
+        "population": "293184"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q79",
+        "countryLabel": "Egypt",
+        "city": "http://www.wikidata.org/entity/Q3652748",
+        "cityLabel": "Deir Mawas",
+        "population": "40640"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q79",
+        "countryLabel": "Egypt",
+        "city": "http://www.wikidata.org/entity/Q6000830",
+        "cityLabel": "Daraw",
+        "population": "38400"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q79",
+        "countryLabel": "Egypt",
+        "city": "http://www.wikidata.org/entity/Q63233",
+        "cityLabel": "Nasser",
+        "population": "88379"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q79",
+        "countryLabel": "Egypt",
+        "city": "http://www.wikidata.org/entity/Q1243772",
+        "cityLabel": "Sebennytos",
+        "population": "57177"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q79",
+        "countryLabel": "Egypt",
+        "city": "http://www.wikidata.org/entity/Q140304",
+        "cityLabel": "Zagazig",
+        "population": "602840"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q79",
+        "countryLabel": "Egypt",
+        "city": "http://www.wikidata.org/entity/Q134509",
+        "cityLabel": "Port Said",
+        "population": "524433"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q79",
+        "countryLabel": "Egypt",
+        "city": "http://www.wikidata.org/entity/Q1245502",
+        "cityLabel": "Sallum",
+        "population": "8445"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q79",
+        "countryLabel": "Egypt",
+        "city": "http://www.wikidata.org/entity/Q130514",
+        "cityLabel": "Luxor",
+        "population": "202232"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q79",
+        "countryLabel": "Egypt",
+        "city": "http://www.wikidata.org/entity/Q287731",
+        "cityLabel": "El-Tod",
+        "population": "27357"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q79",
+        "countryLabel": "Egypt",
+        "city": "http://www.wikidata.org/entity/Q12191144",
+        "cityLabel": "New Cairo",
+        "population": "200000"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q79",
+        "countryLabel": "Egypt",
+        "city": "http://www.wikidata.org/entity/Q187284",
+        "cityLabel": "Hurghada",
+        "population": "160901"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q79",
+        "countryLabel": "Egypt",
+        "city": "http://www.wikidata.org/entity/Q959859",
+        "cityLabel": "Naqada",
+        "population": "21530"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q79",
+        "countryLabel": "Egypt",
+        "city": "http://www.wikidata.org/entity/Q1011488",
+        "cityLabel": "Nuweiba",
+        "population": "2898"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q79",
+        "countryLabel": "Egypt",
+        "city": "http://www.wikidata.org/entity/Q4166604",
+        "cityLabel": "Faraskur",
+        "population": "36850"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q79",
+        "countryLabel": "Egypt",
+        "city": "http://www.wikidata.org/entity/Q337123",
+        "cityLabel": "Mit Ghamr",
+        "population": "121039"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q79",
+        "countryLabel": "Egypt",
+        "city": "http://www.wikidata.org/entity/Q394080",
+        "cityLabel": "Beni Suef",
+        "population": "193048"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q79",
+        "countryLabel": "Egypt",
+        "city": "http://www.wikidata.org/entity/Q204439",
+        "cityLabel": "El Alamein",
+        "population": "2413"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q79",
+        "countryLabel": "Egypt",
+        "city": "http://www.wikidata.org/entity/Q679056",
+        "cityLabel": "Hermonthis",
+        "population": "76457"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q79",
+        "countryLabel": "Egypt",
+        "city": "http://www.wikidata.org/entity/Q4843907",
+        "native": "باريس",
+        "cityLabel": "Baris",
+        "population": "3890"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q79",
+        "countryLabel": "Egypt",
+        "city": "http://www.wikidata.org/entity/Q269960",
+        "cityLabel": "Shubra El-Kheima",
+        "population": "1025569"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q79",
+        "countryLabel": "Egypt",
+        "city": "http://www.wikidata.org/entity/Q312723",
+        "cityLabel": "El-Mahalla El-Kubra",
+        "population": "442958"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q79",
+        "countryLabel": "Egypt",
+        "city": "http://www.wikidata.org/entity/Q31350",
+        "cityLabel": "Shibin Al Kawm, Al Minufiyah",
+        "population": "177112"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q79",
+        "countryLabel": "Egypt",
+        "city": "http://www.wikidata.org/entity/Q335769",
+        "cityLabel": "Kafr el-Dawwar",
+        "population": "262748"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q79",
+        "countryLabel": "Egypt",
+        "city": "http://www.wikidata.org/entity/Q203299",
+        "cityLabel": "Faiyum",
+        "population": "315940"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q79",
+        "countryLabel": "Egypt",
+        "city": "http://www.wikidata.org/entity/Q239107",
+        "native": "إدفو",
+        "cityLabel": "Edfu",
+        "population": "70000"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q79",
+        "countryLabel": "Egypt",
+        "city": "http://www.wikidata.org/entity/Q1827283",
+        "cityLabel": "Maghagha",
+        "population": "75657"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q79",
+        "countryLabel": "Egypt",
+        "city": "http://www.wikidata.org/entity/Q370495",
+        "native": "دهب",
+        "cityLabel": "Dahab",
+        "population": "4479"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q79",
+        "countryLabel": "Egypt",
+        "city": "http://www.wikidata.org/entity/Q335708",
+        "native": "مدينة ستة اكتوبر",
+        "cityLabel": "6th of October City",
+        "population": "500000"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q79",
+        "countryLabel": "Egypt",
+        "city": "http://www.wikidata.org/entity/Q581142",
+        "cityLabel": "el-Bahnasa",
+        "population": "15948"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q79",
+        "countryLabel": "Egypt",
+        "city": "http://www.wikidata.org/entity/Q310117",
+        "cityLabel": "Minya",
+        "population": "236043"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q79",
+        "countryLabel": "Egypt",
+        "city": "http://www.wikidata.org/entity/Q388108",
+        "native": "سوهاج",
+        "cityLabel": "Sohag",
+        "population": "193931"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q79",
+        "countryLabel": "Egypt",
+        "city": "http://www.wikidata.org/entity/Q14208893",
+        "cityLabel": "Farafra town",
+        "population": "3470"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q79",
+        "countryLabel": "Egypt",
+        "city": "http://www.wikidata.org/entity/Q29888",
+        "cityLabel": "Aswan",
+        "population": "252246"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q79",
+        "countryLabel": "Egypt",
+        "city": "http://www.wikidata.org/entity/Q328176",
+        "cityLabel": "Kafr el-Sheikh",
+        "population": "147393"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q79",
+        "countryLabel": "Egypt",
+        "city": "http://www.wikidata.org/entity/Q950924",
+        "cityLabel": "Samalut",
+        "population": "91475"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q79",
+        "countryLabel": "Egypt",
+        "city": "http://www.wikidata.org/entity/Q14215956",
+        "cityLabel": "Mut",
+        "population": "19616"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q79",
+        "countryLabel": "Egypt",
+        "city": "http://www.wikidata.org/entity/Q12242935",
+        "cityLabel": "Musturud",
+        "population": "106280"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q79",
+        "countryLabel": "Egypt",
+        "city": "http://www.wikidata.org/entity/Q2210877",
+        "cityLabel": "El-Balyana",
+        "population": "46997"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q79",
+        "countryLabel": "Egypt",
+        "city": "http://www.wikidata.org/entity/Q3869768",
+        "cityLabel": "Na'ama Bay",
+        "population": "2145"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q79",
+        "countryLabel": "Egypt",
+        "city": "http://www.wikidata.org/entity/Q2392142",
+        "cityLabel": "Zefta",
+        "population": "93740"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q79",
+        "countryLabel": "Egypt",
+        "city": "http://www.wikidata.org/entity/Q310844",
+        "cityLabel": "Cusae",
+        "population": "69388"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q79",
+        "countryLabel": "Egypt",
+        "city": "http://www.wikidata.org/entity/Q626031",
+        "cityLabel": "Esna",
+        "population": "68656"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q79",
+        "countryLabel": "Egypt",
+        "city": "http://www.wikidata.org/entity/Q14220534",
+        "cityLabel": "Siwa Town",
+        "population": "13202"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q79",
+        "countryLabel": "Egypt",
+        "city": "http://www.wikidata.org/entity/Q867603",
+        "cityLabel": "El-Tor",
+        "population": "12733"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q79",
+        "countryLabel": "Egypt",
+        "city": "http://www.wikidata.org/entity/Q85",
+        "cityLabel": "Cairo",
+        "population": "9500000"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q79",
+        "countryLabel": "Egypt",
+        "city": "http://www.wikidata.org/entity/Q189392",
+        "cityLabel": "Karnak",
+        "population": "26488"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q79",
+        "countryLabel": "Egypt",
+        "city": "http://www.wikidata.org/entity/Q3498842",
+        "cityLabel": "Matai",
+        "population": "46903"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q79",
+        "countryLabel": "Egypt",
+        "city": "http://www.wikidata.org/entity/Q336966",
+        "cityLabel": "Banha",
+        "population": "157701"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q79",
+        "countryLabel": "Egypt",
+        "city": "http://www.wikidata.org/entity/Q986325",
+        "cityLabel": "Safaga",
+        "population": "28261"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q79",
+        "countryLabel": "Egypt",
+        "city": "http://www.wikidata.org/entity/Q81788",
+        "cityLabel": "Giza",
+        "population": "3021542"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q79",
+        "countryLabel": "Egypt",
+        "city": "http://www.wikidata.org/entity/Q138833",
+        "cityLabel": "Kom Ombo",
+        "population": "71596"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q79",
+        "countryLabel": "Egypt",
+        "city": "http://www.wikidata.org/entity/Q328153",
+        "cityLabel": "Damanhur",
+        "population": "244043"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q79",
+        "countryLabel": "Egypt",
+        "city": "http://www.wikidata.org/entity/Q189383",
+        "cityLabel": "Damietta",
+        "population": "206664"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q79",
+        "countryLabel": "Egypt",
+        "city": "http://www.wikidata.org/entity/Q589934",
+        "cityLabel": "Maadi",
+        "population": "93863"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q79",
+        "countryLabel": "Egypt",
+        "city": "http://www.wikidata.org/entity/Q223587",
+        "cityLabel": "Mansoura",
+        "population": "439348"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q79",
+        "countryLabel": "Egypt",
+        "city": "http://www.wikidata.org/entity/Q951324",
+        "cityLabel": "Beni Mazar",
+        "population": "79553"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q79",
+        "countryLabel": "Egypt",
+        "city": "http://www.wikidata.org/entity/Q1816589",
+        "cityLabel": "Qus",
+        "population": "60068"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q79",
+        "countryLabel": "Egypt",
+        "city": "http://www.wikidata.org/entity/Q393495",
+        "cityLabel": "Bilbeis",
+        "population": "141285"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q79",
+        "countryLabel": "Egypt",
+        "city": "http://www.wikidata.org/entity/Q935454",
+        "cityLabel": "Qift",
+        "population": "22063"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q79",
+        "countryLabel": "Egypt",
+        "city": "http://www.wikidata.org/entity/Q139773",
+        "cityLabel": "Abu Qir",
+        "population": "37997"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q79",
+        "countryLabel": "Egypt",
+        "city": "http://www.wikidata.org/entity/Q310751",
+        "cityLabel": "Al-Qusayr, Egypt",
+        "population": "24344"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q79",
+        "countryLabel": "Egypt",
+        "city": "http://www.wikidata.org/entity/Q3646152",
+        "cityLabel": "Abu Qirqas",
+        "population": "63264"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q79",
+        "countryLabel": "Egypt",
+        "city": "http://www.wikidata.org/entity/Q1383404",
+        "cityLabel": "Fayid",
+        "population": "21808"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q79",
+        "countryLabel": "Egypt",
+        "city": "http://www.wikidata.org/entity/Q238452",
+        "cityLabel": "Arish",
+        "population": "137944"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q79",
+        "countryLabel": "Egypt",
+        "city": "http://www.wikidata.org/entity/Q393829",
+        "cityLabel": "Mersa Matruh",
+        "population": "68339"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q79",
+        "countryLabel": "Egypt",
+        "city": "http://www.wikidata.org/entity/Q1043090",
+        "cityLabel": "Borg El Arab",
+        "population": "12625"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q79",
+        "countryLabel": "Egypt",
+        "city": "http://www.wikidata.org/entity/Q270754",
+        "cityLabel": "Nag Hammadi",
+        "population": "45038"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q79",
+        "countryLabel": "Egypt",
+        "city": "http://www.wikidata.org/entity/Q771345",
+        "cityLabel": "Helwan",
+        "population": "619293"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q79",
+        "countryLabel": "Egypt",
+        "city": "http://www.wikidata.org/entity/Q249480",
+        "cityLabel": "Herakleopolis Magna",
+        "population": "40001"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q79",
+        "countryLabel": "Egypt",
+        "city": "http://www.wikidata.org/entity/Q1136023",
+        "cityLabel": "Sharuna",
+        "population": "22221"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q79",
+        "countryLabel": "Egypt",
+        "city": "http://www.wikidata.org/entity/Q271771",
+        "cityLabel": "Tanta",
+        "population": "429503"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q79",
+        "countryLabel": "Egypt",
+        "city": "http://www.wikidata.org/entity/Q556095",
+        "cityLabel": "Manfalut",
+        "population": "82585"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q79",
+        "countryLabel": "Egypt",
+        "city": "http://www.wikidata.org/entity/Q29962",
+        "cityLabel": "Asyut",
+        "population": "389307"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q79",
+        "countryLabel": "Egypt",
+        "city": "http://www.wikidata.org/entity/Q7294653",
+        "cityLabel": "Ras El Bar",
+        "population": "8635"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q79",
+        "countryLabel": "Egypt",
+        "city": "http://www.wikidata.org/entity/Q395863",
+        "cityLabel": "Desouk",
+        "population": "135336"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q79",
+        "countryLabel": "Egypt",
+        "city": "http://www.wikidata.org/entity/Q749187",
+        "cityLabel": "Girga",
+        "population": "102597"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q79",
+        "countryLabel": "Egypt",
+        "city": "http://www.wikidata.org/entity/Q286510",
+        "native": "الجونة",
+        "cityLabel": "El Gouna",
+        "population": "15000"
+    }
+]

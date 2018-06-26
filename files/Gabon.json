@@ -1,0 +1,23 @@
+[
+    {
+        "country": "http://www.wikidata.org/entity/Q1000",
+        "countryLabel": "Gabon",
+        "city": "http://www.wikidata.org/entity/Q3825",
+        "cityLabel": "Libreville",
+        "population": "797003"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q1000",
+        "countryLabel": "Gabon",
+        "city": "http://www.wikidata.org/entity/Q983886",
+        "cityLabel": "Oyem",
+        "population": "60685"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q1000",
+        "countryLabel": "Gabon",
+        "city": "http://www.wikidata.org/entity/Q746670",
+        "cityLabel": "Mouila",
+        "population": "22469"
+    }
+]

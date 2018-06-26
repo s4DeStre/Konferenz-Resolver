@@ -1,0 +1,17 @@
+[
+    {
+        "country": "http://www.wikidata.org/entity/Q244",
+        "countryLabel": "Barbados",
+        "city": "http://www.wikidata.org/entity/Q2544610",
+        "cityLabel": "Speightstown",
+        "population": "2192"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q244",
+        "countryLabel": "Barbados",
+        "city": "http://www.wikidata.org/entity/Q36168",
+        "native": "Bridgetown",
+        "cityLabel": "Bridgetown",
+        "population": "110000"
+    }
+]

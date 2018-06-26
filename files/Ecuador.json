@@ -1,0 +1,499 @@
+[
+    {
+        "country": "http://www.wikidata.org/entity/Q736",
+        "countryLabel": "Ecuador",
+        "city": "http://www.wikidata.org/entity/Q3367230",
+        "cityLabel": "Pasaje",
+        "population": "52673"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q736",
+        "countryLabel": "Ecuador",
+        "city": "http://www.wikidata.org/entity/Q962774",
+        "cityLabel": "Q962774",
+        "population": "28546"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q736",
+        "countryLabel": "Ecuador",
+        "city": "http://www.wikidata.org/entity/Q11249733",
+        "cityLabel": "Jipijapa",
+        "population": "40232"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q736",
+        "countryLabel": "Ecuador",
+        "city": "http://www.wikidata.org/entity/Q13189564",
+        "cityLabel": "Q13189564",
+        "population": "4320"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q736",
+        "countryLabel": "Ecuador",
+        "city": "http://www.wikidata.org/entity/Q11004410",
+        "cityLabel": "Pedro Carbo",
+        "population": "20220"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q736",
+        "countryLabel": "Ecuador",
+        "city": "http://www.wikidata.org/entity/Q4985397",
+        "cityLabel": "Buena Fe",
+        "population": "38263"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q736",
+        "countryLabel": "Ecuador",
+        "city": "http://www.wikidata.org/entity/Q1051957",
+        "cityLabel": "Cayambe",
+        "population": "39028"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q736",
+        "countryLabel": "Ecuador",
+        "city": "http://www.wikidata.org/entity/Q5351224",
+        "cityLabel": "El Empalme",
+        "population": "35686"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q736",
+        "countryLabel": "Ecuador",
+        "city": "http://www.wikidata.org/entity/Q7367138",
+        "cityLabel": "Rosa Zárate",
+        "population": "28928"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q736",
+        "countryLabel": "Ecuador",
+        "city": "http://www.wikidata.org/entity/Q1120810",
+        "cityLabel": "Durán, Ecuador",
+        "population": "230839"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q736",
+        "countryLabel": "Ecuador",
+        "city": "http://www.wikidata.org/entity/Q753121",
+        "cityLabel": "Atacames",
+        "population": "15463"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q736",
+        "countryLabel": "Ecuador",
+        "city": "http://www.wikidata.org/entity/Q990716",
+        "cityLabel": "Portoviejo",
+        "population": "206682"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q736",
+        "countryLabel": "Ecuador",
+        "city": "http://www.wikidata.org/entity/Q786758",
+        "cityLabel": "Azogues",
+        "population": "33848"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q736",
+        "countryLabel": "Ecuador",
+        "city": "http://www.wikidata.org/entity/Q43509",
+        "cityLabel": "Guayaquil",
+        "population": "2644891"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q736",
+        "countryLabel": "Ecuador",
+        "city": "http://www.wikidata.org/entity/Q2283736",
+        "cityLabel": "Zamora",
+        "population": "12386"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q736",
+        "countryLabel": "Ecuador",
+        "city": "http://www.wikidata.org/entity/Q54886",
+        "cityLabel": "Cuenca",
+        "population": "329928"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q736",
+        "countryLabel": "Ecuador",
+        "city": "http://www.wikidata.org/entity/Q773238",
+        "cityLabel": "Milagro",
+        "population": "133508"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q736",
+        "countryLabel": "Ecuador",
+        "city": "http://www.wikidata.org/entity/Q6465543",
+        "cityLabel": "La Troncal",
+        "population": "40000"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q736",
+        "countryLabel": "Ecuador",
+        "city": "http://www.wikidata.org/entity/Q478675",
+        "cityLabel": "Riobamba",
+        "population": "146324"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q736",
+        "countryLabel": "Ecuador",
+        "city": "http://www.wikidata.org/entity/Q1026312",
+        "cityLabel": "Puerto Quito",
+        "population": "3080"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q736",
+        "countryLabel": "Ecuador",
+        "city": "http://www.wikidata.org/entity/Q6723341",
+        "cityLabel": "Machachi",
+        "population": "16515"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q736",
+        "countryLabel": "Ecuador",
+        "city": "http://www.wikidata.org/entity/Q1014554",
+        "cityLabel": "Macas",
+        "population": "18984"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q736",
+        "countryLabel": "Ecuador",
+        "city": "http://www.wikidata.org/entity/Q1020794",
+        "cityLabel": "Otavalo",
+        "population": "39354"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q736",
+        "countryLabel": "Ecuador",
+        "city": "http://www.wikidata.org/entity/Q946384",
+        "cityLabel": "Ibarra",
+        "population": "131856"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q736",
+        "countryLabel": "Ecuador",
+        "city": "http://www.wikidata.org/entity/Q2900",
+        "cityLabel": "Quito",
+        "population": "2644145"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q736",
+        "countryLabel": "Ecuador",
+        "city": "http://www.wikidata.org/entity/Q8772897",
+        "cityLabel": "El Carmen (Ecuador)",
+        "population": "46358"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q736",
+        "countryLabel": "Ecuador",
+        "city": "http://www.wikidata.org/entity/Q15207968",
+        "cityLabel": "Catamayo",
+        "population": "22697"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q736",
+        "countryLabel": "Ecuador",
+        "city": "http://www.wikidata.org/entity/Q3898587",
+        "cityLabel": "Pedernales",
+        "population": "21910"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q736",
+        "countryLabel": "Ecuador",
+        "city": "http://www.wikidata.org/entity/Q149955",
+        "cityLabel": "Esmeraldas",
+        "population": "154035"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q736",
+        "countryLabel": "Ecuador",
+        "city": "http://www.wikidata.org/entity/Q676931",
+        "cityLabel": "Puyo, Pastaza",
+        "population": "33557"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q736",
+        "countryLabel": "Ecuador",
+        "city": "http://www.wikidata.org/entity/Q694109",
+        "cityLabel": "Puerto Baquerizo Moreno",
+        "population": "6672"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q736",
+        "countryLabel": "Ecuador",
+        "city": "http://www.wikidata.org/entity/Q1026284",
+        "cityLabel": "Salinas",
+        "population": "34719"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q736",
+        "countryLabel": "Ecuador",
+        "city": "http://www.wikidata.org/entity/Q3322678",
+        "cityLabel": "Huaquillas",
+        "population": "47706"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q736",
+        "countryLabel": "Ecuador",
+        "city": "http://www.wikidata.org/entity/Q2756591",
+        "cityLabel": "Chone",
+        "population": "52810"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q736",
+        "countryLabel": "Ecuador",
+        "city": "http://www.wikidata.org/entity/Q3123278",
+        "cityLabel": "Playas",
+        "population": "34409"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q736",
+        "countryLabel": "Ecuador",
+        "city": "http://www.wikidata.org/entity/Q28664050",
+        "cityLabel": "San Pablo",
+        "population": "7000"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q736",
+        "countryLabel": "Ecuador",
+        "city": "http://www.wikidata.org/entity/Q2361658",
+        "cityLabel": "Sangolquí",
+        "population": "75080"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q736",
+        "countryLabel": "Ecuador",
+        "city": "http://www.wikidata.org/entity/Q1013526",
+        "cityLabel": "Puerto Ayora",
+        "population": "11974"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q736",
+        "countryLabel": "Ecuador",
+        "city": "http://www.wikidata.org/entity/Q990738",
+        "cityLabel": "Manta",
+        "population": "217553"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q736",
+        "countryLabel": "Ecuador",
+        "city": "http://www.wikidata.org/entity/Q2198509",
+        "cityLabel": "San Miguel",
+        "population": "12488"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q736",
+        "countryLabel": "Ecuador",
+        "city": "http://www.wikidata.org/entity/Q264464",
+        "cityLabel": "Guaranda",
+        "population": "23874"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q736",
+        "countryLabel": "Ecuador",
+        "city": "http://www.wikidata.org/entity/Q215080",
+        "cityLabel": "Machala",
+        "population": "231260"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q736",
+        "countryLabel": "Ecuador",
+        "city": "http://www.wikidata.org/entity/Q944697",
+        "cityLabel": "Loja",
+        "population": "170280"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q736",
+        "countryLabel": "Ecuador",
+        "city": "http://www.wikidata.org/entity/Q773225",
+        "cityLabel": "Quevedo",
+        "population": "150827"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q736",
+        "countryLabel": "Ecuador",
+        "city": "http://www.wikidata.org/entity/Q812717",
+        "cityLabel": "Baños de Agua Santa",
+        "population": "12995"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q736",
+        "countryLabel": "Ecuador",
+        "city": "http://www.wikidata.org/entity/Q5762368",
+        "cityLabel": "Vinces",
+        "population": "30241"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q736",
+        "countryLabel": "Ecuador",
+        "city": "http://www.wikidata.org/entity/Q5352286",
+        "cityLabel": "El Triunfo",
+        "population": "34863"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q736",
+        "countryLabel": "Ecuador",
+        "city": "http://www.wikidata.org/entity/Q6965358",
+        "cityLabel": "Naranjal",
+        "population": "28487"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q736",
+        "countryLabel": "Ecuador",
+        "city": "http://www.wikidata.org/entity/Q379338",
+        "cityLabel": "Latacunga",
+        "population": "63842"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q736",
+        "countryLabel": "Ecuador",
+        "city": "http://www.wikidata.org/entity/Q16587384",
+        "cityLabel": "Q16587384",
+        "population": "29003"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q736",
+        "countryLabel": "Ecuador",
+        "city": "http://www.wikidata.org/entity/Q752113",
+        "cityLabel": "Tulcán",
+        "population": "60403"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q736",
+        "countryLabel": "Ecuador",
+        "city": "http://www.wikidata.org/entity/Q931224",
+        "cityLabel": "Ventanas",
+        "population": "38168"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q736",
+        "countryLabel": "Ecuador",
+        "city": "http://www.wikidata.org/entity/Q4853169",
+        "cityLabel": "Balzar",
+        "population": "28794"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q736",
+        "countryLabel": "Ecuador",
+        "city": "http://www.wikidata.org/entity/Q797568",
+        "cityLabel": "Babahoyo",
+        "population": "140534"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q736",
+        "countryLabel": "Ecuador",
+        "city": "http://www.wikidata.org/entity/Q1798895",
+        "cityLabel": "La Libertad, Ecuador",
+        "population": "95942"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q736",
+        "countryLabel": "Ecuador",
+        "city": "http://www.wikidata.org/entity/Q28883745",
+        "cityLabel": "Pedro Vicente Maldonado",
+        "population": "5561"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q736",
+        "countryLabel": "Ecuador",
+        "city": "http://www.wikidata.org/entity/Q4741622",
+        "cityLabel": "Atuntaqui",
+        "population": "21286"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q736",
+        "countryLabel": "Ecuador",
+        "city": "http://www.wikidata.org/entity/Q7419863",
+        "cityLabel": "Santa Rosa",
+        "population": "48929"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q736",
+        "countryLabel": "Ecuador",
+        "city": "http://www.wikidata.org/entity/Q7414682",
+        "cityLabel": "San Lorenzo",
+        "population": "23265"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q736",
+        "countryLabel": "Ecuador",
+        "city": "http://www.wikidata.org/entity/Q6669164",
+        "cityLabel": "Lomas de Sargentillo",
+        "population": "13775"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q736",
+        "countryLabel": "Ecuador",
+        "city": "http://www.wikidata.org/entity/Q1014430",
+        "cityLabel": "Daule",
+        "population": "65145"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q736",
+        "countryLabel": "Ecuador",
+        "city": "http://www.wikidata.org/entity/Q368320",
+        "cityLabel": "Samborondón",
+        "population": "42637"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q736",
+        "countryLabel": "Ecuador",
+        "city": "http://www.wikidata.org/entity/Q1014493",
+        "cityLabel": "Montecristi",
+        "population": "46312"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q736",
+        "countryLabel": "Ecuador",
+        "city": "http://www.wikidata.org/entity/Q210161",
+        "cityLabel": "Ambato",
+        "population": "165185"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q736",
+        "countryLabel": "Ecuador",
+        "city": "http://www.wikidata.org/entity/Q1015654",
+        "cityLabel": "Santo Domingo",
+        "population": "270875"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q736",
+        "countryLabel": "Ecuador",
+        "city": "http://www.wikidata.org/entity/Q683938",
+        "cityLabel": "Nueva Loja",
+        "population": "48562"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q736",
+        "countryLabel": "Ecuador",
+        "city": "http://www.wikidata.org/entity/Q1014564",
+        "cityLabel": "Puerto Francisco de Orellana",
+        "population": "40730"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q736",
+        "countryLabel": "Ecuador",
+        "city": "http://www.wikidata.org/entity/Q2749246",
+        "cityLabel": "Bahía de Caráquez",
+        "population": "20921"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q736",
+        "countryLabel": "Ecuador",
+        "city": "http://www.wikidata.org/entity/Q135864",
+        "cityLabel": "Santa Elena",
+        "population": "39681"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q736",
+        "countryLabel": "Ecuador",
+        "city": "http://www.wikidata.org/entity/Q994312",
+        "cityLabel": "Tena",
+        "population": "23307"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q736",
+        "countryLabel": "Ecuador",
+        "city": "http://www.wikidata.org/entity/Q8963744",
+        "cityLabel": "General Leonidas Plaza Gutiérrez",
+        "population": "3443"
+    }
+]

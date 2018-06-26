@@ -1,0 +1,73 @@
+[
+    {
+        "country": "http://www.wikidata.org/entity/Q854",
+        "countryLabel": "Sri Lanka",
+        "city": "http://www.wikidata.org/entity/Q390096",
+        "cityLabel": "Badulla",
+        "population": "42923"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q854",
+        "countryLabel": "Sri Lanka",
+        "city": "http://www.wikidata.org/entity/Q215277",
+        "cityLabel": "Jaffna",
+        "population": "88138"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q854",
+        "countryLabel": "Sri Lanka",
+        "city": "http://www.wikidata.org/entity/Q323873",
+        "cityLabel": "Trincomalee",
+        "population": "99135"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q854",
+        "countryLabel": "Sri Lanka",
+        "city": "http://www.wikidata.org/entity/Q1340579",
+        "cityLabel": "Nuwara Eliya",
+        "population": "27500"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q854",
+        "countryLabel": "Sri Lanka",
+        "city": "http://www.wikidata.org/entity/Q507144",
+        "cityLabel": "Mullaitivu",
+        "population": "37339"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q854",
+        "countryLabel": "Sri Lanka",
+        "city": "http://www.wikidata.org/entity/Q35381",
+        "cityLabel": "Colombo",
+        "population": "752993"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q854",
+        "countryLabel": "Sri Lanka",
+        "city": "http://www.wikidata.org/entity/Q1968268",
+        "cityLabel": "Kegalle",
+        "population": "17962"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q854",
+        "countryLabel": "Sri Lanka",
+        "city": "http://www.wikidata.org/entity/Q41963",
+        "native": "ශ්\u200dරී ජයවර්ධනපුර කෝට්ටේ",
+        "cityLabel": "Sri Jayawardenepura Kotte",
+        "population": "115826"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q854",
+        "countryLabel": "Sri Lanka",
+        "city": "http://www.wikidata.org/entity/Q1025283",
+        "cityLabel": "Hambantota",
+        "population": "11213"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q854",
+        "countryLabel": "Sri Lanka",
+        "city": "http://www.wikidata.org/entity/Q668616",
+        "cityLabel": "Negombo",
+        "population": "150364"
+    }
+]

@@ -1,0 +1,18 @@
+[
+    {
+        "country": "http://www.wikidata.org/entity/Q207272",
+        "countryLabel": "Second Polish Republic",
+        "city": "http://www.wikidata.org/entity/Q156743",
+        "native": "Тернопіль",
+        "cityLabel": "Ternopil",
+        "population": "217773"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q207272",
+        "countryLabel": "Second Polish Republic",
+        "city": "http://www.wikidata.org/entity/Q7550",
+        "native": "Луцьк",
+        "cityLabel": "Lutsk",
+        "population": "217082"
+    }
+]

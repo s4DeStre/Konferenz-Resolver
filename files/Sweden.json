@@ -1,0 +1,2342 @@
+[
+    {
+        "country": "http://www.wikidata.org/entity/Q34",
+        "countryLabel": "Sweden",
+        "city": "http://www.wikidata.org/entity/Q510233",
+        "cityLabel": "Högsby Municipality",
+        "population": "6089"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q34",
+        "countryLabel": "Sweden",
+        "city": "http://www.wikidata.org/entity/Q510310",
+        "cityLabel": "Haparanda Municipality",
+        "population": "9784"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q34",
+        "countryLabel": "Sweden",
+        "city": "http://www.wikidata.org/entity/Q1128384",
+        "cityLabel": "Karlskrona Municipality",
+        "population": "66623"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q34",
+        "countryLabel": "Sweden",
+        "city": "http://www.wikidata.org/entity/Q501545",
+        "cityLabel": "Falun Municipality",
+        "population": "58460"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q34",
+        "countryLabel": "Sweden",
+        "city": "http://www.wikidata.org/entity/Q501463",
+        "cityLabel": "Sorsele Municipality",
+        "population": "2531"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q34",
+        "countryLabel": "Sweden",
+        "city": "http://www.wikidata.org/entity/Q501459",
+        "cityLabel": "Tidaholm Municipality",
+        "population": "12775"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q34",
+        "countryLabel": "Sweden",
+        "city": "http://www.wikidata.org/entity/Q501479",
+        "cityLabel": "Tranemo Municipality",
+        "population": "11842"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q34",
+        "countryLabel": "Sweden",
+        "city": "http://www.wikidata.org/entity/Q508125",
+        "cityLabel": "Hässleholm Municipality",
+        "population": "52023"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q34",
+        "countryLabel": "Sweden",
+        "city": "http://www.wikidata.org/entity/Q504505",
+        "cityLabel": "Vindeln Municipality",
+        "population": "5420"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q34",
+        "countryLabel": "Sweden",
+        "city": "http://www.wikidata.org/entity/Q515299",
+        "cityLabel": "Kinda Municipality",
+        "population": "9860"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q34",
+        "countryLabel": "Sweden",
+        "city": "http://www.wikidata.org/entity/Q504601",
+        "cityLabel": "Sjöbo Municipality",
+        "population": "19090"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q34",
+        "countryLabel": "Sweden",
+        "city": "http://www.wikidata.org/entity/Q502298",
+        "cityLabel": "Landskrona Municipality",
+        "population": "45427"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q34",
+        "countryLabel": "Sweden",
+        "city": "http://www.wikidata.org/entity/Q515266",
+        "cityLabel": "Skurup Municipality",
+        "population": "15674"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q34",
+        "countryLabel": "Sweden",
+        "city": "http://www.wikidata.org/entity/Q513421",
+        "cityLabel": "Härjedalen Municipality",
+        "population": "10149"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q34",
+        "countryLabel": "Sweden",
+        "city": "http://www.wikidata.org/entity/Q509501",
+        "cityLabel": "Askersund Municipality",
+        "population": "11211"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q34",
+        "countryLabel": "Sweden",
+        "city": "http://www.wikidata.org/entity/Q2642771",
+        "cityLabel": "Gagnef Municipality",
+        "population": "10232"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q34",
+        "countryLabel": "Sweden",
+        "city": "http://www.wikidata.org/entity/Q511297",
+        "cityLabel": "Vårgårda Municipality",
+        "population": "11508"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q34",
+        "countryLabel": "Sweden",
+        "city": "http://www.wikidata.org/entity/Q505013",
+        "cityLabel": "Höganäs Municipality",
+        "population": "26244"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q34",
+        "countryLabel": "Sweden",
+        "city": "http://www.wikidata.org/entity/Q509634",
+        "cityLabel": "Karlskoga Municipality",
+        "population": "30386"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q34",
+        "countryLabel": "Sweden",
+        "city": "http://www.wikidata.org/entity/Q511438",
+        "cityLabel": "Stenungsund Municipality",
+        "population": "26325"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q34",
+        "countryLabel": "Sweden",
+        "city": "http://www.wikidata.org/entity/Q505046",
+        "cityLabel": "Smedjebacken Municipality",
+        "population": "10877"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q34",
+        "countryLabel": "Sweden",
+        "city": "http://www.wikidata.org/entity/Q504465",
+        "cityLabel": "Knivsta Municipality",
+        "population": "18255"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q34",
+        "countryLabel": "Sweden",
+        "city": "http://www.wikidata.org/entity/Q505090",
+        "cityLabel": "Nynäshamn Municipality",
+        "population": "28137"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q34",
+        "countryLabel": "Sweden",
+        "city": "http://www.wikidata.org/entity/Q505057",
+        "cityLabel": "Vimmerby Municipality",
+        "population": "15737"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q34",
+        "countryLabel": "Sweden",
+        "city": "http://www.wikidata.org/entity/Q515699",
+        "cityLabel": "Ydre Municipality",
+        "population": "3717"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q34",
+        "countryLabel": "Sweden",
+        "city": "http://www.wikidata.org/entity/Q511310",
+        "cityLabel": "Bjuv Municipality",
+        "population": "15455"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q34",
+        "countryLabel": "Sweden",
+        "city": "http://www.wikidata.org/entity/Q504614",
+        "cityLabel": "Klippan Municipality",
+        "population": "17484"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q34",
+        "countryLabel": "Sweden",
+        "city": "http://www.wikidata.org/entity/Q511281",
+        "cityLabel": "Götene Municipality",
+        "population": "13244"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q34",
+        "countryLabel": "Sweden",
+        "city": "http://www.wikidata.org/entity/Q504692",
+        "cityLabel": "Halmstad Municipality",
+        "population": "99932"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q34",
+        "countryLabel": "Sweden",
+        "city": "http://www.wikidata.org/entity/Q504689",
+        "cityLabel": "Jönköping Municipality",
+        "population": "137863"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q34",
+        "countryLabel": "Sweden",
+        "city": "http://www.wikidata.org/entity/Q509476",
+        "cityLabel": "Boden Municipality",
+        "population": "28184"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q34",
+        "countryLabel": "Sweden",
+        "city": "http://www.wikidata.org/entity/Q509452",
+        "cityLabel": "Emmaboda Municipality",
+        "population": "9406"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q34",
+        "countryLabel": "Sweden",
+        "city": "http://www.wikidata.org/entity/Q1130264",
+        "cityLabel": "Eslöv Municipality",
+        "population": "33359"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q34",
+        "countryLabel": "Sweden",
+        "city": "http://www.wikidata.org/entity/Q509546",
+        "cityLabel": "Borgholm Municipality",
+        "population": "10866"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q34",
+        "countryLabel": "Sweden",
+        "city": "http://www.wikidata.org/entity/Q507670",
+        "cityLabel": "Robertsfors Municipality",
+        "population": "6767"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q34",
+        "countryLabel": "Sweden",
+        "city": "http://www.wikidata.org/entity/Q503111",
+        "cityLabel": "Herrljunga Municipality",
+        "population": "9492"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q34",
+        "countryLabel": "Sweden",
+        "city": "http://www.wikidata.org/entity/Q509609",
+        "cityLabel": "Gnosjö Municipality",
+        "population": "9735"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q34",
+        "countryLabel": "Sweden",
+        "city": "http://www.wikidata.org/entity/Q514805",
+        "cityLabel": "Nordanstig Municipality",
+        "population": "9481"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q34",
+        "countryLabel": "Sweden",
+        "city": "http://www.wikidata.org/entity/Q505018",
+        "cityLabel": "Lund Municipality",
+        "population": "121893"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q34",
+        "countryLabel": "Sweden",
+        "city": "http://www.wikidata.org/entity/Q504983",
+        "cityLabel": "Timrå Municipality",
+        "population": "18013"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q34",
+        "countryLabel": "Sweden",
+        "city": "http://www.wikidata.org/entity/Q505064",
+        "cityLabel": "Trosa Municipality",
+        "population": "13001"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q34",
+        "countryLabel": "Sweden",
+        "city": "http://www.wikidata.org/entity/Q505071",
+        "cityLabel": "Tranås Municipality",
+        "population": "18891"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q34",
+        "countryLabel": "Sweden",
+        "city": "http://www.wikidata.org/entity/Q509514",
+        "cityLabel": "Boxholm Municipality",
+        "population": "5444"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q34",
+        "countryLabel": "Sweden",
+        "city": "http://www.wikidata.org/entity/Q514830",
+        "cityLabel": "Bromölla Municipality",
+        "population": "12698"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q34",
+        "countryLabel": "Sweden",
+        "city": "http://www.wikidata.org/entity/Q505102",
+        "cityLabel": "Ystad Municipality",
+        "population": "29903"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q34",
+        "countryLabel": "Sweden",
+        "city": "http://www.wikidata.org/entity/Q505246",
+        "cityLabel": "Oxelösund Municipality",
+        "population": "12015"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q34",
+        "countryLabel": "Sweden",
+        "city": "http://www.wikidata.org/entity/Q514858",
+        "cityLabel": "Lindesberg Municipality",
+        "population": "23590"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q34",
+        "countryLabel": "Sweden",
+        "city": "http://www.wikidata.org/entity/Q503122",
+        "cityLabel": "Grums Municipality",
+        "population": "9029"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q34",
+        "countryLabel": "Sweden",
+        "city": "http://www.wikidata.org/entity/Q507709",
+        "cityLabel": "Umeå Municipality",
+        "population": "125434"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q34",
+        "countryLabel": "Sweden",
+        "city": "http://www.wikidata.org/entity/Q515282",
+        "cityLabel": "Lekeberg Municipality",
+        "population": "7888"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q34",
+        "countryLabel": "Sweden",
+        "city": "http://www.wikidata.org/entity/Q504994",
+        "cityLabel": "Sundsvall Municipality",
+        "population": "98837"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q34",
+        "countryLabel": "Sweden",
+        "city": "http://www.wikidata.org/entity/Q505936",
+        "cityLabel": "Storfors Municipality",
+        "population": "4078"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q34",
+        "countryLabel": "Sweden",
+        "city": "http://www.wikidata.org/entity/Q514739",
+        "cityLabel": "Ljusnarsberg Municipality",
+        "population": "4942"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q34",
+        "countryLabel": "Sweden",
+        "city": "http://www.wikidata.org/entity/Q501494",
+        "cityLabel": "Munkfors Municipality",
+        "population": "3758"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q34",
+        "countryLabel": "Sweden",
+        "city": "http://www.wikidata.org/entity/Q515326",
+        "cityLabel": "Laxå Municipality",
+        "population": "5662"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q34",
+        "countryLabel": "Sweden",
+        "city": "http://www.wikidata.org/entity/Q501452",
+        "cityLabel": "Skövde Municipality",
+        "population": "55200"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q34",
+        "countryLabel": "Sweden",
+        "city": "http://www.wikidata.org/entity/Q505076",
+        "cityLabel": "Mullsjö Municipality",
+        "population": "7363"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q34",
+        "countryLabel": "Sweden",
+        "city": "http://www.wikidata.org/entity/Q501442",
+        "cityLabel": "Uddevalla Municipality",
+        "population": "55877"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q34",
+        "countryLabel": "Sweden",
+        "city": "http://www.wikidata.org/entity/Q505052",
+        "cityLabel": "Vetlanda Municipality",
+        "population": "27461"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q34",
+        "countryLabel": "Sweden",
+        "city": "http://www.wikidata.org/entity/Q514756",
+        "cityLabel": "Mörbylånga Municipality",
+        "population": "14998"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q34",
+        "countryLabel": "Sweden",
+        "city": "http://www.wikidata.org/entity/Q501432",
+        "cityLabel": "Tibro Municipality",
+        "population": "11148"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q34",
+        "countryLabel": "Sweden",
+        "city": "http://www.wikidata.org/entity/Q501448",
+        "cityLabel": "Tjörn Municipality",
+        "population": "15862"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q34",
+        "countryLabel": "Sweden",
+        "city": "http://www.wikidata.org/entity/Q510223",
+        "cityLabel": "Karlshamn Municipality",
+        "population": "32229"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q34",
+        "countryLabel": "Sweden",
+        "city": "http://www.wikidata.org/entity/Q501540",
+        "cityLabel": "Malå Municipality",
+        "population": "3124"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q34",
+        "countryLabel": "Sweden",
+        "city": "http://www.wikidata.org/entity/Q510010",
+        "cityLabel": "Gävle Municipality",
+        "population": "100825"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q34",
+        "countryLabel": "Sweden",
+        "city": "http://www.wikidata.org/entity/Q2777887",
+        "cityLabel": "Årjäng Municipality",
+        "population": "9942"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q34",
+        "countryLabel": "Sweden",
+        "city": "http://www.wikidata.org/entity/Q510364",
+        "cityLabel": "Kristinehamn Municipality",
+        "population": "24551"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q34",
+        "countryLabel": "Sweden",
+        "city": "http://www.wikidata.org/entity/Q515505",
+        "cityLabel": "Uppvidinge Municipality",
+        "population": "9545"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q34",
+        "countryLabel": "Sweden",
+        "city": "http://www.wikidata.org/entity/Q515519",
+        "cityLabel": "Tomelilla Municipality",
+        "population": "13430"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q34",
+        "countryLabel": "Sweden",
+        "city": "http://www.wikidata.org/entity/Q515358",
+        "cityLabel": "Lidköping Municipality",
+        "population": "39533"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q34",
+        "countryLabel": "Sweden",
+        "city": "http://www.wikidata.org/entity/Q515680",
+        "cityLabel": "Söderköping Municipality",
+        "population": "14549"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q34",
+        "countryLabel": "Sweden",
+        "city": "http://www.wikidata.org/entity/Q514815",
+        "cityLabel": "Kramfors Municipality",
+        "population": "18534"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q34",
+        "countryLabel": "Sweden",
+        "city": "http://www.wikidata.org/entity/Q510135",
+        "cityLabel": "Torsby Municipality",
+        "population": "11822"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q34",
+        "countryLabel": "Sweden",
+        "city": "http://www.wikidata.org/entity/Q515235",
+        "cityLabel": "Ljusdal Municipality",
+        "population": "19048"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q34",
+        "countryLabel": "Sweden",
+        "city": "http://www.wikidata.org/entity/Q515250",
+        "cityLabel": "Mönsterås Municipality",
+        "population": "13545"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q34",
+        "countryLabel": "Sweden",
+        "city": "http://www.wikidata.org/entity/Q511253",
+        "cityLabel": "Håbo Municipality",
+        "population": "21179"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q34",
+        "countryLabel": "Sweden",
+        "city": "http://www.wikidata.org/entity/Q501438",
+        "cityLabel": "Mellerud Municipality",
+        "population": "9363"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q34",
+        "countryLabel": "Sweden",
+        "city": "http://www.wikidata.org/entity/Q515342",
+        "cityLabel": "Ragunda Municipality",
+        "population": "5414"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q34",
+        "countryLabel": "Sweden",
+        "city": "http://www.wikidata.org/entity/Q501428",
+        "cityLabel": "Vara Municipality",
+        "population": "15965"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q34",
+        "countryLabel": "Sweden",
+        "city": "http://www.wikidata.org/entity/Q501470",
+        "cityLabel": "Töreboda Municipality",
+        "population": "9374"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q34",
+        "countryLabel": "Sweden",
+        "city": "http://www.wikidata.org/entity/Q501532",
+        "cityLabel": "Strängnäs Municipality",
+        "population": "35195"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q34",
+        "countryLabel": "Sweden",
+        "city": "http://www.wikidata.org/entity/Q515491",
+        "cityLabel": "Tingsryd Municipality",
+        "population": "12435"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q34",
+        "countryLabel": "Sweden",
+        "city": "http://www.wikidata.org/entity/Q515477",
+        "cityLabel": "Västervik Municipality",
+        "population": "36546"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q34",
+        "countryLabel": "Sweden",
+        "city": "http://www.wikidata.org/entity/Q3120654",
+        "cityLabel": "Lidingö Municipality",
+        "population": "47239"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q34",
+        "countryLabel": "Sweden",
+        "city": "http://www.wikidata.org/entity/Q515318",
+        "cityLabel": "Nybro Municipality",
+        "population": "20426"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q34",
+        "countryLabel": "Sweden",
+        "city": "http://www.wikidata.org/entity/Q504630",
+        "cityLabel": "Orsa Municipality",
+        "population": "6884"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q34",
+        "countryLabel": "Sweden",
+        "city": "http://www.wikidata.org/entity/Q515373",
+        "cityLabel": "Ronneby Municipality",
+        "population": "29621"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q34",
+        "countryLabel": "Sweden",
+        "city": "http://www.wikidata.org/entity/Q501420",
+        "cityLabel": "Sotenäs Municipality",
+        "population": "9074"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q34",
+        "countryLabel": "Sweden",
+        "city": "http://www.wikidata.org/entity/Q514722",
+        "cityLabel": "Nordmaling Municipality",
+        "population": "7121"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q34",
+        "countryLabel": "Sweden",
+        "city": "http://www.wikidata.org/entity/Q501526",
+        "cityLabel": "Vallentuna Municipality",
+        "population": "33274"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q34",
+        "countryLabel": "Sweden",
+        "city": "http://www.wikidata.org/entity/Q511365",
+        "cityLabel": "Arvika Municipality",
+        "population": "26063"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q34",
+        "countryLabel": "Sweden",
+        "city": "http://www.wikidata.org/entity/Q511270",
+        "cityLabel": "Mölndal Municipality",
+        "population": "66733"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q34",
+        "countryLabel": "Sweden",
+        "city": "http://www.wikidata.org/entity/Q511407",
+        "cityLabel": "Hagfors Municipality",
+        "population": "11726"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q34",
+        "countryLabel": "Sweden",
+        "city": "http://www.wikidata.org/entity/Q513370",
+        "cityLabel": "Kävlinge Municipality",
+        "population": "31046"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q34",
+        "countryLabel": "Sweden",
+        "city": "http://www.wikidata.org/entity/Q511326",
+        "cityLabel": "Säffle Municipality",
+        "population": "15754"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q34",
+        "countryLabel": "Sweden",
+        "city": "http://www.wikidata.org/entity/Q516308",
+        "cityLabel": "Heby Municipality",
+        "population": "13847"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q34",
+        "countryLabel": "Sweden",
+        "city": "http://www.wikidata.org/entity/Q505006",
+        "cityLabel": "Oskarshamn Municipality",
+        "population": "26929"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q34",
+        "countryLabel": "Sweden",
+        "city": "http://www.wikidata.org/entity/Q512048",
+        "cityLabel": "Jokkmokk Municipality",
+        "population": "5059"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q34",
+        "countryLabel": "Sweden",
+        "city": "http://www.wikidata.org/entity/Q504619",
+        "cityLabel": "Hörby Municipality",
+        "population": "15549"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q34",
+        "countryLabel": "Sweden",
+        "city": "http://www.wikidata.org/entity/Q505096",
+        "cityLabel": "Nässjö Municipality",
+        "population": "31273"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q34",
+        "countryLabel": "Sweden",
+        "city": "http://www.wikidata.org/entity/Q504594",
+        "cityLabel": "Osby Municipality",
+        "population": "13233"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q34",
+        "countryLabel": "Sweden",
+        "city": "http://www.wikidata.org/entity/Q505109",
+        "cityLabel": "Ockelbo Municipality",
+        "population": "5898"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q34",
+        "countryLabel": "Sweden",
+        "city": "http://www.wikidata.org/entity/Q511426",
+        "cityLabel": "Vänersborg Municipality",
+        "population": "39236"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q34",
+        "countryLabel": "Sweden",
+        "city": "http://www.wikidata.org/entity/Q504609",
+        "cityLabel": "Staffanstorp Municipality",
+        "population": "24322"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q34",
+        "countryLabel": "Sweden",
+        "city": "http://www.wikidata.org/entity/Q504626",
+        "cityLabel": "Simrishamn Municipality",
+        "population": "19352"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q34",
+        "countryLabel": "Sweden",
+        "city": "http://www.wikidata.org/entity/Q511241",
+        "cityLabel": "Lilla Edet Municipality",
+        "population": "13948"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q34",
+        "countryLabel": "Sweden",
+        "city": "http://www.wikidata.org/entity/Q504676",
+        "cityLabel": "Norrköping Municipality",
+        "population": "140991"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q34",
+        "countryLabel": "Sweden",
+        "city": "http://www.wikidata.org/entity/Q515861",
+        "cityLabel": "Vilhelmina Municipality",
+        "population": "6781"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q34",
+        "countryLabel": "Sweden",
+        "city": "http://www.wikidata.org/entity/Q511228",
+        "cityLabel": "Tanum Municipality",
+        "population": "12742"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q34",
+        "countryLabel": "Sweden",
+        "city": "http://www.wikidata.org/entity/Q503127",
+        "cityLabel": "Essunga Municipality",
+        "population": "5636"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q34",
+        "countryLabel": "Sweden",
+        "city": "http://www.wikidata.org/entity/Q511394",
+        "cityLabel": "Kungälv Municipality",
+        "population": "44312"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q34",
+        "countryLabel": "Sweden",
+        "city": "http://www.wikidata.org/entity/Q509488",
+        "cityLabel": "Lessebo Municipality",
+        "population": "8820"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q34",
+        "countryLabel": "Sweden",
+        "city": "http://www.wikidata.org/entity/Q511338",
+        "cityLabel": "Vellinge Municipality",
+        "population": "35904"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q34",
+        "countryLabel": "Sweden",
+        "city": "http://www.wikidata.org/entity/Q516080",
+        "cityLabel": "Salem Municipality",
+        "population": "16680"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q34",
+        "countryLabel": "Sweden",
+        "city": "http://www.wikidata.org/entity/Q504988",
+        "cityLabel": "Kumla Municipality",
+        "population": "21577"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q34",
+        "countryLabel": "Sweden",
+        "city": "http://www.wikidata.org/entity/Q515409",
+        "cityLabel": "Sölvesborg Municipality",
+        "population": "17421"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q34",
+        "countryLabel": "Sweden",
+        "city": "http://www.wikidata.org/entity/Q512002",
+        "cityLabel": "Hultsfred Municipality",
+        "population": "14544"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q34",
+        "countryLabel": "Sweden",
+        "city": "http://www.wikidata.org/entity/Q505085",
+        "cityLabel": "Ovanåker Municipality",
+        "population": "11604"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q34",
+        "countryLabel": "Sweden",
+        "city": "http://www.wikidata.org/entity/Q509469",
+        "cityLabel": "Degerfors Municipality",
+        "population": "9669"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q34",
+        "countryLabel": "Sweden",
+        "city": "http://www.wikidata.org/entity/Q516336",
+        "cityLabel": "Södertälje Municipality",
+        "population": "96254"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q34",
+        "countryLabel": "Sweden",
+        "city": "http://www.wikidata.org/entity/Q515551",
+        "cityLabel": "Torsås Municipality",
+        "population": "7104"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q34",
+        "countryLabel": "Sweden",
+        "city": "http://www.wikidata.org/entity/Q505259",
+        "cityLabel": "Gislaved Municipality",
+        "population": "29676"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q34",
+        "countryLabel": "Sweden",
+        "city": "http://www.wikidata.org/entity/Q509568",
+        "cityLabel": "Enköping Municipality",
+        "population": "43879"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q34",
+        "countryLabel": "Sweden",
+        "city": "http://www.wikidata.org/entity/Q505239",
+        "cityLabel": "Sävsjö Municipality",
+        "population": "11546"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q34",
+        "countryLabel": "Sweden",
+        "city": "http://www.wikidata.org/entity/Q508108",
+        "cityLabel": "Motala Municipality",
+        "population": "43549"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q34",
+        "countryLabel": "Sweden",
+        "city": "http://www.wikidata.org/entity/Q515706",
+        "cityLabel": "Svedala Municipality",
+        "population": "21148"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q34",
+        "countryLabel": "Sweden",
+        "city": "http://www.wikidata.org/entity/Q503102",
+        "cityLabel": "Bollebygd Municipality",
+        "population": "9284"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q34",
+        "countryLabel": "Sweden",
+        "city": "http://www.wikidata.org/entity/Q509651",
+        "cityLabel": "Leksand Municipality",
+        "population": "15673"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q34",
+        "countryLabel": "Sweden",
+        "city": "http://www.wikidata.org/entity/Q507656",
+        "cityLabel": "Piteå Municipality",
+        "population": "42111"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q34",
+        "countryLabel": "Sweden",
+        "city": "http://www.wikidata.org/entity/Q507644",
+        "cityLabel": "Norsjö Municipality",
+        "population": "4101"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q34",
+        "countryLabel": "Sweden",
+        "city": "http://www.wikidata.org/entity/Q512035",
+        "cityLabel": "Eksjö Municipality",
+        "population": "17533"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q34",
+        "countryLabel": "Sweden",
+        "city": "http://www.wikidata.org/entity/Q1345439",
+        "cityLabel": "Säter Municipality",
+        "population": "11150"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q34",
+        "countryLabel": "Sweden",
+        "city": "http://www.wikidata.org/entity/Q510198",
+        "cityLabel": "Tierp Municipality",
+        "population": "20933"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q34",
+        "countryLabel": "Sweden",
+        "city": "http://www.wikidata.org/entity/Q501424",
+        "cityLabel": "Strömstad Municipality",
+        "population": "13237"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q34",
+        "countryLabel": "Sweden",
+        "city": "http://www.wikidata.org/entity/Q515969",
+        "cityLabel": "Vadstena Municipality",
+        "population": "7445"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q34",
+        "countryLabel": "Sweden",
+        "city": "http://www.wikidata.org/entity/Q501487",
+        "cityLabel": "Svenljunga Municipality",
+        "population": "10655"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q34",
+        "countryLabel": "Sweden",
+        "city": "http://www.wikidata.org/entity/Q507684",
+        "cityLabel": "Hedemora Municipality",
+        "population": "15550"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q34",
+        "countryLabel": "Sweden",
+        "city": "http://www.wikidata.org/entity/Q501551",
+        "cityLabel": "Vansbro Municipality",
+        "population": "6825"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q34",
+        "countryLabel": "Sweden",
+        "city": "http://www.wikidata.org/entity/Q514707",
+        "cityLabel": "Krokom Municipality",
+        "population": "14902"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q34",
+        "countryLabel": "Sweden",
+        "city": "http://www.wikidata.org/entity/Q506250",
+        "cityLabel": "Stockholm Municipality",
+        "population": "952058"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q34",
+        "countryLabel": "Sweden",
+        "city": "http://www.wikidata.org/entity/Q509997",
+        "cityLabel": "Valdemarsvik Municipality",
+        "population": "7944"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q34",
+        "countryLabel": "Sweden",
+        "city": "http://www.wikidata.org/entity/Q508168",
+        "cityLabel": "Falkenberg Municipality",
+        "population": "44300"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q34",
+        "countryLabel": "Sweden",
+        "city": "http://www.wikidata.org/entity/Q508180",
+        "cityLabel": "Hallsberg Municipality",
+        "population": "15890"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q34",
+        "countryLabel": "Sweden",
+        "city": "http://www.wikidata.org/entity/Q508140",
+        "cityLabel": "Katrineholm Municipality",
+        "population": "34195"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q34",
+        "countryLabel": "Sweden",
+        "city": "http://www.wikidata.org/entity/Q508153",
+        "cityLabel": "Kalmar Municipality",
+        "population": "67528"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q34",
+        "countryLabel": "Sweden",
+        "city": "http://www.wikidata.org/entity/Q501205",
+        "cityLabel": "Sunne Municipality",
+        "population": "13297"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q34",
+        "countryLabel": "Sweden",
+        "city": "http://www.wikidata.org/entity/Q514770",
+        "cityLabel": "Strömsund Municipality",
+        "population": "11776"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q34",
+        "countryLabel": "Sweden",
+        "city": "http://www.wikidata.org/entity/Q113679",
+        "cityLabel": "Danderyd Municipality",
+        "population": "32884"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q34",
+        "countryLabel": "Sweden",
+        "city": "http://www.wikidata.org/entity/Q255025",
+        "cityLabel": "Älvsbyn Municipality",
+        "population": "8238"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q34",
+        "countryLabel": "Sweden",
+        "city": "http://www.wikidata.org/entity/Q255206",
+        "cityLabel": "Ängelholm Municipality",
+        "population": "41857"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q34",
+        "countryLabel": "Sweden",
+        "city": "http://www.wikidata.org/entity/Q605329",
+        "cityLabel": "Vaggeryd Municipality",
+        "population": "13847"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q34",
+        "countryLabel": "Sweden",
+        "city": "http://www.wikidata.org/entity/Q27982",
+        "cityLabel": "Flen Municipality",
+        "population": "16826"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q34",
+        "countryLabel": "Sweden",
+        "city": "http://www.wikidata.org/entity/Q503162",
+        "cityLabel": "Alingsås Municipality",
+        "population": "40566"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q34",
+        "countryLabel": "Sweden",
+        "city": "http://www.wikidata.org/entity/Q113730",
+        "cityLabel": "Tyresö Municipality",
+        "population": "47518"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q34",
+        "countryLabel": "Sweden",
+        "city": "http://www.wikidata.org/entity/Q493855",
+        "cityLabel": "Arjeplog Municipality",
+        "population": "2809"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q34",
+        "countryLabel": "Sweden",
+        "city": "http://www.wikidata.org/entity/Q125222",
+        "cityLabel": "Partille Municipality",
+        "population": "37931"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q34",
+        "countryLabel": "Sweden",
+        "city": "http://www.wikidata.org/entity/Q113718",
+        "cityLabel": "Botkyrka Municipality",
+        "population": "92097"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q34",
+        "countryLabel": "Sweden",
+        "city": "http://www.wikidata.org/entity/Q503144",
+        "cityLabel": "Eskilstuna Municipality",
+        "population": "105014"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q34",
+        "countryLabel": "Sweden",
+        "city": "http://www.wikidata.org/entity/Q249378",
+        "cityLabel": "Vingåker Municipality",
+        "population": "9218"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q34",
+        "countryLabel": "Sweden",
+        "city": "http://www.wikidata.org/entity/Q498477",
+        "cityLabel": "Hylte Municipality",
+        "population": "11060"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q34",
+        "countryLabel": "Sweden",
+        "city": "http://www.wikidata.org/entity/Q109010",
+        "cityLabel": "Solna Municipality",
+        "population": "80035"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q34",
+        "countryLabel": "Sweden",
+        "city": "http://www.wikidata.org/entity/Q503193",
+        "cityLabel": "Gullspång Municipality",
+        "population": "5272"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q34",
+        "countryLabel": "Sweden",
+        "city": "http://www.wikidata.org/entity/Q503188",
+        "cityLabel": "Lerum Municipality",
+        "population": "41660"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q34",
+        "countryLabel": "Sweden",
+        "city": "http://www.wikidata.org/entity/Q42009",
+        "cityLabel": "Köping Municipality",
+        "population": "26122"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q34",
+        "countryLabel": "Sweden",
+        "city": "http://www.wikidata.org/entity/Q117091",
+        "cityLabel": "Kalix Municipality",
+        "population": "16165"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q34",
+        "countryLabel": "Sweden",
+        "city": "http://www.wikidata.org/entity/Q306789",
+        "cityLabel": "Östersund Municipality",
+        "population": "62745"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q34",
+        "countryLabel": "Sweden",
+        "city": "http://www.wikidata.org/entity/Q376003",
+        "cityLabel": "Bjurholm Municipality",
+        "population": "2474"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q34",
+        "countryLabel": "Sweden",
+        "city": "http://www.wikidata.org/entity/Q28532",
+        "cityLabel": "Trollhättan Municipality",
+        "population": "58389"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q34",
+        "countryLabel": "Sweden",
+        "city": "http://www.wikidata.org/entity/Q254799",
+        "cityLabel": "Älmhult Municipality",
+        "population": "17221"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q34",
+        "countryLabel": "Sweden",
+        "city": "http://www.wikidata.org/entity/Q285894",
+        "cityLabel": "Nora Municipality",
+        "population": "10727"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q34",
+        "countryLabel": "Sweden",
+        "city": "http://www.wikidata.org/entity/Q267030",
+        "cityLabel": "Mjölby Municipality",
+        "population": "27107"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q34",
+        "countryLabel": "Sweden",
+        "city": "http://www.wikidata.org/entity/Q59858",
+        "cityLabel": "Älvkarleby Municipality",
+        "population": "9395"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q34",
+        "countryLabel": "Sweden",
+        "city": "http://www.wikidata.org/entity/Q503746",
+        "cityLabel": "Sollentuna Municipality",
+        "population": "71870"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q34",
+        "countryLabel": "Sweden",
+        "city": "http://www.wikidata.org/entity/Q498453",
+        "cityLabel": "Karlstad Municipality",
+        "population": "91374"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q34",
+        "countryLabel": "Sweden",
+        "city": "http://www.wikidata.org/entity/Q503209",
+        "cityLabel": "Borlänge Municipality",
+        "population": "52034"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q34",
+        "countryLabel": "Sweden",
+        "city": "http://www.wikidata.org/entity/Q37404",
+        "cityLabel": "Norberg Municipality",
+        "population": "5839"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q34",
+        "countryLabel": "Sweden",
+        "city": "http://www.wikidata.org/entity/Q503184",
+        "cityLabel": "Ludvika Municipality",
+        "population": "27005"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q34",
+        "countryLabel": "Sweden",
+        "city": "http://www.wikidata.org/entity/Q493841",
+        "cityLabel": "Värmdö Municipality",
+        "population": "43666"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q34",
+        "countryLabel": "Sweden",
+        "city": "http://www.wikidata.org/entity/Q499404",
+        "cityLabel": "Arvidsjaur Municipality",
+        "population": "6410"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q34",
+        "countryLabel": "Sweden",
+        "city": "http://www.wikidata.org/entity/Q298003",
+        "cityLabel": "Örnsköldsvik Municipality",
+        "population": "56162"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q34",
+        "countryLabel": "Sweden",
+        "city": "http://www.wikidata.org/entity/Q499359",
+        "cityLabel": "Hammarö Municipality",
+        "population": "16250"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q34",
+        "countryLabel": "Sweden",
+        "city": "http://www.wikidata.org/entity/Q431271",
+        "cityLabel": "Arboga Municipality",
+        "population": "13950"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q34",
+        "countryLabel": "Sweden",
+        "city": "http://www.wikidata.org/entity/Q267462",
+        "cityLabel": "Bengtsfors Municipality",
+        "population": "9868"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q34",
+        "countryLabel": "Sweden",
+        "city": "http://www.wikidata.org/entity/Q498470",
+        "cityLabel": "Ale Municipality",
+        "population": "30399"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q34",
+        "countryLabel": "Sweden",
+        "city": "http://www.wikidata.org/entity/Q307370",
+        "cityLabel": "Östra Göinge Municipality",
+        "population": "14815"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q34",
+        "countryLabel": "Sweden",
+        "city": "http://www.wikidata.org/entity/Q220881",
+        "cityLabel": "Hällefors Municipality",
+        "population": "7092"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q34",
+        "countryLabel": "Sweden",
+        "city": "http://www.wikidata.org/entity/Q498857",
+        "cityLabel": "Kristianstad Municipality",
+        "population": "84211"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q34",
+        "countryLabel": "Sweden",
+        "city": "http://www.wikidata.org/entity/Q503180",
+        "cityLabel": "Finspång Municipality",
+        "population": "21626"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q34",
+        "countryLabel": "Sweden",
+        "city": "http://www.wikidata.org/entity/Q499460",
+        "cityLabel": "Nykvarn Municipality",
+        "population": "10696"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q34",
+        "countryLabel": "Sweden",
+        "city": "http://www.wikidata.org/entity/Q503204",
+        "cityLabel": "Filipstad Municipality",
+        "population": "10806"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q34",
+        "countryLabel": "Sweden",
+        "city": "http://www.wikidata.org/entity/Q492614",
+        "cityLabel": "Ekerö Municipality",
+        "population": "27938"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q34",
+        "countryLabel": "Sweden",
+        "city": "http://www.wikidata.org/entity/Q307569",
+        "cityLabel": "Överkalix Municipality",
+        "population": "3346"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q34",
+        "countryLabel": "Sweden",
+        "city": "http://www.wikidata.org/entity/Q214048",
+        "cityLabel": "Norrtälje Municipality",
+        "population": "61057"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q34",
+        "countryLabel": "Sweden",
+        "city": "http://www.wikidata.org/entity/Q179180",
+        "cityLabel": "Varberg Municipality",
+        "population": "62928"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q34",
+        "countryLabel": "Sweden",
+        "city": "http://www.wikidata.org/entity/Q186230",
+        "cityLabel": "Pajala Municipality",
+        "population": "6066"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q34",
+        "countryLabel": "Sweden",
+        "city": "http://www.wikidata.org/entity/Q503361",
+        "cityLabel": "Malmö Municipality",
+        "population": "334987"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q34",
+        "countryLabel": "Sweden",
+        "city": "http://www.wikidata.org/entity/Q34078",
+        "cityLabel": "Surahammar Municipality",
+        "population": "10000"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q34",
+        "countryLabel": "Sweden",
+        "city": "http://www.wikidata.org/entity/Q894327",
+        "cityLabel": "Borås Municipality",
+        "population": "111354"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q34",
+        "countryLabel": "Sweden",
+        "city": "http://www.wikidata.org/entity/Q271079",
+        "cityLabel": "Åmål Municipality",
+        "population": "12715"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q34",
+        "countryLabel": "Sweden",
+        "city": "http://www.wikidata.org/entity/Q293970",
+        "cityLabel": "Ödeshög Municipality",
+        "population": "5336"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q34",
+        "countryLabel": "Sweden",
+        "city": "http://www.wikidata.org/entity/Q293928",
+        "cityLabel": "Öckerö Municipality",
+        "population": "12930"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q34",
+        "countryLabel": "Sweden",
+        "city": "http://www.wikidata.org/entity/Q29963",
+        "cityLabel": "Hudiksvall Municipality",
+        "population": "37413"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q34",
+        "countryLabel": "Sweden",
+        "city": "http://www.wikidata.org/entity/Q500125",
+        "cityLabel": "Härryda Municipality",
+        "population": "37430"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q34",
+        "countryLabel": "Sweden",
+        "city": "http://www.wikidata.org/entity/Q499380",
+        "cityLabel": "Kungsbacka Municipality",
+        "population": "82382"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q34",
+        "countryLabel": "Sweden",
+        "city": "http://www.wikidata.org/entity/Q271274",
+        "cityLabel": "Åsele Municipality",
+        "population": "2821"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q34",
+        "countryLabel": "Sweden",
+        "city": "http://www.wikidata.org/entity/Q201813",
+        "cityLabel": "Åstorp Municipality",
+        "population": "15875"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q34",
+        "countryLabel": "Sweden",
+        "city": "http://www.wikidata.org/entity/Q52502",
+        "cityLabel": "Gothenburg Municipality",
+        "population": "565496"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q34",
+        "countryLabel": "Sweden",
+        "city": "http://www.wikidata.org/entity/Q500090",
+        "cityLabel": "Vaxholm Municipality",
+        "population": "11846"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q34",
+        "countryLabel": "Sweden",
+        "city": "http://www.wikidata.org/entity/Q504235",
+        "cityLabel": "Ljungby Municipality",
+        "population": "28353"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q34",
+        "countryLabel": "Sweden",
+        "city": "http://www.wikidata.org/entity/Q504249",
+        "cityLabel": "Perstorp Municipality",
+        "population": "7436"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q34",
+        "countryLabel": "Sweden",
+        "city": "http://www.wikidata.org/entity/Q504257",
+        "cityLabel": "Olofström Municipality",
+        "population": "13468"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q34",
+        "countryLabel": "Sweden",
+        "city": "http://www.wikidata.org/entity/Q504266",
+        "cityLabel": "Malung-Sälen Municipality",
+        "population": "10098"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q34",
+        "countryLabel": "Sweden",
+        "city": "http://www.wikidata.org/entity/Q34550",
+        "cityLabel": "Västerås Municipality",
+        "population": "150564"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q34",
+        "countryLabel": "Sweden",
+        "city": "http://www.wikidata.org/entity/Q500210",
+        "cityLabel": "Vännäs Municipality",
+        "population": "8785"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q34",
+        "countryLabel": "Sweden",
+        "city": "http://www.wikidata.org/entity/Q504244",
+        "cityLabel": "Rättvik Municipality",
+        "population": "10839"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q34",
+        "countryLabel": "Sweden",
+        "city": "http://www.wikidata.org/entity/Q504219",
+        "cityLabel": "Trelleborg Municipality",
+        "population": "44645"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q34",
+        "countryLabel": "Sweden",
+        "city": "http://www.wikidata.org/entity/Q499385",
+        "cityLabel": "Forshaga Municipality",
+        "population": "11484"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q34",
+        "countryLabel": "Sweden",
+        "city": "http://www.wikidata.org/entity/Q499415",
+        "cityLabel": "Storuman Municipality",
+        "population": "5912"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q34",
+        "countryLabel": "Sweden",
+        "city": "http://www.wikidata.org/entity/Q499425",
+        "cityLabel": "Upplands Väsby Municipality",
+        "population": "44788"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q34",
+        "countryLabel": "Sweden",
+        "city": "http://www.wikidata.org/entity/Q504261",
+        "cityLabel": "Bräcke Municipality",
+        "population": "6478"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q34",
+        "countryLabel": "Sweden",
+        "city": "http://www.wikidata.org/entity/Q280562",
+        "cityLabel": "Värnamo Municipality",
+        "population": "34249"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q34",
+        "countryLabel": "Sweden",
+        "city": "http://www.wikidata.org/entity/Q47169",
+        "cityLabel": "Kungsör Municipality",
+        "population": "8614"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q34",
+        "countryLabel": "Sweden",
+        "city": "http://www.wikidata.org/entity/Q216915",
+        "cityLabel": "Sigtuna Municipality",
+        "population": "47481"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q34",
+        "countryLabel": "Sweden",
+        "city": "http://www.wikidata.org/entity/Q845930",
+        "cityLabel": "Berg Municipality",
+        "population": "7111"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q34",
+        "countryLabel": "Sweden",
+        "city": "http://www.wikidata.org/entity/Q113692",
+        "cityLabel": "Haninge Municipality",
+        "population": "88431"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q34",
+        "countryLabel": "Sweden",
+        "city": "http://www.wikidata.org/entity/Q132334",
+        "cityLabel": "Dorotea Municipality",
+        "population": "2628"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q34",
+        "countryLabel": "Sweden",
+        "city": "http://www.wikidata.org/entity/Q498447",
+        "cityLabel": "Eda Municipality",
+        "population": "8592"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q34",
+        "countryLabel": "Sweden",
+        "city": "http://www.wikidata.org/entity/Q493815",
+        "cityLabel": "Gällivare Municipality",
+        "population": "17749"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q34",
+        "countryLabel": "Sweden",
+        "city": "http://www.wikidata.org/entity/Q503148",
+        "cityLabel": "Grästorp Municipality",
+        "population": "5739"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q34",
+        "countryLabel": "Sweden",
+        "city": "http://www.wikidata.org/entity/Q59093",
+        "cityLabel": "Östhammar Municipality",
+        "population": "21922"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q34",
+        "countryLabel": "Sweden",
+        "city": "http://www.wikidata.org/entity/Q503198",
+        "cityLabel": "Habo Municipality",
+        "population": "11891"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q34",
+        "countryLabel": "Sweden",
+        "city": "http://www.wikidata.org/entity/Q62469",
+        "cityLabel": "Bollnäs Municipality",
+        "population": "27001"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q34",
+        "countryLabel": "Sweden",
+        "city": "http://www.wikidata.org/entity/Q389040",
+        "cityLabel": "Munkedal Municipality",
+        "population": "10437"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q34",
+        "countryLabel": "Sweden",
+        "city": "http://www.wikidata.org/entity/Q503173",
+        "cityLabel": "Lysekil Municipality",
+        "population": "14603"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q34",
+        "countryLabel": "Sweden",
+        "city": "http://www.wikidata.org/entity/Q500217",
+        "cityLabel": "Växjö Municipality",
+        "population": "91251"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q34",
+        "countryLabel": "Sweden",
+        "city": "http://www.wikidata.org/entity/Q297936",
+        "cityLabel": "Örkelljunga Municipality",
+        "population": "10052"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q34",
+        "countryLabel": "Sweden",
+        "city": "http://www.wikidata.org/entity/Q62464",
+        "cityLabel": "Hofors Municipality",
+        "population": "9648"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q34",
+        "countryLabel": "Sweden",
+        "city": "http://www.wikidata.org/entity/Q500071",
+        "cityLabel": "Avesta Municipality",
+        "population": "23293"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q34",
+        "countryLabel": "Sweden",
+        "city": "http://www.wikidata.org/entity/Q37462",
+        "cityLabel": "Skinnskatteberg Municipality",
+        "population": "4438"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q34",
+        "countryLabel": "Sweden",
+        "city": "http://www.wikidata.org/entity/Q186662",
+        "cityLabel": "Burlöv Municipality",
+        "population": "18131"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q34",
+        "countryLabel": "Sweden",
+        "city": "http://www.wikidata.org/entity/Q182007",
+        "cityLabel": "Alvesta Municipality",
+        "population": "20022"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q34",
+        "countryLabel": "Sweden",
+        "city": "http://www.wikidata.org/entity/Q427422",
+        "cityLabel": "Mariestad Municipality",
+        "population": "24345"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q34",
+        "countryLabel": "Sweden",
+        "city": "http://www.wikidata.org/entity/Q503167",
+        "cityLabel": "Aneby Municipality",
+        "population": "6774"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q34",
+        "countryLabel": "Sweden",
+        "city": "http://www.wikidata.org/entity/Q503132",
+        "cityLabel": "Dals-Ed Municipality",
+        "population": "4750"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q34",
+        "countryLabel": "Sweden",
+        "city": "http://www.wikidata.org/entity/Q59091",
+        "cityLabel": "Uppsala Municipality",
+        "population": "221141"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q34",
+        "countryLabel": "Sweden",
+        "city": "http://www.wikidata.org/entity/Q503214",
+        "cityLabel": "Falköping Municipality",
+        "population": "33075"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q34",
+        "countryLabel": "Sweden",
+        "city": "http://www.wikidata.org/entity/Q123855",
+        "cityLabel": "Älvdalen Municipality",
+        "population": "7096"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q34",
+        "countryLabel": "Sweden",
+        "city": "http://www.wikidata.org/entity/Q297718",
+        "cityLabel": "Örebro Municipality",
+        "population": "150949"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q34",
+        "countryLabel": "Sweden",
+        "city": "http://www.wikidata.org/entity/Q428749",
+        "cityLabel": "Hjo Municipality",
+        "population": "9100"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q34",
+        "countryLabel": "Sweden",
+        "city": "http://www.wikidata.org/entity/Q499393",
+        "cityLabel": "Kil Municipality",
+        "population": "11919"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q34",
+        "countryLabel": "Sweden",
+        "city": "http://www.wikidata.org/entity/Q499435",
+        "cityLabel": "Karlsborg Municipality",
+        "population": "6991"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q34",
+        "countryLabel": "Sweden",
+        "city": "http://www.wikidata.org/entity/Q499474",
+        "cityLabel": "Kiruna Municipality",
+        "population": "23141"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q34",
+        "countryLabel": "Sweden",
+        "city": "http://www.wikidata.org/entity/Q492575",
+        "cityLabel": "Huddinge Municipality",
+        "population": "110335"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q34",
+        "countryLabel": "Sweden",
+        "city": "http://www.wikidata.org/entity/Q271340",
+        "cityLabel": "Åtvidaberg Municipality",
+        "population": "11629"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q34",
+        "countryLabel": "Sweden",
+        "city": "http://www.wikidata.org/entity/Q948462",
+        "cityLabel": "Lycksele municipality",
+        "population": "12263"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q34",
+        "countryLabel": "Sweden",
+        "city": "http://www.wikidata.org/entity/Q177019",
+        "cityLabel": "Luleå Municipality",
+        "population": "77482"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q34",
+        "countryLabel": "Sweden",
+        "city": "http://www.wikidata.org/entity/Q504239",
+        "cityLabel": "Mora Municipality",
+        "population": "20377"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q34",
+        "countryLabel": "Sweden",
+        "city": "http://www.wikidata.org/entity/Q504227",
+        "cityLabel": "Svalöv Municipality",
+        "population": "14062"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q34",
+        "countryLabel": "Sweden",
+        "city": "http://www.wikidata.org/entity/Q271107",
+        "cityLabel": "Ånge Municipality",
+        "population": "9438"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q34",
+        "countryLabel": "Sweden",
+        "city": "http://www.wikidata.org/entity/Q221990",
+        "cityLabel": "Sollefteå Municipality",
+        "population": "19693"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q34",
+        "countryLabel": "Sweden",
+        "city": "http://www.wikidata.org/entity/Q430780",
+        "cityLabel": "Skellefteå Municipality",
+        "population": "72725"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q34",
+        "countryLabel": "Sweden",
+        "city": "http://www.wikidata.org/entity/Q946647",
+        "cityLabel": "Nacka Municipality",
+        "population": "101697"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q34",
+        "countryLabel": "Sweden",
+        "city": "http://www.wikidata.org/entity/Q113673",
+        "cityLabel": "Upplands-Bro Municipality",
+        "population": "28131"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q34",
+        "countryLabel": "Sweden",
+        "city": "http://www.wikidata.org/entity/Q271153",
+        "cityLabel": "Åre Municipality",
+        "population": "11298"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q34",
+        "countryLabel": "Sweden",
+        "city": "http://www.wikidata.org/entity/Q266401",
+        "cityLabel": "Höör Municipality",
+        "population": "16521"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q34",
+        "countryLabel": "Sweden",
+        "city": "http://www.wikidata.org/entity/Q149539",
+        "cityLabel": "Sandviken Municipality",
+        "population": "39175"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q34",
+        "countryLabel": "Sweden",
+        "city": "http://www.wikidata.org/entity/Q145835",
+        "cityLabel": "Söderhamn Municipality",
+        "population": "25698"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q34",
+        "countryLabel": "Sweden",
+        "city": "http://www.wikidata.org/entity/Q239332",
+        "cityLabel": "Gnesta Municipality",
+        "population": "11074"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q34",
+        "countryLabel": "Sweden",
+        "city": "http://www.wikidata.org/entity/Q487648",
+        "cityLabel": "Helsingborg Municipality",
+        "population": "143671"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q34",
+        "countryLabel": "Sweden",
+        "city": "http://www.wikidata.org/entity/Q382808",
+        "cityLabel": "Ulricehamn Municipality",
+        "population": "24320"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q34",
+        "countryLabel": "Sweden",
+        "city": "http://www.wikidata.org/entity/Q117728",
+        "cityLabel": "Österåker Municipality",
+        "population": "44261"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q34",
+        "countryLabel": "Sweden",
+        "city": "http://www.wikidata.org/entity/Q499464",
+        "cityLabel": "Båstad Municipality",
+        "population": "14814"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q34",
+        "countryLabel": "Sweden",
+        "city": "http://www.wikidata.org/entity/Q972564",
+        "cityLabel": "Sundbyberg Municipality",
+        "population": "49598"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q34",
+        "countryLabel": "Sweden",
+        "city": "http://www.wikidata.org/entity/Q240574",
+        "cityLabel": "Markaryd Municipality",
+        "population": "10179"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q34",
+        "countryLabel": "Sweden",
+        "city": "http://www.wikidata.org/entity/Q499441",
+        "cityLabel": "Färgelanda Municipality",
+        "population": "6578"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q34",
+        "countryLabel": "Sweden",
+        "city": "http://www.wikidata.org/entity/Q499410",
+        "cityLabel": "Linköping Municipality",
+        "population": "158953"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q34",
+        "countryLabel": "Sweden",
+        "city": "http://www.wikidata.org/entity/Q493066",
+        "cityLabel": "Täby Municipality",
+        "population": "70651"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q34",
+        "countryLabel": "Sweden",
+        "city": "http://www.wikidata.org/entity/Q499421",
+        "cityLabel": "Skara Municipality",
+        "population": "18860"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q34",
+        "countryLabel": "Sweden",
+        "city": "http://www.wikidata.org/entity/Q374794",
+        "cityLabel": "Gotland Municipality",
+        "population": "58659"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q34",
+        "countryLabel": "Sweden",
+        "city": "http://www.wikidata.org/entity/Q47018",
+        "cityLabel": "Fagersta Municipality",
+        "population": "13413"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q34",
+        "countryLabel": "Sweden",
+        "city": "http://www.wikidata.org/entity/Q47019",
+        "cityLabel": "Hallstahammar Municipality",
+        "population": "16052"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q34",
+        "countryLabel": "Sweden",
+        "city": "http://www.wikidata.org/entity/Q427991",
+        "cityLabel": "Lomma Municipality",
+        "population": "24296"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q34",
+        "countryLabel": "Sweden",
+        "city": "http://www.wikidata.org/entity/Q301259",
+        "cityLabel": "Järfälla Municipality",
+        "population": "76990"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q34",
+        "countryLabel": "Sweden",
+        "city": "http://www.wikidata.org/entity/Q37399",
+        "cityLabel": "Sala Municipality",
+        "population": "22636"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q34",
+        "countryLabel": "Sweden",
+        "city": "http://www.wikidata.org/entity/Q500153",
+        "cityLabel": "Mark Municipality",
+        "population": "34502"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q34",
+        "countryLabel": "Sweden",
+        "city": "http://www.wikidata.org/entity/Q209634",
+        "cityLabel": "Härnösand Municipality",
+        "population": "25227"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q34",
+        "countryLabel": "Sweden",
+        "city": "http://www.wikidata.org/entity/Q338752",
+        "cityLabel": "Orust Municipality",
+        "population": "15048"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q34",
+        "countryLabel": "Sweden",
+        "city": "http://www.wikidata.org/entity/Q487502",
+        "cityLabel": "Laholm Municipality",
+        "population": "25211"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q34",
+        "countryLabel": "Sweden",
+        "city": "http://www.wikidata.org/entity/Q307603",
+        "cityLabel": "Övertorneå Municipality",
+        "population": "4425"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q34",
+        "countryLabel": "Sweden",
+        "city": "http://www.wikidata.org/entity/Q500267",
+        "cityLabel": "Nyköping Municipality",
+        "population": "55552"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q34",
+        "countryLabel": "Sweden",
+        "city": "http://www.wikidata.org/entity/Q263877",
+        "cityLabel": "Huskvarna",
+        "population": "22000"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q34",
+        "countryLabel": "Sweden",
+        "city": "http://www.wikidata.org/entity/Q25732",
+        "cityLabel": "Örebro",
+        "population": "119091"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q34",
+        "countryLabel": "Sweden",
+        "city": "http://www.wikidata.org/entity/Q25411",
+        "cityLabel": "Helsingborg",
+        "population": "108334"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q34",
+        "countryLabel": "Sweden",
+        "city": "http://www.wikidata.org/entity/Q25287",
+        "native": "Göteborg",
+        "cityLabel": "Gothenburg",
+        "population": "590580"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q34",
+        "countryLabel": "Sweden",
+        "city": "http://www.wikidata.org/entity/Q1485924",
+        "native": "Töreboda",
+        "cityLabel": "Töreboda",
+        "population": "4694"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q34",
+        "countryLabel": "Sweden",
+        "city": "http://www.wikidata.org/entity/Q25412",
+        "cityLabel": "Västerås",
+        "population": "121806"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q34",
+        "countryLabel": "Sweden",
+        "city": "http://www.wikidata.org/entity/Q2102400",
+        "cityLabel": "Hjärup",
+        "population": "5001"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q34",
+        "countryLabel": "Sweden",
+        "city": "http://www.wikidata.org/entity/Q1297746",
+        "cityLabel": "Svenljunga",
+        "population": "3683"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q34",
+        "countryLabel": "Sweden",
+        "city": "http://www.wikidata.org/entity/Q911875",
+        "cityLabel": "Höganäs",
+        "population": "15156"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q34",
+        "countryLabel": "Sweden",
+        "city": "http://www.wikidata.org/entity/Q54757",
+        "cityLabel": "Visby",
+        "population": "23845"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q34",
+        "countryLabel": "Sweden",
+        "city": "http://www.wikidata.org/entity/Q992613",
+        "cityLabel": "Säter",
+        "population": "4674"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q34",
+        "countryLabel": "Sweden",
+        "city": "http://www.wikidata.org/entity/Q54758",
+        "cityLabel": "Katrineholm",
+        "population": "23996"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q34",
+        "countryLabel": "Sweden",
+        "city": "http://www.wikidata.org/entity/Q1614296",
+        "cityLabel": "Herrljunga",
+        "population": "4029"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q34",
+        "countryLabel": "Sweden",
+        "city": "http://www.wikidata.org/entity/Q429467",
+        "cityLabel": "Hjo",
+        "population": "6264"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q34",
+        "countryLabel": "Sweden",
+        "city": "http://www.wikidata.org/entity/Q849874",
+        "cityLabel": "Mora",
+        "population": "12789"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q34",
+        "countryLabel": "Sweden",
+        "city": "http://www.wikidata.org/entity/Q27437",
+        "cityLabel": "Mölndal",
+        "population": "37233"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q34",
+        "countryLabel": "Sweden",
+        "city": "http://www.wikidata.org/entity/Q54764",
+        "cityLabel": "Västervik",
+        "population": "17754"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q34",
+        "countryLabel": "Sweden",
+        "city": "http://www.wikidata.org/entity/Q54764",
+        "cityLabel": "Västervik",
+        "population": "18877"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q34",
+        "countryLabel": "Sweden",
+        "city": "http://www.wikidata.org/entity/Q54764",
+        "cityLabel": "Västervik",
+        "population": "20168"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q34",
+        "countryLabel": "Sweden",
+        "city": "http://www.wikidata.org/entity/Q54764",
+        "cityLabel": "Västervik",
+        "population": "21178"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q34",
+        "countryLabel": "Sweden",
+        "city": "http://www.wikidata.org/entity/Q54764",
+        "cityLabel": "Västervik",
+        "population": "21304"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q34",
+        "countryLabel": "Sweden",
+        "city": "http://www.wikidata.org/entity/Q54764",
+        "cityLabel": "Västervik",
+        "population": "21381"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q34",
+        "countryLabel": "Sweden",
+        "city": "http://www.wikidata.org/entity/Q178538",
+        "cityLabel": "Vårgårda",
+        "population": "5574"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q34",
+        "countryLabel": "Sweden",
+        "city": "http://www.wikidata.org/entity/Q748559",
+        "cityLabel": "Strömstad",
+        "population": "7370"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q34",
+        "countryLabel": "Sweden",
+        "city": "http://www.wikidata.org/entity/Q1754",
+        "cityLabel": "Stockholm",
+        "population": "935619"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q34",
+        "countryLabel": "Sweden",
+        "city": "http://www.wikidata.org/entity/Q27999",
+        "cityLabel": "Ulricehamn",
+        "population": "11138"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q34",
+        "countryLabel": "Sweden",
+        "city": "http://www.wikidata.org/entity/Q25286",
+        "cityLabel": "Uppsala",
+        "population": "156854"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q34",
+        "countryLabel": "Sweden",
+        "city": "http://www.wikidata.org/entity/Q760222",
+        "cityLabel": "Karlsborg",
+        "population": "3757"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q34",
+        "countryLabel": "Sweden",
+        "city": "http://www.wikidata.org/entity/Q25413",
+        "cityLabel": "Linköping",
+        "population": "110233"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q34",
+        "countryLabel": "Sweden",
+        "city": "http://www.wikidata.org/entity/Q41992",
+        "cityLabel": "Kungsör",
+        "population": "6118"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q34",
+        "countryLabel": "Sweden",
+        "city": "http://www.wikidata.org/entity/Q823785",
+        "cityLabel": "Ronneby",
+        "population": "13076"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q34",
+        "countryLabel": "Sweden",
+        "city": "http://www.wikidata.org/entity/Q2211",
+        "cityLabel": "Malmö",
+        "population": "312012"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q34",
+        "countryLabel": "Sweden",
+        "city": "http://www.wikidata.org/entity/Q983889",
+        "cityLabel": "Tidaholm",
+        "population": "8247"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q34",
+        "countryLabel": "Sweden",
+        "city": "http://www.wikidata.org/entity/Q1017565",
+        "cityLabel": "Tibro",
+        "population": "8483"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q34",
+        "countryLabel": "Sweden",
+        "city": "http://www.wikidata.org/entity/Q2476667",
+        "cityLabel": "Glumslöv",
+        "population": "2205"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q34",
+        "countryLabel": "Sweden",
+        "city": "http://www.wikidata.org/entity/Q654299",
+        "cityLabel": "Nässjö",
+        "population": "18232"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q34",
+        "countryLabel": "Sweden",
+        "city": "http://www.wikidata.org/entity/Q538915",
+        "cityLabel": "Mjölby",
+        "population": "13206"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q34",
+        "countryLabel": "Sweden",
+        "city": "http://www.wikidata.org/entity/Q985617",
+        "cityLabel": "Fagersta",
+        "population": "12025"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q34",
+        "countryLabel": "Sweden",
+        "city": "http://www.wikidata.org/entity/Q1566951",
+        "cityLabel": "Habo",
+        "population": "8039"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q34",
+        "countryLabel": "Sweden",
+        "city": "http://www.wikidata.org/entity/Q54771",
+        "cityLabel": "Värnamo",
+        "population": "19569"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q34",
+        "countryLabel": "Sweden",
+        "city": "http://www.wikidata.org/entity/Q1000129",
+        "cityLabel": "Finspång",
+        "population": "13124"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q34",
+        "countryLabel": "Sweden",
+        "city": "http://www.wikidata.org/entity/Q1864024",
+        "cityLabel": "Tranemo",
+        "population": "3278"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q34",
+        "countryLabel": "Sweden",
+        "city": "http://www.wikidata.org/entity/Q667818",
+        "cityLabel": "Kinna",
+        "population": "15214"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q34",
+        "countryLabel": "Sweden",
+        "city": "http://www.wikidata.org/entity/Q939389",
+        "cityLabel": "Skara",
+        "population": "11652"
+    }
+]

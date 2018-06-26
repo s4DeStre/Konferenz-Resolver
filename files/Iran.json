@@ -1,0 +1,698 @@
+[
+    {
+        "country": "http://www.wikidata.org/entity/Q794",
+        "countryLabel": "Iran",
+        "city": "http://www.wikidata.org/entity/Q888197",
+        "native": "بيرم",
+        "cityLabel": "Beyram",
+        "population": "6520"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q794",
+        "countryLabel": "Iran",
+        "city": "http://www.wikidata.org/entity/Q2421238",
+        "native": "شهرستان آبیک",
+        "cityLabel": "Khak-e Ali",
+        "population": "104417"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q794",
+        "countryLabel": "Iran",
+        "city": "http://www.wikidata.org/entity/Q192928",
+        "native": "آباده",
+        "cityLabel": "Abadeh",
+        "population": "55758"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q794",
+        "countryLabel": "Iran",
+        "city": "http://www.wikidata.org/entity/Q180103",
+        "cityLabel": "Ardabil",
+        "population": "482632"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q794",
+        "countryLabel": "Iran",
+        "city": "http://www.wikidata.org/entity/Q3702463",
+        "cityLabel": "Daqdaqabad",
+        "population": "4879"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q794",
+        "countryLabel": "Iran",
+        "city": "http://www.wikidata.org/entity/Q605224",
+        "cityLabel": "Sirjan",
+        "population": "199704"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q794",
+        "countryLabel": "Iran",
+        "city": "http://www.wikidata.org/entity/Q631517",
+        "cityLabel": "Marivan",
+        "population": "110464"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q794",
+        "countryLabel": "Iran",
+        "city": "http://www.wikidata.org/entity/Q4576750",
+        "cityLabel": "Bardaskan",
+        "population": "28233"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q794",
+        "countryLabel": "Iran",
+        "city": "http://www.wikidata.org/entity/Q2556849",
+        "cityLabel": "Poldasht",
+        "population": "11472"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q794",
+        "countryLabel": "Iran",
+        "city": "http://www.wikidata.org/entity/Q146699",
+        "cityLabel": "Zanjan",
+        "population": "433475"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q794",
+        "countryLabel": "Iran",
+        "city": "http://www.wikidata.org/entity/Q765582",
+        "native": "سرپل ذهاب",
+        "cityLabel": "Sarpol-e Zahab",
+        "population": "34632"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q794",
+        "countryLabel": "Iran",
+        "city": "http://www.wikidata.org/entity/Q3616",
+        "cityLabel": "Tehran",
+        "population": "8846782"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q794",
+        "countryLabel": "Iran",
+        "city": "http://www.wikidata.org/entity/Q36529",
+        "native": "کرج",
+        "cityLabel": "Karaj",
+        "population": "1592492"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q794",
+        "countryLabel": "Iran",
+        "city": "http://www.wikidata.org/entity/Q888767",
+        "cityLabel": "Safiabad",
+        "population": "8054"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q794",
+        "countryLabel": "Iran",
+        "city": "http://www.wikidata.org/entity/Q42053",
+        "native": "اصفهان",
+        "cityLabel": "Isfahan",
+        "population": "1756126"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q794",
+        "countryLabel": "Iran",
+        "city": "http://www.wikidata.org/entity/Q4092880",
+        "cityLabel": "Greater Tehran",
+        "population": "13805000"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q794",
+        "countryLabel": "Iran",
+        "city": "http://www.wikidata.org/entity/Q765806",
+        "cityLabel": "Salmas",
+        "population": "79560"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q794",
+        "countryLabel": "Iran",
+        "city": "http://www.wikidata.org/entity/Q170366",
+        "cityLabel": "Ahvaz",
+        "population": "1112021"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q794",
+        "countryLabel": "Iran",
+        "city": "http://www.wikidata.org/entity/Q2538472",
+        "cityLabel": "Malard",
+        "population": "228673"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q794",
+        "countryLabel": "Iran",
+        "city": "http://www.wikidata.org/entity/Q317946",
+        "cityLabel": "Bojnord",
+        "population": "199791"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q794",
+        "countryLabel": "Iran",
+        "city": "http://www.wikidata.org/entity/Q765553",
+        "cityLabel": "Sabzevar",
+        "population": "243700"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q794",
+        "countryLabel": "Iran",
+        "city": "http://www.wikidata.org/entity/Q862390",
+        "native": "مورمورئ",
+        "cityLabel": "Murmuri",
+        "population": "3491"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q794",
+        "countryLabel": "Iran",
+        "city": "http://www.wikidata.org/entity/Q116115",
+        "native": "شهرستان آران و بیدگل",
+        "cityLabel": "Aran va Bidgol County",
+        "population": "89961"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q794",
+        "countryLabel": "Iran",
+        "city": "http://www.wikidata.org/entity/Q2437702",
+        "native": "چهارباغ",
+        "cityLabel": "Chaharbagh",
+        "population": "5577"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q794",
+        "countryLabel": "Iran",
+        "city": "http://www.wikidata.org/entity/Q106636",
+        "cityLabel": "Bam",
+        "population": "127396"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q794",
+        "countryLabel": "Iran",
+        "city": "http://www.wikidata.org/entity/Q968057",
+        "native": "اهرم",
+        "cityLabel": "Ahram",
+        "population": "12182"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q794",
+        "countryLabel": "Iran",
+        "city": "http://www.wikidata.org/entity/Q2620419",
+        "native": "بنارویه",
+        "cityLabel": "Banaruiyeh",
+        "population": "9318"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q794",
+        "countryLabel": "Iran",
+        "city": "http://www.wikidata.org/entity/Q861922",
+        "cityLabel": "Bandar Rig",
+        "population": "5257"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q794",
+        "countryLabel": "Iran",
+        "city": "http://www.wikidata.org/entity/Q193806",
+        "cityLabel": "Birjand",
+        "population": "178020"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q794",
+        "countryLabel": "Iran",
+        "city": "http://www.wikidata.org/entity/Q888697",
+        "cityLabel": "Ramhormoz",
+        "population": "49822"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q794",
+        "countryLabel": "Iran",
+        "city": "http://www.wikidata.org/entity/Q147736",
+        "native": "زرند",
+        "cityLabel": "Zarand, Iran",
+        "population": "63744"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q794",
+        "countryLabel": "Iran",
+        "city": "http://www.wikidata.org/entity/Q168843",
+        "cityLabel": "Sari",
+        "population": "296417"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q794",
+        "countryLabel": "Iran",
+        "city": "http://www.wikidata.org/entity/Q430308",
+        "cityLabel": "Izeh",
+        "population": "119399"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q794",
+        "countryLabel": "Iran",
+        "city": "http://www.wikidata.org/entity/Q721060",
+        "cityLabel": "Kazerun",
+        "population": "143869"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q794",
+        "countryLabel": "Iran",
+        "city": "http://www.wikidata.org/entity/Q154814",
+        "native": "بندر عباس",
+        "cityLabel": "Bandar Abbas",
+        "population": "435751"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q794",
+        "countryLabel": "Iran",
+        "city": "http://www.wikidata.org/entity/Q4358639",
+        "native": "گلسار",
+        "cityLabel": "Golsar",
+        "population": "11013"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q794",
+        "countryLabel": "Iran",
+        "city": "http://www.wikidata.org/entity/Q221883",
+        "cityLabel": "Kish Island",
+        "population": "20667"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q794",
+        "countryLabel": "Iran",
+        "city": "http://www.wikidata.org/entity/Q5790729",
+        "cityLabel": "Banureh",
+        "population": "3043"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q794",
+        "countryLabel": "Iran",
+        "city": "http://www.wikidata.org/entity/Q6397066",
+        "cityLabel": "Shiraz",
+        "population": "1460665"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q794",
+        "countryLabel": "Iran",
+        "city": "http://www.wikidata.org/entity/Q861903",
+        "native": "صائين قلعه",
+        "cityLabel": "Sain Qaleh",
+        "population": "11083"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q794",
+        "countryLabel": "Iran",
+        "city": "http://www.wikidata.org/entity/Q720053",
+        "cityLabel": "Damghan",
+        "population": "57331"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q794",
+        "countryLabel": "Iran",
+        "city": "http://www.wikidata.org/entity/Q862466",
+        "cityLabel": "Chabahar",
+        "population": "71070"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q794",
+        "countryLabel": "Iran",
+        "city": "http://www.wikidata.org/entity/Q240719",
+        "cityLabel": "Qeshm",
+        "population": "113846"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q794",
+        "countryLabel": "Iran",
+        "city": "http://www.wikidata.org/entity/Q178373",
+        "cityLabel": "Rasht",
+        "population": "639951"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q794",
+        "countryLabel": "Iran",
+        "city": "http://www.wikidata.org/entity/Q188155",
+        "native": "گرگان",
+        "cityLabel": "Gorgan",
+        "population": "312223"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q794",
+        "countryLabel": "Iran",
+        "city": "http://www.wikidata.org/entity/Q348972",
+        "native": "سقز",
+        "cityLabel": "Saqqez",
+        "population": "131349"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q794",
+        "countryLabel": "Iran",
+        "city": "http://www.wikidata.org/entity/Q171714",
+        "cityLabel": "Kerman",
+        "population": "573449"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q794",
+        "countryLabel": "Iran",
+        "city": "http://www.wikidata.org/entity/Q2630688",
+        "cityLabel": "Rezvanshahr",
+        "population": "12355"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q794",
+        "countryLabel": "Iran",
+        "city": "http://www.wikidata.org/entity/Q721029",
+        "native": "لار",
+        "cityLabel": "Lar",
+        "population": "66377"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q794",
+        "countryLabel": "Iran",
+        "city": "http://www.wikidata.org/entity/Q1026053",
+        "native": "شهر جدید هشتگرد",
+        "cityLabel": "Shahr-e Jadid-e Hashtgerd",
+        "population": "15619"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q794",
+        "countryLabel": "Iran",
+        "city": "http://www.wikidata.org/entity/Q643172",
+        "native": "مسجد سلیمان",
+        "cityLabel": "Masjed Soleyman",
+        "population": "100497"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q794",
+        "countryLabel": "Iran",
+        "city": "http://www.wikidata.org/entity/Q888291",
+        "native": "آباده طشک",
+        "cityLabel": "Abadeh Tashk",
+        "population": "6213"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q794",
+        "countryLabel": "Iran",
+        "city": "http://www.wikidata.org/entity/Q179665",
+        "cityLabel": "Urmia",
+        "population": "667499"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q794",
+        "countryLabel": "Iran",
+        "city": "http://www.wikidata.org/entity/Q384585",
+        "native": "ارد",
+        "cityLabel": "Arad, Iran",
+        "population": "5264"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q794",
+        "countryLabel": "Iran",
+        "city": "http://www.wikidata.org/entity/Q605209",
+        "native": "ملاير",
+        "cityLabel": "Malayer",
+        "population": "153748"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q794",
+        "countryLabel": "Iran",
+        "city": "http://www.wikidata.org/entity/Q502212",
+        "cityLabel": "Khorramabad",
+        "population": "348216"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q794",
+        "countryLabel": "Iran",
+        "city": "http://www.wikidata.org/entity/Q2570924",
+        "cityLabel": "Nazarabad",
+        "population": "119512"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q794",
+        "countryLabel": "Iran",
+        "city": "http://www.wikidata.org/entity/Q28587",
+        "cityLabel": "Hamadan",
+        "population": "525794"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q794",
+        "countryLabel": "Iran",
+        "city": "http://www.wikidata.org/entity/Q2151629",
+        "cityLabel": "Fuman",
+        "population": "27763"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q794",
+        "countryLabel": "Iran",
+        "city": "http://www.wikidata.org/entity/Q643430",
+        "cityLabel": "Baneh",
+        "population": "69635"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q794",
+        "countryLabel": "Iran",
+        "city": "http://www.wikidata.org/entity/Q2634871",
+        "native": "چلگرد",
+        "cityLabel": "Chelgard",
+        "population": "2708"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q794",
+        "countryLabel": "Iran",
+        "city": "http://www.wikidata.org/entity/Q888803",
+        "native": "اکبرآباد",
+        "cityLabel": "Q888803",
+        "population": "5837"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q794",
+        "countryLabel": "Iran",
+        "city": "http://www.wikidata.org/entity/Q63049",
+        "native": "آبادان",
+        "cityLabel": "Abadan",
+        "population": "231476"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q794",
+        "countryLabel": "Iran",
+        "city": "http://www.wikidata.org/entity/Q888259",
+        "native": "بهمن",
+        "cityLabel": "Bahman",
+        "population": "6484"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q794",
+        "countryLabel": "Iran",
+        "city": "http://www.wikidata.org/entity/Q720298",
+        "native": "بندر گناوه",
+        "cityLabel": "Bandar Ganaveh",
+        "population": "64110"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q794",
+        "countryLabel": "Iran",
+        "city": "http://www.wikidata.org/entity/Q158928",
+        "cityLabel": "Bushehr",
+        "population": "195222"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q794",
+        "countryLabel": "Iran",
+        "city": "http://www.wikidata.org/entity/Q4359081",
+        "cityLabel": "Jebalbarez",
+        "population": "2639"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q794",
+        "countryLabel": "Iran",
+        "city": "http://www.wikidata.org/entity/Q2629400",
+        "cityLabel": "Pardis",
+        "population": "169060"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q794",
+        "countryLabel": "Iran",
+        "city": "http://www.wikidata.org/entity/Q2620904",
+        "native": "كميجان",
+        "cityLabel": "Komijan",
+        "population": "7358"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q794",
+        "countryLabel": "Iran",
+        "city": "http://www.wikidata.org/entity/Q2610892",
+        "native": "سعداباد",
+        "cityLabel": "Sadabad",
+        "population": "7119"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q794",
+        "countryLabel": "Iran",
+        "city": "http://www.wikidata.org/entity/Q1816961",
+        "native": "ماهان",
+        "cityLabel": "Mahan",
+        "population": "19002"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q794",
+        "countryLabel": "Iran",
+        "city": "http://www.wikidata.org/entity/Q643207",
+        "cityLabel": "Behbahan",
+        "population": "99204"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q794",
+        "countryLabel": "Iran",
+        "city": "http://www.wikidata.org/entity/Q609422",
+        "cityLabel": "Taleqan",
+        "population": "3281"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q794",
+        "countryLabel": "Iran",
+        "city": "http://www.wikidata.org/entity/Q131350",
+        "native": "نیشابور",
+        "cityLabel": "Nishapur",
+        "population": "276089"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q794",
+        "countryLabel": "Iran",
+        "city": "http://www.wikidata.org/entity/Q967688",
+        "cityLabel": "Robat Karim",
+        "population": "105393"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q794",
+        "countryLabel": "Iran",
+        "city": "http://www.wikidata.org/entity/Q888941",
+        "cityLabel": "Charam",
+        "population": "17213"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q794",
+        "countryLabel": "Iran",
+        "city": "http://www.wikidata.org/entity/Q182394",
+        "native": "یزد",
+        "cityLabel": "Yazd",
+        "population": "486152"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q794",
+        "countryLabel": "Iran",
+        "city": "http://www.wikidata.org/entity/Q499470",
+        "cityLabel": "Ilam",
+        "population": "172213"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q794",
+        "countryLabel": "Iran",
+        "city": "http://www.wikidata.org/entity/Q862519",
+        "cityLabel": "Eslamshahr",
+        "population": "548620"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q794",
+        "countryLabel": "Iran",
+        "city": "http://www.wikidata.org/entity/Q170573",
+        "native": "قم",
+        "cityLabel": "Qom",
+        "population": "1292283"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q794",
+        "countryLabel": "Iran",
+        "city": "http://www.wikidata.org/entity/Q2437207",
+        "native": "کوهسار",
+        "cityLabel": "Kuhsar",
+        "population": "7757"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q794",
+        "countryLabel": "Iran",
+        "city": "http://www.wikidata.org/entity/Q272093",
+        "cityLabel": "Sanandaj",
+        "population": "373987"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q794",
+        "countryLabel": "Iran",
+        "city": "http://www.wikidata.org/entity/Q180078",
+        "cityLabel": "Kermanshah",
+        "population": "851405"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q794",
+        "countryLabel": "Iran",
+        "city": "http://www.wikidata.org/entity/Q765528",
+        "cityLabel": "Torbat-e Heydarieh",
+        "population": "119360"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q794",
+        "countryLabel": "Iran",
+        "city": "http://www.wikidata.org/entity/Q1975291",
+        "cityLabel": "Gonbad-e Qabus",
+        "population": "127167"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q794",
+        "countryLabel": "Iran",
+        "city": "http://www.wikidata.org/entity/Q203045",
+        "cityLabel": "Semnan",
+        "population": "153680"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q794",
+        "countryLabel": "Iran",
+        "city": "http://www.wikidata.org/entity/Q1768817",
+        "native": "سوق",
+        "cityLabel": "Suq",
+        "population": "5890"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q794",
+        "countryLabel": "Iran",
+        "city": "http://www.wikidata.org/entity/Q80053",
+        "native": "تبریز",
+        "cityLabel": "Tabriz",
+        "population": "1494998"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q794",
+        "countryLabel": "Iran",
+        "city": "http://www.wikidata.org/entity/Q212628",
+        "native": "اراک",
+        "cityLabel": "Arak",
+        "population": "484212"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q794",
+        "countryLabel": "Iran",
+        "city": "http://www.wikidata.org/entity/Q383129",
+        "cityLabel": "Yasuj",
+        "population": "108505"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q794",
+        "countryLabel": "Iran",
+        "city": "http://www.wikidata.org/entity/Q181578",
+        "cityLabel": "Qazvin",
+        "population": "381598"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q794",
+        "countryLabel": "Iran",
+        "city": "http://www.wikidata.org/entity/Q140561",
+        "cityLabel": "Zahedan",
+        "population": "560725"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q794",
+        "countryLabel": "Iran",
+        "city": "http://www.wikidata.org/entity/Q386649",
+        "cityLabel": "Shahrekord",
+        "population": "159775"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q794",
+        "countryLabel": "Iran",
+        "city": "http://www.wikidata.org/entity/Q121157",
+        "cityLabel": "Mashhad",
+        "population": "3001184"
+    }
+]

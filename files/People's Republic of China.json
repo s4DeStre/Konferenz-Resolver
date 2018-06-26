@@ -1,0 +1,2083 @@
+[
+    {
+        "country": "http://www.wikidata.org/entity/Q148",
+        "countryLabel": "People's Republic of China",
+        "city": "http://www.wikidata.org/entity/Q427367",
+        "cityLabel": "Guang'an",
+        "population": "3723000"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q148",
+        "countryLabel": "People's Republic of China",
+        "city": "http://www.wikidata.org/entity/Q68814",
+        "cityLabel": "Zhangzhou",
+        "population": "3760000"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q148",
+        "countryLabel": "People's Republic of China",
+        "city": "http://www.wikidata.org/entity/Q179608",
+        "cityLabel": "Nanning",
+        "population": "6825000"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q148",
+        "countryLabel": "People's Republic of China",
+        "city": "http://www.wikidata.org/entity/Q569907",
+        "cityLabel": "Baotou",
+        "population": "2700000"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q148",
+        "countryLabel": "People's Republic of China",
+        "city": "http://www.wikidata.org/entity/Q42780",
+        "cityLabel": "Ningbo",
+        "population": "7639000"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q148",
+        "countryLabel": "People's Republic of China",
+        "city": "http://www.wikidata.org/entity/Q427097",
+        "cityLabel": "Meishan",
+        "population": "3020000"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q148",
+        "countryLabel": "People's Republic of China",
+        "city": "http://www.wikidata.org/entity/Q57756",
+        "cityLabel": "Lianyungang",
+        "population": "4790000"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q148",
+        "countryLabel": "People's Republic of China",
+        "city": "http://www.wikidata.org/entity/Q71323",
+        "cityLabel": "Jingmen City",
+        "population": "2839000"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q148",
+        "countryLabel": "People's Republic of China",
+        "city": "http://www.wikidata.org/entity/Q92277",
+        "cityLabel": "Jilin City",
+        "population": "4500000"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q148",
+        "countryLabel": "People's Republic of China",
+        "city": "http://www.wikidata.org/entity/Q426130",
+        "cityLabel": "Mianyang",
+        "population": "4945000"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q148",
+        "countryLabel": "People's Republic of China",
+        "city": "http://www.wikidata.org/entity/Q71339",
+        "cityLabel": "Xiaogan",
+        "population": "4665000"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q148",
+        "countryLabel": "People's Republic of China",
+        "city": "http://www.wikidata.org/entity/Q73073",
+        "cityLabel": "Yuncheng",
+        "population": "4860000"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q148",
+        "countryLabel": "People's Republic of China",
+        "city": "http://www.wikidata.org/entity/Q198370",
+        "cityLabel": "Zibo",
+        "population": "4530597"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q148",
+        "countryLabel": "People's Republic of China",
+        "city": "http://www.wikidata.org/entity/Q956",
+        "native": "北京市",
+        "cityLabel": "Beijing",
+        "population": "21710000"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q148",
+        "countryLabel": "People's Republic of China",
+        "city": "http://www.wikidata.org/entity/Q216077",
+        "cityLabel": "Jiu\u200bjiang",
+        "population": "4728778"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q148",
+        "countryLabel": "People's Republic of China",
+        "city": "http://www.wikidata.org/entity/Q59184",
+        "cityLabel": "Meizhou",
+        "population": "5001000"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q148",
+        "countryLabel": "People's Republic of China",
+        "city": "http://www.wikidata.org/entity/Q194531",
+        "cityLabel": "Shaoyang",
+        "population": "7071000"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q148",
+        "countryLabel": "People's Republic of China",
+        "city": "http://www.wikidata.org/entity/Q30002",
+        "cityLabel": "Chengdu",
+        "population": "11050000"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q148",
+        "countryLabel": "People's Republic of China",
+        "city": "http://www.wikidata.org/entity/Q30340",
+        "cityLabel": "Zhengzhou",
+        "population": "7005000"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q148",
+        "countryLabel": "People's Republic of China",
+        "city": "http://www.wikidata.org/entity/Q425996",
+        "cityLabel": "Deyang",
+        "population": "3636000"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q148",
+        "countryLabel": "People's Republic of China",
+        "city": "http://www.wikidata.org/entity/Q186006",
+        "cityLabel": "Dingxi",
+        "population": "2930000"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q148",
+        "countryLabel": "People's Republic of China",
+        "city": "http://www.wikidata.org/entity/Q74881",
+        "native": "大連",
+        "cityLabel": "Dalian",
+        "population": "4480000"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q148",
+        "countryLabel": "People's Republic of China",
+        "city": "http://www.wikidata.org/entity/Q92161",
+        "cityLabel": "Changchun",
+        "population": "7674439"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q148",
+        "countryLabel": "People's Republic of China",
+        "city": "http://www.wikidata.org/entity/Q373101",
+        "cityLabel": "Rizhao",
+        "population": "2720000"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q148",
+        "countryLabel": "People's Republic of China",
+        "city": "http://www.wikidata.org/entity/Q14773",
+        "cityLabel": "Macau",
+        "population": "566375"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q148",
+        "countryLabel": "People's Republic of China",
+        "city": "http://www.wikidata.org/entity/Q58650",
+        "cityLabel": "Zhangjiakou",
+        "population": "4345491"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q148",
+        "countryLabel": "People's Republic of China",
+        "city": "http://www.wikidata.org/entity/Q34750",
+        "cityLabel": "Fuxin",
+        "population": "1930000"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q148",
+        "countryLabel": "People's Republic of China",
+        "city": "http://www.wikidata.org/entity/Q570829",
+        "cityLabel": "Chifeng",
+        "population": "4376600"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q148",
+        "countryLabel": "People's Republic of China",
+        "city": "http://www.wikidata.org/entity/Q58422",
+        "cityLabel": "Tangshan",
+        "population": "7100000"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q148",
+        "countryLabel": "People's Republic of China",
+        "city": "http://www.wikidata.org/entity/Q75379",
+        "cityLabel": "Huludao",
+        "population": "2787000"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q148",
+        "countryLabel": "People's Republic of China",
+        "city": "http://www.wikidata.org/entity/Q533157",
+        "cityLabel": "Tianshui",
+        "population": "3400000"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q148",
+        "countryLabel": "People's Republic of China",
+        "city": "http://www.wikidata.org/entity/Q58695",
+        "cityLabel": "Cangzhou",
+        "population": "6800000"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q148",
+        "countryLabel": "People's Republic of China",
+        "city": "http://www.wikidata.org/entity/Q192271",
+        "cityLabel": "Gui\u200byang",
+        "population": "4365000"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q148",
+        "countryLabel": "People's Republic of China",
+        "city": "http://www.wikidata.org/entity/Q58724",
+        "cityLabel": "Hengshui",
+        "population": "4150000"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q148",
+        "countryLabel": "People's Republic of China",
+        "city": "http://www.wikidata.org/entity/Q16572",
+        "cityLabel": "Guangzhou",
+        "population": "13080500"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q148",
+        "countryLabel": "People's Republic of China",
+        "city": "http://www.wikidata.org/entity/Q59173",
+        "cityLabel": "Huizhou",
+        "population": "3875000"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q148",
+        "countryLabel": "People's Republic of China",
+        "city": "http://www.wikidata.org/entity/Q372414",
+        "cityLabel": "Dongying",
+        "population": "1790000"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q148",
+        "countryLabel": "People's Republic of China",
+        "city": "http://www.wikidata.org/entity/Q59132",
+        "cityLabel": "Jiangmen",
+        "population": "4448871"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q148",
+        "countryLabel": "People's Republic of China",
+        "city": "http://www.wikidata.org/entity/Q57906",
+        "cityLabel": "Yangzhou",
+        "population": "4459000"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q148",
+        "countryLabel": "People's Republic of China",
+        "city": "http://www.wikidata.org/entity/Q360702",
+        "cityLabel": "Lu'an",
+        "population": "6090000"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q148",
+        "countryLabel": "People's Republic of China",
+        "city": "http://www.wikidata.org/entity/Q208471",
+        "cityLabel": "Kaifeng",
+        "population": "4676159"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q148",
+        "countryLabel": "People's Republic of China",
+        "city": "http://www.wikidata.org/entity/Q304848",
+        "cityLabel": "Daqing",
+        "population": "2904532"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q148",
+        "countryLabel": "People's Republic of China",
+        "city": "http://www.wikidata.org/entity/Q373687",
+        "cityLabel": "Binzhou",
+        "population": "3779200"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q148",
+        "countryLabel": "People's Republic of China",
+        "city": "http://www.wikidata.org/entity/Q404873",
+        "cityLabel": "Xinyang",
+        "population": "6634000"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q148",
+        "countryLabel": "People's Republic of China",
+        "city": "http://www.wikidata.org/entity/Q42651",
+        "cityLabel": "Wuxi",
+        "population": "4580000"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q148",
+        "countryLabel": "People's Republic of China",
+        "city": "http://www.wikidata.org/entity/Q71305",
+        "cityLabel": "Ezhou",
+        "population": "1031000"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q148",
+        "countryLabel": "People's Republic of China",
+        "city": "http://www.wikidata.org/entity/Q360069",
+        "cityLabel": "Bengbu",
+        "population": "3525000"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q148",
+        "countryLabel": "People's Republic of China",
+        "city": "http://www.wikidata.org/entity/Q42956",
+        "native": "ᡥᠠᡵᠪᡳᠨ",
+        "cityLabel": "Harbin",
+        "population": "5015000"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q148",
+        "countryLabel": "People's Republic of China",
+        "city": "http://www.wikidata.org/entity/Q5826",
+        "cityLabel": "Xi'an",
+        "population": "5740000"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q148",
+        "countryLabel": "People's Republic of China",
+        "city": "http://www.wikidata.org/entity/Q59144",
+        "cityLabel": "Zhanjiang",
+        "population": "6900000"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q148",
+        "countryLabel": "People's Republic of China",
+        "city": "http://www.wikidata.org/entity/Q11746",
+        "cityLabel": "Wuhan",
+        "population": "7895000"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q148",
+        "countryLabel": "People's Republic of China",
+        "city": "http://www.wikidata.org/entity/Q868527",
+        "cityLabel": "Turpan",
+        "population": "589609"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q148",
+        "countryLabel": "People's Republic of China",
+        "city": "http://www.wikidata.org/entity/Q868527",
+        "cityLabel": "Turpan",
+        "population": "622903"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q148",
+        "countryLabel": "People's Republic of China",
+        "city": "http://www.wikidata.org/entity/Q73119",
+        "cityLabel": "Xinzhou",
+        "population": "2950000"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q148",
+        "countryLabel": "People's Republic of China",
+        "city": "http://www.wikidata.org/entity/Q359990",
+        "cityLabel": "Wuhu",
+        "population": "3842100"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q148",
+        "countryLabel": "People's Republic of China",
+        "city": "http://www.wikidata.org/entity/Q58560",
+        "cityLabel": "Qinhuangdao",
+        "population": "2800000"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q148",
+        "countryLabel": "People's Republic of China",
+        "city": "http://www.wikidata.org/entity/Q174091",
+        "cityLabel": "Changsha",
+        "population": "7044118"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q148",
+        "countryLabel": "People's Republic of China",
+        "city": "http://www.wikidata.org/entity/Q515712",
+        "cityLabel": "Yulin",
+        "population": "3328000"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q148",
+        "countryLabel": "People's Republic of China",
+        "city": "http://www.wikidata.org/entity/Q74881",
+        "native": "大连",
+        "cityLabel": "Dalian",
+        "population": "4480000"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q148",
+        "countryLabel": "People's Republic of China",
+        "city": "http://www.wikidata.org/entity/Q416748",
+        "cityLabel": "Chenzhou",
+        "population": "4385000"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q148",
+        "countryLabel": "People's Republic of China",
+        "city": "http://www.wikidata.org/entity/Q42635",
+        "cityLabel": "Wenzhou",
+        "population": "4310000"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q148",
+        "countryLabel": "People's Republic of China",
+        "city": "http://www.wikidata.org/entity/Q514796",
+        "cityLabel": "Baoji",
+        "population": "3738700"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q148",
+        "countryLabel": "People's Republic of China",
+        "city": "http://www.wikidata.org/entity/Q16666",
+        "native": "南京",
+        "cityLabel": "Nanjing",
+        "population": "6320000"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q148",
+        "countryLabel": "People's Republic of China",
+        "city": "http://www.wikidata.org/entity/Q58210",
+        "cityLabel": "Jinhua",
+        "population": "4610000"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q148",
+        "countryLabel": "People's Republic of China",
+        "city": "http://www.wikidata.org/entity/Q217646",
+        "cityLabel": "Mudanjiang",
+        "population": "2790000"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q148",
+        "countryLabel": "People's Republic of China",
+        "city": "http://www.wikidata.org/entity/Q73156",
+        "cityLabel": "Linfen",
+        "population": "4316610"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q148",
+        "countryLabel": "People's Republic of China",
+        "city": "http://www.wikidata.org/entity/Q38927",
+        "cityLabel": "Maoming",
+        "population": "6706000"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q148",
+        "countryLabel": "People's Republic of China",
+        "city": "http://www.wikidata.org/entity/Q68695",
+        "cityLabel": "Quanzhou",
+        "population": "6480000"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q148",
+        "countryLabel": "People's Republic of China",
+        "city": "http://www.wikidata.org/entity/Q571918",
+        "cityLabel": "Yulin",
+        "population": "5598000"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q148",
+        "countryLabel": "People's Republic of China",
+        "city": "http://www.wikidata.org/entity/Q572089",
+        "cityLabel": "Hechi",
+        "population": "3784000"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q148",
+        "countryLabel": "People's Republic of China",
+        "city": "http://www.wikidata.org/entity/Q182852",
+        "cityLabel": "Kunming",
+        "population": "6250000"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q148",
+        "countryLabel": "People's Republic of China",
+        "city": "http://www.wikidata.org/entity/Q486319",
+        "cityLabel": "Bijie",
+        "population": "6959000"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q148",
+        "countryLabel": "People's Republic of China",
+        "city": "http://www.wikidata.org/entity/Q571808",
+        "cityLabel": "Guigang",
+        "population": "4225000"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q148",
+        "countryLabel": "People's Republic of China",
+        "city": "http://www.wikidata.org/entity/Q71266",
+        "cityLabel": "Yichang",
+        "population": "4115000"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q148",
+        "countryLabel": "People's Republic of China",
+        "city": "http://www.wikidata.org/entity/Q571949",
+        "cityLabel": "Baise",
+        "population": "3859000"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q148",
+        "countryLabel": "People's Republic of China",
+        "city": "http://www.wikidata.org/entity/Q57970",
+        "cityLabel": "Changzhou",
+        "population": "3570000"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q148",
+        "countryLabel": "People's Republic of China",
+        "city": "http://www.wikidata.org/entity/Q57958",
+        "cityLabel": "Zhenjiang",
+        "population": "3113384"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q148",
+        "countryLabel": "People's Republic of China",
+        "city": "http://www.wikidata.org/entity/Q426868",
+        "cityLabel": "Leshan",
+        "population": "3364000"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q148",
+        "countryLabel": "People's Republic of China",
+        "city": "http://www.wikidata.org/entity/Q8686",
+        "cityLabel": "Shanghai",
+        "population": "23390000"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q148",
+        "countryLabel": "People's Republic of China",
+        "city": "http://www.wikidata.org/entity/Q68481",
+        "cityLabel": "Fuzhou",
+        "population": "5245000"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q148",
+        "countryLabel": "People's Republic of China",
+        "city": "http://www.wikidata.org/entity/Q187136",
+        "cityLabel": "Luoyang",
+        "population": "6549941"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q148",
+        "countryLabel": "People's Republic of China",
+        "city": "http://www.wikidata.org/entity/Q416922",
+        "cityLabel": "Huaihua",
+        "population": "4558000"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q148",
+        "countryLabel": "People's Republic of China",
+        "city": "http://www.wikidata.org/entity/Q426237",
+        "cityLabel": "Guangyuan",
+        "population": "3074000"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q148",
+        "countryLabel": "People's Republic of China",
+        "city": "http://www.wikidata.org/entity/Q404429",
+        "cityLabel": "Jiaozuo",
+        "population": "3540101"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q148",
+        "countryLabel": "People's Republic of China",
+        "city": "http://www.wikidata.org/entity/Q58178",
+        "cityLabel": "Jiaxing",
+        "population": "3330000"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q148",
+        "countryLabel": "People's Republic of China",
+        "city": "http://www.wikidata.org/entity/Q404529",
+        "cityLabel": "Xuchang",
+        "population": "4289000"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q148",
+        "countryLabel": "People's Republic of China",
+        "city": "http://www.wikidata.org/entity/Q416988",
+        "cityLabel": "Loudi",
+        "population": "3901000"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q148",
+        "countryLabel": "People's Republic of China",
+        "city": "http://www.wikidata.org/entity/Q68744",
+        "native": "廈門市",
+        "cityLabel": "Xiamen",
+        "population": "3531347"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q148",
+        "countryLabel": "People's Republic of China",
+        "city": "http://www.wikidata.org/entity/Q404484",
+        "cityLabel": "Puyang",
+        "population": "3580000"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q148",
+        "countryLabel": "People's Republic of China",
+        "city": "http://www.wikidata.org/entity/Q362865",
+        "cityLabel": "Pingxiang",
+        "population": "1840000"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q148",
+        "countryLabel": "People's Republic of China",
+        "city": "http://www.wikidata.org/entity/Q11720",
+        "native": "瀋陽",
+        "cityLabel": "Shenyang",
+        "population": "7935000"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q148",
+        "countryLabel": "People's Republic of China",
+        "city": "http://www.wikidata.org/entity/Q426996",
+        "cityLabel": "Nanchong",
+        "population": "6183000"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q148",
+        "countryLabel": "People's Republic of China",
+        "city": "http://www.wikidata.org/entity/Q425492",
+        "cityLabel": "Luzhou",
+        "population": "4291000"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q148",
+        "countryLabel": "People's Republic of China",
+        "city": "http://www.wikidata.org/entity/Q57818",
+        "cityLabel": "Huai'an",
+        "population": "4799889"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q148",
+        "countryLabel": "People's Republic of China",
+        "city": "http://www.wikidata.org/entity/Q570884",
+        "cityLabel": "Tongliao",
+        "population": "3094600"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q148",
+        "countryLabel": "People's Republic of China",
+        "city": "http://www.wikidata.org/entity/Q28979",
+        "cityLabel": "Jixi",
+        "population": "1950000"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q148",
+        "countryLabel": "People's Republic of China",
+        "city": "http://www.wikidata.org/entity/Q58710",
+        "cityLabel": "Langfang",
+        "population": "4358839"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q148",
+        "countryLabel": "People's Republic of China",
+        "city": "http://www.wikidata.org/entity/Q59164",
+        "cityLabel": "Zhaoqing",
+        "population": "3910000"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q148",
+        "countryLabel": "People's Republic of China",
+        "city": "http://www.wikidata.org/entity/Q28996",
+        "cityLabel": "Jinzhou",
+        "population": "3000000"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q148",
+        "countryLabel": "People's Republic of China",
+        "city": "http://www.wikidata.org/entity/Q114045",
+        "cityLabel": "Chuzhou",
+        "population": "4110000"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q148",
+        "countryLabel": "People's Republic of China",
+        "city": "http://www.wikidata.org/entity/Q363262",
+        "cityLabel": "Ji'an",
+        "population": "4759000"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q148",
+        "countryLabel": "People's Republic of China",
+        "city": "http://www.wikidata.org/entity/Q10917406",
+        "cityLabel": "Q10917406",
+        "population": "92316"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q148",
+        "countryLabel": "People's Republic of China",
+        "city": "http://www.wikidata.org/entity/Q4970",
+        "cityLabel": "Hangzhou",
+        "population": "6820000"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q148",
+        "countryLabel": "People's Republic of China",
+        "city": "http://www.wikidata.org/entity/Q427265",
+        "cityLabel": "Yibin",
+        "population": "4456000"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q148",
+        "countryLabel": "People's Republic of China",
+        "city": "http://www.wikidata.org/entity/Q515573",
+        "cityLabel": "Hanzhong",
+        "population": "3700000"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q148",
+        "countryLabel": "People's Republic of China",
+        "city": "http://www.wikidata.org/entity/Q42666",
+        "cityLabel": "Shaoxing",
+        "population": "4912239"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q148",
+        "countryLabel": "People's Republic of China",
+        "city": "http://www.wikidata.org/entity/Q68862",
+        "cityLabel": "Longyan",
+        "population": "2770000"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q148",
+        "countryLabel": "People's Republic of China",
+        "city": "http://www.wikidata.org/entity/Q416669",
+        "cityLabel": "Yiyang",
+        "population": "4174000"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q148",
+        "countryLabel": "People's Republic of China",
+        "city": "http://www.wikidata.org/entity/Q15174",
+        "native": "深圳",
+        "cityLabel": "Shenzhen",
+        "population": "11908400"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q148",
+        "countryLabel": "People's Republic of China",
+        "city": "http://www.wikidata.org/entity/Q71355",
+        "cityLabel": "Huanggang",
+        "population": "6667000"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q148",
+        "countryLabel": "People's Republic of China",
+        "city": "http://www.wikidata.org/entity/Q485918",
+        "cityLabel": "Liupanshui",
+        "population": "2955000"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q148",
+        "countryLabel": "People's Republic of China",
+        "city": "http://www.wikidata.org/entity/Q38968",
+        "cityLabel": "Liuzhou",
+        "population": "3625000"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q148",
+        "countryLabel": "People's Republic of China",
+        "city": "http://www.wikidata.org/entity/Q486235",
+        "cityLabel": "Tongren",
+        "population": "3680000"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q148",
+        "countryLabel": "People's Republic of China",
+        "city": "http://www.wikidata.org/entity/Q571652",
+        "cityLabel": "Wuzhou",
+        "population": "3101000"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q148",
+        "countryLabel": "People's Republic of China",
+        "city": "http://www.wikidata.org/entity/Q8646",
+        "cityLabel": "Hong Kong",
+        "population": "7336585"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q148",
+        "countryLabel": "People's Republic of China",
+        "city": "http://www.wikidata.org/entity/Q16959",
+        "cityLabel": "Ürümqi",
+        "population": "3112559"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q148",
+        "countryLabel": "People's Republic of China",
+        "city": "http://www.wikidata.org/entity/Q404116",
+        "cityLabel": "Pingdingshan",
+        "population": "4838000"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q148",
+        "countryLabel": "People's Republic of China",
+        "city": "http://www.wikidata.org/entity/Q571766",
+        "cityLabel": "Qinzhou",
+        "population": "3200000"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q148",
+        "countryLabel": "People's Republic of China",
+        "city": "http://www.wikidata.org/entity/Q170322",
+        "cityLabel": "Qingdao",
+        "population": "5775000"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q148",
+        "countryLabel": "People's Republic of China",
+        "city": "http://www.wikidata.org/entity/Q210493",
+        "cityLabel": "Yantai",
+        "population": "6516900"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q148",
+        "countryLabel": "People's Republic of China",
+        "city": "http://www.wikidata.org/entity/Q29015",
+        "cityLabel": "Zigong",
+        "population": "2800000"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q148",
+        "countryLabel": "People's Republic of China",
+        "city": "http://www.wikidata.org/entity/Q404817",
+        "cityLabel": "Shangqiu",
+        "population": "7000000"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q148",
+        "countryLabel": "People's Republic of China",
+        "city": "http://www.wikidata.org/entity/Q363479",
+        "cityLabel": "Shangrao",
+        "population": "6441000"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q148",
+        "countryLabel": "People's Republic of China",
+        "city": "http://www.wikidata.org/entity/Q215755",
+        "cityLabel": "Xiangtan",
+        "population": "2916000"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q148",
+        "countryLabel": "People's Republic of China",
+        "city": "http://www.wikidata.org/entity/Q28994",
+        "cityLabel": "Zunyi",
+        "population": "6127009"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q148",
+        "countryLabel": "People's Republic of China",
+        "city": "http://www.wikidata.org/entity/Q426644",
+        "cityLabel": "Suining",
+        "population": "3556000"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q148",
+        "countryLabel": "People's Republic of China",
+        "city": "http://www.wikidata.org/entity/Q68534",
+        "cityLabel": "Nanping",
+        "population": "2890000"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q148",
+        "countryLabel": "People's Republic of China",
+        "city": "http://www.wikidata.org/entity/Q197922",
+        "cityLabel": "Zhongwei",
+        "population": "1046000"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q148",
+        "countryLabel": "People's Republic of China",
+        "city": "http://www.wikidata.org/entity/Q426756",
+        "cityLabel": "Neijiang",
+        "population": "4238000"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q148",
+        "countryLabel": "People's Republic of China",
+        "city": "http://www.wikidata.org/entity/Q207030",
+        "cityLabel": "Ziyang",
+        "population": "4217000"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q148",
+        "countryLabel": "People's Republic of China",
+        "city": "http://www.wikidata.org/entity/Q363391",
+        "cityLabel": "Fuzhou",
+        "population": "3850000"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q148",
+        "countryLabel": "People's Republic of China",
+        "city": "http://www.wikidata.org/entity/Q373564",
+        "cityLabel": "Liaocheng",
+        "population": "5955300"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q148",
+        "countryLabel": "People's Republic of China",
+        "city": "http://www.wikidata.org/entity/Q197402",
+        "cityLabel": "Zhangye",
+        "population": "1270000"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q148",
+        "countryLabel": "People's Republic of China",
+        "city": "http://www.wikidata.org/entity/Q373234",
+        "cityLabel": "Laiwu",
+        "population": "1248636"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q148",
+        "countryLabel": "People's Republic of China",
+        "city": "http://www.wikidata.org/entity/Q363166",
+        "cityLabel": "Ganzhou",
+        "population": "8300000"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q148",
+        "countryLabel": "People's Republic of China",
+        "city": "http://www.wikidata.org/entity/Q349985",
+        "cityLabel": "Suihua",
+        "population": "5420000"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q148",
+        "countryLabel": "People's Republic of China",
+        "city": "http://www.wikidata.org/entity/Q362959",
+        "cityLabel": "Xinyu",
+        "population": "1125000"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q148",
+        "countryLabel": "People's Republic of China",
+        "city": "http://www.wikidata.org/entity/Q58273",
+        "cityLabel": "Taizhou",
+        "population": "5740000"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q148",
+        "countryLabel": "People's Republic of China",
+        "city": "http://www.wikidata.org/entity/Q519810",
+        "cityLabel": "Longnan",
+        "population": "2614000"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q148",
+        "countryLabel": "People's Republic of China",
+        "city": "http://www.wikidata.org/entity/Q34405",
+        "cityLabel": "Jingdezhen",
+        "population": "1554000"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q148",
+        "countryLabel": "People's Republic of China",
+        "city": "http://www.wikidata.org/entity/Q363326",
+        "cityLabel": "Yichun",
+        "population": "5400000"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q148",
+        "countryLabel": "People's Republic of China",
+        "city": "http://www.wikidata.org/entity/Q570768",
+        "cityLabel": "Wuhai",
+        "population": "477000"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q148",
+        "countryLabel": "People's Republic of China",
+        "city": "http://www.wikidata.org/entity/Q189633",
+        "cityLabel": "Guilin",
+        "population": "5046000"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q148",
+        "countryLabel": "People's Republic of China",
+        "city": "http://www.wikidata.org/entity/Q211243",
+        "cityLabel": "Yinchuan",
+        "population": "1616000"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q148",
+        "countryLabel": "People's Republic of China",
+        "city": "http://www.wikidata.org/entity/Q144663",
+        "cityLabel": "Hengyang",
+        "population": "7265000"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q148",
+        "countryLabel": "People's Republic of China",
+        "city": "http://www.wikidata.org/entity/Q73020",
+        "cityLabel": "Shuozhou",
+        "population": "1250000"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q148",
+        "countryLabel": "People's Republic of China",
+        "city": "http://www.wikidata.org/entity/Q74957",
+        "cityLabel": "Anshan",
+        "population": "3584000"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q148",
+        "countryLabel": "People's Republic of China",
+        "city": "http://www.wikidata.org/entity/Q5869",
+        "cityLabel": "Lhasa",
+        "population": "464736"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q148",
+        "countryLabel": "People's Republic of China",
+        "city": "http://www.wikidata.org/entity/Q571126",
+        "cityLabel": "Bayannur",
+        "population": "1741900"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q148",
+        "countryLabel": "People's Republic of China",
+        "city": "http://www.wikidata.org/entity/Q532776",
+        "cityLabel": "Jinchang",
+        "population": "464200"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q148",
+        "countryLabel": "People's Republic of China",
+        "city": "http://www.wikidata.org/entity/Q360769",
+        "cityLabel": "Bozhou",
+        "population": "5100000"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q148",
+        "countryLabel": "People's Republic of China",
+        "city": "http://www.wikidata.org/entity/Q73186",
+        "cityLabel": "Lüliang",
+        "population": "3500000"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q148",
+        "countryLabel": "People's Republic of China",
+        "city": "http://www.wikidata.org/entity/Q497341",
+        "cityLabel": "Xianyang",
+        "population": "5040000"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q148",
+        "countryLabel": "People's Republic of China",
+        "city": "http://www.wikidata.org/entity/Q57947",
+        "cityLabel": "Nantong",
+        "population": "7282835"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q148",
+        "countryLabel": "People's Republic of China",
+        "city": "http://www.wikidata.org/entity/Q372791",
+        "cityLabel": "Jining",
+        "population": "8023000"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q148",
+        "countryLabel": "People's Republic of China",
+        "city": "http://www.wikidata.org/entity/Q185684",
+        "cityLabel": "Hefei",
+        "population": "7457027"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q148",
+        "countryLabel": "People's Republic of China",
+        "city": "http://www.wikidata.org/entity/Q984788",
+        "cityLabel": "Haidong",
+        "population": "1575000"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q148",
+        "countryLabel": "People's Republic of China",
+        "city": "http://www.wikidata.org/entity/Q59223",
+        "cityLabel": "Zhongshan",
+        "population": "3121275"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q148",
+        "countryLabel": "People's Republic of China",
+        "city": "http://www.wikidata.org/entity/Q57866",
+        "cityLabel": "Yancheng",
+        "population": "7260240"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q148",
+        "countryLabel": "People's Republic of China",
+        "city": "http://www.wikidata.org/entity/Q349982",
+        "cityLabel": "Hegang",
+        "population": "1100000"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q148",
+        "countryLabel": "People's Republic of China",
+        "city": "http://www.wikidata.org/entity/Q349983",
+        "cityLabel": "Heihe",
+        "population": "1750000"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q148",
+        "countryLabel": "People's Republic of China",
+        "city": "http://www.wikidata.org/entity/Q532560",
+        "cityLabel": "Jiayuguan City",
+        "population": "231853"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q148",
+        "countryLabel": "People's Republic of China",
+        "city": "http://www.wikidata.org/entity/Q427557",
+        "cityLabel": "Ya'an",
+        "population": "1512000"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q148",
+        "countryLabel": "People's Republic of China",
+        "city": "http://www.wikidata.org/entity/Q349976",
+        "cityLabel": "Yichun",
+        "population": "1250000"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q148",
+        "countryLabel": "People's Republic of China",
+        "city": "http://www.wikidata.org/entity/Q75268",
+        "cityLabel": "Tieling",
+        "population": "3000000"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q148",
+        "countryLabel": "People's Republic of China",
+        "city": "http://www.wikidata.org/entity/Q360235",
+        "cityLabel": "Ma'anshan",
+        "population": "1281000"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q148",
+        "countryLabel": "People's Republic of China",
+        "city": "http://www.wikidata.org/entity/Q189823",
+        "cityLabel": "Haikou",
+        "population": "2046189"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q148",
+        "countryLabel": "People's Republic of China",
+        "city": "http://www.wikidata.org/entity/Q58675",
+        "cityLabel": "Chengde",
+        "population": "3610000"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q148",
+        "countryLabel": "People's Republic of China",
+        "city": "http://www.wikidata.org/entity/Q360268",
+        "cityLabel": "Huaibei",
+        "population": "2158000"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q148",
+        "countryLabel": "People's Republic of China",
+        "city": "http://www.wikidata.org/entity/Q360326",
+        "cityLabel": "Tongling",
+        "population": "720000"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q148",
+        "countryLabel": "People's Republic of China",
+        "city": "http://www.wikidata.org/entity/Q373023",
+        "cityLabel": "Weihai",
+        "population": "2596753"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q148",
+        "countryLabel": "People's Republic of China",
+        "city": "http://www.wikidata.org/entity/Q59189",
+        "cityLabel": "Shanwei",
+        "population": "2990000"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q148",
+        "countryLabel": "People's Republic of China",
+        "city": "http://www.wikidata.org/entity/Q58570",
+        "cityLabel": "Handan",
+        "population": "8499000"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q148",
+        "countryLabel": "People's Republic of China",
+        "city": "http://www.wikidata.org/entity/Q532981",
+        "cityLabel": "Baiyin",
+        "population": "1750000"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q148",
+        "countryLabel": "People's Republic of China",
+        "city": "http://www.wikidata.org/entity/Q373346",
+        "cityLabel": "Linyi",
+        "population": "10820000"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q148",
+        "countryLabel": "People's Republic of China",
+        "city": "http://www.wikidata.org/entity/Q1015132",
+        "cityLabel": "Danzhou",
+        "population": "932356"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q148",
+        "countryLabel": "People's Republic of China",
+        "city": "http://www.wikidata.org/entity/Q496576",
+        "cityLabel": "Baoshan",
+        "population": "2450000"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q148",
+        "countryLabel": "People's Republic of China",
+        "city": "http://www.wikidata.org/entity/Q58294",
+        "cityLabel": "Lishui",
+        "population": "2510000"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q148",
+        "countryLabel": "People's Republic of China",
+        "city": "http://www.wikidata.org/entity/Q363076",
+        "cityLabel": "Yingtan",
+        "population": "1102000"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q148",
+        "countryLabel": "People's Republic of China",
+        "city": "http://www.wikidata.org/entity/Q75203",
+        "cityLabel": "Liaoyang",
+        "population": "1800000"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q148",
+        "countryLabel": "People's Republic of China",
+        "city": "http://www.wikidata.org/entity/Q58235",
+        "cityLabel": "Quzhou",
+        "population": "2488000"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q148",
+        "countryLabel": "People's Republic of China",
+        "city": "http://www.wikidata.org/entity/Q360643",
+        "cityLabel": "Suzhou",
+        "population": "5690000"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q148",
+        "countryLabel": "People's Republic of China",
+        "city": "http://www.wikidata.org/entity/Q1012419",
+        "cityLabel": "Chamdo",
+        "population": "598862"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q148",
+        "countryLabel": "People's Republic of China",
+        "city": "http://www.wikidata.org/entity/Q71247",
+        "cityLabel": "Jingzhou",
+        "population": "5841000"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q148",
+        "countryLabel": "People's Republic of China",
+        "city": "http://www.wikidata.org/entity/Q26323",
+        "cityLabel": "Jieyang",
+        "population": "5634000"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q148",
+        "countryLabel": "People's Republic of China",
+        "city": "http://www.wikidata.org/entity/Q73045",
+        "cityLabel": "Jinzhong",
+        "population": "3060000"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q148",
+        "countryLabel": "People's Republic of China",
+        "city": "http://www.wikidata.org/entity/Q198240",
+        "cityLabel": "Zhumadian",
+        "population": "7640000"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q148",
+        "countryLabel": "People's Republic of China",
+        "city": "http://www.wikidata.org/entity/Q360942",
+        "cityLabel": "Xuancheng",
+        "population": "2580000"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q148",
+        "countryLabel": "People's Republic of China",
+        "city": "http://www.wikidata.org/entity/Q868527",
+        "cityLabel": "Turpan",
+        "population": "550731"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q148",
+        "countryLabel": "People's Republic of China",
+        "city": "http://www.wikidata.org/entity/Q42622",
+        "cityLabel": "Suzhou",
+        "population": "5845000"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q148",
+        "countryLabel": "People's Republic of China",
+        "city": "http://www.wikidata.org/entity/Q604517",
+        "cityLabel": "Wuzhong",
+        "population": "1284000"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q148",
+        "countryLabel": "People's Republic of China",
+        "city": "http://www.wikidata.org/entity/Q571219",
+        "cityLabel": "Ulanqab",
+        "population": "2138200"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q148",
+        "countryLabel": "People's Republic of China",
+        "city": "http://www.wikidata.org/entity/Q1012460",
+        "cityLabel": "Nagqu City",
+        "population": "414554"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q148",
+        "countryLabel": "People's Republic of China",
+        "city": "http://www.wikidata.org/entity/Q72990",
+        "cityLabel": "Jincheng",
+        "population": "2120000"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q148",
+        "countryLabel": "People's Republic of China",
+        "city": "http://www.wikidata.org/entity/Q151958",
+        "cityLabel": "Yueyang",
+        "population": "5158000"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q148",
+        "countryLabel": "People's Republic of China",
+        "city": "http://www.wikidata.org/entity/Q57787",
+        "cityLabel": "Suqian",
+        "population": "5290000"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q148",
+        "countryLabel": "People's Republic of China",
+        "city": "http://www.wikidata.org/entity/Q71373",
+        "cityLabel": "Xianning",
+        "population": "2506000"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q148",
+        "countryLabel": "People's Republic of China",
+        "city": "http://www.wikidata.org/entity/Q29003",
+        "cityLabel": "Jiamusi",
+        "population": "2360000"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q148",
+        "countryLabel": "People's Republic of China",
+        "city": "http://www.wikidata.org/entity/Q533764",
+        "cityLabel": "Qingyang",
+        "population": "2500000"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q148",
+        "countryLabel": "People's Republic of China",
+        "city": "http://www.wikidata.org/entity/Q266014",
+        "cityLabel": "Yongzhou",
+        "population": "5128000"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q148",
+        "countryLabel": "People's Republic of China",
+        "city": "http://www.wikidata.org/entity/Q217681",
+        "cityLabel": "Tai'an",
+        "population": "5499000"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q148",
+        "countryLabel": "People's Republic of China",
+        "city": "http://www.wikidata.org/entity/Q604385",
+        "cityLabel": "Shizuishan",
+        "population": "730400"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q148",
+        "countryLabel": "People's Republic of China",
+        "city": "http://www.wikidata.org/entity/Q217698",
+        "cityLabel": "Weifang",
+        "population": "8500000"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q148",
+        "countryLabel": "People's Republic of China",
+        "city": "http://www.wikidata.org/entity/Q71204",
+        "cityLabel": "Huangshi",
+        "population": "2419000"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q148",
+        "countryLabel": "People's Republic of China",
+        "city": "http://www.wikidata.org/entity/Q59095",
+        "cityLabel": "Zhuhai",
+        "population": "1562000"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q148",
+        "countryLabel": "People's Republic of China",
+        "city": "http://www.wikidata.org/entity/Q59218",
+        "cityLabel": "Dongguan",
+        "population": "8310000"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q148",
+        "countryLabel": "People's Republic of China",
+        "city": "http://www.wikidata.org/entity/Q332753",
+        "cityLabel": "Heze",
+        "population": "8750000"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q148",
+        "countryLabel": "People's Republic of China",
+        "city": "http://www.wikidata.org/entity/Q59209",
+        "cityLabel": "Yangjiang",
+        "population": "2357000"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q148",
+        "countryLabel": "People's Republic of China",
+        "city": "http://www.wikidata.org/entity/Q57719",
+        "cityLabel": "Xuzhou",
+        "population": "8669000"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q148",
+        "countryLabel": "People's Republic of China",
+        "city": "http://www.wikidata.org/entity/Q71284",
+        "cityLabel": "Xiangyang",
+        "population": "5844000"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q148",
+        "countryLabel": "People's Republic of China",
+        "city": "http://www.wikidata.org/entity/Q69060",
+        "cityLabel": "Xining",
+        "population": "2154000"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q148",
+        "countryLabel": "People's Republic of China",
+        "city": "http://www.wikidata.org/entity/Q349973",
+        "cityLabel": "Shuangyashan",
+        "population": "1500000"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q148",
+        "countryLabel": "People's Republic of China",
+        "city": "http://www.wikidata.org/entity/Q198061",
+        "cityLabel": "Zhoukou",
+        "population": "9901000"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q148",
+        "countryLabel": "People's Republic of China",
+        "city": "http://www.wikidata.org/entity/Q58324",
+        "cityLabel": "Zhoushan",
+        "population": "969145"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q148",
+        "countryLabel": "People's Republic of China",
+        "city": "http://www.wikidata.org/entity/Q75230",
+        "cityLabel": "Panjin",
+        "population": "1243000"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q148",
+        "countryLabel": "People's Republic of China",
+        "city": "http://www.wikidata.org/entity/Q58401",
+        "cityLabel": "Shijiazhuang",
+        "population": "10784600"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q148",
+        "countryLabel": "People's Republic of China",
+        "city": "http://www.wikidata.org/entity/Q75336",
+        "cityLabel": "Chaoyang",
+        "population": "3370000"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q148",
+        "countryLabel": "People's Republic of China",
+        "city": "http://www.wikidata.org/entity/Q171943",
+        "cityLabel": "Nanchang",
+        "population": "5042565"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q148",
+        "countryLabel": "People's Republic of China",
+        "city": "http://www.wikidata.org/entity/Q198266",
+        "cityLabel": "Zhuzhou",
+        "population": "3696000"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q148",
+        "countryLabel": "People's Republic of China",
+        "city": "http://www.wikidata.org/entity/Q58584",
+        "cityLabel": "Baoding",
+        "population": "10700000"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q148",
+        "countryLabel": "People's Republic of China",
+        "city": "http://www.wikidata.org/entity/Q1012465",
+        "cityLabel": "Nyingchi",
+        "population": "164331"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q148",
+        "countryLabel": "People's Republic of China",
+        "city": "http://www.wikidata.org/entity/Q72877",
+        "cityLabel": "Datong",
+        "population": "3160000"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q148",
+        "countryLabel": "People's Republic of China",
+        "city": "http://www.wikidata.org/entity/Q205914",
+        "cityLabel": "Lijiang",
+        "population": "1216000"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q148",
+        "countryLabel": "People's Republic of China",
+        "city": "http://www.wikidata.org/entity/Q72945",
+        "cityLabel": "Changzhi",
+        "population": "3230000"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q148",
+        "countryLabel": "People's Republic of China",
+        "city": "http://www.wikidata.org/entity/Q360374",
+        "cityLabel": "Anqing",
+        "population": "5590000"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q148",
+        "countryLabel": "People's Republic of China",
+        "city": "http://www.wikidata.org/entity/Q486149",
+        "cityLabel": "Anshun",
+        "population": "2543000"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q148",
+        "countryLabel": "People's Republic of China",
+        "city": "http://www.wikidata.org/entity/Q535534",
+        "cityLabel": "Hohhot",
+        "population": "2635000"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q148",
+        "countryLabel": "People's Republic of China",
+        "city": "http://www.wikidata.org/entity/Q72907",
+        "cityLabel": "Yangquan",
+        "population": "1300000"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q148",
+        "countryLabel": "People's Republic of China",
+        "city": "http://www.wikidata.org/entity/Q360584",
+        "cityLabel": "Fuyang",
+        "population": "8360000"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q148",
+        "countryLabel": "People's Republic of China",
+        "city": "http://www.wikidata.org/entity/Q59213",
+        "cityLabel": "Qingyuan",
+        "population": "3660000"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q148",
+        "countryLabel": "People's Republic of China",
+        "city": "http://www.wikidata.org/entity/Q571033",
+        "cityLabel": "Hulunbuir",
+        "population": "2549000"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q148",
+        "countryLabel": "People's Republic of China",
+        "city": "http://www.wikidata.org/entity/Q147187",
+        "cityLabel": "Zaozhuang",
+        "population": "3650000"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q148",
+        "countryLabel": "People's Republic of China",
+        "city": "http://www.wikidata.org/entity/Q205922",
+        "cityLabel": "Qiqihar",
+        "population": "5367003"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q148",
+        "countryLabel": "People's Republic of China",
+        "city": "http://www.wikidata.org/entity/Q515388",
+        "cityLabel": "Yan'an",
+        "population": "2150000"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q148",
+        "countryLabel": "People's Republic of China",
+        "city": "http://www.wikidata.org/entity/Q75091",
+        "cityLabel": "Benxi",
+        "population": "1567000"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q148",
+        "countryLabel": "People's Republic of China",
+        "city": "http://www.wikidata.org/entity/Q59233",
+        "cityLabel": "Yunfu",
+        "population": "1470000"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q148",
+        "countryLabel": "People's Republic of China",
+        "city": "http://www.wikidata.org/entity/Q59100",
+        "cityLabel": "Shantou",
+        "population": "5319028"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q148",
+        "countryLabel": "People's Republic of China",
+        "city": "http://www.wikidata.org/entity/Q59100",
+        "cityLabel": "Shantou",
+        "population": "5389328"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q148",
+        "countryLabel": "People's Republic of China",
+        "city": "http://www.wikidata.org/entity/Q249007",
+        "cityLabel": "Wuwei",
+        "population": "1890000"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q148",
+        "countryLabel": "People's Republic of China",
+        "city": "http://www.wikidata.org/entity/Q72778",
+        "cityLabel": "Taiyuan",
+        "population": "3398000"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q148",
+        "countryLabel": "People's Republic of China",
+        "city": "http://www.wikidata.org/entity/Q59107",
+        "cityLabel": "Shaoguan",
+        "population": "3148000"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q148",
+        "countryLabel": "People's Republic of China",
+        "city": "http://www.wikidata.org/entity/Q59205",
+        "cityLabel": "Heyuan",
+        "population": "3320000"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q148",
+        "countryLabel": "People's Republic of China",
+        "city": "http://www.wikidata.org/entity/Q126995",
+        "cityLabel": "Weinan",
+        "population": "5300000"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q148",
+        "countryLabel": "People's Republic of China",
+        "city": "http://www.wikidata.org/entity/Q404362",
+        "cityLabel": "Xinxiang",
+        "population": "5516000"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q148",
+        "countryLabel": "People's Republic of China",
+        "city": "http://www.wikidata.org/entity/Q68614",
+        "cityLabel": "Sanming",
+        "population": "2630000"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q148",
+        "countryLabel": "People's Republic of China",
+        "city": "http://www.wikidata.org/entity/Q427488",
+        "cityLabel": "Dazhou",
+        "population": "5693000"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q148",
+        "countryLabel": "People's Republic of China",
+        "city": "http://www.wikidata.org/entity/Q178945",
+        "cityLabel": "Bazhong",
+        "population": "3134000"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q148",
+        "countryLabel": "People's Republic of China",
+        "city": "http://www.wikidata.org/entity/Q496765",
+        "cityLabel": "Pu'er City",
+        "population": "2576000"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q148",
+        "countryLabel": "People's Republic of China",
+        "city": "http://www.wikidata.org/entity/Q197519",
+        "cityLabel": "Zhaotong",
+        "population": "5252000"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q148",
+        "countryLabel": "People's Republic of China",
+        "city": "http://www.wikidata.org/entity/Q404763",
+        "cityLabel": "Nanyang",
+        "population": "12010000"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q148",
+        "countryLabel": "People's Republic of China",
+        "city": "http://www.wikidata.org/entity/Q16959",
+        "cityLabel": "Ürümqi",
+        "population": "2262786"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q148",
+        "countryLabel": "People's Republic of China",
+        "city": "http://www.wikidata.org/entity/Q425415",
+        "cityLabel": "Panzhihua",
+        "population": "1144000"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q148",
+        "countryLabel": "People's Republic of China",
+        "city": "http://www.wikidata.org/entity/Q496405",
+        "cityLabel": "Qujing",
+        "population": "5729000"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q148",
+        "countryLabel": "People's Republic of China",
+        "city": "http://www.wikidata.org/entity/Q210365",
+        "cityLabel": "Beihai",
+        "population": "1573000"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q148",
+        "countryLabel": "People's Republic of China",
+        "city": "http://www.wikidata.org/entity/Q162880",
+        "cityLabel": "Dezhou",
+        "population": "5470000"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q148",
+        "countryLabel": "People's Republic of China",
+        "city": "http://www.wikidata.org/entity/Q68579",
+        "cityLabel": "Putian",
+        "population": "3190000"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q148",
+        "countryLabel": "People's Republic of China",
+        "city": "http://www.wikidata.org/entity/Q183584",
+        "cityLabel": "Lanzhou",
+        "population": "3616163"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q148",
+        "countryLabel": "People's Republic of China",
+        "city": "http://www.wikidata.org/entity/Q570937",
+        "cityLabel": "Ordos City",
+        "population": "1547900"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q148",
+        "countryLabel": "People's Republic of China",
+        "city": "http://www.wikidata.org/entity/Q42664",
+        "cityLabel": "Huzhou",
+        "population": "2570000"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q148",
+        "countryLabel": "People's Republic of China",
+        "city": "http://www.wikidata.org/entity/Q416544",
+        "cityLabel": "Changde",
+        "population": "5717200"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q148",
+        "countryLabel": "People's Republic of China",
+        "city": "http://www.wikidata.org/entity/Q57931",
+        "cityLabel": "Taizhou",
+        "population": "5031000"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q148",
+        "countryLabel": "People's Republic of China",
+        "city": "http://www.wikidata.org/entity/Q404599",
+        "cityLabel": "Luohe",
+        "population": "2500000"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q148",
+        "countryLabel": "People's Republic of China",
+        "city": "http://www.wikidata.org/entity/Q92297",
+        "cityLabel": "Siping",
+        "population": "3300000"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q148",
+        "countryLabel": "People's Republic of China",
+        "city": "http://www.wikidata.org/entity/Q59227",
+        "cityLabel": "Chaozhou",
+        "population": "2566000"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q148",
+        "countryLabel": "People's Republic of China",
+        "city": "http://www.wikidata.org/entity/Q658240",
+        "cityLabel": "Karamay",
+        "population": "262157"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q148",
+        "countryLabel": "People's Republic of China",
+        "city": "http://www.wikidata.org/entity/Q658240",
+        "cityLabel": "Karamay",
+        "population": "270232"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q148",
+        "countryLabel": "People's Republic of China",
+        "city": "http://www.wikidata.org/entity/Q658240",
+        "cityLabel": "Karamay",
+        "population": "391008"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q148",
+        "countryLabel": "People's Republic of China",
+        "city": "http://www.wikidata.org/entity/Q68919",
+        "cityLabel": "Ningde",
+        "population": "3030000"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q148",
+        "countryLabel": "People's Republic of China",
+        "city": "http://www.wikidata.org/entity/Q71227",
+        "cityLabel": "Shiyan",
+        "population": "3228000"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q148",
+        "countryLabel": "People's Republic of China",
+        "city": "http://www.wikidata.org/entity/Q496496",
+        "cityLabel": "Yuxi",
+        "population": "2264000"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q148",
+        "countryLabel": "People's Republic of China",
+        "city": "http://www.wikidata.org/entity/Q75110",
+        "cityLabel": "Dandong",
+        "population": "2400000"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q148",
+        "countryLabel": "People's Republic of China",
+        "city": "http://www.wikidata.org/entity/Q404301",
+        "cityLabel": "Hebi",
+        "population": "1419000"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q148",
+        "countryLabel": "People's Republic of China",
+        "city": "http://www.wikidata.org/entity/Q496837",
+        "cityLabel": "Lincang",
+        "population": "2368000"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q148",
+        "countryLabel": "People's Republic of China",
+        "city": "http://www.wikidata.org/entity/Q604625",
+        "cityLabel": "Guyuan",
+        "population": "1426000"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q148",
+        "countryLabel": "People's Republic of China",
+        "city": "http://www.wikidata.org/entity/Q404636",
+        "cityLabel": "Sanmenxia",
+        "population": "2213000"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q148",
+        "countryLabel": "People's Republic of China",
+        "city": "http://www.wikidata.org/entity/Q571712",
+        "cityLabel": "Fangchenggang",
+        "population": "829000"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q148",
+        "countryLabel": "People's Republic of China",
+        "city": "http://www.wikidata.org/entity/Q572140",
+        "cityLabel": "Laibin",
+        "population": "2272000"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q148",
+        "countryLabel": "People's Republic of China",
+        "city": "http://www.wikidata.org/entity/Q533985",
+        "cityLabel": "Pingliang",
+        "population": "2190000"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q148",
+        "countryLabel": "People's Republic of China",
+        "city": "http://www.wikidata.org/entity/Q360870",
+        "cityLabel": "Chizhou",
+        "population": "1430000"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q148",
+        "countryLabel": "People's Republic of China",
+        "city": "http://www.wikidata.org/entity/Q572014",
+        "cityLabel": "Hezhou",
+        "population": "2184000"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q148",
+        "countryLabel": "People's Republic of China",
+        "city": "http://www.wikidata.org/entity/Q75150",
+        "cityLabel": "Yingkou",
+        "population": "2220000"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q148",
+        "countryLabel": "People's Republic of China",
+        "city": "http://www.wikidata.org/entity/Q572231",
+        "cityLabel": "Chongzuo",
+        "population": "2369000"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q148",
+        "countryLabel": "People's Republic of China",
+        "city": "http://www.wikidata.org/entity/Q324293",
+        "cityLabel": "Anyang",
+        "population": "679184"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q148",
+        "countryLabel": "People's Republic of China",
+        "city": "http://www.wikidata.org/entity/Q1211183",
+        "cityLabel": "Shigatse",
+        "population": "679771"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q148",
+        "countryLabel": "People's Republic of China",
+        "city": "http://www.wikidata.org/entity/Q11736",
+        "cityLabel": "Tianjin",
+        "population": "13245000"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q148",
+        "countryLabel": "People's Republic of China",
+        "city": "http://www.wikidata.org/entity/Q75026",
+        "cityLabel": "Fushun",
+        "population": "2300000"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q148",
+        "countryLabel": "People's Republic of China",
+        "city": "http://www.wikidata.org/entity/Q515983",
+        "cityLabel": "Shangluo",
+        "population": "2400000"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q148",
+        "countryLabel": "People's Republic of China",
+        "city": "http://www.wikidata.org/entity/Q197379",
+        "cityLabel": "Zhangjiajie",
+        "population": "1486000"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q148",
+        "countryLabel": "People's Republic of China",
+        "city": "http://www.wikidata.org/entity/Q514608",
+        "cityLabel": "Tongchuan",
+        "population": "835600"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q148",
+        "countryLabel": "People's Republic of China",
+        "city": "http://www.wikidata.org/entity/Q533432",
+        "cityLabel": "Jiuquan",
+        "population": "977600"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q148",
+        "countryLabel": "People's Republic of China",
+        "city": "http://www.wikidata.org/entity/Q180470",
+        "cityLabel": "Huangshan City",
+        "population": "1470000"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q148",
+        "countryLabel": "People's Republic of China",
+        "city": "http://www.wikidata.org/entity/Q71401",
+        "cityLabel": "Suizhou",
+        "population": "2200000"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q148",
+        "countryLabel": "People's Republic of China",
+        "city": "http://www.wikidata.org/entity/Q34412",
+        "cityLabel": "Foshan",
+        "population": "7194311"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q148",
+        "countryLabel": "People's Republic of China",
+        "city": "http://www.wikidata.org/entity/Q349979",
+        "cityLabel": "Qitaihe",
+        "population": "1008000"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q148",
+        "countryLabel": "People's Republic of China",
+        "city": "http://www.wikidata.org/entity/Q11725",
+        "native": "重庆",
+        "cityLabel": "Chongqing",
+        "population": "7990000"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q148",
+        "countryLabel": "People's Republic of China",
+        "city": "http://www.wikidata.org/entity/Q360178",
+        "cityLabel": "Huainan",
+        "population": "2409000"
+    }
+]

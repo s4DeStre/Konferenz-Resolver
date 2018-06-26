@@ -1,0 +1,82 @@
+[
+    {
+        "country": "http://www.wikidata.org/entity/Q117",
+        "countryLabel": "Ghana",
+        "city": "http://www.wikidata.org/entity/Q615006",
+        "cityLabel": "Ho",
+        "population": "83715"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q117",
+        "countryLabel": "Ghana",
+        "city": "http://www.wikidata.org/entity/Q182059",
+        "cityLabel": "Kumasi",
+        "population": "2069350"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q117",
+        "countryLabel": "Ghana",
+        "city": "http://www.wikidata.org/entity/Q166513",
+        "cityLabel": "Bolgatanga",
+        "population": "56583"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q117",
+        "countryLabel": "Ghana",
+        "city": "http://www.wikidata.org/entity/Q726143",
+        "cityLabel": "Tema",
+        "population": "161612"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q117",
+        "countryLabel": "Ghana",
+        "city": "http://www.wikidata.org/entity/Q3761",
+        "native": "Nkran",
+        "cityLabel": "Accra",
+        "population": "2291352"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q117",
+        "countryLabel": "Ghana",
+        "city": "http://www.wikidata.org/entity/Q1017008",
+        "cityLabel": "Hohoe",
+        "population": "56202"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q117",
+        "countryLabel": "Ghana",
+        "city": "http://www.wikidata.org/entity/Q243293",
+        "native": "Sekondi-Takoradi",
+        "cityLabel": "Sekondi-Takoradi",
+        "population": "539548"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q117",
+        "countryLabel": "Ghana",
+        "city": "http://www.wikidata.org/entity/Q217040",
+        "cityLabel": "Tamale",
+        "population": "466723"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q117",
+        "countryLabel": "Ghana",
+        "city": "http://www.wikidata.org/entity/Q406358",
+        "cityLabel": "Koforidua",
+        "population": "99890"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q117",
+        "countryLabel": "Ghana",
+        "city": "http://www.wikidata.org/entity/Q383333",
+        "cityLabel": "Aflao",
+        "population": "66546"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q117",
+        "countryLabel": "Ghana",
+        "city": "http://www.wikidata.org/entity/Q1020901",
+        "native": "Obuasi",
+        "cityLabel": "Obuasi",
+        "population": "180460"
+    }
+]

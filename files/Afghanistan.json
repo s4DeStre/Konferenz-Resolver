@@ -1,0 +1,144 @@
+[
+    {
+        "country": "http://www.wikidata.org/entity/Q889",
+        "countryLabel": "Afghanistan",
+        "city": "http://www.wikidata.org/entity/Q5838",
+        "native": "کابل",
+        "cityLabel": "Kabul",
+        "population": "3678034"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q889",
+        "countryLabel": "Afghanistan",
+        "city": "http://www.wikidata.org/entity/Q183303",
+        "cityLabel": "Jalalabad",
+        "population": "205423"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q889",
+        "countryLabel": "Afghanistan",
+        "city": "http://www.wikidata.org/entity/Q1014375",
+        "cityLabel": "Kholm",
+        "population": "28078"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q889",
+        "countryLabel": "Afghanistan",
+        "city": "http://www.wikidata.org/entity/Q1247205",
+        "cityLabel": "Khan Abad",
+        "population": "26803"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q889",
+        "countryLabel": "Afghanistan",
+        "city": "http://www.wikidata.org/entity/Q26396",
+        "cityLabel": "Qala i Naw",
+        "population": "5340"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q889",
+        "countryLabel": "Afghanistan",
+        "city": "http://www.wikidata.org/entity/Q1020649",
+        "cityLabel": "Samangan",
+        "population": "4938"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q889",
+        "countryLabel": "Afghanistan",
+        "city": "http://www.wikidata.org/entity/Q477238",
+        "cityLabel": "Taloqan",
+        "population": "19925"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q889",
+        "countryLabel": "Afghanistan",
+        "city": "http://www.wikidata.org/entity/Q182159",
+        "cityLabel": "Balkh",
+        "population": "7242"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q889",
+        "countryLabel": "Afghanistan",
+        "city": "http://www.wikidata.org/entity/Q476800",
+        "cityLabel": "Lashkar Gah",
+        "population": "201546"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q889",
+        "countryLabel": "Afghanistan",
+        "city": "http://www.wikidata.org/entity/Q732879",
+        "cityLabel": "Baghlan",
+        "population": "39228"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q889",
+        "countryLabel": "Afghanistan",
+        "city": "http://www.wikidata.org/entity/Q838954",
+        "cityLabel": "Sheberghan",
+        "population": "18955"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q889",
+        "countryLabel": "Afghanistan",
+        "city": "http://www.wikidata.org/entity/Q1649301",
+        "cityLabel": "Sar-e Pol",
+        "population": "15699"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q889",
+        "countryLabel": "Afghanistan",
+        "city": "http://www.wikidata.org/entity/Q45604",
+        "cityLabel": "Kandahar",
+        "population": "491500"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q889",
+        "countryLabel": "Afghanistan",
+        "city": "http://www.wikidata.org/entity/Q130469",
+        "cityLabel": "Mazar-i-Sharif",
+        "population": "427600"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q889",
+        "countryLabel": "Afghanistan",
+        "city": "http://www.wikidata.org/entity/Q45313",
+        "cityLabel": "Herat",
+        "population": "436300"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q889",
+        "countryLabel": "Afghanistan",
+        "city": "http://www.wikidata.org/entity/Q10355792",
+        "cityLabel": "Q10355792",
+        "population": "18000"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q889",
+        "countryLabel": "Afghanistan",
+        "city": "http://www.wikidata.org/entity/Q1054127",
+        "cityLabel": "Andkhoy",
+        "population": "13137"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q889",
+        "countryLabel": "Afghanistan",
+        "city": "http://www.wikidata.org/entity/Q477148",
+        "cityLabel": "Puli Khumri",
+        "population": "31101"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q889",
+        "countryLabel": "Afghanistan",
+        "city": "http://www.wikidata.org/entity/Q173731",
+        "native": "غزني",
+        "cityLabel": "Ghazni",
+        "population": "143379"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q889",
+        "countryLabel": "Afghanistan",
+        "city": "http://www.wikidata.org/entity/Q386682",
+        "cityLabel": "Khost",
+        "population": "160214"
+    }
+]

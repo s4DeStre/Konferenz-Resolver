@@ -1,0 +1,45 @@
+[
+    {
+        "country": "http://www.wikidata.org/entity/Q154195",
+        "countryLabel": "Kingdom of Bavaria",
+        "city": "http://www.wikidata.org/entity/Q7042",
+        "cityLabel": "Amberg",
+        "population": "41592"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q154195",
+        "countryLabel": "Kingdom of Bavaria",
+        "city": "http://www.wikidata.org/entity/Q1735",
+        "native": "Innsbruck",
+        "cityLabel": "Innsbruck",
+        "population": "130894"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q154195",
+        "countryLabel": "Kingdom of Bavaria",
+        "city": "http://www.wikidata.org/entity/Q262669",
+        "cityLabel": "Burghausen",
+        "population": "16736"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q154195",
+        "countryLabel": "Kingdom of Bavaria",
+        "city": "http://www.wikidata.org/entity/Q489902",
+        "cityLabel": "Nördlingen",
+        "population": "18275"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q154195",
+        "countryLabel": "Kingdom of Bavaria",
+        "city": "http://www.wikidata.org/entity/Q165015",
+        "cityLabel": "Wangen im Allgäu",
+        "population": "26679"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q154195",
+        "countryLabel": "Kingdom of Bavaria",
+        "city": "http://www.wikidata.org/entity/Q3994",
+        "cityLabel": "Kempten",
+        "population": "65624"
+    }
+]

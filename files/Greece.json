@@ -1,0 +1,4553 @@
+[
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q25413913",
+        "cityLabel": "Zografou Municipality",
+        "population": "71026"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q25413842",
+        "cityLabel": "Perama Municipality",
+        "population": "25389"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q29580387",
+        "cityLabel": "Kea Municipality",
+        "population": "2455"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q30525716",
+        "cityLabel": "Skopelos Municipality",
+        "population": "4960"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q3960162",
+        "cityLabel": "Drama Municipality",
+        "population": "58944"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q16332439",
+        "cityLabel": "Zitsa Municipality",
+        "population": "14766"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q29961973",
+        "cityLabel": "Doxato Municipality",
+        "population": "14516"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q18375499",
+        "cityLabel": "Leros Municipality",
+        "population": "7917"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q16329968",
+        "cityLabel": "Lamia Municipality",
+        "population": "75315"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q12875637",
+        "cityLabel": "Artaion Municipality",
+        "population": "43166"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q21144478",
+        "cityLabel": "Volos Municipality",
+        "population": "144449"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q28500332",
+        "cityLabel": "Ithaca Municipality",
+        "population": "3231"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q12275550",
+        "cityLabel": "Municipality of Edessa",
+        "population": "28814"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q18018043",
+        "cityLabel": "Tinos Municipality",
+        "population": "8636"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q6852960",
+        "cityLabel": "Makrakomi Municipality",
+        "population": "16036"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q12284239",
+        "cityLabel": "Xanthi Municipality",
+        "population": "65133"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q12875666",
+        "cityLabel": "Igoumenitsa Municipality",
+        "population": "25814"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q25164438",
+        "cityLabel": "Dimos Almyros",
+        "population": "18614"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q12875668",
+        "cityLabel": "Naousa Municipality",
+        "population": "32494"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q12875669",
+        "cityLabel": "Thermi Municipality",
+        "population": "53201"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q12875678",
+        "cityLabel": "Thiva Municipality",
+        "population": "36477"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q12875679",
+        "cityLabel": "Mesologgi Municipality",
+        "population": "34416"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q12875687",
+        "cityLabel": "Karditsa Municipality",
+        "population": "56747"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q12875689",
+        "cityLabel": "Karistos Municipality",
+        "population": "12180"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q12875693",
+        "cityLabel": "Kifisia Municipality",
+        "population": "70600"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q12875694",
+        "cityLabel": "Kissamos Municipality",
+        "population": "10790"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q12875709",
+        "cityLabel": "Larisa Municipality",
+        "population": "162591"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q12875720",
+        "cityLabel": "Megara Municipality",
+        "population": "36924"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q12875731",
+        "cityLabel": "Monemvasia Municipality",
+        "population": "21942"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q21130543",
+        "cityLabel": "Trikkaion Municipality",
+        "population": "81355"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q12875755",
+        "cityLabel": "Piraeus Municipality",
+        "population": "163688"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q12875764",
+        "cityLabel": "Salamina Municipality",
+        "population": "39283"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q21622200",
+        "cityLabel": "Chalandri Municipality",
+        "population": "74192"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q20379354",
+        "cityLabel": "Milos Municipality",
+        "population": "4977"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q24251225",
+        "cityLabel": "Tyrnavos Municipality",
+        "population": "25032"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q21622341",
+        "cityLabel": "Glyfada Municipality",
+        "population": "87305"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q11815519",
+        "cityLabel": "Penteli Municipality",
+        "population": "34934"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q12875801",
+        "cityLabel": "Chania Municipality",
+        "population": "97364"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q12875805",
+        "cityLabel": "Chalkideon Municipality",
+        "population": "102223"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q29562456",
+        "cityLabel": "Orepedio Lasithi Municipality",
+        "population": "2387"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q12282294",
+        "cityLabel": "Municipality of Kavala",
+        "population": "70501"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q28922542",
+        "cityLabel": "Agia Varvara Municipality",
+        "population": "26550"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q2411233",
+        "cityLabel": "Agioi Anargyroi-Kamatero",
+        "population": "62529"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q9355456",
+        "cityLabel": "Tanagra Municipality",
+        "population": "19432"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q2403002",
+        "cityLabel": "Mandra-Eidyllia Municipality",
+        "population": "17885"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q12899309",
+        "cityLabel": "Hersonissos Municipality",
+        "population": "26717"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q11811287",
+        "cityLabel": "Parga Municipality",
+        "population": "11866"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q21622089",
+        "cityLabel": "Metamorfosis Municipality",
+        "population": "29891"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q2355675",
+        "cityLabel": "Agia, Larissa",
+        "population": "11470"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q21622260",
+        "cityLabel": "Peristeri Municipality",
+        "population": "139981"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q2366186",
+        "cityLabel": "Rethymno Municipality",
+        "population": "55525"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q6627746",
+        "cityLabel": "Municipality of Thessaloniki",
+        "population": "325182"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q9300267",
+        "cityLabel": "Aspropyrgos Municipality",
+        "population": "30251"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q27854141",
+        "cityLabel": "Aegina Municipality",
+        "population": "13056"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q21514830",
+        "cityLabel": "Acharnes Municipality",
+        "population": "106943"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q16005641",
+        "cityLabel": "Kalavryta Municipality",
+        "population": "11045"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q25413862",
+        "cityLabel": "Agios Dimitrios Municipality",
+        "population": "71294"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q4421087",
+        "cityLabel": "Sitia Municipality",
+        "population": "18318"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q11742509",
+        "cityLabel": "Konitsa Municipality",
+        "population": "6362"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q29862937",
+        "cityLabel": "Alonnisos Municipality",
+        "population": "2750"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q12875753",
+        "cityLabel": "Municipality of Patras",
+        "population": "213984"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q12875763",
+        "cityLabel": "Rodos Municipality",
+        "population": "115490"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q16058312",
+        "cityLabel": "Orestiada Municipality",
+        "population": "37695"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q41886733",
+        "cityLabel": "Nea Ionia Municipality",
+        "population": "67134"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q16737939",
+        "cityLabel": "Farsala Municipality",
+        "population": "18545"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q41971790",
+        "cityLabel": "Symi Municipality",
+        "population": "2590"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q4258195",
+        "cityLabel": "Municipality of Avdira",
+        "population": "19005"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q9148069",
+        "cityLabel": "Aliartos Municipality",
+        "population": "10887"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q2418592",
+        "cityLabel": "Arriana Municipality",
+        "population": "16577"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q15961378",
+        "cityLabel": "Municipality of Agrinio",
+        "population": "94181"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q21622016",
+        "cityLabel": "Agia Paraskevi Municipality, Attica",
+        "population": "59704"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q16737779",
+        "cityLabel": "Metsovo Municipality",
+        "population": "6196"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q12873422",
+        "cityLabel": "Almopia Municipality",
+        "population": "27556"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q15979847",
+        "cityLabel": "Kalabaka Municipality",
+        "population": "21991"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q21621791",
+        "cityLabel": "Vyron Municipality",
+        "population": "61308"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q34335724",
+        "cityLabel": "Spetses Municipality",
+        "population": "4027"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q25162011",
+        "cityLabel": "Petroupolis Municipality",
+        "population": "58979"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q23016451",
+        "cityLabel": "Municipality of Kalymnos",
+        "population": "16179"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q21622029",
+        "cityLabel": "Heraklion Attica Municipality",
+        "population": "49642"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q13389655",
+        "cityLabel": "Thermo Municipality",
+        "population": "8242"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q2460862",
+        "cityLabel": "Archanes-Asterousia Municipality",
+        "population": "16692"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q9385573",
+        "cityLabel": "Zaharo Municipality",
+        "population": "8953"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q25413888",
+        "cityLabel": "Amarusio Municipality",
+        "population": "72333"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q25413877",
+        "cityLabel": "Ilion Municipality",
+        "population": "84793"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q14491878",
+        "cityLabel": "Nemea Municipality",
+        "population": "6483"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q2353609",
+        "cityLabel": "Spata-Artemida Municipality",
+        "population": "33821"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q18048733",
+        "cityLabel": "Municipality of Paros",
+        "population": "12853"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q21621796",
+        "cityLabel": "Galatsi Municipality",
+        "population": "59345"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q21622408",
+        "cityLabel": "Kallithea Municipality",
+        "population": "100641"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q15729014",
+        "cityLabel": "Orchomenos Municipality",
+        "population": "11621"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q21622438",
+        "cityLabel": "Nea Smyrni Municipality",
+        "population": "73076"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q18073246",
+        "cityLabel": "Ios Municipality",
+        "population": "2024"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q3567837",
+        "cityLabel": "Lagkadas Municipality",
+        "population": "41103"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q2460901",
+        "cityLabel": "Xiromero Municipality",
+        "population": "11737"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q11799323",
+        "cityLabel": "Oropos Municipality",
+        "population": "33769"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q9386001",
+        "cityLabel": "Zagori Municipality",
+        "population": "3724"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q6935302",
+        "cityLabel": "Alexandroupoli Municipality",
+        "population": "72959"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q12875676",
+        "cityLabel": "Ioannites Municipality",
+        "population": "112486"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q11874075",
+        "cityLabel": "Karpathos Municipality",
+        "population": "6226"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q12875697",
+        "cityLabel": "Municipality of Komotini",
+        "population": "66919"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q12875641",
+        "cityLabel": "Veria Municipality",
+        "population": "66547"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q21622024",
+        "cityLabel": "Vrilission Municipality",
+        "population": "30741"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q21621911",
+        "cityLabel": "Kaisariani Municipality",
+        "population": "26458"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q25164244",
+        "cityLabel": "Ilioupoli Municipality",
+        "population": "78153"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q15967005",
+        "cityLabel": "Alexandria Municipality",
+        "population": "41570"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q3949542",
+        "cityLabel": "Thira Municipality",
+        "population": "15550"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q2389433",
+        "cityLabel": "Vari-Voula-Vouliagmeni",
+        "population": "48399"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q18018042",
+        "cityLabel": "Andros Municipality",
+        "population": "9221"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q2419494",
+        "cityLabel": "Nafplio Municipality",
+        "population": "33356"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q19543309",
+        "cityLabel": "Thasos Municipality",
+        "population": "13770"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q30155855",
+        "cityLabel": "Skiathos Municipality",
+        "population": "6088"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q18364626",
+        "cityLabel": "Patmos Municipality",
+        "population": "3047"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q4163564",
+        "cityLabel": "Markopoulos Mesogeas Municipality",
+        "population": "20040"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q12875675",
+        "cityLabel": "Corfu Municipality",
+        "population": "102071"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q16329876",
+        "cityLabel": "Eretria Municipality",
+        "population": "13053"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q16329869",
+        "cityLabel": "Elefsina Municipality",
+        "population": "29902"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q12875663",
+        "cityLabel": "Zakynthos Municipality",
+        "population": "40759"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q16737154",
+        "cityLabel": "Peania Municipality",
+        "population": "26668"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q12875662",
+        "cityLabel": "Heraklion Municipality",
+        "population": "173993"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q20379355",
+        "cityLabel": "Mykonos Municipality",
+        "population": "10134"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q15966999",
+        "cityLabel": "Oreokastro Municipality",
+        "population": "38317"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q2368800",
+        "cityLabel": "Kantanos-Selino Municipality",
+        "population": "5431"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q2340870",
+        "cityLabel": "Kordelio-Evosmos Municipality",
+        "population": "101010"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q2352674",
+        "cityLabel": "Gortyn Municipality",
+        "population": "15632"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q15243882",
+        "cityLabel": "Pyrgos Municipality",
+        "population": "47995"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q25413505",
+        "cityLabel": "Kalamaria Municipality",
+        "population": "91279"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q25413502",
+        "cityLabel": "Samothraki Municipality",
+        "population": "2859"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q16737558",
+        "cityLabel": "Elassona Municipality",
+        "population": "32121"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q2429463",
+        "cityLabel": "Iasmos Municipality",
+        "population": "13810"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q17558106",
+        "cityLabel": "Domokos Municipality",
+        "population": "11495"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q3659144",
+        "cityLabel": "Soufli Municipality",
+        "population": "14941"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q25413874",
+        "cityLabel": "Chaidari Municipality",
+        "population": "46897"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q16330051",
+        "cityLabel": "Municipality of Preveza",
+        "population": "31733"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q6856965",
+        "cityLabel": "Karpenisi Municipality",
+        "population": "13105"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q3595078",
+        "cityLabel": "Katerini Municipality",
+        "population": "85851"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q25413507",
+        "cityLabel": "Skiros Municipality",
+        "population": "2994"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q9149997",
+        "cityLabel": "Amphilohia Municipality",
+        "population": "17056"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q25413875",
+        "cityLabel": "Aegaleo municipality",
+        "population": "69946"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q25413844",
+        "cityLabel": "Koridallos Municipality",
+        "population": "63445"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q3908531",
+        "cityLabel": "Poros Municipality",
+        "population": "3993"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q25161994",
+        "cityLabel": "Palaio Faliro Municipality",
+        "population": "64021"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q2465717",
+        "cityLabel": "Saronikos Municipality",
+        "population": "29002"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q3500883",
+        "cityLabel": "Salamina",
+        "population": "25370"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q12286651",
+        "cityLabel": "Mykonos",
+        "population": "3783"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q2634247",
+        "cityLabel": "Central Tzoumerka Municipality",
+        "population": "6178"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q81045",
+        "cityLabel": "Kassandra Municipality",
+        "population": "16672"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q644192",
+        "cityLabel": "Limnos Municipality",
+        "population": "16992"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q2634089",
+        "cityLabel": "Sikyona Municipality",
+        "population": "22794"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q643945",
+        "cityLabel": "Dirfys-Messapia Municipality",
+        "population": "18800"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q2268710",
+        "cityLabel": "Pydna-Kolindros",
+        "population": "15179"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q2634231",
+        "cityLabel": "Nikolaos Skoufas Municipality",
+        "population": "12753"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q1383135",
+        "cityLabel": "Syros - Ermoupoli Municipality",
+        "population": "21507"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q2192371",
+        "cityLabel": "Chalkidona Municipality",
+        "population": "33673"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q3559728",
+        "cityLabel": "Skydra Municipality",
+        "population": "20188"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q2197210",
+        "cityLabel": "Xylokastro-Evrostina Municipality",
+        "population": "17365"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q2532082",
+        "cityLabel": "Nea Propontida Municipality",
+        "population": "36500"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q2271587",
+        "cityLabel": "Pineios Municipality",
+        "population": "21034"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q2532139",
+        "cityLabel": "Nea Zichni Municipality",
+        "population": "12397"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q3560056",
+        "cityLabel": "Kozani Municipality",
+        "population": "75388"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q2016006",
+        "cityLabel": "Emmanouil Pappas",
+        "population": "14664"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q2016016",
+        "cityLabel": "Municipality of Pella",
+        "population": "63122"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q3332789",
+        "cityLabel": "Megalopolis Municipality",
+        "population": "10687"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q737245",
+        "cityLabel": "Lokroi Municipality",
+        "population": "19710"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q2620987",
+        "cityLabel": "North Tzoumerka Municipality",
+        "population": "5714"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q1625198",
+        "cityLabel": "Platanias municipality",
+        "population": "16874"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q2266175",
+        "cityLabel": "Pyli Municipality",
+        "population": "14343"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q2290529",
+        "cityLabel": "Sithonia Municipality",
+        "population": "12394"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q649278",
+        "cityLabel": "Argos-Mykines Municipality",
+        "population": "42022"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q1690590",
+        "cityLabel": "Chios Municipality",
+        "population": "51390"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q1960517",
+        "cityLabel": "Oichalia Municipality",
+        "population": "11228"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q616733",
+        "cityLabel": "Ermionida Municipality",
+        "population": "14901"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q2128109",
+        "cityLabel": "Kileler Municipality",
+        "population": "20854"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q2338831",
+        "cityLabel": "Pefki",
+        "population": "21415"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q1021606",
+        "cityLabel": "Delfi Municipality",
+        "population": "26716"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q1905274",
+        "cityLabel": "Georgios Karaiskakis Municipality",
+        "population": "5780"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q2658714",
+        "cityLabel": "Volvi Municipality",
+        "population": "23478"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q2309622",
+        "cityLabel": "Papagou-Cholargos Municipality",
+        "population": "44539"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q1810375",
+        "cityLabel": "Kato Nevrokopi Municipality",
+        "population": "7860"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q1737776",
+        "cityLabel": "Kefalonia Municipality",
+        "population": "35801"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q2277305",
+        "cityLabel": "Kropia Municipality",
+        "population": "30307"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q1979895",
+        "cityLabel": "Aristotelis Municipality",
+        "population": "18294"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q1812290",
+        "cityLabel": "Lefkada Municipality",
+        "population": "22652"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q2207540",
+        "cityLabel": "Pogoni Municipality",
+        "population": "8960"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q2510273",
+        "cityLabel": "Zagora-Mouresi Municipality",
+        "population": "5809"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q1997239",
+        "cityLabel": "Ilioupoli Municipality",
+        "population": "78153"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q2120402",
+        "cityLabel": "Pothia",
+        "population": "12324"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q1938296",
+        "cityLabel": "Ilida Municipality",
+        "population": "32219"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q3557736",
+        "cityLabel": "Amyndeo Municipality",
+        "population": "16973"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q43497",
+        "cityLabel": "Dionisos Municipality",
+        "population": "40193"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q2035813",
+        "cityLabel": "Rigas Feraios Municipality",
+        "population": "10922"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q1887039",
+        "cityLabel": "Palamas Municipality",
+        "population": "16726"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q2538156",
+        "cityLabel": "Paionia Municipality",
+        "population": "28493"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q2321253",
+        "cityLabel": "Andravida-Kyllini",
+        "population": "21581"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q1115715",
+        "cityLabel": "Prosotsani Municipality",
+        "population": "13066"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q2296581",
+        "cityLabel": "Mylopotamos Municipality",
+        "population": "14363"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q2194495",
+        "cityLabel": "West Achaea Municipality",
+        "population": "25916"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q2324833",
+        "cityLabel": "Visaltia Municipality",
+        "population": "20030"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q515576",
+        "cityLabel": "Keratsini-Drapetsona Municipality",
+        "population": "91045"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q1673558",
+        "cityLabel": "Moschato-Tavros Municipality",
+        "population": "40413"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q3556641",
+        "cityLabel": "Kastoria Municipality",
+        "population": "35874"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q2190110",
+        "cityLabel": "Delta Municipality",
+        "population": "45839"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q378335",
+        "cityLabel": "Municipality of Messene",
+        "population": "23482"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q1808735",
+        "cityLabel": "Lake Plastiras Municipality",
+        "population": "4635"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q1027225",
+        "cityLabel": "Faistos Municipality",
+        "population": "24864"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q2678359",
+        "cityLabel": "Neapoli-Sykies Municipality",
+        "population": "84741"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q2181102",
+        "cityLabel": "Velo-Vocha Municipality",
+        "population": "19027"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q1413375",
+        "cityLabel": "Filiates Municipality",
+        "population": "7710"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q585638",
+        "cityLabel": "Souli Municipality",
+        "population": "10063"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q2793100",
+        "cityLabel": "Paxi Municipality",
+        "population": "2300"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q3557808",
+        "cityLabel": "Didimoteiho Municipality",
+        "population": "19493"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q2636821",
+        "cityLabel": "Myki Municipality",
+        "population": "15540"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q432472",
+        "cityLabel": "Minoa Pediada Municipality",
+        "population": "17563"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q2232240",
+        "cityLabel": "Nikaia-Agios Ioannis Rentis Municipality",
+        "population": "105430"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q2227543",
+        "cityLabel": "Pavlos Melas Municipality",
+        "population": "99240"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q2520681",
+        "cityLabel": "Lesbos Municipality",
+        "population": "86436"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q2479030",
+        "cityLabel": "Voio Municipality",
+        "population": "18386"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q511242",
+        "cityLabel": "Ikaria municipality",
+        "population": "8423"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q2015968",
+        "cityLabel": "Municipality of Kilkis",
+        "population": "51926"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q3506552",
+        "cityLabel": "Sintiki Municipality",
+        "population": "22195"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q2520687",
+        "cityLabel": "Samos Municipality",
+        "population": "32977"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q2635137",
+        "cityLabel": "Maroneia-Sapes Municipality",
+        "population": "14733"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q2265340",
+        "cityLabel": "Dodoni Municipality",
+        "population": "9693"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q567511",
+        "cityLabel": "Anogeia Municipality",
+        "population": "2379"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q3557942",
+        "cityLabel": "Serres Municipality",
+        "population": "76817"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q1493246",
+        "cityLabel": "Kythira Municipality",
+        "population": "4041"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q2004826",
+        "cityLabel": "Lykovrysi-Pefki Municipality",
+        "population": "31002"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q1985961",
+        "cityLabel": "Amphipolis",
+        "population": "9314"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q2000198",
+        "cityLabel": "Nestos Municipality",
+        "population": "22331"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q1990863",
+        "cityLabel": "Pangaio Municipality",
+        "population": "32085"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q2679951",
+        "cityLabel": "Pylaia-Chortiatis",
+        "population": "70110"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q1120887",
+        "cityLabel": "Kos Municipality",
+        "population": "33388"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q3558377",
+        "cityLabel": "Ierapetra Municipality",
+        "population": "28270"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q2717832",
+        "cityLabel": "Spata",
+        "population": "9198"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q2712158",
+        "cityLabel": "Apokoronas Municipality",
+        "population": "12807"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q3539555",
+        "cityLabel": "Tripoli Municipality",
+        "population": "47457"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q1767902",
+        "cityLabel": "Livadia Municipality",
+        "population": "31315"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q693813",
+        "cityLabel": "Viannos Municipality",
+        "population": "5563"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q3042287",
+        "cityLabel": "Corinth Municipality",
+        "population": "58192"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q3074841",
+        "cityLabel": "Lavreotiki Municipality",
+        "population": "25102"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q352771",
+        "cityLabel": "Municipality of Pallini",
+        "population": "54415"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q2260918",
+        "cityLabel": "Servia-Velventos Municipality",
+        "population": "14830"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q568218",
+        "cityLabel": "Mantoudi-Limni-Agia Anna Municipality",
+        "population": "12045"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q488215",
+        "cityLabel": "East Mani",
+        "population": "13005"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q735845",
+        "cityLabel": "Eordaia Municipality",
+        "population": "45592"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q2182103",
+        "cityLabel": "Mouzaki Municipality",
+        "population": "13122"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q675347",
+        "cityLabel": "Kymi-Aliveri Municipality",
+        "population": "28437"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q393980",
+        "cityLabel": "Agios Nikolaos Municipality",
+        "population": "27074"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q2261414",
+        "cityLabel": "Evrotas Municipality",
+        "population": "17891"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q2484671",
+        "cityLabel": "Dio-Olympos Municipality",
+        "population": "25668"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q2061140",
+        "cityLabel": "Sofades Municipality",
+        "population": "18864"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q530191",
+        "cityLabel": "Nea Ionia",
+        "population": "67134"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q3558683",
+        "cityLabel": "Florina Municipality",
+        "population": "32881"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q2072599",
+        "cityLabel": "Thermi",
+        "population": "16004"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q2001120",
+        "cityLabel": "Aigialeia Municipality",
+        "population": "49872"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q394026",
+        "cityLabel": "Agios Vasileios, Rethymno",
+        "population": "7427"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q1521832",
+        "cityLabel": "Polygyros Municipality",
+        "population": "22048"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q302020",
+        "cityLabel": "Ampelokipoi-Menemeni",
+        "population": "52127"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q3252409",
+        "cityLabel": "Archaia Olympia Municipality",
+        "population": "13409"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q748832",
+        "cityLabel": "Chios",
+        "population": "26850"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q2708275",
+        "cityLabel": "Irakleia Municipality",
+        "population": "21145"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q530644",
+        "cityLabel": "Naxos (city)",
+        "population": "7070"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q2219845",
+        "cityLabel": "Nafpaktia Municipality",
+        "population": "27800"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q2207213",
+        "cityLabel": "Andritsaina-Krestena",
+        "population": "14109"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q666717",
+        "cityLabel": "Elliniko-Argyroupoli Municipality",
+        "population": "51356"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q731909",
+        "cityLabel": "Dafni-Ymittos Municipality",
+        "population": "33628"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q2634096",
+        "cityLabel": "Argithea Municipality",
+        "population": "3450"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q2643107",
+        "cityLabel": "Nestorio Municipality",
+        "population": "2646"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q652551",
+        "cityLabel": "Fyli Municipality",
+        "population": "45965"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q2117544",
+        "cityLabel": "Trifylia Municipality",
+        "population": "27373"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q2015637",
+        "cityLabel": "Deskati Municipality",
+        "population": "5852"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q1406069",
+        "cityLabel": "Topeiros Municipality",
+        "population": "11544"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q690309",
+        "cityLabel": "Amari Municipality",
+        "population": "5915"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q666901",
+        "cityLabel": "Istiaia-Aidipsos Municipality",
+        "population": "21083"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q3559710",
+        "cityLabel": "Grevena Municipality",
+        "population": "25905"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q3085362",
+        "cityLabel": "Gortynia Municipality",
+        "population": "10109"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q2708287",
+        "cityLabel": "Filothei-Psychiko Municipality",
+        "population": "26968"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q1536340",
+        "cityLabel": "Troizinia Municipality",
+        "population": "7143"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q2634125",
+        "cityLabel": "Loutraki-Agioi Theodoroi Municipality",
+        "population": "21221"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q2634251",
+        "cityLabel": "Ziros Municipality",
+        "population": "13892"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q2532022",
+        "cityLabel": "North Kynouria Municipality",
+        "population": "10341"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q2634238",
+        "cityLabel": "Thermaikos Municipality",
+        "population": "50264"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q12885125",
+        "cityLabel": "Q12885125",
+        "population": "2354"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q2105234",
+        "cityLabel": "Porto Rafti",
+        "population": "9686"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q957192",
+        "cityLabel": "Paranesti Municipality",
+        "population": "3901"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q992450",
+        "cityLabel": "Sparta Municipality",
+        "population": "35259"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q209978",
+        "cityLabel": "Edessa",
+        "population": "18229"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q950532",
+        "cityLabel": "Tyrnavos",
+        "population": "11069"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q12249471",
+        "cityLabel": "Nea Magnisia",
+        "population": "4266"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q182299",
+        "native": "Χανιά",
+        "cityLabel": "Chania",
+        "population": "53910"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q210296",
+        "cityLabel": "Xanthi",
+        "population": "56122"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q2362525",
+        "cityLabel": "Psachna",
+        "population": "5827"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q470481",
+        "cityLabel": "Amfissa",
+        "population": "6919"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q205832",
+        "cityLabel": "Corfu",
+        "population": "24838"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q216307",
+        "cityLabel": "Pyrgos",
+        "population": "24359"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q2310605",
+        "native": "Μύρινα",
+        "cityLabel": "Myrina",
+        "population": "5711"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q12249460",
+        "cityLabel": "Nea Raidestos",
+        "population": "3869"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q133123",
+        "cityLabel": "Patras",
+        "population": "167446"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q17151",
+        "native": "Θεσσαλονίκη",
+        "cityLabel": "Thessaloniki",
+        "population": "315196"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q193409",
+        "native": "Τρίπολη",
+        "cityLabel": "Tripoli",
+        "population": "30866"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q12230117",
+        "cityLabel": "Q12230117",
+        "population": "6571"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q762668",
+        "cityLabel": "Aktio-Vonitsa",
+        "population": "17370"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q1346418",
+        "cityLabel": "Epanomi",
+        "population": "8979"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q1247938",
+        "cityLabel": "Alimos",
+        "population": "41720"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q12198937",
+        "cityLabel": "Plagiari, Thessaloniki",
+        "population": "5392"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q1241397",
+        "cityLabel": "Agrafa Municipality",
+        "population": "6976"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q12295369",
+        "cityLabel": "Q12295369",
+        "population": "4892"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q12249481",
+        "cityLabel": "Neapoli Voion",
+        "population": "3090"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q13359779",
+        "cityLabel": "Kato Achaia",
+        "population": "6618"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q12881481",
+        "cityLabel": "Q12881481",
+        "population": "3876"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q782278",
+        "cityLabel": "Naupactus",
+        "population": "13415"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q2354194",
+        "cityLabel": "Goumenissa",
+        "population": "3609"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q929022",
+        "cityLabel": "Giannitsa",
+        "population": "29789"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q1235563",
+        "cityLabel": "Dorida Municipality",
+        "population": "13627"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q1235623",
+        "cityLabel": "Distomo-Arachova-Antikyra Municipality",
+        "population": "8188"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q2308046",
+        "cityLabel": "Sparti",
+        "population": "16239"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q16327838",
+        "cityLabel": "Q16327838",
+        "population": "3248"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q396807",
+        "native": "Αγρίνιο",
+        "cityLabel": "Agrinio",
+        "population": "46899"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q180176",
+        "native": "Κοζάνη",
+        "cityLabel": "Kozani",
+        "population": "41066"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q10566753",
+        "cityLabel": "Lefkonas",
+        "population": "2388"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q14201950",
+        "cityLabel": "Polygyros",
+        "population": "6121"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q189059",
+        "cityLabel": "Mytilene",
+        "population": "27871"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q12876418",
+        "cityLabel": "Dione",
+        "population": "2111"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q1235548",
+        "cityLabel": "Stylida Municipality",
+        "population": "12750"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q200133",
+        "native": "Χαλκίδα",
+        "cityLabel": "Chalkida",
+        "population": "59125"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q12249495",
+        "cityLabel": "Q12249495",
+        "population": "5531"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q919723",
+        "cityLabel": "Erymanthos Municipality",
+        "population": "8877"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q2283009",
+        "native": "το Αρκαλοχώριον",
+        "cityLabel": "Arkalochori",
+        "population": "4313"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q201722",
+        "cityLabel": "Veroia",
+        "population": "43158"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q15924406",
+        "cityLabel": "Ayia, Larissa",
+        "population": "3169"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q2272672",
+        "cityLabel": "Nigrita",
+        "population": "4947"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q12874064",
+        "cityLabel": "Messini",
+        "population": "6065"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q12237538",
+        "cityLabel": "Loutra Edipsou",
+        "population": "2560"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q12234199",
+        "cityLabel": "Katochi",
+        "population": "2246"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q12234199",
+        "cityLabel": "Katochi",
+        "population": "2829"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q16963918",
+        "cityLabel": "Agios Konstantinos, Fthiotis",
+        "population": "2471"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q5760",
+        "native": "Θήβα",
+        "cityLabel": "Thebes",
+        "population": "22883"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q12180002",
+        "cityLabel": "Q12180002",
+        "population": "3150"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q12234216",
+        "cityLabel": "Kardia, Thessaloniki",
+        "population": "3394"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q208403",
+        "cityLabel": "Komotini",
+        "population": "50990"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q12236804",
+        "cityLabel": "Kentavros",
+        "population": "2580"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q12181467",
+        "cityLabel": "Agia Paraskevi, Thessaloniki",
+        "population": "2244"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q933783",
+        "cityLabel": "Orestida Municipality",
+        "population": "11802"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q206957",
+        "cityLabel": "Serres",
+        "population": "58287"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q12181489",
+        "cityLabel": "Agios Vasileios, Achaea",
+        "population": "2662"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q15261586",
+        "native": "Νεμέα",
+        "cityLabel": "Nemea",
+        "population": "3853"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q207467",
+        "cityLabel": "Trikala",
+        "population": "61653"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q15635603",
+        "cityLabel": "Q15635603",
+        "population": "2195"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q200908",
+        "native": "Ρέθυμνο",
+        "cityLabel": "Rethymno",
+        "population": "32468"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q2275300",
+        "cityLabel": "Zefyri",
+        "population": "9454"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q478518",
+        "cityLabel": "Kallithea",
+        "population": "100641"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q21500283",
+        "cityLabel": "Q21500283",
+        "population": "2512"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q18523911",
+        "cityLabel": "Q18523911",
+        "population": "2008"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q187352",
+        "native": "Καβάλα",
+        "cityLabel": "Kavala",
+        "population": "54027"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q2462767",
+        "cityLabel": "Tympaki",
+        "population": "5285"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q980686",
+        "cityLabel": "South Pelion Municipality",
+        "population": "10216"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q1231770",
+        "cityLabel": "Tempi Municipality",
+        "population": "13712"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q10640373",
+        "cityLabel": "Ierissos",
+        "population": "3266"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q2098876",
+        "cityLabel": "Platy, Imathia",
+        "population": "2083"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q1269388",
+        "cityLabel": "West Mani Municipality",
+        "population": "6945"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q103011",
+        "native": "Κόρινθος",
+        "cityLabel": "Corinth",
+        "population": "30176"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q1524",
+        "native": "Αθήνα",
+        "cityLabel": "Athens",
+        "population": "664046"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q2277358",
+        "cityLabel": "Pikermi",
+        "population": "2009"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q2277259",
+        "cityLabel": "Rodopoli",
+        "population": "2078"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q1014285",
+        "cityLabel": "Alexandreia",
+        "population": "14821"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q1231795",
+        "cityLabel": "Amfikleia-Elateia",
+        "population": "10922"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q189901",
+        "cityLabel": "Argos",
+        "population": "22209"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q7057301",
+        "cityLabel": "Penteli, Greece",
+        "population": "4851"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q12874746",
+        "cityLabel": "Vrachnaiika",
+        "population": "2571"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q213898",
+        "cityLabel": "Preveza",
+        "population": "19042"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q1227686",
+        "cityLabel": "Molos-Agios Konstantinos Municipality",
+        "population": "12090"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q2349613",
+        "cityLabel": "Q2349613",
+        "population": "2554"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q214212",
+        "cityLabel": "Karditsa",
+        "population": "38554"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q1236193",
+        "cityLabel": "Paiania",
+        "population": "14595"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q12249465",
+        "cityLabel": "Nea Karvali",
+        "population": "2160"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q12885731",
+        "cityLabel": "Farkadona City",
+        "population": "2052"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q12882644",
+        "cityLabel": "Palamas Karditsa",
+        "population": "5745"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q12882648",
+        "cityLabel": "Palio, Kavala",
+        "population": "2195"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q192980",
+        "cityLabel": "Lamia",
+        "population": "52006"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q12181472",
+        "cityLabel": "Q12181472",
+        "population": "2020"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q2416162",
+        "cityLabel": "Axioupoli",
+        "population": "2897"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q2248347",
+        "cityLabel": "Xylokastro",
+        "population": "5500"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q767716",
+        "cityLabel": "Filadelfeia-Chalkidona Municipality",
+        "population": "35556"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q1307389",
+        "cityLabel": "Malevizi Municipality",
+        "population": "24864"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q12214174",
+        "cityLabel": "Q12214174",
+        "population": "2106"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q184864",
+        "native": "Μέγαρα",
+        "cityLabel": "Megara",
+        "population": "23456"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q12074730",
+        "cityLabel": "Q12074730",
+        "population": "5556"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q786461",
+        "cityLabel": "Farkadona Municipality",
+        "population": "13396"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q2277284",
+        "cityLabel": "Anthousa",
+        "population": "2132"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q214347",
+        "cityLabel": "Kilkis",
+        "population": "22914"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q16632494",
+        "cityLabel": "Q16632494",
+        "population": "2586"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q12884102",
+        "cityLabel": "Q12884102",
+        "population": "5252"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q8509302",
+        "cityLabel": "Neochori",
+        "population": "2827"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q1224979",
+        "cityLabel": "Athens Municipality",
+        "population": "664046"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q12237753",
+        "cityLabel": "Q12237753",
+        "population": "2090"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q200036",
+        "native": "Βόλος",
+        "cityLabel": "Volos",
+        "population": "86046"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q12195957",
+        "cityLabel": "Q12195957",
+        "population": "2935"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q12200615",
+        "cityLabel": "Q12200615",
+        "population": "3986"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q10755817",
+        "cityLabel": "Dionysos, Greece",
+        "population": "5651"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q922366",
+        "cityLabel": "Pylos-Nestor",
+        "population": "21077"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q7918899",
+        "cityLabel": "Velestino",
+        "population": "3044"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q12874215",
+        "cityLabel": "Afantou municipality",
+        "population": "6072"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q12874314",
+        "cityLabel": "Velo, Greece",
+        "population": "3096"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q12201986",
+        "cityLabel": "Tagarades",
+        "population": "2088"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q1021592",
+        "cityLabel": "Nea Filadelfeia",
+        "population": "25734"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q7942561",
+        "cityLabel": "Vrachati",
+        "population": "3338"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q1242834",
+        "cityLabel": "Naxos and Lesser Cyclades Municipality",
+        "population": "18864"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q12288144",
+        "cityLabel": "Neo Rysio",
+        "population": "2952"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q190847",
+        "cityLabel": "Alexandroupoli",
+        "population": "57812"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q8069864",
+        "cityLabel": "Zevgolateio",
+        "population": "4363"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q1192028",
+        "cityLabel": "Kalamata Municipality",
+        "population": "69849"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q204905",
+        "native": "Ελευσίνα",
+        "cityLabel": "Eleusis",
+        "population": "24910"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q2277297",
+        "cityLabel": "Saronida",
+        "population": "2932"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q212841",
+        "cityLabel": "Drama",
+        "population": "44823"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q210470",
+        "cityLabel": "Katerini",
+        "population": "55997"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q1248046",
+        "cityLabel": "Rafina-Pikermi Municipality",
+        "population": "20266"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q190210",
+        "cityLabel": "Mykonos",
+        "population": "10134"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q950673",
+        "cityLabel": "Epidavros Municipality",
+        "population": "8115"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q769120",
+        "cityLabel": "South Kynouria Municipality",
+        "population": "8294"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q746362",
+        "cityLabel": "Astakos",
+        "population": "2696"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q3606024",
+        "cityLabel": "Peristasi, Pieria",
+        "population": "2545"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q1733889",
+        "cityLabel": "Karlovasi",
+        "population": "6708"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q368275",
+        "native": "Σπέτσες",
+        "cityLabel": "Spetses",
+        "population": "4027"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q643695",
+        "cityLabel": "Argostoli",
+        "population": "9748"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q657852",
+        "cityLabel": "Aridaia",
+        "population": "6561"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q6434654",
+        "cityLabel": "Kounoupidiana",
+        "population": "6334"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q733574",
+        "cityLabel": "Istiaia",
+        "population": "4339"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q3384116",
+        "cityLabel": "Selero",
+        "population": "2059"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q1736413",
+        "cityLabel": "Neapoli, Crete",
+        "population": "2683"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q3541099",
+        "cityLabel": "Kallithea",
+        "population": "3134"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q3566413",
+        "cityLabel": "Nea Kallikratia",
+        "population": "7238"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q3555848",
+        "cityLabel": "Karditsomagoula",
+        "population": "2063"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q7263152",
+        "native": "Πύλος",
+        "cityLabel": "Pylos",
+        "population": "2345"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q3160662",
+        "cityLabel": "Q3160662",
+        "population": "2285"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q2537108",
+        "cityLabel": "Filiatra",
+        "population": "5969"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q2021739",
+        "cityLabel": "Ampelakia",
+        "population": "4710"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q648399",
+        "cityLabel": "Lixouri",
+        "population": "3752"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q3491767",
+        "cityLabel": "Leptokarya",
+        "population": "3700"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q3409187",
+        "cityLabel": "Kato Nevrokopi",
+        "population": "2157"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q3564028",
+        "cityLabel": "Drymos, Thessaloniki",
+        "population": "3659"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q685300",
+        "cityLabel": "Leontari, Attica",
+        "population": "5929"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q1413774",
+        "cityLabel": "Filippiada",
+        "population": "4619"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q687805",
+        "cityLabel": "Giannouli",
+        "population": "7847"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q2532160",
+        "cityLabel": "Anavyssos",
+        "population": "6202"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q542358",
+        "cityLabel": "Velventos",
+        "population": "3360"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q4152343",
+        "cityLabel": "Kítsi",
+        "population": "4091"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q2706465",
+        "cityLabel": "Alistrati",
+        "population": "2127"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q3219865",
+        "cityLabel": "Laurium",
+        "population": "7078"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q583647",
+        "cityLabel": "Nea Anchialos",
+        "population": "5132"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q2634117",
+        "cityLabel": "Livadi",
+        "population": "2244"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q2532100",
+        "cityLabel": "Palaia Fokaia",
+        "population": "2713"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q632440",
+        "cityLabel": "Archangelos",
+        "population": "5384"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q2022196",
+        "cityLabel": "Sochos",
+        "population": "3094"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q3561409",
+        "cityLabel": "Q3561409",
+        "population": "3079"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q3561413",
+        "cityLabel": "Q3561413",
+        "population": "8775"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q3394321",
+        "cityLabel": "Asvestochori, Thessaloniki",
+        "population": "6392"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q1494236",
+        "cityLabel": "Gargalianoi",
+        "population": "5007"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q3319284",
+        "cityLabel": "Nea Malgara",
+        "population": "2404"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q3558195",
+        "cityLabel": "Kalochori, Thessaloniki",
+        "population": "4672"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q1819480",
+        "cityLabel": "Leonidio",
+        "population": "3761"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q738098",
+        "cityLabel": "Asprovalta",
+        "population": "2838"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q649852",
+        "cityLabel": "Aliveri",
+        "population": "4827"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q2532128",
+        "cityLabel": "Kapandriti",
+        "population": "3359"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q3399421",
+        "cityLabel": "Iraklia, Serres",
+        "population": "3786"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q2532150",
+        "cityLabel": "Lykovrysi",
+        "population": "9738"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q626763",
+        "cityLabel": "Arnaia",
+        "population": "2300"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q3566406",
+        "cityLabel": "Q3566406",
+        "population": "3071"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q3563131",
+        "cityLabel": "Katsikas",
+        "population": "3885"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q2712273",
+        "cityLabel": "Kalampaki",
+        "population": "3110"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q749171",
+        "cityLabel": "Karpathos",
+        "population": "2707"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q3394779",
+        "cityLabel": "Chalkidona, Thessaloniki",
+        "population": "3094"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q470461",
+        "cityLabel": "Amfilochia",
+        "population": "3827"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q3403276",
+        "cityLabel": "Prosotsani",
+        "population": "3553"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q1452998",
+        "cityLabel": "Argos Orestiko",
+        "population": "7473"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q2479112",
+        "cityLabel": "Agios Athanasios",
+        "population": "4967"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q2643058",
+        "cityLabel": "Langadas",
+        "population": "7764"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q2016450",
+        "cityLabel": "Kamena Vourla",
+        "population": "2761"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q3395964",
+        "cityLabel": "Koufalia",
+        "population": "7850"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q3396812",
+        "cityLabel": "Nea Mesimvria",
+        "population": "3050"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q1727945",
+        "cityLabel": "Vonitsa",
+        "population": "4703"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q3565344",
+        "cityLabel": "Lagyna",
+        "population": "3591"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q3555707",
+        "cityLabel": "Neoi Epivates",
+        "population": "5984"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q3395942",
+        "cityLabel": "Nikisiani",
+        "population": "2236"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q3405718",
+        "cityLabel": "Skoutari, Serres",
+        "population": "2154"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q677249",
+        "cityLabel": "Siatista",
+        "population": "5490"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q3399449",
+        "cityLabel": "Q3399449",
+        "population": "2072"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q748821",
+        "cityLabel": "Naousa, Paros",
+        "population": "2468"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q677906",
+        "cityLabel": "Galaxidi",
+        "population": "2011"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q7534982",
+        "cityLabel": "Skiathos",
+        "population": "4883"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q3401722",
+        "cityLabel": "Diavata",
+        "population": "9890"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q396559",
+        "cityLabel": "Agria",
+        "population": "5191"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q3555844",
+        "cityLabel": "Rododafni",
+        "population": "2564"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q2035747",
+        "cityLabel": "Vartholomio",
+        "population": "3603"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q544242",
+        "cityLabel": "Souda",
+        "population": "6358"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q4677068",
+        "cityLabel": "Fyli, Attica",
+        "population": "2937"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q3395578",
+        "cityLabel": "Maniakoi",
+        "population": "3055"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q3561868",
+        "cityLabel": "Macrochori, Imathia",
+        "population": "5189"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q5449286",
+        "cityLabel": "Filyro",
+        "population": "5495"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q2478944",
+        "cityLabel": "Q2478944",
+        "population": "2398"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q3396733",
+        "cityLabel": "Vathylakkos, Thessaloniki",
+        "population": "2337"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q2533805",
+        "cityLabel": "Mesopotamia",
+        "population": "2099"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q543895",
+        "native": "Ὀρχομενός",
+        "cityLabel": "Orchomenus",
+        "population": "5238"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q3566838",
+        "cityLabel": "Adendro",
+        "population": "2079"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q2636829",
+        "cityLabel": "Kolindros",
+        "population": "2822"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q389439",
+        "cityLabel": "Avlonas, Attica",
+        "population": "5744"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q3561404",
+        "cityLabel": "Anatoliko",
+        "population": "2589"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q3555045",
+        "cityLabel": "Kiato",
+        "population": "9812"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q2007855",
+        "native": "Χρυσούπολη",
+        "cityLabel": "Chrysoupoli",
+        "population": "8885"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q3561452",
+        "cityLabel": "Efxeinoupoli, Magnesia",
+        "population": "2281"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q2637038",
+        "cityLabel": "Molaoi",
+        "population": "2534"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q482094",
+        "cityLabel": "Amyntaio",
+        "population": "3671"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q3720429",
+        "cityLabel": "Aegina",
+        "population": "6867"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q3400478",
+        "cityLabel": "Krya Vrysi, Pella",
+        "population": "5214"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q2014656",
+        "cityLabel": "Spercheiada",
+        "population": "2691"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q3561434",
+        "cityLabel": "Gefyra, Thessaloniki",
+        "population": "3059"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q1812299",
+        "cityLabel": "Lefkimmi",
+        "population": "2935"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q487563",
+        "cityLabel": "Anatoli",
+        "population": "9798"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q3405174",
+        "cityLabel": "Q3405174",
+        "population": "2169"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q743420",
+        "cityLabel": "Kranidi",
+        "population": "4006"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q3405628",
+        "cityLabel": "Pentalofos, Thessaloniki",
+        "population": "2022"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q3568012",
+        "cityLabel": "Q3568012",
+        "population": "4860"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q3854216",
+        "cityLabel": "Meliki",
+        "population": "3116"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q3395951",
+        "cityLabel": "Q3395951",
+        "population": "2421"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q3393470",
+        "cityLabel": "Liti",
+        "population": "3302"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q3326154",
+        "cityLabel": "Mournies",
+        "population": "7553"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q3558234",
+        "cityLabel": "Ovrya",
+        "population": "6308"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q557754",
+        "cityLabel": "Thasos",
+        "population": "3234"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q2638361",
+        "cityLabel": "Tsaritsani",
+        "population": "2040"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q3154319",
+        "cityLabel": "Q3154319",
+        "population": "2724"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q2708960",
+        "cityLabel": "Elateia, Phthiotis",
+        "population": "2372"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q3558261",
+        "cityLabel": "Vrontados",
+        "population": "5323"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q1689422",
+        "native": "Νέα Μουδανιά",
+        "cityLabel": "Nea Moudania",
+        "population": "9342"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q669967",
+        "cityLabel": "Makrakomi",
+        "population": "2245"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q493019",
+        "cityLabel": "Andravida",
+        "population": "3981"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q3555734",
+        "cityLabel": "Kimmeria",
+        "population": "3644"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q3554576",
+        "cityLabel": "Anogia, Rethymno",
+        "population": "2319"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q4008935",
+        "cityLabel": "Vasilika",
+        "population": "3762"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q3555810",
+        "cityLabel": "Nea Peramos",
+        "population": "3514"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q673970",
+        "cityLabel": "Paramythia",
+        "population": "2363"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q7915519",
+        "cityLabel": "Varda, Greece",
+        "population": "2291"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q3564011",
+        "cityLabel": "Drafi",
+        "population": "3055"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q3564005",
+        "cityLabel": "Q3564005",
+        "population": "2979"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q2643560",
+        "cityLabel": "Sapes",
+        "population": "3351"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q474840",
+        "cityLabel": "Amphicleia",
+        "population": "3012"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q3392954",
+        "cityLabel": "Sindos",
+        "population": "9289"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q1076595",
+        "cityLabel": "Chortiatis",
+        "population": "4873"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q3394303",
+        "cityLabel": "Megali Panagia, Chalkidiki",
+        "population": "2592"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q1711138",
+        "cityLabel": "Servia, Greece",
+        "population": "2980"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q6374711",
+        "cityLabel": "Kassandreia",
+        "population": "2775"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q624641",
+        "cityLabel": "Arachova",
+        "population": "2657"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q658899",
+        "cityLabel": "Nea Peramos",
+        "population": "8333"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q2714769",
+        "cityLabel": "Erythres",
+        "population": "2862"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q393962",
+        "cityLabel": "Agios Kirykos",
+        "population": "2218"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q2638873",
+        "cityLabel": "Agiasos",
+        "population": "2320"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q2698815",
+        "cityLabel": "Agios Stefanos, Attica",
+        "population": "9892"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q1784437",
+        "cityLabel": "Korinos",
+        "population": "3487"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q3564053",
+        "cityLabel": "Aeginio",
+        "population": "4153"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q1747381",
+        "cityLabel": "Polykastro",
+        "population": "7064"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q3562844",
+        "cityLabel": "Markopoulo Oropou",
+        "population": "2549"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q2714924",
+        "cityLabel": "Vouliagmeni",
+        "population": "4180"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q3564041",
+        "cityLabel": "Melissochori, Thessaloniki",
+        "population": "3287"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q3556648",
+        "cityLabel": "Kremasti",
+        "population": "5363"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q12075451",
+        "cityLabel": "Choristi",
+        "population": "2725"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q2706322",
+        "cityLabel": "Lechaina",
+        "population": "2641"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q3394308",
+        "cityLabel": "Zagliveri",
+        "population": "2171"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q3563105",
+        "cityLabel": "Karitsa",
+        "population": "2025"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q631185",
+        "cityLabel": "Parikia",
+        "population": "4326"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q2706370",
+        "cityLabel": "Plomari",
+        "population": "2996"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q823721",
+        "cityLabel": "Megalopolis",
+        "population": "5748"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q985596",
+        "cityLabel": "Farsala",
+        "population": "9298"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q1171044",
+        "cityLabel": "Lygourio",
+        "population": "2482"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q851077",
+        "cityLabel": "Parga",
+        "population": "2088"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q992256",
+        "cityLabel": "Gytheio",
+        "population": "4279"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q943354",
+        "cityLabel": "Feres",
+        "population": "5457"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q940804",
+        "cityLabel": "Elassona",
+        "population": "7338"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q1027669",
+        "cityLabel": "Q1027669",
+        "population": "2537"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q1195159",
+        "cityLabel": "Skydra",
+        "population": "5406"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q139595",
+        "cityLabel": "Zacharo",
+        "population": "3145"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q2274820",
+        "cityLabel": "Oraiokastro",
+        "population": "20852"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q269251",
+        "cityLabel": "Echinos",
+        "population": "2486"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q1135193",
+        "cityLabel": "Anixi",
+        "population": "6510"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q1018264",
+        "cityLabel": "Nikiti",
+        "population": "2711"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q992228",
+        "cityLabel": "Orestiada",
+        "population": "18426"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q932648",
+        "cityLabel": "Didymoteicho",
+        "population": "9263"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q178488",
+        "cityLabel": "Kefalonia",
+        "population": "40000"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q42414279",
+        "cityLabel": "Q42414279",
+        "population": "2533"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q985549",
+        "cityLabel": "Sitia",
+        "population": "9348"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q1235010",
+        "cityLabel": "Aliartos",
+        "population": "4402"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q211463",
+        "native": "Άγιος Νικόλαος",
+        "cityLabel": "Agios Nikolaos",
+        "population": "11421"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q1001857",
+        "cityLabel": "Nea Kios",
+        "population": "2778"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q955459",
+        "cityLabel": "Galatsi",
+        "population": "59345"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q200417",
+        "cityLabel": "Neos Marmaras",
+        "population": "3158"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q23900285",
+        "cityLabel": "Q23900285",
+        "population": "4870"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q1014231",
+        "cityLabel": "Palaio Faliro",
+        "population": "64021"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q178405",
+        "cityLabel": "Larissa",
+        "population": "144651"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q771125",
+        "cityLabel": "Krinides",
+        "population": "3365"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q1371634",
+        "cityLabel": "Aitoliko",
+        "population": "4012"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q204361",
+        "cityLabel": "Agios Dimitrios",
+        "population": "71294"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q1007524",
+        "cityLabel": "Livanates",
+        "population": "2559"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q1135206",
+        "cityLabel": "Nea Artaki",
+        "population": "9489"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q995656",
+        "cityLabel": "Karystos",
+        "population": "5112"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q825385",
+        "cityLabel": "Skala",
+        "population": "3067"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q202337",
+        "native": "Ναύπλιο",
+        "cityLabel": "Nauplion",
+        "population": "14203"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q58976",
+        "native": "Πειραιάς",
+        "cityLabel": "Piraeus",
+        "population": "163688"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q3564842",
+        "cityLabel": "Stafidokampos",
+        "population": "4716"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q933566",
+        "cityLabel": "Kaisariani",
+        "population": "26370"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q188731",
+        "cityLabel": "Rhodes",
+        "population": "49541"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q683555",
+        "cityLabel": "Vyronas",
+        "population": "61308"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q212150",
+        "cityLabel": "Marathon",
+        "population": "7170"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q1059457",
+        "cityLabel": "Chalastra",
+        "population": "7270"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q1231074",
+        "cityLabel": "Tinos",
+        "population": "4762"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q3560315",
+        "cityLabel": "Sympoliteia",
+        "population": "7840"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q1227707",
+        "cityLabel": "Schimatari",
+        "population": "4035"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q1135222",
+        "cityLabel": "Magoula",
+        "population": "4735"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q1405893",
+        "cityLabel": "Vrilissia",
+        "population": "30741"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q1141295",
+        "native": "Θεσπιαί",
+        "cityLabel": "Thespiae",
+        "population": "5949"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q1408844",
+        "cityLabel": "Antimachia",
+        "population": "2068"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q965037",
+        "cityLabel": "Almyros",
+        "population": "7955"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q1247264",
+        "cityLabel": "Stavros",
+        "population": "3672"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q1018150",
+        "cityLabel": "Samos",
+        "population": "6191"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q940330",
+        "cityLabel": "Kalabaka",
+        "population": "8330"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q1026705",
+        "cityLabel": "Kyparissia",
+        "population": "5131"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q992397",
+        "cityLabel": "Chaidari",
+        "population": "45642"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q798872",
+        "cityLabel": "Aiani",
+        "population": "2006"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q160544",
+        "cityLabel": "Heraklion",
+        "population": "140730"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q320367",
+        "cityLabel": "Eretria",
+        "population": "4166"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q1246364",
+        "cityLabel": "Agia Marina",
+        "population": "2372"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q845125",
+        "cityLabel": "Meliti (municipal unit)",
+        "population": "5927"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q1235455",
+        "cityLabel": "Kymi",
+        "population": "2383"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q1309588",
+        "cityLabel": "Vrasna",
+        "population": "2556"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q992384",
+        "cityLabel": "Galatas",
+        "population": "2195"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q981081",
+        "cityLabel": "Palairos",
+        "population": "2664"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q1014206",
+        "cityLabel": "Soufli",
+        "population": "3837"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q1014288",
+        "cityLabel": "Nea Vyssa",
+        "population": "2805"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q652895",
+        "cityLabel": "Peristeri",
+        "population": "139981"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q1021629",
+        "cityLabel": "Kissamos",
+        "population": "4236"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q284463",
+        "native": "Μάλια",
+        "cityLabel": "Malia",
+        "population": "3224"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q771781",
+        "cityLabel": "Karpenisi",
+        "population": "7183"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q779647",
+        "cityLabel": "Tychero",
+        "population": "2311"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q210698",
+        "cityLabel": "Livadeia",
+        "population": "21379"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q972388",
+        "cityLabel": "Oichalia, Trikala",
+        "population": "2357"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q994564",
+        "native": "Ερμιόνη",
+        "cityLabel": "Ermioni",
+        "population": "2505"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q752163",
+        "cityLabel": "Astros, Greece",
+        "population": "2285"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q776118",
+        "cityLabel": "Litochoro",
+        "population": "6995"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q1018794",
+        "cityLabel": "Sidirokastro",
+        "population": "5177"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q985630",
+        "native": "Μέτσοβο",
+        "cityLabel": "Metsovo",
+        "population": "2503"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece",
+        "city": "http://www.wikidata.org/entity/Q1240074",
+        "cityLabel": "Itea",
+        "population": "4362"
+    }
+]

@@ -1,0 +1,61 @@
+[
+    {
+        "country": "http://www.wikidata.org/entity/Q878",
+        "countryLabel": "United Arab Emirates",
+        "city": "http://www.wikidata.org/entity/Q12241857",
+        "cityLabel": "Madinat Zayed",
+        "population": "29095"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q878",
+        "countryLabel": "United Arab Emirates",
+        "city": "http://www.wikidata.org/entity/Q530171",
+        "native": "عجمان (مدينة)",
+        "cityLabel": "Ajman",
+        "population": "238119"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q878",
+        "countryLabel": "United Arab Emirates",
+        "city": "http://www.wikidata.org/entity/Q612",
+        "cityLabel": "Dubai",
+        "population": "2502715"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q878",
+        "countryLabel": "United Arab Emirates",
+        "city": "http://www.wikidata.org/entity/Q665502",
+        "cityLabel": "Jebel Ali",
+        "population": "31634"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q878",
+        "countryLabel": "United Arab Emirates",
+        "city": "http://www.wikidata.org/entity/Q1519",
+        "native": "ابوظبي",
+        "cityLabel": "Abu Dhabi",
+        "population": "1000000"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q878",
+        "countryLabel": "United Arab Emirates",
+        "city": "http://www.wikidata.org/entity/Q289693",
+        "native": "الشارقة",
+        "cityLabel": "Sharjah",
+        "population": "1400000"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q878",
+        "countryLabel": "United Arab Emirates",
+        "city": "http://www.wikidata.org/entity/Q234600",
+        "cityLabel": "Al Ain",
+        "population": "631005"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q878",
+        "countryLabel": "United Arab Emirates",
+        "city": "http://www.wikidata.org/entity/Q4045",
+        "cityLabel": "Fujairah",
+        "population": "93673"
+    }
+]

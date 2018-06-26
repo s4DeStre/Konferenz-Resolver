@@ -1,0 +1,37 @@
+[
+    {
+        "country": "http://www.wikidata.org/entity/Q398",
+        "countryLabel": "Bahrain",
+        "city": "http://www.wikidata.org/entity/Q270500",
+        "cityLabel": "Muharraq",
+        "population": "75000"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q398",
+        "countryLabel": "Bahrain",
+        "city": "http://www.wikidata.org/entity/Q1771398",
+        "cityLabel": "Riffa",
+        "population": "121566"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q398",
+        "countryLabel": "Bahrain",
+        "city": "http://www.wikidata.org/entity/Q1017673",
+        "cityLabel": "Isa Town",
+        "population": "40000"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q398",
+        "countryLabel": "Bahrain",
+        "city": "http://www.wikidata.org/entity/Q3882",
+        "cityLabel": "Manama",
+        "population": "157474"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q398",
+        "countryLabel": "Bahrain",
+        "city": "http://www.wikidata.org/entity/Q2088687",
+        "cityLabel": "Hamad Town",
+        "population": "52700"
+    }
+]

@@ -1,0 +1,70 @@
+[
+    {
+        "country": "http://www.wikidata.org/entity/Q423",
+        "countryLabel": "North Korea",
+        "city": "http://www.wikidata.org/entity/Q109386",
+        "cityLabel": "Nampho",
+        "population": "310864"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q423",
+        "countryLabel": "North Korea",
+        "city": "http://www.wikidata.org/entity/Q489825",
+        "cityLabel": "Kanggye",
+        "population": "251971"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q423",
+        "countryLabel": "North Korea",
+        "city": "http://www.wikidata.org/entity/Q109356",
+        "cityLabel": "Hamhung",
+        "population": "614198"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q423",
+        "countryLabel": "North Korea",
+        "city": "http://www.wikidata.org/entity/Q514136",
+        "cityLabel": "Pyongsong",
+        "population": "236583"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q423",
+        "countryLabel": "North Korea",
+        "city": "http://www.wikidata.org/entity/Q156243",
+        "native": "신의주시",
+        "cityLabel": "Sinuiju",
+        "population": "352000"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q423",
+        "countryLabel": "North Korea",
+        "city": "http://www.wikidata.org/entity/Q714865",
+        "native": "해주시",
+        "cityLabel": "Haeju",
+        "population": "241599"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q423",
+        "countryLabel": "North Korea",
+        "city": "http://www.wikidata.org/entity/Q221734",
+        "native": "라선 직할시",
+        "cityLabel": "Rason",
+        "population": "196954"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q423",
+        "countryLabel": "North Korea",
+        "city": "http://www.wikidata.org/entity/Q714873",
+        "native": "김책시",
+        "cityLabel": "Kimchaek",
+        "population": "195217"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q423",
+        "countryLabel": "North Korea",
+        "city": "http://www.wikidata.org/entity/Q18808",
+        "native": "평양직할시",
+        "cityLabel": "Pyongyang",
+        "population": "2863000"
+    }
+]

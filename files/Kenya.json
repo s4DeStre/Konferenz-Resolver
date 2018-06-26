@@ -1,0 +1,151 @@
+[
+    {
+        "country": "http://www.wikidata.org/entity/Q114",
+        "countryLabel": "Kenya",
+        "city": "http://www.wikidata.org/entity/Q322149",
+        "cityLabel": "Eldoret",
+        "population": "193830"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q114",
+        "countryLabel": "Kenya",
+        "city": "http://www.wikidata.org/entity/Q1009161",
+        "cityLabel": "Homa Bay",
+        "population": "32174"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q114",
+        "countryLabel": "Kenya",
+        "city": "http://www.wikidata.org/entity/Q523000",
+        "cityLabel": "Kitale",
+        "population": "63245"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q114",
+        "countryLabel": "Kenya",
+        "city": "http://www.wikidata.org/entity/Q845717",
+        "cityLabel": "Garissa",
+        "population": "65881"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q114",
+        "countryLabel": "Kenya",
+        "city": "http://www.wikidata.org/entity/Q1020292",
+        "cityLabel": "Isiolo",
+        "population": "45989"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q114",
+        "countryLabel": "Kenya",
+        "city": "http://www.wikidata.org/entity/Q239421",
+        "cityLabel": "Nakuru",
+        "population": "307990"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q114",
+        "countryLabel": "Kenya",
+        "city": "http://www.wikidata.org/entity/Q186362",
+        "cityLabel": "Embu",
+        "population": "41092"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q114",
+        "countryLabel": "Kenya",
+        "city": "http://www.wikidata.org/entity/Q996730",
+        "cityLabel": "Kericho",
+        "population": "30023"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q114",
+        "countryLabel": "Kenya",
+        "city": "http://www.wikidata.org/entity/Q2738432",
+        "cityLabel": "Hola",
+        "population": "6931"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q114",
+        "countryLabel": "Kenya",
+        "city": "http://www.wikidata.org/entity/Q995707",
+        "cityLabel": "Lodwar",
+        "population": "17000"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q114",
+        "countryLabel": "Kenya",
+        "city": "http://www.wikidata.org/entity/Q1007680",
+        "cityLabel": "Dadaab",
+        "population": "5723"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q114",
+        "countryLabel": "Kenya",
+        "city": "http://www.wikidata.org/entity/Q693093",
+        "cityLabel": "Machakos",
+        "population": "114109"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q114",
+        "countryLabel": "Kenya",
+        "city": "http://www.wikidata.org/entity/Q1020110",
+        "cityLabel": "Mumias",
+        "population": "99987"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q114",
+        "countryLabel": "Kenya",
+        "city": "http://www.wikidata.org/entity/Q1007719",
+        "cityLabel": "Kisii",
+        "population": "37531"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q114",
+        "countryLabel": "Kenya",
+        "city": "http://www.wikidata.org/entity/Q1007647",
+        "cityLabel": "Naivasha",
+        "population": "14563"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q114",
+        "countryLabel": "Kenya",
+        "city": "http://www.wikidata.org/entity/Q3870",
+        "native": "Nairobi",
+        "cityLabel": "Nairobi",
+        "population": "5545000"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q114",
+        "countryLabel": "Kenya",
+        "city": "http://www.wikidata.org/entity/Q225641",
+        "cityLabel": "Mombasa",
+        "population": "1200000"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q114",
+        "countryLabel": "Kenya",
+        "city": "http://www.wikidata.org/entity/Q272799",
+        "native": "Lamu",
+        "cityLabel": "Lamu",
+        "population": "18382"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q114",
+        "countryLabel": "Kenya",
+        "city": "http://www.wikidata.org/entity/Q996851",
+        "cityLabel": "Bungoma",
+        "population": "55857"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q114",
+        "countryLabel": "Kenya",
+        "city": "http://www.wikidata.org/entity/Q1111957",
+        "cityLabel": "Busia",
+        "population": "30777"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q114",
+        "countryLabel": "Kenya",
+        "city": "http://www.wikidata.org/entity/Q123160",
+        "cityLabel": "Nanyuki",
+        "population": "31577"
+    }
+]

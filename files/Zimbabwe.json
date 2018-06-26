@@ -1,0 +1,122 @@
+[
+    {
+        "country": "http://www.wikidata.org/entity/Q954",
+        "countryLabel": "Zimbabwe",
+        "city": "http://www.wikidata.org/entity/Q399322",
+        "cityLabel": "Mutare",
+        "population": "188243"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q954",
+        "countryLabel": "Zimbabwe",
+        "city": "http://www.wikidata.org/entity/Q193250",
+        "cityLabel": "Bulawayo",
+        "population": "653337"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q954",
+        "countryLabel": "Zimbabwe",
+        "city": "http://www.wikidata.org/entity/Q601142",
+        "cityLabel": "Masvingo",
+        "population": "72527"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q954",
+        "countryLabel": "Zimbabwe",
+        "city": "http://www.wikidata.org/entity/Q863727",
+        "cityLabel": "Bindura",
+        "population": "40233"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q954",
+        "countryLabel": "Zimbabwe",
+        "city": "http://www.wikidata.org/entity/Q814922",
+        "cityLabel": "Beitbridge",
+        "population": "41767"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q954",
+        "countryLabel": "Zimbabwe",
+        "city": "http://www.wikidata.org/entity/Q1972938",
+        "cityLabel": "Ruwa",
+        "population": "22038"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q954",
+        "countryLabel": "Zimbabwe",
+        "city": "http://www.wikidata.org/entity/Q399083",
+        "cityLabel": "Kwekwe",
+        "population": "93072"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q954",
+        "countryLabel": "Zimbabwe",
+        "city": "http://www.wikidata.org/entity/Q1021903",
+        "cityLabel": "Chivhu",
+        "population": "10263"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q954",
+        "countryLabel": "Zimbabwe",
+        "city": "http://www.wikidata.org/entity/Q1019991",
+        "cityLabel": "Marondera",
+        "population": "52283"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q954",
+        "countryLabel": "Zimbabwe",
+        "city": "http://www.wikidata.org/entity/Q399316",
+        "cityLabel": "Gweru",
+        "population": "141260"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q954",
+        "countryLabel": "Zimbabwe",
+        "city": "http://www.wikidata.org/entity/Q1393804",
+        "cityLabel": "Victoria Falls",
+        "population": "33060"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q954",
+        "countryLabel": "Zimbabwe",
+        "city": "http://www.wikidata.org/entity/Q1025799",
+        "cityLabel": "Kariba",
+        "population": "24210"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q954",
+        "countryLabel": "Zimbabwe",
+        "city": "http://www.wikidata.org/entity/Q782743",
+        "cityLabel": "Chinhoyi",
+        "population": "56794"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q954",
+        "countryLabel": "Zimbabwe",
+        "city": "http://www.wikidata.org/entity/Q1557796",
+        "cityLabel": "Gwanda",
+        "population": "14450"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q954",
+        "countryLabel": "Zimbabwe",
+        "city": "http://www.wikidata.org/entity/Q1202229",
+        "cityLabel": "Hwange",
+        "population": "42581"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q954",
+        "countryLabel": "Zimbabwe",
+        "city": "http://www.wikidata.org/entity/Q3921",
+        "native": "Harare",
+        "cityLabel": "Harare",
+        "population": "1606000"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q954",
+        "countryLabel": "Zimbabwe",
+        "city": "http://www.wikidata.org/entity/Q584001",
+        "cityLabel": "Redcliff",
+        "population": "32346"
+    }
+]

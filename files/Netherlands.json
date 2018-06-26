@@ -1,0 +1,2975 @@
+[
+    {
+        "country": "http://www.wikidata.org/entity/Q55",
+        "countryLabel": "Netherlands",
+        "city": "http://www.wikidata.org/entity/Q222220",
+        "cityLabel": "Ridderkerk",
+        "population": "45100"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q55",
+        "countryLabel": "Netherlands",
+        "city": "http://www.wikidata.org/entity/Q26555",
+        "cityLabel": "Ede",
+        "population": "112430"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q55",
+        "countryLabel": "Netherlands",
+        "city": "http://www.wikidata.org/entity/Q26556",
+        "cityLabel": "Westland",
+        "population": "105007"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q55",
+        "countryLabel": "Netherlands",
+        "city": "http://www.wikidata.org/entity/Q281768",
+        "cityLabel": "Pijnacker-Nootdorp",
+        "population": "51880"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q55",
+        "countryLabel": "Netherlands",
+        "city": "http://www.wikidata.org/entity/Q9795",
+        "cityLabel": "Landgraaf",
+        "population": "37471"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q55",
+        "countryLabel": "Netherlands",
+        "city": "http://www.wikidata.org/entity/Q690",
+        "native": "Delft",
+        "cityLabel": "Delft",
+        "population": "100011"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q55",
+        "countryLabel": "Netherlands",
+        "city": "http://www.wikidata.org/entity/Q9774",
+        "cityLabel": "Weert",
+        "population": "49097"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q55",
+        "countryLabel": "Netherlands",
+        "city": "http://www.wikidata.org/entity/Q9899",
+        "cityLabel": "Amsterdam",
+        "population": "834119"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q55",
+        "countryLabel": "Netherlands",
+        "city": "http://www.wikidata.org/entity/Q145845",
+        "cityLabel": "Doetinchem",
+        "population": "56832"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q55",
+        "countryLabel": "Netherlands",
+        "city": "http://www.wikidata.org/entity/Q47104",
+        "cityLabel": "Berkelland",
+        "population": "44443"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q55",
+        "countryLabel": "Netherlands",
+        "city": "http://www.wikidata.org/entity/Q9911",
+        "cityLabel": "Den Helder",
+        "population": "56305"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q55",
+        "countryLabel": "Netherlands",
+        "city": "http://www.wikidata.org/entity/Q9930",
+        "cityLabel": "Heerhugowaard",
+        "population": "53946"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q55",
+        "countryLabel": "Netherlands",
+        "city": "http://www.wikidata.org/entity/Q9938",
+        "cityLabel": "Hoorn",
+        "population": "72200"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q55",
+        "countryLabel": "Netherlands",
+        "city": "http://www.wikidata.org/entity/Q10002",
+        "cityLabel": "Enschede",
+        "population": "158629"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q55",
+        "countryLabel": "Netherlands",
+        "city": "http://www.wikidata.org/entity/Q988",
+        "cityLabel": "Almelo",
+        "population": "72459"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q55",
+        "countryLabel": "Netherlands",
+        "city": "http://www.wikidata.org/entity/Q506745",
+        "cityLabel": "Rijswijk",
+        "population": "49322"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q55",
+        "countryLabel": "Netherlands",
+        "city": "http://www.wikidata.org/entity/Q23814173",
+        "cityLabel": "Kampen",
+        "population": "51939"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q55",
+        "countryLabel": "Netherlands",
+        "city": "http://www.wikidata.org/entity/Q10041",
+        "cityLabel": "Soest",
+        "population": "45499"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q55",
+        "countryLabel": "Netherlands",
+        "city": "http://www.wikidata.org/entity/Q10042",
+        "cityLabel": "Stichtse Vecht",
+        "population": "64064"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q55",
+        "countryLabel": "Netherlands",
+        "city": "http://www.wikidata.org/entity/Q600871",
+        "cityLabel": "Overbetuwe",
+        "population": "47003"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q55",
+        "countryLabel": "Netherlands",
+        "city": "http://www.wikidata.org/entity/Q15858232",
+        "cityLabel": "Zutphen",
+        "population": "47017"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q55",
+        "countryLabel": "Netherlands",
+        "city": "http://www.wikidata.org/entity/Q10056",
+        "cityLabel": "Zeist",
+        "population": "62319"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q55",
+        "countryLabel": "Netherlands",
+        "city": "http://www.wikidata.org/entity/Q10035",
+        "cityLabel": "De Bilt",
+        "population": "42378"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q55",
+        "countryLabel": "Netherlands",
+        "city": "http://www.wikidata.org/entity/Q10050",
+        "cityLabel": "Nieuwegein",
+        "population": "61733"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q55",
+        "countryLabel": "Netherlands",
+        "city": "http://www.wikidata.org/entity/Q826130",
+        "cityLabel": "Hellevoetsluis",
+        "population": "38610"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q55",
+        "countryLabel": "Netherlands",
+        "city": "http://www.wikidata.org/entity/Q2311189",
+        "cityLabel": "Leeuwarden",
+        "population": "107902"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q55",
+        "countryLabel": "Netherlands",
+        "city": "http://www.wikidata.org/entity/Q2680952",
+        "cityLabel": "Rotterdam",
+        "population": "629078"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q55",
+        "countryLabel": "Netherlands",
+        "city": "http://www.wikidata.org/entity/Q488545",
+        "cityLabel": "Spijkenisse",
+        "population": "72740"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q55",
+        "countryLabel": "Netherlands",
+        "city": "http://www.wikidata.org/entity/Q328087",
+        "cityLabel": "Dronten",
+        "population": "40616"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q55",
+        "countryLabel": "Netherlands",
+        "city": "http://www.wikidata.org/entity/Q72981",
+        "cityLabel": "Wijchen",
+        "population": "40804"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q55",
+        "countryLabel": "Netherlands",
+        "city": "http://www.wikidata.org/entity/Q244327",
+        "native": "Gorinchem",
+        "cityLabel": "Gorinchem",
+        "population": "35255"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q55",
+        "countryLabel": "Netherlands",
+        "city": "http://www.wikidata.org/entity/Q204709",
+        "cityLabel": "Schiedam",
+        "population": "77051"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q55",
+        "countryLabel": "Netherlands",
+        "city": "http://www.wikidata.org/entity/Q204239",
+        "cityLabel": "Barendrecht",
+        "population": "47844"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q55",
+        "countryLabel": "Netherlands",
+        "city": "http://www.wikidata.org/entity/Q26432",
+        "cityLabel": "Zoetermeer",
+        "population": "124151"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q55",
+        "countryLabel": "Netherlands",
+        "city": "http://www.wikidata.org/entity/Q9822",
+        "cityLabel": "Breda",
+        "population": "182148"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q55",
+        "countryLabel": "Netherlands",
+        "city": "http://www.wikidata.org/entity/Q47887",
+        "cityLabel": "Nijmegen",
+        "population": "172063"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q55",
+        "countryLabel": "Netherlands",
+        "city": "http://www.wikidata.org/entity/Q9936",
+        "cityLabel": "Hollands Kroon",
+        "population": "47523"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q55",
+        "countryLabel": "Netherlands",
+        "city": "http://www.wikidata.org/entity/Q14641",
+        "cityLabel": "Emmen",
+        "population": "107620"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q55",
+        "countryLabel": "Netherlands",
+        "city": "http://www.wikidata.org/entity/Q9781",
+        "native": "Zittert-Gelaen",
+        "cityLabel": "Sittard-Geleen",
+        "population": "93332"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q55",
+        "countryLabel": "Netherlands",
+        "city": "http://www.wikidata.org/entity/Q734860",
+        "native": "Capelle aan den IJssel",
+        "cityLabel": "Capelle aan den IJssel",
+        "population": "66514"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q55",
+        "countryLabel": "Netherlands",
+        "city": "http://www.wikidata.org/entity/Q213246",
+        "cityLabel": "Alphen aan den Rijn",
+        "population": "107963"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q55",
+        "countryLabel": "Netherlands",
+        "city": "http://www.wikidata.org/entity/Q58931",
+        "cityLabel": "Harderwijk",
+        "population": "45973"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q55",
+        "countryLabel": "Netherlands",
+        "city": "http://www.wikidata.org/entity/Q18335889",
+        "cityLabel": "Gooise Meren",
+        "population": "56687"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q55",
+        "countryLabel": "Netherlands",
+        "city": "http://www.wikidata.org/entity/Q26430",
+        "cityLabel": "Tilburg",
+        "population": "46517"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q55",
+        "countryLabel": "Netherlands",
+        "city": "http://www.wikidata.org/entity/Q101918",
+        "cityLabel": "Apeldoorn",
+        "population": "159041"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q55",
+        "countryLabel": "Netherlands",
+        "city": "http://www.wikidata.org/entity/Q1840",
+        "cityLabel": "Veenendaal",
+        "population": "63812"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q55",
+        "countryLabel": "Netherlands",
+        "city": "http://www.wikidata.org/entity/Q3916626",
+        "cityLabel": "Hardenberg",
+        "population": "59697"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q55",
+        "countryLabel": "Netherlands",
+        "city": "http://www.wikidata.org/entity/Q2114866",
+        "cityLabel": "De Fryske Marren",
+        "population": "51590"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q55",
+        "countryLabel": "Netherlands",
+        "city": "http://www.wikidata.org/entity/Q952963",
+        "cityLabel": "Montferland",
+        "population": "35174"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q55",
+        "countryLabel": "Netherlands",
+        "city": "http://www.wikidata.org/entity/Q9777",
+        "cityLabel": "Venlo",
+        "population": "100862"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q55",
+        "countryLabel": "Netherlands",
+        "city": "http://www.wikidata.org/entity/Q208764",
+        "cityLabel": "Katwijk",
+        "population": "64196"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q55",
+        "countryLabel": "Netherlands",
+        "city": "http://www.wikidata.org/entity/Q26421",
+        "native": "Dordrecht",
+        "cityLabel": "Dordrecht",
+        "population": "118730"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q55",
+        "countryLabel": "Netherlands",
+        "city": "http://www.wikidata.org/entity/Q933459",
+        "cityLabel": "Goeree-Overflakkee",
+        "population": "48317"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q55",
+        "countryLabel": "Netherlands",
+        "city": "http://www.wikidata.org/entity/Q9807",
+        "cityLabel": "'s-Hertogenbosch",
+        "population": "151488"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q55",
+        "countryLabel": "Netherlands",
+        "city": "http://www.wikidata.org/entity/Q73226",
+        "cityLabel": "Nijkerk",
+        "population": "41200"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q55",
+        "countryLabel": "Netherlands",
+        "city": "http://www.wikidata.org/entity/Q9799",
+        "cityLabel": "Heerlen",
+        "population": "87452"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q55",
+        "countryLabel": "Netherlands",
+        "city": "http://www.wikidata.org/entity/Q9833",
+        "cityLabel": "Etten-Leur",
+        "population": "42834"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q55",
+        "countryLabel": "Netherlands",
+        "city": "http://www.wikidata.org/entity/Q10005",
+        "cityLabel": "Hellendoorn",
+        "population": "35650"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q55",
+        "countryLabel": "Netherlands",
+        "city": "http://www.wikidata.org/entity/Q1368003",
+        "cityLabel": "Teylingen",
+        "population": "36013"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q55",
+        "countryLabel": "Netherlands",
+        "city": "http://www.wikidata.org/entity/Q9858",
+        "cityLabel": "Oosterhout",
+        "population": "54012"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q55",
+        "countryLabel": "Netherlands",
+        "city": "http://www.wikidata.org/entity/Q749",
+        "cityLabel": "Groningen",
+        "population": "200952"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q55",
+        "countryLabel": "Netherlands",
+        "city": "http://www.wikidata.org/entity/Q9924",
+        "cityLabel": "Haarlemmermeer",
+        "population": "144538"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q55",
+        "countryLabel": "Netherlands",
+        "city": "http://www.wikidata.org/entity/Q10081",
+        "cityLabel": "Terneuzen",
+        "population": "54658"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q55",
+        "countryLabel": "Netherlands",
+        "city": "http://www.wikidata.org/entity/Q803",
+        "cityLabel": "Utrecht",
+        "population": "343779"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q55",
+        "countryLabel": "Netherlands",
+        "city": "http://www.wikidata.org/entity/Q9970",
+        "cityLabel": "Velsen",
+        "population": "67470"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q55",
+        "countryLabel": "Netherlands",
+        "city": "http://www.wikidata.org/entity/Q1473276",
+        "cityLabel": "Súdwest-Fryslân",
+        "population": "84040"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q55",
+        "countryLabel": "Netherlands",
+        "city": "http://www.wikidata.org/entity/Q10001",
+        "cityLabel": "Deventer",
+        "population": "99166"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q55",
+        "countryLabel": "Netherlands",
+        "city": "http://www.wikidata.org/entity/Q992",
+        "cityLabel": "Amersfoort",
+        "population": "153615"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q55",
+        "countryLabel": "Netherlands",
+        "city": "http://www.wikidata.org/entity/Q10084",
+        "cityLabel": "Vlissingen",
+        "population": "44417"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q55",
+        "countryLabel": "Netherlands",
+        "city": "http://www.wikidata.org/entity/Q84125",
+        "cityLabel": "Gouda",
+        "population": "71449"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q55",
+        "countryLabel": "Netherlands",
+        "city": "http://www.wikidata.org/entity/Q8167972",
+        "cityLabel": "Roermond",
+        "population": "57085"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q55",
+        "countryLabel": "Netherlands",
+        "city": "http://www.wikidata.org/entity/Q83178",
+        "cityLabel": "Almere",
+        "population": "198315"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q55",
+        "countryLabel": "Netherlands",
+        "city": "http://www.wikidata.org/entity/Q9954",
+        "cityLabel": "Purmerend",
+        "population": "79936"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q55",
+        "countryLabel": "Netherlands",
+        "city": "http://www.wikidata.org/entity/Q244692",
+        "native": "Zwijndrecht",
+        "cityLabel": "Zwijndrecht",
+        "population": "44454"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q55",
+        "countryLabel": "Netherlands",
+        "city": "http://www.wikidata.org/entity/Q10044",
+        "cityLabel": "Houten",
+        "population": "48772"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q55",
+        "countryLabel": "Netherlands",
+        "city": "http://www.wikidata.org/entity/Q9898",
+        "cityLabel": "Amstelveen",
+        "population": "88659"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q55",
+        "countryLabel": "Netherlands",
+        "city": "http://www.wikidata.org/entity/Q9875",
+        "cityLabel": "Veldhoven",
+        "population": "44322"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q55",
+        "countryLabel": "Netherlands",
+        "city": "http://www.wikidata.org/entity/Q208012",
+        "native": "Hoogeveen",
+        "cityLabel": "Hoogeveen",
+        "population": "55224"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q55",
+        "countryLabel": "Netherlands",
+        "city": "http://www.wikidata.org/entity/Q9955",
+        "cityLabel": "Schagen",
+        "population": "46163"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q55",
+        "countryLabel": "Netherlands",
+        "city": "http://www.wikidata.org/entity/Q9797",
+        "cityLabel": "Horst aan de Maas",
+        "population": "41671"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q55",
+        "countryLabel": "Netherlands",
+        "city": "http://www.wikidata.org/entity/Q9832",
+        "cityLabel": "Eindhoven",
+        "population": "221402"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q55",
+        "countryLabel": "Netherlands",
+        "city": "http://www.wikidata.org/entity/Q1309",
+        "cityLabel": "Maastricht",
+        "population": "122418"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q55",
+        "countryLabel": "Netherlands",
+        "city": "http://www.wikidata.org/entity/Q43631",
+        "native": "Leiden",
+        "cityLabel": "Leiden",
+        "population": "121163"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q55",
+        "countryLabel": "Netherlands",
+        "city": "http://www.wikidata.org/entity/Q972",
+        "cityLabel": "Alkmaar",
+        "population": "107822"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q55",
+        "countryLabel": "Netherlands",
+        "city": "http://www.wikidata.org/entity/Q9814",
+        "cityLabel": "Bergen op Zoom",
+        "population": "66206"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q55",
+        "countryLabel": "Netherlands",
+        "city": "http://www.wikidata.org/entity/Q112675",
+        "cityLabel": "Leidschendam-Voorburg",
+        "population": "74227"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q55",
+        "countryLabel": "Netherlands",
+        "city": "http://www.wikidata.org/entity/Q9861",
+        "cityLabel": "Roosendaal",
+        "population": "76968"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q55",
+        "countryLabel": "Netherlands",
+        "city": "http://www.wikidata.org/entity/Q1310",
+        "cityLabel": "Arnhem",
+        "population": "153864"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q55",
+        "countryLabel": "Netherlands",
+        "city": "http://www.wikidata.org/entity/Q793",
+        "native": "Zwolle",
+        "cityLabel": "Zwolle",
+        "population": "124914"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q55",
+        "countryLabel": "Netherlands",
+        "city": "http://www.wikidata.org/entity/Q10036",
+        "cityLabel": "De Ronde Venen",
+        "population": "42574"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q55",
+        "countryLabel": "Netherlands",
+        "city": "http://www.wikidata.org/entity/Q9934",
+        "cityLabel": "Hilversum",
+        "population": "87817"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q55",
+        "countryLabel": "Netherlands",
+        "city": "http://www.wikidata.org/entity/Q10020",
+        "cityLabel": "Rijssen-Holten",
+        "population": "38064"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q55",
+        "countryLabel": "Netherlands",
+        "city": "http://www.wikidata.org/entity/Q1144739",
+        "cityLabel": "Lansingerland",
+        "population": "59037"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q55",
+        "countryLabel": "Netherlands",
+        "city": "http://www.wikidata.org/entity/Q574558",
+        "cityLabel": "Heerenveen",
+        "population": "50175"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q55",
+        "countryLabel": "Netherlands",
+        "city": "http://www.wikidata.org/entity/Q507065",
+        "cityLabel": "Smallingerland",
+        "population": "55443"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q55",
+        "countryLabel": "Netherlands",
+        "city": "http://www.wikidata.org/entity/Q36600",
+        "cityLabel": "The Hague",
+        "population": "515880"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q55",
+        "countryLabel": "Netherlands",
+        "city": "http://www.wikidata.org/entity/Q745038",
+        "cityLabel": "Waalwijk",
+        "population": "47022"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q55",
+        "countryLabel": "Netherlands",
+        "city": "http://www.wikidata.org/entity/Q932031",
+        "cityLabel": "Oude IJsselstreek",
+        "population": "39653"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q55",
+        "countryLabel": "Netherlands",
+        "city": "http://www.wikidata.org/entity/Q843899",
+        "native": "Rheden",
+        "cityLabel": "Rheden",
+        "population": "43816"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q55",
+        "countryLabel": "Netherlands",
+        "city": "http://www.wikidata.org/entity/Q10006",
+        "cityLabel": "Hengelo",
+        "population": "81074"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q55",
+        "countryLabel": "Netherlands",
+        "city": "http://www.wikidata.org/entity/Q892526",
+        "cityLabel": "Groningen",
+        "population": "201462"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q55",
+        "countryLabel": "Netherlands",
+        "city": "http://www.wikidata.org/entity/Q164098",
+        "cityLabel": "Barneveld",
+        "population": "55437"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q55",
+        "countryLabel": "Netherlands",
+        "city": "http://www.wikidata.org/entity/Q9844",
+        "cityLabel": "Helmond",
+        "population": "89584"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q55",
+        "countryLabel": "Netherlands",
+        "city": "http://www.wikidata.org/entity/Q5128",
+        "cityLabel": "Woerden",
+        "population": "51156"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q55",
+        "countryLabel": "Netherlands",
+        "city": "http://www.wikidata.org/entity/Q9859",
+        "cityLabel": "Oss",
+        "population": "90019"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q55",
+        "countryLabel": "Netherlands",
+        "city": "http://www.wikidata.org/entity/Q10076",
+        "cityLabel": "Middelburg",
+        "population": "48081"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q55",
+        "countryLabel": "Netherlands",
+        "city": "http://www.wikidata.org/entity/Q9949",
+        "cityLabel": "Naarden",
+        "population": "17202"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q55",
+        "countryLabel": "Netherlands",
+        "city": "http://www.wikidata.org/entity/Q952939",
+        "cityLabel": "Lingewaard",
+        "population": "45952"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q55",
+        "countryLabel": "Netherlands",
+        "city": "http://www.wikidata.org/entity/Q1347872",
+        "cityLabel": "Oldambt",
+        "population": "38225"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q55",
+        "countryLabel": "Netherlands",
+        "city": "http://www.wikidata.org/entity/Q9978",
+        "cityLabel": "Zaanstad",
+        "population": "152377"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q55",
+        "countryLabel": "Netherlands",
+        "city": "http://www.wikidata.org/entity/Q10043",
+        "cityLabel": "Utrechtse Heuvelrug",
+        "population": "48522"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q55",
+        "countryLabel": "Netherlands",
+        "city": "http://www.wikidata.org/entity/Q9874",
+        "cityLabel": "Veghel",
+        "population": "38077"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q55",
+        "countryLabel": "Netherlands",
+        "city": "http://www.wikidata.org/entity/Q9947",
+        "cityLabel": "Medemblik",
+        "population": "43711"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q55",
+        "countryLabel": "Netherlands",
+        "city": "http://www.wikidata.org/entity/Q727",
+        "native": "Amsterdam",
+        "cityLabel": "Amsterdam",
+        "population": "851573"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q55",
+        "countryLabel": "Netherlands",
+        "city": "http://www.wikidata.org/entity/Q228673",
+        "cityLabel": "Zuidplas",
+        "population": "40962"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q55",
+        "countryLabel": "Netherlands",
+        "city": "http://www.wikidata.org/entity/Q9920",
+        "native": "Haarlem",
+        "cityLabel": "Haarlem",
+        "population": "159134"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q55",
+        "countryLabel": "Netherlands",
+        "city": "http://www.wikidata.org/entity/Q210007",
+        "cityLabel": "Vlaardingen",
+        "population": "71888"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q55",
+        "countryLabel": "Netherlands",
+        "city": "http://www.wikidata.org/entity/Q798",
+        "cityLabel": "Assen",
+        "population": "67580"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q55",
+        "countryLabel": "Netherlands",
+        "city": "http://www.wikidata.org/entity/Q798",
+        "cityLabel": "Assen",
+        "population": "67329"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q55",
+        "countryLabel": "Netherlands",
+        "city": "http://www.wikidata.org/entity/Q9796",
+        "native": "Kirchroa",
+        "cityLabel": "Kerkrade",
+        "population": "46031"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q55",
+        "countryLabel": "Netherlands",
+        "city": "http://www.wikidata.org/entity/Q166065",
+        "cityLabel": "Lelystad",
+        "population": "76810"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q55",
+        "countryLabel": "Netherlands",
+        "city": "http://www.wikidata.org/entity/Q14853527",
+        "cityLabel": "Nissewaard",
+        "population": "85403"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q55",
+        "countryLabel": "Netherlands",
+        "city": "http://www.wikidata.org/entity/Q15991891",
+        "cityLabel": "Krimpenerwaard",
+        "population": "54701"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q55",
+        "countryLabel": "Netherlands",
+        "city": "http://www.wikidata.org/entity/Q1305",
+        "cityLabel": "Wageningen",
+        "population": "37865"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q55",
+        "countryLabel": "Netherlands",
+        "city": "http://www.wikidata.org/entity/Q69262",
+        "cityLabel": "Noordoostpolder",
+        "population": "46432"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q55",
+        "countryLabel": "Netherlands",
+        "city": "http://www.wikidata.org/entity/Q73221",
+        "cityLabel": "Tiel",
+        "population": "41502"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q55",
+        "countryLabel": "Netherlands",
+        "city": "http://www.wikidata.org/entity/Q948866",
+        "cityLabel": "Nieuwkoop",
+        "population": "27437"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q55",
+        "countryLabel": "Netherlands",
+        "city": "http://www.wikidata.org/entity/Q9819",
+        "cityLabel": "Boxmeer",
+        "population": "28467"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q55",
+        "countryLabel": "Netherlands",
+        "city": "http://www.wikidata.org/entity/Q73065",
+        "cityLabel": "Veendam",
+        "population": "27752"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q55",
+        "countryLabel": "Netherlands",
+        "city": "http://www.wikidata.org/entity/Q238396",
+        "cityLabel": "Epe",
+        "population": "32271"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q55",
+        "countryLabel": "Netherlands",
+        "city": "http://www.wikidata.org/entity/Q10082",
+        "cityLabel": "Tholen",
+        "population": "25418"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q55",
+        "countryLabel": "Netherlands",
+        "city": "http://www.wikidata.org/entity/Q273746",
+        "native": "Urk",
+        "cityLabel": "Urk",
+        "population": "19989"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q55",
+        "countryLabel": "Netherlands",
+        "city": "http://www.wikidata.org/entity/Q613989",
+        "cityLabel": "Duiven",
+        "population": "25437"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q55",
+        "countryLabel": "Netherlands",
+        "city": "http://www.wikidata.org/entity/Q683658",
+        "cityLabel": "Franekeradeel",
+        "population": "20272"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q55",
+        "countryLabel": "Netherlands",
+        "city": "http://www.wikidata.org/entity/Q9901",
+        "cityLabel": "Bergen",
+        "population": "29947"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q55",
+        "countryLabel": "Netherlands",
+        "city": "http://www.wikidata.org/entity/Q939948",
+        "cityLabel": "Putten",
+        "population": "24489"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q55",
+        "countryLabel": "Netherlands",
+        "city": "http://www.wikidata.org/entity/Q843895",
+        "cityLabel": "Brummen",
+        "population": "20941"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q55",
+        "countryLabel": "Netherlands",
+        "city": "http://www.wikidata.org/entity/Q795623",
+        "cityLabel": "Oud-Beijerland",
+        "population": "23860"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q55",
+        "countryLabel": "Netherlands",
+        "city": "http://www.wikidata.org/entity/Q184454",
+        "cityLabel": "Zeewolde",
+        "population": "22093"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q55",
+        "countryLabel": "Netherlands",
+        "city": "http://www.wikidata.org/entity/Q9803",
+        "cityLabel": "Brunssum",
+        "population": "28450"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q55",
+        "countryLabel": "Netherlands",
+        "city": "http://www.wikidata.org/entity/Q9944",
+        "cityLabel": "Langedijk",
+        "population": "27449"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q55",
+        "countryLabel": "Netherlands",
+        "city": "http://www.wikidata.org/entity/Q538725",
+        "cityLabel": "Hendrik-Ido-Ambacht",
+        "population": "29413"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q55",
+        "countryLabel": "Netherlands",
+        "city": "http://www.wikidata.org/entity/Q851299",
+        "cityLabel": "Dongeradeel",
+        "population": "23927"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q55",
+        "countryLabel": "Netherlands",
+        "city": "http://www.wikidata.org/entity/Q9838",
+        "cityLabel": "Goirle",
+        "population": "23114"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q55",
+        "countryLabel": "Netherlands",
+        "city": "http://www.wikidata.org/entity/Q9841",
+        "cityLabel": "Halderberge",
+        "population": "29532"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q55",
+        "countryLabel": "Netherlands",
+        "city": "http://www.wikidata.org/entity/Q9775",
+        "cityLabel": "Venray",
+        "population": "43311"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q55",
+        "countryLabel": "Netherlands",
+        "city": "http://www.wikidata.org/entity/Q9862",
+        "cityLabel": "Rucphen",
+        "population": "22270"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q55",
+        "countryLabel": "Netherlands",
+        "city": "http://www.wikidata.org/entity/Q9870",
+        "cityLabel": "Steenbergen",
+        "population": "23476"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q55",
+        "countryLabel": "Netherlands",
+        "city": "http://www.wikidata.org/entity/Q10053",
+        "cityLabel": "Wijk bij Duurstede",
+        "population": "23374"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q55",
+        "countryLabel": "Netherlands",
+        "city": "http://www.wikidata.org/entity/Q9883",
+        "cityLabel": "Zundert",
+        "population": "21483"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q55",
+        "countryLabel": "Netherlands",
+        "city": "http://www.wikidata.org/entity/Q9998",
+        "cityLabel": "Dalfsen",
+        "population": "27921"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q55",
+        "countryLabel": "Netherlands",
+        "city": "http://www.wikidata.org/entity/Q10027",
+        "cityLabel": "Baarn",
+        "population": "24528"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q55",
+        "countryLabel": "Netherlands",
+        "city": "http://www.wikidata.org/entity/Q9932",
+        "cityLabel": "Heiloo",
+        "population": "22678"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q55",
+        "countryLabel": "Netherlands",
+        "city": "http://www.wikidata.org/entity/Q10045",
+        "cityLabel": "IJsselstein",
+        "population": "34102"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q55",
+        "countryLabel": "Netherlands",
+        "city": "http://www.wikidata.org/entity/Q9996",
+        "cityLabel": "Hof van Twente",
+        "population": "34888"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q55",
+        "countryLabel": "Netherlands",
+        "city": "http://www.wikidata.org/entity/Q9880",
+        "cityLabel": "Werkendam",
+        "population": "26519"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q55",
+        "countryLabel": "Netherlands",
+        "city": "http://www.wikidata.org/entity/Q931997",
+        "cityLabel": "Nunspeet",
+        "population": "26835"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q55",
+        "countryLabel": "Netherlands",
+        "city": "http://www.wikidata.org/entity/Q10025",
+        "cityLabel": "Wierden",
+        "population": "23954"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q55",
+        "countryLabel": "Netherlands",
+        "city": "http://www.wikidata.org/entity/Q60453",
+        "cityLabel": "Coevorden",
+        "population": "35354"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q55",
+        "countryLabel": "Netherlands",
+        "city": "http://www.wikidata.org/entity/Q171536",
+        "cityLabel": "Geldermalsen",
+        "population": "26342"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q55",
+        "countryLabel": "Netherlands",
+        "city": "http://www.wikidata.org/entity/Q10083",
+        "cityLabel": "Veere",
+        "population": "21961"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q55",
+        "countryLabel": "Netherlands",
+        "city": "http://www.wikidata.org/entity/Q10016",
+        "cityLabel": "Oldenzaal",
+        "population": "32106"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q55",
+        "countryLabel": "Netherlands",
+        "city": "http://www.wikidata.org/entity/Q835083",
+        "cityLabel": "Noordenveld",
+        "population": "31043"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q55",
+        "countryLabel": "Netherlands",
+        "city": "http://www.wikidata.org/entity/Q9829",
+        "cityLabel": "Dongen",
+        "population": "25425"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q55",
+        "countryLabel": "Netherlands",
+        "city": "http://www.wikidata.org/entity/Q753913",
+        "cityLabel": "Weststellingwerf",
+        "population": "25518"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q55",
+        "countryLabel": "Netherlands",
+        "city": "http://www.wikidata.org/entity/Q73061",
+        "cityLabel": "Buren",
+        "population": "26208"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q55",
+        "countryLabel": "Netherlands",
+        "city": "http://www.wikidata.org/entity/Q9910",
+        "cityLabel": "Castricum",
+        "population": "34599"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q55",
+        "countryLabel": "Netherlands",
+        "city": "http://www.wikidata.org/entity/Q73074",
+        "cityLabel": "Stadskanaal",
+        "population": "32629"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q55",
+        "countryLabel": "Netherlands",
+        "city": "http://www.wikidata.org/entity/Q9821",
+        "cityLabel": "Boxtel",
+        "population": "30393"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q55",
+        "countryLabel": "Netherlands",
+        "city": "http://www.wikidata.org/entity/Q739449",
+        "cityLabel": "Krimpen aan den IJssel",
+        "population": "29059"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q55",
+        "countryLabel": "Netherlands",
+        "city": "http://www.wikidata.org/entity/Q332730",
+        "cityLabel": "Lisse",
+        "population": "22400"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q55",
+        "countryLabel": "Netherlands",
+        "city": "http://www.wikidata.org/entity/Q10015",
+        "cityLabel": "Losser",
+        "population": "22450"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q55",
+        "countryLabel": "Netherlands",
+        "city": "http://www.wikidata.org/entity/Q9823",
+        "cityLabel": "Cranendonck",
+        "population": "20662"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q55",
+        "countryLabel": "Netherlands",
+        "city": "http://www.wikidata.org/entity/Q9785",
+        "cityLabel": "Peel en Maas",
+        "population": "43320"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q55",
+        "countryLabel": "Netherlands",
+        "city": "http://www.wikidata.org/entity/Q244327",
+        "native": "Gorinchem",
+        "cityLabel": "Gorinchem",
+        "population": "32621"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q55",
+        "countryLabel": "Netherlands",
+        "city": "http://www.wikidata.org/entity/Q9872",
+        "cityLabel": "Uden",
+        "population": "41248"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q55",
+        "countryLabel": "Netherlands",
+        "city": "http://www.wikidata.org/entity/Q9905",
+        "cityLabel": "Beverwijk",
+        "population": "40309"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q55",
+        "countryLabel": "Netherlands",
+        "city": "http://www.wikidata.org/entity/Q9816",
+        "cityLabel": "Best",
+        "population": "28988"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q55",
+        "countryLabel": "Netherlands",
+        "city": "http://www.wikidata.org/entity/Q9928",
+        "cityLabel": "Heemstede",
+        "population": "26786"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q55",
+        "countryLabel": "Netherlands",
+        "city": "http://www.wikidata.org/entity/Q753920",
+        "cityLabel": "Ermelo",
+        "population": "26506"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q55",
+        "countryLabel": "Netherlands",
+        "city": "http://www.wikidata.org/entity/Q9873",
+        "cityLabel": "Valkenswaard",
+        "population": "30336"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q55",
+        "countryLabel": "Netherlands",
+        "city": "http://www.wikidata.org/entity/Q9881",
+        "cityLabel": "Woensdrecht",
+        "population": "21680"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q55",
+        "countryLabel": "Netherlands",
+        "city": "http://www.wikidata.org/entity/Q9834",
+        "cityLabel": "Geertruidenberg",
+        "population": "21628"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q55",
+        "countryLabel": "Netherlands",
+        "city": "http://www.wikidata.org/entity/Q691725",
+        "cityLabel": "Renkum",
+        "population": "31247"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q55",
+        "countryLabel": "Netherlands",
+        "city": "http://www.wikidata.org/entity/Q1147580",
+        "cityLabel": "Oost Gelre",
+        "population": "29538"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q55",
+        "countryLabel": "Netherlands",
+        "city": "http://www.wikidata.org/entity/Q747999",
+        "cityLabel": "Bronckhorst",
+        "population": "36499"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q55",
+        "countryLabel": "Netherlands",
+        "city": "http://www.wikidata.org/entity/Q952997",
+        "cityLabel": "Neder-Betuwe",
+        "population": "23051"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q55",
+        "countryLabel": "Netherlands",
+        "city": "http://www.wikidata.org/entity/Q889423",
+        "cityLabel": "Bodegraven-Reeuwijk",
+        "population": "33451"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q55",
+        "countryLabel": "Netherlands",
+        "city": "http://www.wikidata.org/entity/Q10046",
+        "cityLabel": "Leusden",
+        "population": "29313"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q55",
+        "countryLabel": "Netherlands",
+        "city": "http://www.wikidata.org/entity/Q455464",
+        "cityLabel": "Noordwijk",
+        "population": "25762"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q55",
+        "countryLabel": "Netherlands",
+        "city": "http://www.wikidata.org/entity/Q197050",
+        "cityLabel": "Zevenaar",
+        "population": "32271"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q55",
+        "countryLabel": "Netherlands",
+        "city": "http://www.wikidata.org/entity/Q9926",
+        "cityLabel": "Heemskerk",
+        "population": "39303"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q55",
+        "countryLabel": "Netherlands",
+        "city": "http://www.wikidata.org/entity/Q934525",
+        "cityLabel": "Albrandswaard",
+        "population": "25007"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q55",
+        "countryLabel": "Netherlands",
+        "city": "http://www.wikidata.org/entity/Q9830",
+        "cityLabel": "Drimmelen",
+        "population": "26835"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q55",
+        "countryLabel": "Netherlands",
+        "city": "http://www.wikidata.org/entity/Q322986",
+        "cityLabel": "Delfzijl",
+        "population": "25732"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q55",
+        "countryLabel": "Netherlands",
+        "city": "http://www.wikidata.org/entity/Q835108",
+        "cityLabel": "De Wolden",
+        "population": "23729"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q55",
+        "countryLabel": "Netherlands",
+        "city": "http://www.wikidata.org/entity/Q505601",
+        "cityLabel": "Wassenaar",
+        "population": "25859"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q55",
+        "countryLabel": "Netherlands",
+        "city": "http://www.wikidata.org/entity/Q300665",
+        "cityLabel": "Aa en Hunze",
+        "population": "25263"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q55",
+        "countryLabel": "Netherlands",
+        "city": "http://www.wikidata.org/entity/Q1532373",
+        "cityLabel": "Zaltbommel",
+        "population": "27549"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q55",
+        "countryLabel": "Netherlands",
+        "city": "http://www.wikidata.org/entity/Q9940",
+        "cityLabel": "Koggenland",
+        "population": "22474"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q55",
+        "countryLabel": "Netherlands",
+        "city": "http://www.wikidata.org/entity/Q9845",
+        "native": "Heusden",
+        "cityLabel": "Heusden",
+        "population": "43274"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q55",
+        "countryLabel": "Netherlands",
+        "city": "http://www.wikidata.org/entity/Q10078",
+        "cityLabel": "Reimerswaal",
+        "population": "22260"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q55",
+        "countryLabel": "Netherlands",
+        "city": "http://www.wikidata.org/entity/Q840457",
+        "cityLabel": "Tynaarlo",
+        "population": "32796"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q55",
+        "countryLabel": "Netherlands",
+        "city": "http://www.wikidata.org/entity/Q9802",
+        "cityLabel": "Echt-Susteren",
+        "population": "31937"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q55",
+        "countryLabel": "Netherlands",
+        "city": "http://www.wikidata.org/entity/Q9827",
+        "cityLabel": "Cuijk",
+        "population": "24603"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q55",
+        "countryLabel": "Netherlands",
+        "city": "http://www.wikidata.org/entity/Q9828",
+        "cityLabel": "Deurne",
+        "population": "31871"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q55",
+        "countryLabel": "Netherlands",
+        "city": "http://www.wikidata.org/entity/Q10019",
+        "cityLabel": "Raalte",
+        "population": "36697"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q55",
+        "countryLabel": "Netherlands",
+        "city": "http://www.wikidata.org/entity/Q9835",
+        "cityLabel": "Geldrop-Mierlo",
+        "population": "38886"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q55",
+        "countryLabel": "Netherlands",
+        "city": "http://www.wikidata.org/entity/Q9836",
+        "cityLabel": "Gemert-Bakel",
+        "population": "29653"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q55",
+        "countryLabel": "Netherlands",
+        "city": "http://www.wikidata.org/entity/Q9897",
+        "cityLabel": "Aalsmeer",
+        "population": "31307"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q55",
+        "countryLabel": "Netherlands",
+        "city": "http://www.wikidata.org/entity/Q9876",
+        "cityLabel": "Vught",
+        "population": "25980"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q55",
+        "countryLabel": "Netherlands",
+        "city": "http://www.wikidata.org/entity/Q9999",
+        "cityLabel": "Dinkelland",
+        "population": "26112"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q55",
+        "countryLabel": "Netherlands",
+        "city": "http://www.wikidata.org/entity/Q840636",
+        "cityLabel": "Tytsjerksteradiel",
+        "population": "32059"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q55",
+        "countryLabel": "Netherlands",
+        "city": "http://www.wikidata.org/entity/Q275909",
+        "cityLabel": "Aalten",
+        "population": "26909"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q55",
+        "countryLabel": "Netherlands",
+        "city": "http://www.wikidata.org/entity/Q341024",
+        "cityLabel": "Achtkarspelen",
+        "population": "28010"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q55",
+        "countryLabel": "Netherlands",
+        "city": "http://www.wikidata.org/entity/Q848324",
+        "cityLabel": "Voorschoten",
+        "population": "25214"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q55",
+        "countryLabel": "Netherlands",
+        "city": "http://www.wikidata.org/entity/Q10022",
+        "cityLabel": "Steenwijkerland",
+        "population": "43329"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q55",
+        "countryLabel": "Netherlands",
+        "city": "http://www.wikidata.org/entity/Q10024",
+        "cityLabel": "Twenterand",
+        "population": "33848"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q55",
+        "countryLabel": "Netherlands",
+        "city": "http://www.wikidata.org/entity/Q9780",
+        "cityLabel": "Stein",
+        "population": "25056"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q55",
+        "countryLabel": "Netherlands",
+        "city": "http://www.wikidata.org/entity/Q384772",
+        "cityLabel": "Voorst",
+        "population": "23983"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q55",
+        "countryLabel": "Netherlands",
+        "city": "http://www.wikidata.org/entity/Q1943433",
+        "cityLabel": "Molenwaard",
+        "population": "29059"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q55",
+        "countryLabel": "Netherlands",
+        "city": "http://www.wikidata.org/entity/Q904544",
+        "cityLabel": "Maasdriel",
+        "population": "24088"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q55",
+        "countryLabel": "Netherlands",
+        "city": "http://www.wikidata.org/entity/Q932058",
+        "cityLabel": "Lochem",
+        "population": "33326"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q55",
+        "countryLabel": "Netherlands",
+        "city": "http://www.wikidata.org/entity/Q835125",
+        "cityLabel": "Midden-Drenthe",
+        "population": "33449"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q55",
+        "countryLabel": "Netherlands",
+        "city": "http://www.wikidata.org/entity/Q9766",
+        "cityLabel": "Eijsden-Margraten",
+        "population": "24995"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q55",
+        "countryLabel": "Netherlands",
+        "city": "http://www.wikidata.org/entity/Q9939",
+        "cityLabel": "Huizen",
+        "population": "41389"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q55",
+        "countryLabel": "Netherlands",
+        "city": "http://www.wikidata.org/entity/Q750760",
+        "cityLabel": "Sliedrecht",
+        "population": "24959"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q55",
+        "countryLabel": "Netherlands",
+        "city": "http://www.wikidata.org/entity/Q497130",
+        "cityLabel": "Maassluis",
+        "population": "32287"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q55",
+        "countryLabel": "Netherlands",
+        "city": "http://www.wikidata.org/entity/Q9793",
+        "cityLabel": "Leudal",
+        "population": "36137"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q55",
+        "countryLabel": "Netherlands",
+        "city": "http://www.wikidata.org/entity/Q9837",
+        "cityLabel": "Gilze en Rijen",
+        "population": "26156"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q55",
+        "countryLabel": "Netherlands",
+        "city": "http://www.wikidata.org/entity/Q9866",
+        "cityLabel": "Sint-Michielsgestel",
+        "population": "28413"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q55",
+        "countryLabel": "Netherlands",
+        "city": "http://www.wikidata.org/entity/Q820839",
+        "cityLabel": "Berkel en Rodenrijs",
+        "population": "28095"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q55",
+        "countryLabel": "Netherlands",
+        "city": "http://www.wikidata.org/entity/Q72974",
+        "cityLabel": "Winterswijk",
+        "population": "28937"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q55",
+        "countryLabel": "Netherlands",
+        "city": "http://www.wikidata.org/entity/Q851244",
+        "cityLabel": "Beuningen",
+        "population": "25285"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q55",
+        "countryLabel": "Netherlands",
+        "city": "http://www.wikidata.org/entity/Q10080",
+        "cityLabel": "Sluis",
+        "population": "23815"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q55",
+        "countryLabel": "Netherlands",
+        "city": "http://www.wikidata.org/entity/Q60425",
+        "cityLabel": "Meppel",
+        "population": "32860"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q55",
+        "countryLabel": "Netherlands",
+        "city": "http://www.wikidata.org/entity/Q18088965",
+        "cityLabel": "Berg en Dal",
+        "population": "34579"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q55",
+        "countryLabel": "Netherlands",
+        "city": "http://www.wikidata.org/entity/Q835118",
+        "cityLabel": "Borger-Odoorn",
+        "population": "25369"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q55",
+        "countryLabel": "Netherlands",
+        "city": "http://www.wikidata.org/entity/Q816699",
+        "cityLabel": "Culemborg",
+        "population": "27520"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q55",
+        "countryLabel": "Netherlands",
+        "city": "http://www.wikidata.org/entity/Q840632",
+        "cityLabel": "Opsterland",
+        "population": "29836"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q55",
+        "countryLabel": "Netherlands",
+        "city": "http://www.wikidata.org/entity/Q863961",
+        "cityLabel": "Binnenmaas",
+        "population": "28759"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q55",
+        "countryLabel": "Netherlands",
+        "city": "http://www.wikidata.org/entity/Q9792",
+        "cityLabel": "Maasgouw",
+        "population": "23757"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q55",
+        "countryLabel": "Netherlands",
+        "city": "http://www.wikidata.org/entity/Q259205",
+        "cityLabel": "Ooststellingwerf",
+        "population": "25573"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q55",
+        "countryLabel": "Netherlands",
+        "city": "http://www.wikidata.org/entity/Q9784",
+        "cityLabel": "Roerdalen",
+        "population": "20691"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q55",
+        "countryLabel": "Netherlands",
+        "city": "http://www.wikidata.org/entity/Q9815",
+        "cityLabel": "Bernheze",
+        "population": "29888"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q55",
+        "countryLabel": "Netherlands",
+        "city": "http://www.wikidata.org/entity/Q9848",
+        "cityLabel": "Laarbeek",
+        "population": "21961"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q55",
+        "countryLabel": "Netherlands",
+        "city": "http://www.wikidata.org/entity/Q9850",
+        "cityLabel": "Loon op Zand",
+        "population": "22928"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q55",
+        "countryLabel": "Netherlands",
+        "city": "http://www.wikidata.org/entity/Q9855",
+        "cityLabel": "Nuenen, Gerwen en Nederwetten",
+        "population": "22751"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q55",
+        "countryLabel": "Netherlands",
+        "city": "http://www.wikidata.org/entity/Q9854",
+        "cityLabel": "Moerdijk",
+        "population": "36758"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q55",
+        "countryLabel": "Netherlands",
+        "city": "http://www.wikidata.org/entity/Q1348471",
+        "cityLabel": "Kaag en Braassem",
+        "population": "26104"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q55",
+        "countryLabel": "Netherlands",
+        "city": "http://www.wikidata.org/entity/Q9917",
+        "cityLabel": "Edam-Volendam",
+        "population": "35460"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q55",
+        "countryLabel": "Netherlands",
+        "city": "http://www.wikidata.org/entity/Q1000817",
+        "cityLabel": "Leiderdorp",
+        "population": "27010"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q55",
+        "countryLabel": "Netherlands",
+        "city": "http://www.wikidata.org/entity/Q9962",
+        "cityLabel": "Stede Broec",
+        "population": "21487"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q55",
+        "countryLabel": "Netherlands",
+        "city": "http://www.wikidata.org/entity/Q9857",
+        "cityLabel": "Oisterwijk",
+        "population": "25857"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q55",
+        "countryLabel": "Netherlands",
+        "city": "http://www.wikidata.org/entity/Q10073",
+        "cityLabel": "Hulst",
+        "population": "27373"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q55",
+        "countryLabel": "Netherlands",
+        "city": "http://www.wikidata.org/entity/Q10071",
+        "cityLabel": "Borsele",
+        "population": "22613"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q55",
+        "countryLabel": "Netherlands",
+        "city": "http://www.wikidata.org/entity/Q9913",
+        "cityLabel": "Diemen",
+        "population": "26891"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q55",
+        "countryLabel": "Netherlands",
+        "city": "http://www.wikidata.org/entity/Q9969",
+        "cityLabel": "Uithoorn",
+        "population": "29168"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q55",
+        "countryLabel": "Netherlands",
+        "city": "http://www.wikidata.org/entity/Q932042",
+        "cityLabel": "Oldebroek",
+        "population": "23105"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q55",
+        "countryLabel": "Netherlands",
+        "city": "http://www.wikidata.org/entity/Q10079",
+        "cityLabel": "Schouwen-Duiveland",
+        "population": "33844"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q55",
+        "countryLabel": "Netherlands",
+        "city": "http://www.wikidata.org/entity/Q73069",
+        "cityLabel": "Hoogezand-Sappemeer",
+        "population": "34179"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q55",
+        "countryLabel": "Netherlands",
+        "city": "http://www.wikidata.org/entity/Q165662",
+        "cityLabel": "Elburg",
+        "population": "22930"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q55",
+        "countryLabel": "Netherlands",
+        "city": "http://www.wikidata.org/entity/Q10072",
+        "cityLabel": "Goes",
+        "population": "37408"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q55",
+        "countryLabel": "Netherlands",
+        "city": "http://www.wikidata.org/entity/Q934511",
+        "cityLabel": "Papendrecht",
+        "population": "32268"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q55",
+        "countryLabel": "Netherlands",
+        "city": "http://www.wikidata.org/entity/Q10003",
+        "cityLabel": "Haaksbergen",
+        "population": "24329"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q55",
+        "countryLabel": "Netherlands",
+        "city": "http://www.wikidata.org/entity/Q826048",
+        "cityLabel": "Waddinxveen",
+        "population": "26066"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q55",
+        "countryLabel": "Netherlands",
+        "city": "http://www.wikidata.org/entity/Q58797",
+        "cityLabel": "Hattem",
+        "population": "11894"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q55",
+        "countryLabel": "Netherlands",
+        "city": "http://www.wikidata.org/entity/Q218259",
+        "cityLabel": "Zoeterwoude",
+        "population": "8122"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q55",
+        "countryLabel": "Netherlands",
+        "city": "http://www.wikidata.org/entity/Q165736",
+        "cityLabel": "Doesburg",
+        "population": "11336"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q55",
+        "countryLabel": "Netherlands",
+        "city": "http://www.wikidata.org/entity/Q9771",
+        "cityLabel": "Valkenburg aan de Geul",
+        "population": "16512"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q55",
+        "countryLabel": "Netherlands",
+        "city": "http://www.wikidata.org/entity/Q9782",
+        "native": "Sjènne",
+        "cityLabel": "Schinnen",
+        "population": "12954"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q55",
+        "countryLabel": "Netherlands",
+        "city": "http://www.wikidata.org/entity/Q939964",
+        "cityLabel": "Scherpenzeel",
+        "population": "9531"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q55",
+        "countryLabel": "Netherlands",
+        "city": "http://www.wikidata.org/entity/Q747920",
+        "cityLabel": "Westerveld",
+        "population": "18946"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q55",
+        "countryLabel": "Netherlands",
+        "city": "http://www.wikidata.org/entity/Q462663",
+        "cityLabel": "Brielle",
+        "population": "16641"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q55",
+        "countryLabel": "Netherlands",
+        "city": "http://www.wikidata.org/entity/Q475366",
+        "cityLabel": "Menameradiel",
+        "population": "13540"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q55",
+        "countryLabel": "Netherlands",
+        "city": "http://www.wikidata.org/entity/Q932077",
+        "cityLabel": "Pekela",
+        "population": "12594"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q55",
+        "countryLabel": "Netherlands",
+        "city": "http://www.wikidata.org/entity/Q658081",
+        "cityLabel": "West Maas en Waal",
+        "population": "18708"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q55",
+        "countryLabel": "Netherlands",
+        "city": "http://www.wikidata.org/entity/Q932155",
+        "cityLabel": "Heumen",
+        "population": "16363"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q55",
+        "countryLabel": "Netherlands",
+        "city": "http://www.wikidata.org/entity/Q388575",
+        "cityLabel": "Leerdam",
+        "population": "20708"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q55",
+        "countryLabel": "Netherlands",
+        "city": "http://www.wikidata.org/entity/Q94747",
+        "cityLabel": "Oegstgeest",
+        "population": "23223"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q55",
+        "countryLabel": "Netherlands",
+        "city": "http://www.wikidata.org/entity/Q9804",
+        "cityLabel": "Bergen",
+        "population": "13088"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q55",
+        "countryLabel": "Netherlands",
+        "city": "http://www.wikidata.org/entity/Q9839",
+        "cityLabel": "Grave",
+        "population": "12639"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q55",
+        "countryLabel": "Netherlands",
+        "city": "http://www.wikidata.org/entity/Q9864",
+        "cityLabel": "Schijndel",
+        "population": "23618"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q55",
+        "countryLabel": "Netherlands",
+        "city": "http://www.wikidata.org/entity/Q184288",
+        "cityLabel": "Zederik",
+        "population": "13730"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q55",
+        "countryLabel": "Netherlands",
+        "city": "http://www.wikidata.org/entity/Q840460",
+        "cityLabel": "Vlagtwedde",
+        "population": "16459"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q55",
+        "countryLabel": "Netherlands",
+        "city": "http://www.wikidata.org/entity/Q995",
+        "cityLabel": "Appingedam",
+        "population": "12007"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q55",
+        "countryLabel": "Netherlands",
+        "city": "http://www.wikidata.org/entity/Q9867",
+        "cityLabel": "Sint-Oedenrode",
+        "population": "17893"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q55",
+        "countryLabel": "Netherlands",
+        "city": "http://www.wikidata.org/entity/Q9900",
+        "cityLabel": "Beemster",
+        "population": "8903"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q55",
+        "countryLabel": "Netherlands",
+        "city": "http://www.wikidata.org/entity/Q255972",
+        "cityLabel": "Eemsmond",
+        "population": "15808"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q55",
+        "countryLabel": "Netherlands",
+        "city": "http://www.wikidata.org/entity/Q9786",
+        "cityLabel": "Onderbanken",
+        "population": "7861"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q55",
+        "countryLabel": "Netherlands",
+        "city": "http://www.wikidata.org/entity/Q9831",
+        "cityLabel": "Eersel",
+        "population": "18553"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q55",
+        "countryLabel": "Netherlands",
+        "city": "http://www.wikidata.org/entity/Q9846",
+        "cityLabel": "Hilvarenbeek",
+        "population": "15163"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q55",
+        "countryLabel": "Netherlands",
+        "city": "http://www.wikidata.org/entity/Q518739",
+        "cityLabel": "Rijnwaarden",
+        "population": "10869"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q55",
+        "countryLabel": "Netherlands",
+        "city": "http://www.wikidata.org/entity/Q9997",
+        "cityLabel": "Borne",
+        "population": "22345"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q55",
+        "countryLabel": "Netherlands",
+        "city": "http://www.wikidata.org/entity/Q9942",
+        "cityLabel": "Landsmeer",
+        "population": "10980"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q55",
+        "countryLabel": "Netherlands",
+        "city": "http://www.wikidata.org/entity/Q10034",
+        "cityLabel": "Bunschoten",
+        "population": "20827"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q55",
+        "countryLabel": "Netherlands",
+        "city": "http://www.wikidata.org/entity/Q10032",
+        "cityLabel": "Bunnik",
+        "population": "14767"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q55",
+        "countryLabel": "Netherlands",
+        "city": "http://www.wikidata.org/entity/Q9966",
+        "cityLabel": "Texel",
+        "population": "13614"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q55",
+        "countryLabel": "Netherlands",
+        "city": "http://www.wikidata.org/entity/Q858607",
+        "cityLabel": "Strijen",
+        "population": "8763"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q55",
+        "countryLabel": "Netherlands",
+        "city": "http://www.wikidata.org/entity/Q25390",
+        "cityLabel": "Leeuwarden",
+        "population": "108891"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q55",
+        "countryLabel": "Netherlands",
+        "city": "http://www.wikidata.org/entity/Q851310",
+        "cityLabel": "Littenseradiel",
+        "population": "10833"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q55",
+        "countryLabel": "Netherlands",
+        "city": "http://www.wikidata.org/entity/Q935657",
+        "cityLabel": "Westvoorne",
+        "population": "14205"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q55",
+        "countryLabel": "Netherlands",
+        "city": "http://www.wikidata.org/entity/Q10055",
+        "cityLabel": "Woudenberg",
+        "population": "12551"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q55",
+        "countryLabel": "Netherlands",
+        "city": "http://www.wikidata.org/entity/Q747965",
+        "cityLabel": "Bellingwedde",
+        "population": "8969"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q55",
+        "countryLabel": "Netherlands",
+        "city": "http://www.wikidata.org/entity/Q9787",
+        "native": "Nut",
+        "cityLabel": "Nuth",
+        "population": "15423"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q55",
+        "countryLabel": "Netherlands",
+        "city": "http://www.wikidata.org/entity/Q9787",
+        "native": "Nut",
+        "cityLabel": "Nuth",
+        "population": "15844"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q55",
+        "countryLabel": "Netherlands",
+        "city": "http://www.wikidata.org/entity/Q41976",
+        "cityLabel": "Dokkum",
+        "population": "12365"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q55",
+        "countryLabel": "Netherlands",
+        "city": "http://www.wikidata.org/entity/Q9806",
+        "cityLabel": "Beek",
+        "population": "16065"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q55",
+        "countryLabel": "Netherlands",
+        "city": "http://www.wikidata.org/entity/Q9805",
+        "cityLabel": "Beesel",
+        "population": "13387"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q55",
+        "countryLabel": "Netherlands",
+        "city": "http://www.wikidata.org/entity/Q9908",
+        "cityLabel": "Bloemendaal",
+        "population": "22292"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q55",
+        "countryLabel": "Netherlands",
+        "city": "http://www.wikidata.org/entity/Q952194",
+        "cityLabel": "Korendijk",
+        "population": "10828"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q55",
+        "countryLabel": "Netherlands",
+        "city": "http://www.wikidata.org/entity/Q750772",
+        "cityLabel": "Ferwerderadiel",
+        "population": "8698"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q55",
+        "countryLabel": "Netherlands",
+        "city": "http://www.wikidata.org/entity/Q290475",
+        "cityLabel": "Cromstrijen",
+        "population": "12772"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q55",
+        "countryLabel": "Netherlands",
+        "city": "http://www.wikidata.org/entity/Q850211",
+        "cityLabel": "Slochteren",
+        "population": "15700"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q55",
+        "countryLabel": "Netherlands",
+        "city": "http://www.wikidata.org/entity/Q9809",
+        "cityLabel": "Alphen-Chaam",
+        "population": "9918"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q55",
+        "countryLabel": "Netherlands",
+        "city": "http://www.wikidata.org/entity/Q9800",
+        "cityLabel": "Gennep",
+        "population": "17092"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q55",
+        "countryLabel": "Netherlands",
+        "city": "http://www.wikidata.org/entity/Q1124998",
+        "cityLabel": "Giessenlanden",
+        "population": "14546"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q55",
+        "countryLabel": "Netherlands",
+        "city": "http://www.wikidata.org/entity/Q208259",
+        "cityLabel": "Ameland",
+        "population": "3576"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q55",
+        "countryLabel": "Netherlands",
+        "city": "http://www.wikidata.org/entity/Q9769",
+        "cityLabel": "Simpelveld",
+        "population": "10743"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q55",
+        "countryLabel": "Netherlands",
+        "city": "http://www.wikidata.org/entity/Q9818",
+        "cityLabel": "Boekel",
+        "population": "10253"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q55",
+        "countryLabel": "Netherlands",
+        "city": "http://www.wikidata.org/entity/Q9849",
+        "cityLabel": "Landerd",
+        "population": "15314"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q55",
+        "countryLabel": "Netherlands",
+        "city": "http://www.wikidata.org/entity/Q9856",
+        "cityLabel": "Oirschot",
+        "population": "18196"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q55",
+        "countryLabel": "Netherlands",
+        "city": "http://www.wikidata.org/entity/Q848988",
+        "cityLabel": "Noordwijkerhout",
+        "population": "16140"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q55",
+        "countryLabel": "Netherlands",
+        "city": "http://www.wikidata.org/entity/Q9953",
+        "cityLabel": "Ouder-Amstel",
+        "population": "13409"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q55",
+        "countryLabel": "Netherlands",
+        "city": "http://www.wikidata.org/entity/Q10037",
+        "cityLabel": "Eemnes",
+        "population": "8877"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q55",
+        "countryLabel": "Netherlands",
+        "city": "http://www.wikidata.org/entity/Q10017",
+        "cityLabel": "Olst-Wijhe",
+        "population": "17884"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q55",
+        "countryLabel": "Netherlands",
+        "city": "http://www.wikidata.org/entity/Q9976",
+        "cityLabel": "Wormerland",
+        "population": "15754"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q55",
+        "countryLabel": "Netherlands",
+        "city": "http://www.wikidata.org/entity/Q10039",
+        "cityLabel": "Renswoude",
+        "population": "5051"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q55",
+        "countryLabel": "Netherlands",
+        "city": "http://www.wikidata.org/entity/Q571198",
+        "cityLabel": "Kollumerland en Nieuwkruisland",
+        "population": "12807"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q55",
+        "countryLabel": "Netherlands",
+        "city": "http://www.wikidata.org/entity/Q736131",
+        "cityLabel": "Alblasserdam",
+        "population": "19950"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q55",
+        "countryLabel": "Netherlands",
+        "city": "http://www.wikidata.org/entity/Q18286551",
+        "cityLabel": "Ravenstein",
+        "population": "8500"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q55",
+        "countryLabel": "Netherlands",
+        "city": "http://www.wikidata.org/entity/Q2536628",
+        "cityLabel": "Harlingen",
+        "population": "15807"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q55",
+        "countryLabel": "Netherlands",
+        "city": "http://www.wikidata.org/entity/Q953012",
+        "cityLabel": "Hardinxveld-Giessendam",
+        "population": "17778"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q55",
+        "countryLabel": "Netherlands",
+        "city": "http://www.wikidata.org/entity/Q204412",
+        "cityLabel": "Terschelling",
+        "population": "4874"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q55",
+        "countryLabel": "Netherlands",
+        "city": "http://www.wikidata.org/entity/Q524808",
+        "cityLabel": "Westervoort",
+        "population": "15002"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q55",
+        "countryLabel": "Netherlands",
+        "city": "http://www.wikidata.org/entity/Q952948",
+        "cityLabel": "Lingewaal",
+        "population": "11105"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q55",
+        "countryLabel": "Netherlands",
+        "city": "http://www.wikidata.org/entity/Q1785561",
+        "cityLabel": "Koudekerke",
+        "population": "3419"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q55",
+        "countryLabel": "Netherlands",
+        "city": "http://www.wikidata.org/entity/Q1025079",
+        "cityLabel": "Winsum",
+        "population": "13632"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q55",
+        "countryLabel": "Netherlands",
+        "city": "http://www.wikidata.org/entity/Q9808",
+        "cityLabel": "Aalburg",
+        "population": "12906"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q55",
+        "countryLabel": "Netherlands",
+        "city": "http://www.wikidata.org/entity/Q9808",
+        "cityLabel": "Aalburg",
+        "population": "13033"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q55",
+        "countryLabel": "Netherlands",
+        "city": "http://www.wikidata.org/entity/Q9810",
+        "cityLabel": "Asten",
+        "population": "16584"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q55",
+        "countryLabel": "Netherlands",
+        "city": "http://www.wikidata.org/entity/Q9812",
+        "cityLabel": "Bergeijk",
+        "population": "18256"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q55",
+        "countryLabel": "Netherlands",
+        "city": "http://www.wikidata.org/entity/Q9868",
+        "cityLabel": "Someren",
+        "population": "18913"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q55",
+        "countryLabel": "Netherlands",
+        "city": "http://www.wikidata.org/entity/Q615491",
+        "cityLabel": "Heerde",
+        "population": "18556"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q55",
+        "countryLabel": "Netherlands",
+        "city": "http://www.wikidata.org/entity/Q9770",
+        "cityLabel": "Voerendaal",
+        "population": "12480"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q55",
+        "countryLabel": "Netherlands",
+        "city": "http://www.wikidata.org/entity/Q9840",
+        "cityLabel": "Haaren",
+        "population": "13572"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q55",
+        "countryLabel": "Netherlands",
+        "city": "http://www.wikidata.org/entity/Q9906",
+        "cityLabel": "Blaricum",
+        "population": "9616"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q55",
+        "countryLabel": "Netherlands",
+        "city": "http://www.wikidata.org/entity/Q1112099",
+        "cityLabel": "Oostkapelle",
+        "population": "2456"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q55",
+        "countryLabel": "Netherlands",
+        "city": "http://www.wikidata.org/entity/Q691754",
+        "cityLabel": "Haren",
+        "population": "19089"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q55",
+        "countryLabel": "Netherlands",
+        "city": "http://www.wikidata.org/entity/Q9877",
+        "cityLabel": "Waalre",
+        "population": "17027"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q55",
+        "countryLabel": "Netherlands",
+        "city": "http://www.wikidata.org/entity/Q9945",
+        "cityLabel": "Laren",
+        "population": "10962"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q55",
+        "countryLabel": "Netherlands",
+        "city": "http://www.wikidata.org/entity/Q849574",
+        "cityLabel": "Loppersum",
+        "population": "10038"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q55",
+        "countryLabel": "Netherlands",
+        "city": "http://www.wikidata.org/entity/Q16069768",
+        "cityLabel": "Margraten",
+        "population": "13370"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q55",
+        "countryLabel": "Netherlands",
+        "city": "http://www.wikidata.org/entity/Q9967",
+        "cityLabel": "Uitgeest",
+        "population": "13359"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q55",
+        "countryLabel": "Netherlands",
+        "city": "http://www.wikidata.org/entity/Q9975",
+        "cityLabel": "Wijdemeren",
+        "population": "23267"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q55",
+        "countryLabel": "Netherlands",
+        "city": "http://www.wikidata.org/entity/Q10074",
+        "cityLabel": "Kapelle",
+        "population": "12497"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q55",
+        "countryLabel": "Netherlands",
+        "city": "http://www.wikidata.org/entity/Q10040",
+        "cityLabel": "Rhenen",
+        "population": "19402"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q55",
+        "countryLabel": "Netherlands",
+        "city": "http://www.wikidata.org/entity/Q10077",
+        "cityLabel": "Noord-Beveland",
+        "population": "7525"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q55",
+        "countryLabel": "Netherlands",
+        "city": "http://www.wikidata.org/entity/Q9974",
+        "cityLabel": "Weesp",
+        "population": "18571"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q55",
+        "countryLabel": "Netherlands",
+        "city": "http://www.wikidata.org/entity/Q841525",
+        "cityLabel": "Marum",
+        "population": "10305"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q55",
+        "countryLabel": "Netherlands",
+        "city": "http://www.wikidata.org/entity/Q502331",
+        "cityLabel": "Valkenisse",
+        "population": "6168"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q55",
+        "countryLabel": "Netherlands",
+        "city": "http://www.wikidata.org/entity/Q331584",
+        "cityLabel": "Kralendijk",
+        "population": "12531"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q55",
+        "countryLabel": "Netherlands",
+        "city": "http://www.wikidata.org/entity/Q778989",
+        "cityLabel": "Leeuwarderadeel",
+        "population": "10177"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q55",
+        "countryLabel": "Netherlands",
+        "city": "http://www.wikidata.org/entity/Q10048",
+        "cityLabel": "Montfoort",
+        "population": "13796"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q55",
+        "countryLabel": "Netherlands",
+        "city": "http://www.wikidata.org/entity/Q9787",
+        "native": "Nuth",
+        "cityLabel": "Nuth",
+        "population": "15423"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q55",
+        "countryLabel": "Netherlands",
+        "city": "http://www.wikidata.org/entity/Q9787",
+        "native": "Nuth",
+        "cityLabel": "Nuth",
+        "population": "15844"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q55",
+        "countryLabel": "Netherlands",
+        "city": "http://www.wikidata.org/entity/Q9971",
+        "cityLabel": "Waterland",
+        "population": "17302"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q55",
+        "countryLabel": "Netherlands",
+        "city": "http://www.wikidata.org/entity/Q35226899",
+        "cityLabel": "Maarheeze",
+        "population": "9168"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q55",
+        "countryLabel": "Netherlands",
+        "city": "http://www.wikidata.org/entity/Q10052",
+        "native": "Vianen",
+        "cityLabel": "Vianen",
+        "population": "19523"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q55",
+        "countryLabel": "Netherlands",
+        "city": "http://www.wikidata.org/entity/Q9789",
+        "cityLabel": "Nederweert",
+        "population": "16798"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q55",
+        "countryLabel": "Netherlands",
+        "city": "http://www.wikidata.org/entity/Q9843",
+        "cityLabel": "Heeze-Leende",
+        "population": "15653"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q55",
+        "countryLabel": "Netherlands",
+        "city": "http://www.wikidata.org/entity/Q850722",
+        "cityLabel": "het Bildt",
+        "population": "10519"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q55",
+        "countryLabel": "Netherlands",
+        "city": "http://www.wikidata.org/entity/Q9853",
+        "cityLabel": "Mill en Sint Hubert",
+        "population": "10791"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q55",
+        "countryLabel": "Netherlands",
+        "city": "http://www.wikidata.org/entity/Q210234",
+        "cityLabel": "Zuidhorn",
+        "population": "18793"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q55",
+        "countryLabel": "Netherlands",
+        "city": "http://www.wikidata.org/entity/Q389213",
+        "cityLabel": "Dantumadiel",
+        "population": "19012"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q55",
+        "countryLabel": "Netherlands",
+        "city": "http://www.wikidata.org/entity/Q9860",
+        "cityLabel": "Reusel-De Mierden",
+        "population": "12809"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q55",
+        "countryLabel": "Netherlands",
+        "city": "http://www.wikidata.org/entity/Q10021",
+        "cityLabel": "Staphorst",
+        "population": "16548"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q55",
+        "countryLabel": "Netherlands",
+        "city": "http://www.wikidata.org/entity/Q10047",
+        "cityLabel": "Lopik",
+        "population": "14163"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q55",
+        "countryLabel": "Netherlands",
+        "city": "http://www.wikidata.org/entity/Q932142",
+        "cityLabel": "Druten",
+        "population": "18407"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q55",
+        "countryLabel": "Netherlands",
+        "city": "http://www.wikidata.org/entity/Q9915",
+        "cityLabel": "Drechterland",
+        "population": "19404"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q55",
+        "countryLabel": "Netherlands",
+        "city": "http://www.wikidata.org/entity/Q9817",
+        "cityLabel": "Bladel",
+        "population": "19971"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q55",
+        "countryLabel": "Netherlands",
+        "city": "http://www.wikidata.org/entity/Q1615333",
+        "native": "Rijnsburgjongen",
+        "cityLabel": "Rijnsburcht",
+        "population": "14843"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q55",
+        "countryLabel": "Netherlands",
+        "city": "http://www.wikidata.org/entity/Q849566",
+        "cityLabel": "Ten Boer",
+        "population": "7356"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q55",
+        "countryLabel": "Netherlands",
+        "city": "http://www.wikidata.org/entity/Q835096",
+        "cityLabel": "Leek",
+        "population": "19530"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q55",
+        "countryLabel": "Netherlands",
+        "city": "http://www.wikidata.org/entity/Q9882",
+        "cityLabel": "Woudrichem",
+        "population": "14521"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q55",
+        "countryLabel": "Netherlands",
+        "city": "http://www.wikidata.org/entity/Q9811",
+        "cityLabel": "Baarle-Nassau",
+        "population": "6612"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q55",
+        "countryLabel": "Netherlands",
+        "city": "http://www.wikidata.org/entity/Q461142",
+        "cityLabel": "Bedum",
+        "population": "10440"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q55",
+        "countryLabel": "Netherlands",
+        "city": "http://www.wikidata.org/entity/Q952206",
+        "cityLabel": "Midden-Delfland",
+        "population": "18870"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q55",
+        "countryLabel": "Netherlands",
+        "city": "http://www.wikidata.org/entity/Q9772",
+        "cityLabel": "Meerssen",
+        "population": "19046"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q55",
+        "countryLabel": "Netherlands",
+        "city": "http://www.wikidata.org/entity/Q9767",
+        "cityLabel": "Gulpen-Wittem",
+        "population": "14526"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q55",
+        "countryLabel": "Netherlands",
+        "city": "http://www.wikidata.org/entity/Q486490",
+        "cityLabel": "Egmond",
+        "population": "11660"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q55",
+        "countryLabel": "Netherlands",
+        "city": "http://www.wikidata.org/entity/Q9791",
+        "cityLabel": "Mook en Middelaar",
+        "population": "7757"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q55",
+        "countryLabel": "Netherlands",
+        "city": "http://www.wikidata.org/entity/Q9918",
+        "cityLabel": "Enkhuizen",
+        "population": "18468"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q55",
+        "countryLabel": "Netherlands",
+        "city": "http://www.wikidata.org/entity/Q9869",
+        "cityLabel": "Son en Breugel",
+        "population": "16427"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q55",
+        "countryLabel": "Netherlands",
+        "city": "http://www.wikidata.org/entity/Q840663",
+        "cityLabel": "De Marne",
+        "population": "10096"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q55",
+        "countryLabel": "Netherlands",
+        "city": "http://www.wikidata.org/entity/Q9951",
+        "cityLabel": "Oostzaan",
+        "population": "9508"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q55",
+        "countryLabel": "Netherlands",
+        "city": "http://www.wikidata.org/entity/Q9921",
+        "cityLabel": "Haarlemmerliede en Spaarnwoude",
+        "population": "5579"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q55",
+        "countryLabel": "Netherlands",
+        "city": "http://www.wikidata.org/entity/Q9952",
+        "cityLabel": "Opmeer",
+        "population": "11338"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q55",
+        "countryLabel": "Netherlands",
+        "city": "http://www.wikidata.org/entity/Q9865",
+        "cityLabel": "Sint Anthonis",
+        "population": "11591"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q55",
+        "countryLabel": "Netherlands",
+        "city": "http://www.wikidata.org/entity/Q605986",
+        "cityLabel": "Grootegast",
+        "population": "12154"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q55",
+        "countryLabel": "Netherlands",
+        "city": "http://www.wikidata.org/entity/Q10018",
+        "cityLabel": "Ommen",
+        "population": "17681"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q55",
+        "countryLabel": "Netherlands",
+        "city": "http://www.wikidata.org/entity/Q10026",
+        "cityLabel": "Zwartewaterland",
+        "population": "22283"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q55",
+        "countryLabel": "Netherlands",
+        "city": "http://www.wikidata.org/entity/Q10051",
+        "cityLabel": "Oudewater",
+        "population": "10055"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q55",
+        "countryLabel": "Netherlands",
+        "city": "http://www.wikidata.org/entity/Q52101",
+        "cityLabel": "Middelburg",
+        "population": "47939"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q55",
+        "countryLabel": "Netherlands",
+        "city": "http://www.wikidata.org/entity/Q932066",
+        "cityLabel": "Menterwolde",
+        "population": "12236"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q55",
+        "countryLabel": "Netherlands",
+        "city": "http://www.wikidata.org/entity/Q932116",
+        "cityLabel": "Hillegom",
+        "population": "21091"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q55",
+        "countryLabel": "Netherlands",
+        "city": "http://www.wikidata.org/entity/Q932089",
+        "cityLabel": "Neerijnen",
+        "population": "12126"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q55",
+        "countryLabel": "Netherlands",
+        "city": "http://www.wikidata.org/entity/Q10023",
+        "cityLabel": "Tubbergen",
+        "population": "21115"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q55",
+        "countryLabel": "Netherlands",
+        "city": "http://www.wikidata.org/entity/Q9980",
+        "cityLabel": "Zandvoort",
+        "population": "16796"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q55",
+        "countryLabel": "Netherlands",
+        "city": "http://www.wikidata.org/entity/Q1061677",
+        "cityLabel": "Heerenveen",
+        "population": "28497"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q55",
+        "countryLabel": "Netherlands",
+        "city": "http://www.wikidata.org/entity/Q6903267",
+        "cityLabel": "Roosendaal",
+        "population": "76959"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q55",
+        "countryLabel": "Netherlands",
+        "city": "http://www.wikidata.org/entity/Q9783",
+        "native": "Roermond",
+        "cityLabel": "Roermond",
+        "population": "57308"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q55",
+        "countryLabel": "Netherlands",
+        "city": "http://www.wikidata.org/entity/Q6807568",
+        "cityLabel": "Emmen",
+        "population": "56710"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q55",
+        "countryLabel": "Netherlands",
+        "city": "http://www.wikidata.org/entity/Q3018561",
+        "cityLabel": "Apeldoorn",
+        "population": "160053"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q55",
+        "countryLabel": "Netherlands",
+        "city": "http://www.wikidata.org/entity/Q81076",
+        "cityLabel": "Zierikzee",
+        "population": "11117"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q55",
+        "countryLabel": "Netherlands",
+        "city": "http://www.wikidata.org/entity/Q23070",
+        "native": "Sneek",
+        "cityLabel": "Sneek",
+        "population": "33257"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q55",
+        "countryLabel": "Netherlands",
+        "city": "http://www.wikidata.org/entity/Q34370",
+        "native": "Rotterdam",
+        "cityLabel": "Rotterdam",
+        "population": "631155"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q55",
+        "countryLabel": "Netherlands",
+        "city": "http://www.wikidata.org/entity/Q282729",
+        "cityLabel": "Ouderkerk aan de Amstel",
+        "population": "8200"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q55",
+        "countryLabel": "Netherlands",
+        "city": "http://www.wikidata.org/entity/Q2766547",
+        "cityLabel": "'s-Hertogenbosch",
+        "population": "143782"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q55",
+        "countryLabel": "Netherlands",
+        "city": "http://www.wikidata.org/entity/Q18691547",
+        "cityLabel": "Hoogeveen",
+        "population": "38865"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q55",
+        "countryLabel": "Netherlands",
+        "city": "http://www.wikidata.org/entity/Q10014",
+        "cityLabel": "Kampen",
+        "population": "52398"
+    }
+]

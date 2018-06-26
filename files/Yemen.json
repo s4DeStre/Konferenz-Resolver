@@ -1,0 +1,739 @@
+[
+    {
+        "country": "http://www.wikidata.org/entity/Q805",
+        "countryLabel": "Yemen",
+        "city": "http://www.wikidata.org/entity/Q12189023",
+        "cityLabel": "Q12189023",
+        "population": "2891"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q805",
+        "countryLabel": "Yemen",
+        "city": "http://www.wikidata.org/entity/Q12193707",
+        "cityLabel": "Q12193707",
+        "population": "4349"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q805",
+        "countryLabel": "Yemen",
+        "city": "http://www.wikidata.org/entity/Q131694",
+        "native": "عدن",
+        "cityLabel": "Aden",
+        "population": "507355"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q805",
+        "countryLabel": "Yemen",
+        "city": "http://www.wikidata.org/entity/Q1884227",
+        "cityLabel": "Ad Dhale'e District",
+        "population": "80213"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q805",
+        "countryLabel": "Yemen",
+        "city": "http://www.wikidata.org/entity/Q335478",
+        "native": "مأرب",
+        "cityLabel": "Ma'rib",
+        "population": "16794"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q805",
+        "countryLabel": "Yemen",
+        "city": "http://www.wikidata.org/entity/Q130254",
+        "cityLabel": "Sirwah",
+        "population": "19939"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q805",
+        "countryLabel": "Yemen",
+        "city": "http://www.wikidata.org/entity/Q2320876",
+        "native": "سيئون",
+        "cityLabel": "Seiyun",
+        "population": "120137"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q805",
+        "countryLabel": "Yemen",
+        "city": "http://www.wikidata.org/entity/Q12189530",
+        "cityLabel": "Q12189530",
+        "population": "2938"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q805",
+        "countryLabel": "Yemen",
+        "city": "http://www.wikidata.org/entity/Q12194422",
+        "cityLabel": "Q12194422",
+        "population": "7199"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q805",
+        "countryLabel": "Yemen",
+        "city": "http://www.wikidata.org/entity/Q12189776",
+        "cityLabel": "Q12189776",
+        "population": "15303"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q805",
+        "countryLabel": "Yemen",
+        "city": "http://www.wikidata.org/entity/Q955523",
+        "cityLabel": "Dhamar",
+        "population": "160114"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q805",
+        "countryLabel": "Yemen",
+        "city": "http://www.wikidata.org/entity/Q12227171",
+        "cityLabel": "Q12227171",
+        "population": "3695"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q805",
+        "countryLabel": "Yemen",
+        "city": "http://www.wikidata.org/entity/Q12194637",
+        "cityLabel": "Q12194637",
+        "population": "7823"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q805",
+        "countryLabel": "Yemen",
+        "city": "http://www.wikidata.org/entity/Q12190071",
+        "cityLabel": "Q12190071",
+        "population": "8919"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q805",
+        "countryLabel": "Yemen",
+        "city": "http://www.wikidata.org/entity/Q9143904",
+        "cityLabel": "Q9143904",
+        "population": "39254"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q805",
+        "countryLabel": "Yemen",
+        "city": "http://www.wikidata.org/entity/Q12185451",
+        "cityLabel": "Q12185451",
+        "population": "2946"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q805",
+        "countryLabel": "Yemen",
+        "city": "http://www.wikidata.org/entity/Q172597",
+        "cityLabel": "ʿAmrān",
+        "population": "90792"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q805",
+        "countryLabel": "Yemen",
+        "city": "http://www.wikidata.org/entity/Q12213476",
+        "cityLabel": "Q12213476",
+        "population": "3736"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q805",
+        "countryLabel": "Yemen",
+        "city": "http://www.wikidata.org/entity/Q12233488",
+        "cityLabel": "Qalansiyah",
+        "population": "4741"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q805",
+        "countryLabel": "Yemen",
+        "city": "http://www.wikidata.org/entity/Q12209022",
+        "cityLabel": "Q12209022",
+        "population": "6421"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q805",
+        "countryLabel": "Yemen",
+        "city": "http://www.wikidata.org/entity/Q12195127",
+        "cityLabel": "Q12195127",
+        "population": "2875"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q805",
+        "countryLabel": "Yemen",
+        "city": "http://www.wikidata.org/entity/Q12190515",
+        "cityLabel": "Q12190515",
+        "population": "6947"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q805",
+        "countryLabel": "Yemen",
+        "city": "http://www.wikidata.org/entity/Q12190542",
+        "cityLabel": "Q12190542",
+        "population": "5092"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q805",
+        "countryLabel": "Yemen",
+        "city": "http://www.wikidata.org/entity/Q270041",
+        "native": "الحديدة",
+        "cityLabel": "Al Hudaydah",
+        "population": "548433"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q805",
+        "countryLabel": "Yemen",
+        "city": "http://www.wikidata.org/entity/Q12209190",
+        "cityLabel": "Q12209190",
+        "population": "4824"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q805",
+        "countryLabel": "Yemen",
+        "city": "http://www.wikidata.org/entity/Q20417588",
+        "cityLabel": "Q20417588",
+        "population": "5984"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q805",
+        "countryLabel": "Yemen",
+        "city": "http://www.wikidata.org/entity/Q2471",
+        "native": "صنعاء",
+        "cityLabel": "Sana'a",
+        "population": "2957000"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q805",
+        "countryLabel": "Yemen",
+        "city": "http://www.wikidata.org/entity/Q99648",
+        "cityLabel": "Ibb",
+        "population": "225611"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q805",
+        "countryLabel": "Yemen",
+        "city": "http://www.wikidata.org/entity/Q12209345",
+        "cityLabel": "Q12209345",
+        "population": "2108"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q805",
+        "countryLabel": "Yemen",
+        "city": "http://www.wikidata.org/entity/Q12190793",
+        "cityLabel": "Q12190793",
+        "population": "8015"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q805",
+        "countryLabel": "Yemen",
+        "city": "http://www.wikidata.org/entity/Q12246625",
+        "cityLabel": "Q12246625",
+        "population": "7377"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q805",
+        "countryLabel": "Yemen",
+        "city": "http://www.wikidata.org/entity/Q12209474",
+        "cityLabel": "Q12209474",
+        "population": "4584"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q805",
+        "countryLabel": "Yemen",
+        "city": "http://www.wikidata.org/entity/Q12210853",
+        "cityLabel": "Khamir",
+        "population": "15333"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q805",
+        "countryLabel": "Yemen",
+        "city": "http://www.wikidata.org/entity/Q12186298",
+        "cityLabel": "Q12186298",
+        "population": "4146"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q805",
+        "countryLabel": "Yemen",
+        "city": "http://www.wikidata.org/entity/Q12209556",
+        "cityLabel": "Q12209556",
+        "population": "8650"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q805",
+        "countryLabel": "Yemen",
+        "city": "http://www.wikidata.org/entity/Q12204956",
+        "cityLabel": "Q12204956",
+        "population": "8228"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q805",
+        "countryLabel": "Yemen",
+        "city": "http://www.wikidata.org/entity/Q12218941",
+        "cityLabel": "Q12218941",
+        "population": "15771"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q805",
+        "countryLabel": "Yemen",
+        "city": "http://www.wikidata.org/entity/Q12214318",
+        "cityLabel": "Q12214318",
+        "population": "6079"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q805",
+        "countryLabel": "Yemen",
+        "city": "http://www.wikidata.org/entity/Q1752951",
+        "native": "البيضاء",
+        "cityLabel": "Al Bayda'",
+        "population": "33175"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q805",
+        "countryLabel": "Yemen",
+        "city": "http://www.wikidata.org/entity/Q12209705",
+        "cityLabel": "Q12209705",
+        "population": "2320"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q805",
+        "countryLabel": "Yemen",
+        "city": "http://www.wikidata.org/entity/Q12209711",
+        "cityLabel": "Q12209711",
+        "population": "3091"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q805",
+        "countryLabel": "Yemen",
+        "city": "http://www.wikidata.org/entity/Q12209712",
+        "cityLabel": "Q12209712",
+        "population": "13403"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q805",
+        "countryLabel": "Yemen",
+        "city": "http://www.wikidata.org/entity/Q12209727",
+        "cityLabel": "Q12209727",
+        "population": "7377"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q805",
+        "countryLabel": "Yemen",
+        "city": "http://www.wikidata.org/entity/Q12195788",
+        "cityLabel": "Q12195788",
+        "population": "4842"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q805",
+        "countryLabel": "Yemen",
+        "city": "http://www.wikidata.org/entity/Q12186493",
+        "cityLabel": "Q12186493",
+        "population": "2576"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q805",
+        "countryLabel": "Yemen",
+        "city": "http://www.wikidata.org/entity/Q12209764",
+        "cityLabel": "Q12209764",
+        "population": "4773"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q805",
+        "countryLabel": "Yemen",
+        "city": "http://www.wikidata.org/entity/Q12242323",
+        "cityLabel": "Q12242323",
+        "population": "4249"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q805",
+        "countryLabel": "Yemen",
+        "city": "http://www.wikidata.org/entity/Q249175",
+        "cityLabel": "Lahij",
+        "population": "30661"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q805",
+        "countryLabel": "Yemen",
+        "city": "http://www.wikidata.org/entity/Q310772",
+        "cityLabel": "Mukalla",
+        "population": "144137"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q805",
+        "countryLabel": "Yemen",
+        "city": "http://www.wikidata.org/entity/Q20413554",
+        "cityLabel": "Q20413554",
+        "population": "2540"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q805",
+        "countryLabel": "Yemen",
+        "city": "http://www.wikidata.org/entity/Q12219186",
+        "cityLabel": "Q12219186",
+        "population": "2051"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q805",
+        "countryLabel": "Yemen",
+        "city": "http://www.wikidata.org/entity/Q12233153",
+        "cityLabel": "Q12233153",
+        "population": "8160"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q805",
+        "countryLabel": "Yemen",
+        "city": "http://www.wikidata.org/entity/Q1010816",
+        "cityLabel": "Jibla",
+        "population": "15431"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q805",
+        "countryLabel": "Yemen",
+        "city": "http://www.wikidata.org/entity/Q4678136",
+        "cityLabel": "Ad Dis",
+        "population": "16614"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q805",
+        "countryLabel": "Yemen",
+        "city": "http://www.wikidata.org/entity/Q568905",
+        "cityLabel": "Yarim",
+        "population": "34805"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q805",
+        "countryLabel": "Yemen",
+        "city": "http://www.wikidata.org/entity/Q12191415",
+        "cityLabel": "Q12191415",
+        "population": "2715"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q805",
+        "countryLabel": "Yemen",
+        "city": "http://www.wikidata.org/entity/Q3696034",
+        "cityLabel": "Al Mansura District",
+        "population": "114931"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q805",
+        "countryLabel": "Yemen",
+        "city": "http://www.wikidata.org/entity/Q3696048",
+        "cityLabel": "Al Mualla District",
+        "population": "49891"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q805",
+        "countryLabel": "Yemen",
+        "city": "http://www.wikidata.org/entity/Q12186928",
+        "cityLabel": "Q12186928",
+        "population": "3608"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q805",
+        "countryLabel": "Yemen",
+        "city": "http://www.wikidata.org/entity/Q2263449",
+        "cityLabel": "Crater District",
+        "population": "76723"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q805",
+        "countryLabel": "Yemen",
+        "city": "http://www.wikidata.org/entity/Q1770704",
+        "cityLabel": "Hajjah",
+        "population": "46568"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q805",
+        "countryLabel": "Yemen",
+        "city": "http://www.wikidata.org/entity/Q12224236",
+        "cityLabel": "Q12224236",
+        "population": "25763"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q805",
+        "countryLabel": "Yemen",
+        "city": "http://www.wikidata.org/entity/Q466216",
+        "cityLabel": "Ta'izz",
+        "population": "596672"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q805",
+        "countryLabel": "Yemen",
+        "city": "http://www.wikidata.org/entity/Q20423389",
+        "cityLabel": "Q20423389",
+        "population": "6265"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q805",
+        "countryLabel": "Yemen",
+        "city": "http://www.wikidata.org/entity/Q204391",
+        "native": "زنجبار",
+        "cityLabel": "Zinjibar",
+        "population": "70801"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q805",
+        "countryLabel": "Yemen",
+        "city": "http://www.wikidata.org/entity/Q12215069",
+        "cityLabel": "Q12215069",
+        "population": "3011"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q805",
+        "countryLabel": "Yemen",
+        "city": "http://www.wikidata.org/entity/Q377588",
+        "cityLabel": "Sheikh Othman",
+        "population": "105248"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q805",
+        "countryLabel": "Yemen",
+        "city": "http://www.wikidata.org/entity/Q286843",
+        "cityLabel": "Ash Shihr",
+        "population": "68313"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q805",
+        "countryLabel": "Yemen",
+        "city": "http://www.wikidata.org/entity/Q12238566",
+        "cityLabel": "Q12238566",
+        "population": "2262"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q805",
+        "countryLabel": "Yemen",
+        "city": "http://www.wikidata.org/entity/Q5668451",
+        "cityLabel": "Bajil",
+        "population": "46005"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q805",
+        "countryLabel": "Yemen",
+        "city": "http://www.wikidata.org/entity/Q1014010",
+        "cityLabel": "Tarim",
+        "population": "105552"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q805",
+        "countryLabel": "Yemen",
+        "city": "http://www.wikidata.org/entity/Q12187525",
+        "cityLabel": "Q12187525",
+        "population": "2938"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q805",
+        "countryLabel": "Yemen",
+        "city": "http://www.wikidata.org/entity/Q985467",
+        "cityLabel": "Raydah",
+        "population": "13971"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q805",
+        "countryLabel": "Yemen",
+        "city": "http://www.wikidata.org/entity/Q12192260",
+        "cityLabel": "Q12192260",
+        "population": "10688"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q805",
+        "countryLabel": "Yemen",
+        "city": "http://www.wikidata.org/entity/Q12187714",
+        "cityLabel": "Q12187714",
+        "population": "5440"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q805",
+        "countryLabel": "Yemen",
+        "city": "http://www.wikidata.org/entity/Q12192403",
+        "cityLabel": "Q12192403",
+        "population": "15571"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q805",
+        "countryLabel": "Yemen",
+        "city": "http://www.wikidata.org/entity/Q12192449",
+        "cityLabel": "Q12192449",
+        "population": "2569"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q805",
+        "countryLabel": "Yemen",
+        "city": "http://www.wikidata.org/entity/Q12192588",
+        "cityLabel": "Q12192588",
+        "population": "2838"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q805",
+        "countryLabel": "Yemen",
+        "city": "http://www.wikidata.org/entity/Q12187948",
+        "cityLabel": "Q12187948",
+        "population": "6649"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q805",
+        "countryLabel": "Yemen",
+        "city": "http://www.wikidata.org/entity/Q12220509",
+        "cityLabel": "Q12220509",
+        "population": "13861"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q805",
+        "countryLabel": "Yemen",
+        "city": "http://www.wikidata.org/entity/Q12248469",
+        "cityLabel": "Q12248469",
+        "population": "11368"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q805",
+        "countryLabel": "Yemen",
+        "city": "http://www.wikidata.org/entity/Q12188030",
+        "cityLabel": "Q12188030",
+        "population": "2678"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q805",
+        "countryLabel": "Yemen",
+        "city": "http://www.wikidata.org/entity/Q12220631",
+        "cityLabel": "Q12220631",
+        "population": "2942"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q805",
+        "countryLabel": "Yemen",
+        "city": "http://www.wikidata.org/entity/Q3125264",
+        "cityLabel": "Habban District",
+        "population": "29846"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q805",
+        "countryLabel": "Yemen",
+        "city": "http://www.wikidata.org/entity/Q12220632",
+        "cityLabel": "Q12220632",
+        "population": "5695"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q805",
+        "countryLabel": "Yemen",
+        "city": "http://www.wikidata.org/entity/Q12234596",
+        "cityLabel": "Q12234596",
+        "population": "4227"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q805",
+        "countryLabel": "Yemen",
+        "city": "http://www.wikidata.org/entity/Q310622",
+        "native": "المحويت",
+        "cityLabel": "Al Mahwit",
+        "population": "10593"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q805",
+        "countryLabel": "Yemen",
+        "city": "http://www.wikidata.org/entity/Q1884201",
+        "cityLabel": "As Salif District",
+        "population": "6343"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q805",
+        "countryLabel": "Yemen",
+        "city": "http://www.wikidata.org/entity/Q12192860",
+        "cityLabel": "Q12192860",
+        "population": "2110"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q805",
+        "countryLabel": "Yemen",
+        "city": "http://www.wikidata.org/entity/Q579291",
+        "cityLabel": "Bayt al-Faqih",
+        "population": "41652"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q805",
+        "countryLabel": "Yemen",
+        "city": "http://www.wikidata.org/entity/Q12207019",
+        "cityLabel": "Q12207019",
+        "population": "4466"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q805",
+        "countryLabel": "Yemen",
+        "city": "http://www.wikidata.org/entity/Q12207016",
+        "cityLabel": "Q12207016",
+        "population": "9496"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q805",
+        "countryLabel": "Yemen",
+        "city": "http://www.wikidata.org/entity/Q138986",
+        "cityLabel": "Zabīd",
+        "population": "50781"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q805",
+        "countryLabel": "Yemen",
+        "city": "http://www.wikidata.org/entity/Q12234940",
+        "cityLabel": "Q12234940",
+        "population": "3240"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q805",
+        "countryLabel": "Yemen",
+        "city": "http://www.wikidata.org/entity/Q12207042",
+        "cityLabel": "Q12207042",
+        "population": "3030"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q805",
+        "countryLabel": "Yemen",
+        "city": "http://www.wikidata.org/entity/Q12234980",
+        "cityLabel": "Q12234980",
+        "population": "2659"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q805",
+        "countryLabel": "Yemen",
+        "city": "http://www.wikidata.org/entity/Q2125362",
+        "cityLabel": "Rada'a",
+        "population": "44755"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q805",
+        "countryLabel": "Yemen",
+        "city": "http://www.wikidata.org/entity/Q12193261",
+        "cityLabel": "Q12193261",
+        "population": "3070"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q805",
+        "countryLabel": "Yemen",
+        "city": "http://www.wikidata.org/entity/Q6860386",
+        "cityLabel": "Ma\u2018bar",
+        "population": "24707"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q805",
+        "countryLabel": "Yemen",
+        "city": "http://www.wikidata.org/entity/Q4118993",
+        "cityLabel": "Al Misrakh District",
+        "population": "3076"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q805",
+        "countryLabel": "Yemen",
+        "city": "http://www.wikidata.org/entity/Q991395",
+        "cityLabel": "Sa'dah",
+        "population": "51870"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q805",
+        "countryLabel": "Yemen",
+        "city": "http://www.wikidata.org/entity/Q12207477",
+        "cityLabel": "Q12207477",
+        "population": "22093"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q805",
+        "countryLabel": "Yemen",
+        "city": "http://www.wikidata.org/entity/Q12193589",
+        "cityLabel": "Q12193589",
+        "population": "2272"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q805",
+        "countryLabel": "Yemen",
+        "city": "http://www.wikidata.org/entity/Q339258",
+        "native": "المخا",
+        "cityLabel": "Mocha",
+        "population": "14562"
+    }
+]

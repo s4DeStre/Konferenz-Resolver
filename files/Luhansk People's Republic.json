@@ -1,0 +1,73 @@
+[
+    {
+        "country": "http://www.wikidata.org/entity/Q16746854",
+        "countryLabel": "Luhansk People's Republic",
+        "city": "http://www.wikidata.org/entity/Q1844446",
+        "native": "Первомайськ",
+        "cityLabel": "Pervomaisk",
+        "population": "38801"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q16746854",
+        "countryLabel": "Luhansk People's Republic",
+        "city": "http://www.wikidata.org/entity/Q1945882",
+        "native": "Олександрівськ",
+        "cityLabel": "Oleksandrivsk",
+        "population": "6709"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q16746854",
+        "countryLabel": "Luhansk People's Republic",
+        "city": "http://www.wikidata.org/entity/Q837093",
+        "native": "Стаханов/Кадіївка",
+        "cityLabel": "Kadiivka",
+        "population": "75745"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q16746854",
+        "countryLabel": "Luhansk People's Republic",
+        "city": "http://www.wikidata.org/entity/Q161144",
+        "native": "Алчевськ",
+        "cityLabel": "Alchevsk",
+        "population": "111360"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q16746854",
+        "countryLabel": "Luhansk People's Republic",
+        "city": "http://www.wikidata.org/entity/Q1659768",
+        "native": "Брянка",
+        "cityLabel": "Brianka",
+        "population": "47512"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q16746854",
+        "countryLabel": "Luhansk People's Republic",
+        "city": "http://www.wikidata.org/entity/Q609028",
+        "native": "Антрацит",
+        "cityLabel": "Antratsyt",
+        "population": "54640"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q16746854",
+        "countryLabel": "Luhansk People's Republic",
+        "city": "http://www.wikidata.org/entity/Q664445",
+        "native": "Червонопартизанськ/Вознесенiвка",
+        "cityLabel": "Voznesenivka",
+        "population": "15659"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q16746854",
+        "countryLabel": "Luhansk People's Republic",
+        "city": "http://www.wikidata.org/entity/Q2415287",
+        "cityLabel": "Miusynsk",
+        "population": "4830"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q16746854",
+        "countryLabel": "Luhansk People's Republic",
+        "city": "http://www.wikidata.org/entity/Q572366",
+        "native": "Довжанськ",
+        "cityLabel": "Dovzhansk",
+        "population": "95153"
+    }
+]

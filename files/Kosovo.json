@@ -1,0 +1,34 @@
+[
+    {
+        "country": "http://www.wikidata.org/entity/Q1246",
+        "countryLabel": "Kosovo",
+        "city": "http://www.wikidata.org/entity/Q112657",
+        "native": "Пећ",
+        "cityLabel": "Pejë",
+        "population": "82299"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q1246",
+        "countryLabel": "Kosovo",
+        "city": "http://www.wikidata.org/entity/Q25270",
+        "native": "Приштина",
+        "cityLabel": "Pristina",
+        "population": "207477"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q1246",
+        "countryLabel": "Kosovo",
+        "city": "http://www.wikidata.org/entity/Q178168",
+        "native": "Mitrovica",
+        "cityLabel": "Mitrovica",
+        "population": "71601"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q1246",
+        "countryLabel": "Kosovo",
+        "city": "http://www.wikidata.org/entity/Q178168",
+        "native": "Косовска Митровица",
+        "cityLabel": "Mitrovica",
+        "population": "71601"
+    }
+]

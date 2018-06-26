@@ -1,0 +1,273 @@
+[
+    {
+        "country": "http://www.wikidata.org/entity/Q796",
+        "countryLabel": "Iraq",
+        "city": "http://www.wikidata.org/entity/Q48195",
+        "cityLabel": "Basra",
+        "population": "2150000"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q796",
+        "countryLabel": "Iraq",
+        "city": "http://www.wikidata.org/entity/Q1778824",
+        "cityLabel": "Koy Sanjaq",
+        "population": "44987"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q796",
+        "countryLabel": "Iraq",
+        "city": "http://www.wikidata.org/entity/Q270821",
+        "cityLabel": "Baqubah",
+        "population": "467900"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q796",
+        "countryLabel": "Iraq",
+        "city": "http://www.wikidata.org/entity/Q165444",
+        "native": "تكريت",
+        "cityLabel": "Tikrit",
+        "population": "105700"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q796",
+        "countryLabel": "Iraq",
+        "city": "http://www.wikidata.org/entity/Q170047",
+        "native": "سامراء",
+        "cityLabel": "Samarra",
+        "population": "140400"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q796",
+        "countryLabel": "Iraq",
+        "city": "http://www.wikidata.org/entity/Q191170",
+        "cityLabel": "Fallujah",
+        "population": "326471"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q796",
+        "countryLabel": "Iraq",
+        "city": "http://www.wikidata.org/entity/Q2354244",
+        "native": "راوة",
+        "cityLabel": "Rawa",
+        "population": "19629"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q796",
+        "countryLabel": "Iraq",
+        "city": "http://www.wikidata.org/entity/Q990427",
+        "native": "تلعفر",
+        "cityLabel": "Tal Afar",
+        "population": "80000"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q796",
+        "countryLabel": "Iraq",
+        "city": "http://www.wikidata.org/entity/Q328030",
+        "cityLabel": "Kut",
+        "population": "377600"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q796",
+        "countryLabel": "Iraq",
+        "city": "http://www.wikidata.org/entity/Q1530",
+        "native": "بغداد",
+        "cityLabel": "Baghdad",
+        "population": "6960000"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q796",
+        "countryLabel": "Iraq",
+        "city": "http://www.wikidata.org/entity/Q1164081",
+        "cityLabel": "Al-Faw",
+        "population": "105080"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q796",
+        "countryLabel": "Iraq",
+        "city": "http://www.wikidata.org/entity/Q605544",
+        "cityLabel": "Halabja",
+        "population": "65200"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q796",
+        "countryLabel": "Iraq",
+        "city": "http://www.wikidata.org/entity/Q2350519",
+        "cityLabel": "Al-Hay",
+        "population": "82900"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q796",
+        "countryLabel": "Iraq",
+        "city": "http://www.wikidata.org/entity/Q1530",
+        "native": "ܒܓܕܐܕ",
+        "cityLabel": "Baghdad",
+        "population": "6960000"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q796",
+        "countryLabel": "Iraq",
+        "city": "http://www.wikidata.org/entity/Q4702665",
+        "cityLabel": "Al-Karmah",
+        "population": "95000"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q796",
+        "countryLabel": "Iraq",
+        "city": "http://www.wikidata.org/entity/Q243846",
+        "native": "الحلة",
+        "cityLabel": "Hillah",
+        "population": "780000"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q796",
+        "countryLabel": "Iraq",
+        "city": "http://www.wikidata.org/entity/Q750679",
+        "cityLabel": "Samawah",
+        "population": "215000"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q796",
+        "countryLabel": "Iraq",
+        "city": "http://www.wikidata.org/entity/Q955690",
+        "native": "سنجار",
+        "cityLabel": "Sinjar",
+        "population": "88023"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q796",
+        "countryLabel": "Iraq",
+        "city": "http://www.wikidata.org/entity/Q199909",
+        "cityLabel": "Karbala",
+        "population": "690100"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q796",
+        "countryLabel": "Iraq",
+        "city": "http://www.wikidata.org/entity/Q132754",
+        "cityLabel": "Erbil",
+        "population": "852500"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q796",
+        "countryLabel": "Iraq",
+        "city": "http://www.wikidata.org/entity/Q1029645",
+        "cityLabel": "Balad",
+        "population": "80000"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q796",
+        "countryLabel": "Iraq",
+        "city": "http://www.wikidata.org/entity/Q694939",
+        "cityLabel": "Al Diwaniyah",
+        "population": "391600"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q796",
+        "countryLabel": "Iraq",
+        "city": "http://www.wikidata.org/entity/Q2231235",
+        "cityLabel": "Shaqlawa",
+        "population": "25000"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q796",
+        "countryLabel": "Iraq",
+        "city": "http://www.wikidata.org/entity/Q192961",
+        "cityLabel": "Ramadi",
+        "population": "456853"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q796",
+        "countryLabel": "Iraq",
+        "city": "http://www.wikidata.org/entity/Q366010",
+        "cityLabel": "Amarah",
+        "population": "511500"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q796",
+        "countryLabel": "Iraq",
+        "city": "http://www.wikidata.org/entity/Q1530",
+        "native": "بەخد",
+        "cityLabel": "Baghdad",
+        "population": "6960000"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q796",
+        "countryLabel": "Iraq",
+        "city": "http://www.wikidata.org/entity/Q38811",
+        "cityLabel": "Nasiriyah",
+        "population": "541600"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q796",
+        "countryLabel": "Iraq",
+        "city": "http://www.wikidata.org/entity/Q186234",
+        "cityLabel": "Kufa",
+        "population": "166100"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q796",
+        "countryLabel": "Iraq",
+        "city": "http://www.wikidata.org/entity/Q168193",
+        "native": "النجف",
+        "cityLabel": "Najaf",
+        "population": "724700"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q796",
+        "countryLabel": "Iraq",
+        "city": "http://www.wikidata.org/entity/Q173310",
+        "native": "كركوك",
+        "cityLabel": "Kirkuk",
+        "population": "975000"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q796",
+        "countryLabel": "Iraq",
+        "city": "http://www.wikidata.org/entity/Q191204",
+        "cityLabel": "Sulaymaniyah",
+        "population": "656100"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q796",
+        "countryLabel": "Iraq",
+        "city": "http://www.wikidata.org/entity/Q192541",
+        "cityLabel": "Ctesiphon",
+        "population": "500000"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q796",
+        "countryLabel": "Iraq",
+        "city": "http://www.wikidata.org/entity/Q4495294",
+        "native": "حمام العليل",
+        "cityLabel": "Hamam al-Alil",
+        "population": "15985"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q796",
+        "countryLabel": "Iraq",
+        "city": "http://www.wikidata.org/entity/Q83317",
+        "cityLabel": "Mosul",
+        "population": "1694000"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q796",
+        "countryLabel": "Iraq",
+        "city": "http://www.wikidata.org/entity/Q460736",
+        "cityLabel": "Amadiya",
+        "population": "11000"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q796",
+        "countryLabel": "Iraq",
+        "city": "http://www.wikidata.org/entity/Q152831",
+        "cityLabel": "Dohuk",
+        "population": "330600"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q796",
+        "countryLabel": "Iraq",
+        "city": "http://www.wikidata.org/entity/Q842407",
+        "cityLabel": "Umm Qasr",
+        "population": "107620"
+    }
+]

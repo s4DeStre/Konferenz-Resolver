@@ -1,0 +1,116 @@
+[
+    {
+        "country": "http://www.wikidata.org/entity/Q225",
+        "countryLabel": "Bosnia and Herzegovina",
+        "city": "http://www.wikidata.org/entity/Q180333",
+        "native": "Фоча / Foča",
+        "cityLabel": "Foča",
+        "population": "12334"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q225",
+        "countryLabel": "Bosnia and Herzegovina",
+        "city": "http://www.wikidata.org/entity/Q184046",
+        "native": "Zenica",
+        "cityLabel": "Zenica",
+        "population": "73751"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q225",
+        "countryLabel": "Bosnia and Herzegovina",
+        "city": "http://www.wikidata.org/entity/Q11194",
+        "native": "Sarajevo",
+        "cityLabel": "Sarajevo",
+        "population": "275524"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q225",
+        "countryLabel": "Bosnia and Herzegovina",
+        "city": "http://www.wikidata.org/entity/Q239266",
+        "cityLabel": "Višegrad",
+        "population": "11774"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q225",
+        "countryLabel": "Bosnia and Herzegovina",
+        "city": "http://www.wikidata.org/entity/Q174684",
+        "cityLabel": "Tuzla",
+        "population": "110979"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q225",
+        "countryLabel": "Bosnia and Herzegovina",
+        "city": "http://www.wikidata.org/entity/Q180333",
+        "native": "Foča",
+        "cityLabel": "Foča",
+        "population": "12334"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q225",
+        "countryLabel": "Bosnia and Herzegovina",
+        "city": "http://www.wikidata.org/entity/Q180333",
+        "native": "Foča",
+        "cityLabel": "Foča",
+        "population": "12334"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q225",
+        "countryLabel": "Bosnia and Herzegovina",
+        "city": "http://www.wikidata.org/entity/Q690052",
+        "cityLabel": "Trebinje",
+        "population": "31433"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q225",
+        "countryLabel": "Bosnia and Herzegovina",
+        "city": "http://www.wikidata.org/entity/Q11194",
+        "native": "Сарајево",
+        "cityLabel": "Sarajevo",
+        "population": "275524"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q225",
+        "countryLabel": "Bosnia and Herzegovina",
+        "city": "http://www.wikidata.org/entity/Q169247",
+        "native": "Добој",
+        "cityLabel": "Doboj",
+        "population": "68514"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q225",
+        "countryLabel": "Bosnia and Herzegovina",
+        "city": "http://www.wikidata.org/entity/Q11194",
+        "native": "Sarajevo",
+        "cityLabel": "Sarajevo",
+        "population": "275524"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q225",
+        "countryLabel": "Bosnia and Herzegovina",
+        "city": "http://www.wikidata.org/entity/Q994167",
+        "cityLabel": "Odžak",
+        "population": "21289"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q225",
+        "countryLabel": "Bosnia and Herzegovina",
+        "city": "http://www.wikidata.org/entity/Q184046",
+        "native": "Зеница",
+        "cityLabel": "Zenica",
+        "population": "73751"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q225",
+        "countryLabel": "Bosnia and Herzegovina",
+        "city": "http://www.wikidata.org/entity/Q207801",
+        "cityLabel": "Bijeljina",
+        "population": "114663"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q225",
+        "countryLabel": "Bosnia and Herzegovina",
+        "city": "http://www.wikidata.org/entity/Q131127",
+        "cityLabel": "Banja Luka",
+        "population": "199191"
+    }
+]

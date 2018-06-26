@@ -1,0 +1,16 @@
+[
+    {
+        "country": "http://www.wikidata.org/entity/Q1005",
+        "countryLabel": "The Gambia",
+        "city": "http://www.wikidata.org/entity/Q217568",
+        "cityLabel": "Serekunda",
+        "population": "348118"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q1005",
+        "countryLabel": "The Gambia",
+        "city": "http://www.wikidata.org/entity/Q3726",
+        "cityLabel": "Banjul",
+        "population": "31356"
+    }
+]

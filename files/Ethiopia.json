@@ -1,0 +1,166 @@
+[
+    {
+        "country": "http://www.wikidata.org/entity/Q115",
+        "countryLabel": "Ethiopia",
+        "city": "http://www.wikidata.org/entity/Q2837318",
+        "cityLabel": "Aliyu Amba",
+        "population": "2873"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q115",
+        "countryLabel": "Ethiopia",
+        "city": "http://www.wikidata.org/entity/Q190184",
+        "cityLabel": "Harar",
+        "population": "129000"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q115",
+        "countryLabel": "Ethiopia",
+        "city": "http://www.wikidata.org/entity/Q2891356",
+        "cityLabel": "Bati",
+        "population": "20536"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q115",
+        "countryLabel": "Ethiopia",
+        "city": "http://www.wikidata.org/entity/Q6935193",
+        "cityLabel": "Mulu, Ethiopia",
+        "population": "3812"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q115",
+        "countryLabel": "Ethiopia",
+        "city": "http://www.wikidata.org/entity/Q3567161",
+        "cityLabel": "Welenchiti",
+        "population": "20984"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q115",
+        "countryLabel": "Ethiopia",
+        "city": "http://www.wikidata.org/entity/Q5832",
+        "cityLabel": "Axum",
+        "population": "66800"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q115",
+        "countryLabel": "Ethiopia",
+        "city": "http://www.wikidata.org/entity/Q218861",
+        "cityLabel": "Wegedi",
+        "population": "323900"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q115",
+        "countryLabel": "Ethiopia",
+        "city": "http://www.wikidata.org/entity/Q740236",
+        "cityLabel": "Asella",
+        "population": "110088"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q115",
+        "countryLabel": "Ethiopia",
+        "city": "http://www.wikidata.org/entity/Q193486",
+        "cityLabel": "Dire Dawa",
+        "population": "277000"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q115",
+        "countryLabel": "Ethiopia",
+        "city": "http://www.wikidata.org/entity/Q2928324",
+        "cityLabel": "Bure (Gojjam), Ethiopia",
+        "population": "25084"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q115",
+        "countryLabel": "Ethiopia",
+        "city": "http://www.wikidata.org/entity/Q557397",
+        "cityLabel": "Ankober",
+        "population": "2288"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q115",
+        "countryLabel": "Ethiopia",
+        "city": "http://www.wikidata.org/entity/Q207590",
+        "cityLabel": "Lalibela",
+        "population": "14668"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q115",
+        "countryLabel": "Ethiopia",
+        "city": "http://www.wikidata.org/entity/Q332319",
+        "cityLabel": "Mek'ele",
+        "population": "323700"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q115",
+        "countryLabel": "Ethiopia",
+        "city": "http://www.wikidata.org/entity/Q385341",
+        "cityLabel": "Jimma",
+        "population": "177900"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q115",
+        "countryLabel": "Ethiopia",
+        "city": "http://www.wikidata.org/entity/Q755752",
+        "native": "ደሴ",
+        "cityLabel": "Dessie",
+        "population": "187900"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q115",
+        "countryLabel": "Ethiopia",
+        "city": "http://www.wikidata.org/entity/Q3624",
+        "native": "Finfinne",
+        "cityLabel": "Addis Ababa",
+        "population": "3384569"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q115",
+        "countryLabel": "Ethiopia",
+        "city": "http://www.wikidata.org/entity/Q2901625",
+        "cityLabel": "Bichena",
+        "population": "19916"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q115",
+        "countryLabel": "Ethiopia",
+        "city": "http://www.wikidata.org/entity/Q3624",
+        "native": "አዲስ አበባ",
+        "cityLabel": "Addis Ababa",
+        "population": "3384569"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q115",
+        "countryLabel": "Ethiopia",
+        "city": "http://www.wikidata.org/entity/Q585723",
+        "cityLabel": "Gewane",
+        "population": "8408"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q115",
+        "countryLabel": "Ethiopia",
+        "city": "http://www.wikidata.org/entity/Q755763",
+        "cityLabel": "Jijiga",
+        "population": "159300"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q115",
+        "countryLabel": "Ethiopia",
+        "city": "http://www.wikidata.org/entity/Q2824323",
+        "cityLabel": "Adet",
+        "population": "21117"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q115",
+        "countryLabel": "Ethiopia",
+        "city": "http://www.wikidata.org/entity/Q357101",
+        "cityLabel": "Adigrat",
+        "population": "76400"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q115",
+        "countryLabel": "Ethiopia",
+        "city": "http://www.wikidata.org/entity/Q755765",
+        "cityLabel": "Awasa",
+        "population": "300100"
+    }
+]

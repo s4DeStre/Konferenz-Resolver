@@ -1,0 +1,95 @@
+[
+    {
+        "country": "http://www.wikidata.org/entity/Q223",
+        "countryLabel": "Greenland",
+        "city": "http://www.wikidata.org/entity/Q208098",
+        "cityLabel": "Sisimiut",
+        "population": "5539"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q223",
+        "countryLabel": "Greenland",
+        "city": "http://www.wikidata.org/entity/Q641460",
+        "cityLabel": "Qaasuitsup",
+        "population": "17498"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q223",
+        "countryLabel": "Greenland",
+        "city": "http://www.wikidata.org/entity/Q695387",
+        "cityLabel": "Sermersooq",
+        "population": "22480"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q223",
+        "countryLabel": "Greenland",
+        "city": "http://www.wikidata.org/entity/Q476233",
+        "cityLabel": "Qeqqata",
+        "population": "9423"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q223",
+        "countryLabel": "Greenland",
+        "city": "http://www.wikidata.org/entity/Q478813",
+        "cityLabel": "Kujalleq",
+        "population": "6811"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q223",
+        "countryLabel": "Greenland",
+        "city": "http://www.wikidata.org/entity/Q226",
+        "native": "Nuuk",
+        "cityLabel": "Nuuk",
+        "population": "17316"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q223",
+        "countryLabel": "Greenland",
+        "city": "http://www.wikidata.org/entity/Q847691",
+        "cityLabel": "Maniitsoq",
+        "population": "2567"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q223",
+        "countryLabel": "Greenland",
+        "city": "http://www.wikidata.org/entity/Q2139799",
+        "native": "Angmagssalik",
+        "cityLabel": "Tasiilaq",
+        "population": "2018"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q223",
+        "countryLabel": "Greenland",
+        "city": "http://www.wikidata.org/entity/Q221203",
+        "cityLabel": "Qaqortoq",
+        "population": "3089"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q223",
+        "countryLabel": "Greenland",
+        "city": "http://www.wikidata.org/entity/Q44593409",
+        "cityLabel": "Avannaata",
+        "population": "10651"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q223",
+        "countryLabel": "Greenland",
+        "city": "http://www.wikidata.org/entity/Q211218",
+        "cityLabel": "Aasiaat",
+        "population": "3005"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q223",
+        "countryLabel": "Greenland",
+        "city": "http://www.wikidata.org/entity/Q211218",
+        "cityLabel": "Aasiaat",
+        "population": "3134"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q223",
+        "countryLabel": "Greenland",
+        "city": "http://www.wikidata.org/entity/Q191047",
+        "cityLabel": "Ilulissat",
+        "population": "4442"
+    }
+]

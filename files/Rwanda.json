@@ -1,0 +1,16 @@
+[
+    {
+        "country": "http://www.wikidata.org/entity/Q1037",
+        "countryLabel": "Rwanda",
+        "city": "http://www.wikidata.org/entity/Q3859",
+        "cityLabel": "Kigali",
+        "population": "1132686"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q1037",
+        "countryLabel": "Rwanda",
+        "city": "http://www.wikidata.org/entity/Q246139",
+        "cityLabel": "Rwamagana",
+        "population": "47203"
+    }
+]

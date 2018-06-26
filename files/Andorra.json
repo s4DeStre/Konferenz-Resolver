@@ -1,0 +1,24 @@
+[
+    {
+        "country": "http://www.wikidata.org/entity/Q228",
+        "countryLabel": "Andorra",
+        "city": "http://www.wikidata.org/entity/Q24456",
+        "cityLabel": "El Pas de la Casa",
+        "population": "2996"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q228",
+        "countryLabel": "Andorra",
+        "city": "http://www.wikidata.org/entity/Q24597",
+        "cityLabel": "Santa Coloma d'Andorra",
+        "population": "3002"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q228",
+        "countryLabel": "Andorra",
+        "city": "http://www.wikidata.org/entity/Q1863",
+        "native": "Andorra la Vella",
+        "cityLabel": "Andorra la Vella",
+        "population": "22886"
+    }
+]

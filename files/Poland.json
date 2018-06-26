@@ -1,0 +1,1291 @@
+[
+    {
+        "country": "http://www.wikidata.org/entity/Q36",
+        "countryLabel": "Poland",
+        "city": "http://www.wikidata.org/entity/Q994271",
+        "cityLabel": "Opoczno",
+        "population": "21780"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q36",
+        "countryLabel": "Poland",
+        "city": "http://www.wikidata.org/entity/Q236083",
+        "cityLabel": "Suwałki",
+        "population": "69626"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q36",
+        "countryLabel": "Poland",
+        "city": "http://www.wikidata.org/entity/Q1799",
+        "native": "Wrocław",
+        "cityLabel": "Wrocław",
+        "population": "638586"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q36",
+        "countryLabel": "Poland",
+        "city": "http://www.wikidata.org/entity/Q268",
+        "native": "Poznań",
+        "cityLabel": "Poznań",
+        "population": "538633"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q36",
+        "countryLabel": "Poland",
+        "city": "http://www.wikidata.org/entity/Q106281",
+        "cityLabel": "Tarnów",
+        "population": "110956"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q36",
+        "countryLabel": "Poland",
+        "city": "http://www.wikidata.org/entity/Q104740",
+        "native": "Radom",
+        "cityLabel": "Radom",
+        "population": "219703"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q36",
+        "countryLabel": "Poland",
+        "city": "http://www.wikidata.org/entity/Q102317",
+        "cityLabel": "Kielce",
+        "population": "191605"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q36",
+        "countryLabel": "Poland",
+        "city": "http://www.wikidata.org/entity/Q989498",
+        "cityLabel": "Niepołomice",
+        "population": "12000"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q36",
+        "countryLabel": "Poland",
+        "city": "http://www.wikidata.org/entity/Q215633",
+        "native": "Łomża",
+        "cityLabel": "Łomża",
+        "population": "62946"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q36",
+        "countryLabel": "Poland",
+        "city": "http://www.wikidata.org/entity/Q161919",
+        "cityLabel": "Białogard",
+        "population": "24570"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q36",
+        "countryLabel": "Poland",
+        "city": "http://www.wikidata.org/entity/Q41252",
+        "native": "Bydgoszcz",
+        "cityLabel": "Bydgoszcz",
+        "population": "358614"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q36",
+        "countryLabel": "Poland",
+        "city": "http://www.wikidata.org/entity/Q156828",
+        "cityLabel": "Bolesławiec",
+        "population": "39412"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q36",
+        "countryLabel": "Poland",
+        "city": "http://www.wikidata.org/entity/Q948267",
+        "native": "Wilamowice",
+        "cityLabel": "Wilamowice",
+        "population": "2813"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q36",
+        "countryLabel": "Poland",
+        "city": "http://www.wikidata.org/entity/Q658861",
+        "native": "Mielec",
+        "cityLabel": "Mielec",
+        "population": "60628"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q36",
+        "countryLabel": "Poland",
+        "city": "http://www.wikidata.org/entity/Q123511",
+        "native": "Grudziądz",
+        "cityLabel": "Grudziądz",
+        "population": "99578"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q36",
+        "countryLabel": "Poland",
+        "city": "http://www.wikidata.org/entity/Q234184",
+        "native": "Chełm",
+        "cityLabel": "Chełm",
+        "population": "63734"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q36",
+        "countryLabel": "Poland",
+        "city": "http://www.wikidata.org/entity/Q461287",
+        "cityLabel": "Ostrołęka",
+        "population": "53758"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q36",
+        "countryLabel": "Poland",
+        "city": "http://www.wikidata.org/entity/Q47554",
+        "cityLabel": "Toruń",
+        "population": "202591"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q36",
+        "countryLabel": "Poland",
+        "city": "http://www.wikidata.org/entity/Q47554",
+        "cityLabel": "Toruń",
+        "population": "206765"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q36",
+        "countryLabel": "Poland",
+        "city": "http://www.wikidata.org/entity/Q321197",
+        "cityLabel": "Cieszyn",
+        "population": "36119"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q36",
+        "countryLabel": "Poland",
+        "city": "http://www.wikidata.org/entity/Q983735",
+        "native": "Gostynin",
+        "cityLabel": "Gostynin",
+        "population": "19414"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q36",
+        "countryLabel": "Poland",
+        "city": "http://www.wikidata.org/entity/Q1792",
+        "native": "Gdańsk",
+        "cityLabel": "Gdańsk",
+        "population": "464254"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q36",
+        "countryLabel": "Poland",
+        "city": "http://www.wikidata.org/entity/Q761",
+        "native": "Białystok",
+        "cityLabel": "Białystok",
+        "population": "297288"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q36",
+        "countryLabel": "Poland",
+        "city": "http://www.wikidata.org/entity/Q158004",
+        "cityLabel": "Piotrków Trybunalski",
+        "population": "74905"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q36",
+        "countryLabel": "Poland",
+        "city": "http://www.wikidata.org/entity/Q104712",
+        "cityLabel": "Elbląg",
+        "population": "122568"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q36",
+        "countryLabel": "Poland",
+        "city": "http://www.wikidata.org/entity/Q848973",
+        "cityLabel": "Hel",
+        "population": "3818"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q36",
+        "countryLabel": "Poland",
+        "city": "http://www.wikidata.org/entity/Q52842",
+        "cityLabel": "Kalisz",
+        "population": "103738"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q36",
+        "countryLabel": "Poland",
+        "city": "http://www.wikidata.org/entity/Q104720",
+        "native": "Zielona Góra",
+        "cityLabel": "Zielona Góra",
+        "population": "139330"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q36",
+        "countryLabel": "Poland",
+        "city": "http://www.wikidata.org/entity/Q104720",
+        "native": "Zielona Góra",
+        "cityLabel": "Zielona Góra",
+        "population": "138763"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q36",
+        "countryLabel": "Poland",
+        "city": "http://www.wikidata.org/entity/Q555876",
+        "cityLabel": "Pleszew",
+        "population": "20365"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q36",
+        "countryLabel": "Poland",
+        "city": "http://www.wikidata.org/entity/Q850688",
+        "cityLabel": "Chełmża",
+        "population": "14808"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q36",
+        "countryLabel": "Poland",
+        "city": "http://www.wikidata.org/entity/Q37333",
+        "cityLabel": "Lublin",
+        "population": "339850"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q36",
+        "countryLabel": "Poland",
+        "city": "http://www.wikidata.org/entity/Q147934",
+        "native": "Jelenia Góra",
+        "cityLabel": "Jelenia Góra",
+        "population": "84306"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q36",
+        "countryLabel": "Poland",
+        "city": "http://www.wikidata.org/entity/Q147934",
+        "native": "Jelenia Góra",
+        "cityLabel": "Jelenia Góra",
+        "population": "85378"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q36",
+        "countryLabel": "Poland",
+        "city": "http://www.wikidata.org/entity/Q325124",
+        "cityLabel": "Aleksandrów Kujawski",
+        "population": "12359"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q36",
+        "countryLabel": "Poland",
+        "city": "http://www.wikidata.org/entity/Q93323",
+        "cityLabel": "Chrzanów",
+        "population": "38989"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q36",
+        "countryLabel": "Poland",
+        "city": "http://www.wikidata.org/entity/Q11977",
+        "cityLabel": "Tychy",
+        "population": "129322"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q36",
+        "countryLabel": "Poland",
+        "city": "http://www.wikidata.org/entity/Q588",
+        "native": "Katowice",
+        "cityLabel": "Katowice",
+        "population": "297197"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q36",
+        "countryLabel": "Poland",
+        "city": "http://www.wikidata.org/entity/Q639241",
+        "cityLabel": "Międzyrzecz",
+        "population": "18459"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q36",
+        "countryLabel": "Poland",
+        "city": "http://www.wikidata.org/entity/Q990808",
+        "cityLabel": "Gąbin",
+        "population": "4173"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q36",
+        "countryLabel": "Poland",
+        "city": "http://www.wikidata.org/entity/Q1005356",
+        "native": "Rabka-Zdrój",
+        "cityLabel": "Rabka-Zdrój",
+        "population": "13058"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q36",
+        "countryLabel": "Poland",
+        "city": "http://www.wikidata.org/entity/Q580",
+        "native": "Łódź",
+        "cityLabel": "Łódź",
+        "population": "690422"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q36",
+        "countryLabel": "Poland",
+        "city": "http://www.wikidata.org/entity/Q1025302",
+        "native": "Jelcz-Laskowice",
+        "cityLabel": "Jelcz-Laskowice",
+        "population": "15340"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q36",
+        "countryLabel": "Poland",
+        "city": "http://www.wikidata.org/entity/Q986841",
+        "cityLabel": "Reszel",
+        "population": "7721"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q36",
+        "countryLabel": "Poland",
+        "city": "http://www.wikidata.org/entity/Q147929",
+        "cityLabel": "Zgorzelec",
+        "population": "31359"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q36",
+        "countryLabel": "Poland",
+        "city": "http://www.wikidata.org/entity/Q655210",
+        "cityLabel": "Jedlicze",
+        "population": "5766"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q36",
+        "countryLabel": "Poland",
+        "city": "http://www.wikidata.org/entity/Q935744",
+        "cityLabel": "Wałcz",
+        "population": "26354"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q36",
+        "countryLabel": "Poland",
+        "city": "http://www.wikidata.org/entity/Q158006",
+        "cityLabel": "Jaworzno",
+        "population": "94305"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q36",
+        "countryLabel": "Poland",
+        "city": "http://www.wikidata.org/entity/Q1002696",
+        "native": "Trzemeszno",
+        "cityLabel": "Trzemeszno",
+        "population": "7792"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q36",
+        "countryLabel": "Poland",
+        "city": "http://www.wikidata.org/entity/Q329833",
+        "native": "Tarnowskie Góry",
+        "cityLabel": "Tarnowskie Góry",
+        "population": "60879"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q36",
+        "countryLabel": "Poland",
+        "city": "http://www.wikidata.org/entity/Q378821",
+        "native": "Inowrocław",
+        "cityLabel": "Inowrocław",
+        "population": "76086"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q36",
+        "countryLabel": "Poland",
+        "city": "http://www.wikidata.org/entity/Q995806",
+        "native": "Dobrzyń nad Wisłą",
+        "cityLabel": "Dobrzyń nad Wisłą",
+        "population": "2278"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q36",
+        "countryLabel": "Poland",
+        "city": "http://www.wikidata.org/entity/Q270",
+        "native": "Warszawa",
+        "cityLabel": "Warsaw",
+        "population": "1753977"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q36",
+        "countryLabel": "Poland",
+        "city": "http://www.wikidata.org/entity/Q82765",
+        "native": "Olsztyn",
+        "cityLabel": "Olsztyn",
+        "population": "173599"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q36",
+        "countryLabel": "Poland",
+        "city": "http://www.wikidata.org/entity/Q103217",
+        "native": "Częstochowa",
+        "cityLabel": "Częstochowa",
+        "population": "228179"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q36",
+        "countryLabel": "Poland",
+        "city": "http://www.wikidata.org/entity/Q161899",
+        "native": "Złotoryja",
+        "cityLabel": "Złotoryja",
+        "population": "16479"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q36",
+        "countryLabel": "Poland",
+        "city": "http://www.wikidata.org/entity/Q110732",
+        "cityLabel": "Wałbrzych",
+        "population": "116069"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q36",
+        "countryLabel": "Poland",
+        "city": "http://www.wikidata.org/entity/Q721928",
+        "cityLabel": "Jarosław",
+        "population": "38796"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q36",
+        "countryLabel": "Poland",
+        "city": "http://www.wikidata.org/entity/Q157992",
+        "cityLabel": "Bełchatów",
+        "population": "59025"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q36",
+        "countryLabel": "Poland",
+        "city": "http://www.wikidata.org/entity/Q209932",
+        "cityLabel": "Biała Podlaska",
+        "population": "57498"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q36",
+        "countryLabel": "Poland",
+        "city": "http://www.wikidata.org/entity/Q108679",
+        "cityLabel": "Ruda Śląska",
+        "population": "139412"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q36",
+        "countryLabel": "Poland",
+        "city": "http://www.wikidata.org/entity/Q1765382",
+        "native": "Siechnice",
+        "cityLabel": "Siechnice",
+        "population": "3851"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q36",
+        "countryLabel": "Poland",
+        "city": "http://www.wikidata.org/entity/Q387502",
+        "cityLabel": "Świecie",
+        "population": "26026"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q36",
+        "countryLabel": "Poland",
+        "city": "http://www.wikidata.org/entity/Q567827",
+        "cityLabel": "Ozimek",
+        "population": "10000"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q36",
+        "countryLabel": "Poland",
+        "city": "http://www.wikidata.org/entity/Q991973",
+        "cityLabel": "Chmielnik",
+        "population": "3891"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q36",
+        "countryLabel": "Poland",
+        "city": "http://www.wikidata.org/entity/Q815721",
+        "native": "Nysa",
+        "cityLabel": "Nysa",
+        "population": "46841"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q36",
+        "countryLabel": "Poland",
+        "city": "http://www.wikidata.org/entity/Q108672",
+        "cityLabel": "Dąbrowa Górnicza",
+        "population": "122712"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q36",
+        "countryLabel": "Poland",
+        "city": "http://www.wikidata.org/entity/Q986091",
+        "cityLabel": "Piława Górna",
+        "population": "6673"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q36",
+        "countryLabel": "Poland",
+        "city": "http://www.wikidata.org/entity/Q160814",
+        "native": "Braniewo",
+        "cityLabel": "Braniewo",
+        "population": "18068"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q36",
+        "countryLabel": "Poland",
+        "city": "http://www.wikidata.org/entity/Q1946067",
+        "cityLabel": "Tyczyn",
+        "population": "3602"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q36",
+        "countryLabel": "Poland",
+        "city": "http://www.wikidata.org/entity/Q717942",
+        "cityLabel": "Trzebnica",
+        "population": "13161"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q36",
+        "countryLabel": "Poland",
+        "city": "http://www.wikidata.org/entity/Q389412",
+        "cityLabel": "Niemcza",
+        "population": "3104"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q36",
+        "countryLabel": "Poland",
+        "city": "http://www.wikidata.org/entity/Q751153",
+        "cityLabel": "Węgorzewo",
+        "population": "12186"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q36",
+        "countryLabel": "Poland",
+        "city": "http://www.wikidata.org/entity/Q387463",
+        "cityLabel": "Świebodzin",
+        "population": "21988"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q36",
+        "countryLabel": "Poland",
+        "city": "http://www.wikidata.org/entity/Q106583",
+        "native": "Bielsko-Biała",
+        "cityLabel": "Bielsko-Biała",
+        "population": "172781"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q36",
+        "countryLabel": "Poland",
+        "city": "http://www.wikidata.org/entity/Q161595",
+        "native": "Mysłowice",
+        "cityLabel": "Mysłowice",
+        "population": "75183"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q36",
+        "countryLabel": "Poland",
+        "city": "http://www.wikidata.org/entity/Q988169",
+        "cityLabel": "Prabuty",
+        "population": "8215"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q36",
+        "countryLabel": "Poland",
+        "city": "http://www.wikidata.org/entity/Q320007",
+        "cityLabel": "Puławy",
+        "population": "49839"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q36",
+        "countryLabel": "Poland",
+        "city": "http://www.wikidata.org/entity/Q105084",
+        "cityLabel": "Gliwice",
+        "population": "186347"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q36",
+        "countryLabel": "Poland",
+        "city": "http://www.wikidata.org/entity/Q852363",
+        "cityLabel": "Wolsztyn",
+        "population": "13477"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q36",
+        "countryLabel": "Poland",
+        "city": "http://www.wikidata.org/entity/Q92212",
+        "native": "Opole",
+        "cityLabel": "Opole",
+        "population": "127792"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q36",
+        "countryLabel": "Poland",
+        "city": "http://www.wikidata.org/entity/Q105060",
+        "native": "Sosnowiec",
+        "cityLabel": "Sosnowiec",
+        "population": "214488"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q36",
+        "countryLabel": "Poland",
+        "city": "http://www.wikidata.org/entity/Q103892",
+        "native": "Zabrze",
+        "cityLabel": "Zabrze",
+        "population": "174349"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q36",
+        "countryLabel": "Poland",
+        "city": "http://www.wikidata.org/entity/Q983729",
+        "cityLabel": "Krapkowice",
+        "population": "16721"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q36",
+        "countryLabel": "Poland",
+        "city": "http://www.wikidata.org/entity/Q606126",
+        "cityLabel": "Karpacz",
+        "population": "4888"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q36",
+        "countryLabel": "Poland",
+        "city": "http://www.wikidata.org/entity/Q983875",
+        "native": "Przeworsk",
+        "cityLabel": "Przeworsk",
+        "population": "15713"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q36",
+        "countryLabel": "Poland",
+        "city": "http://www.wikidata.org/entity/Q598",
+        "cityLabel": "Rzeszów",
+        "population": "182548"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q36",
+        "countryLabel": "Poland",
+        "city": "http://www.wikidata.org/entity/Q92689",
+        "cityLabel": "Sopot",
+        "population": "37457"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q36",
+        "countryLabel": "Poland",
+        "city": "http://www.wikidata.org/entity/Q110011",
+        "cityLabel": "Kołobrzeg",
+        "population": "46716"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q36",
+        "countryLabel": "Poland",
+        "city": "http://www.wikidata.org/entity/Q31487",
+        "native": "Kraków",
+        "cityLabel": "Kraków",
+        "population": "766739"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q36",
+        "countryLabel": "Poland",
+        "city": "http://www.wikidata.org/entity/Q1281557",
+        "native": "Zator",
+        "cityLabel": "Zator",
+        "population": "3702"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q36",
+        "countryLabel": "Poland",
+        "city": "http://www.wikidata.org/entity/Q144786",
+        "cityLabel": "Zakopane",
+        "population": "27490"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q36",
+        "countryLabel": "Poland",
+        "city": "http://www.wikidata.org/entity/Q41599",
+        "native": "Świnoujście",
+        "cityLabel": "Świnoujście",
+        "population": "41479"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q36",
+        "countryLabel": "Poland",
+        "city": "http://www.wikidata.org/entity/Q607410",
+        "cityLabel": "Brańsk",
+        "population": "3844"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q36",
+        "countryLabel": "Poland",
+        "city": "http://www.wikidata.org/entity/Q992910",
+        "cityLabel": "Sobótka",
+        "population": "6965"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q36",
+        "countryLabel": "Poland",
+        "city": "http://www.wikidata.org/entity/Q28516",
+        "native": "Tarnobrzeg",
+        "cityLabel": "Tarnobrzeg",
+        "population": "47816"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q36",
+        "countryLabel": "Poland",
+        "city": "http://www.wikidata.org/entity/Q146820",
+        "cityLabel": "Malbork",
+        "population": "38895"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q36",
+        "countryLabel": "Poland",
+        "city": "http://www.wikidata.org/entity/Q1792",
+        "native": "Gduńsk",
+        "cityLabel": "Gdańsk",
+        "population": "464254"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q36",
+        "countryLabel": "Poland",
+        "city": "http://www.wikidata.org/entity/Q319397",
+        "cityLabel": "Kętrzyn",
+        "population": "27827"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q36",
+        "countryLabel": "Poland",
+        "city": "http://www.wikidata.org/entity/Q102350",
+        "native": "Bytom",
+        "cityLabel": "Bytom",
+        "population": "171515"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q36",
+        "countryLabel": "Poland",
+        "city": "http://www.wikidata.org/entity/Q2734",
+        "cityLabel": "Skierniewice",
+        "population": "47837"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q36",
+        "countryLabel": "Poland",
+        "city": "http://www.wikidata.org/entity/Q62868",
+        "cityLabel": "Koszalin",
+        "population": "108576"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q36",
+        "countryLabel": "Poland",
+        "city": "http://www.wikidata.org/entity/Q730929",
+        "cityLabel": "Ostrowiec Świętokrzyski",
+        "population": "72001"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q36",
+        "countryLabel": "Poland",
+        "city": "http://www.wikidata.org/entity/Q146509",
+        "cityLabel": "Krzeszowice",
+        "population": "10281"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q36",
+        "countryLabel": "Poland",
+        "city": "http://www.wikidata.org/entity/Q403112",
+        "native": "Rzgów",
+        "cityLabel": "Rzgów",
+        "population": "3380"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q36",
+        "countryLabel": "Poland",
+        "city": "http://www.wikidata.org/entity/Q385",
+        "native": "Gdynia",
+        "cityLabel": "Gdynia",
+        "population": "247672"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q36",
+        "countryLabel": "Poland",
+        "city": "http://www.wikidata.org/entity/Q319445",
+        "cityLabel": "Biłgoraj",
+        "population": "27290"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q36",
+        "countryLabel": "Poland",
+        "city": "http://www.wikidata.org/entity/Q161887",
+        "native": "Kamień Pomorski",
+        "cityLabel": "Kamień Pomorski",
+        "population": "9144"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q36",
+        "countryLabel": "Poland",
+        "city": "http://www.wikidata.org/entity/Q815903",
+        "cityLabel": "Bochnia",
+        "population": "30075"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q36",
+        "countryLabel": "Poland",
+        "city": "http://www.wikidata.org/entity/Q319813",
+        "cityLabel": "Siedlce",
+        "population": "76585"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q36",
+        "countryLabel": "Poland",
+        "city": "http://www.wikidata.org/entity/Q104731",
+        "native": "Gorzów Wielkopolski",
+        "cityLabel": "Gorzów Wielkopolski",
+        "population": "124295"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q36",
+        "countryLabel": "Poland",
+        "city": "http://www.wikidata.org/entity/Q653797",
+        "cityLabel": "Brzozów",
+        "population": "26615"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q36",
+        "countryLabel": "Poland",
+        "city": "http://www.wikidata.org/entity/Q208473",
+        "native": "Przemyśl",
+        "cityLabel": "Przemyśl",
+        "population": "67847"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q36",
+        "countryLabel": "Poland",
+        "city": "http://www.wikidata.org/entity/Q717938",
+        "native": "Wschowa",
+        "cityLabel": "Wschowa",
+        "population": "14607"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q36",
+        "countryLabel": "Poland",
+        "city": "http://www.wikidata.org/entity/Q104302",
+        "native": "Chorzów",
+        "cityLabel": "Chorzów",
+        "population": "111536"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q36",
+        "countryLabel": "Poland",
+        "city": "http://www.wikidata.org/entity/Q393",
+        "native": "Szczecin",
+        "cityLabel": "Szczecin",
+        "population": "403833"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q36",
+        "countryLabel": "Poland",
+        "city": "http://www.wikidata.org/entity/Q984538",
+        "cityLabel": "Krotoszyn",
+        "population": "29379"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q36",
+        "countryLabel": "Poland",
+        "city": "http://www.wikidata.org/entity/Q106274",
+        "cityLabel": "Legnica",
+        "population": "101133"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q36",
+        "countryLabel": "Poland",
+        "city": "http://www.wikidata.org/entity/Q639212",
+        "native": "Oborniki",
+        "cityLabel": "Oborniki",
+        "population": "17895"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q36",
+        "countryLabel": "Poland",
+        "city": "http://www.wikidata.org/entity/Q2459571",
+        "cityLabel": "Gmina Sadkowice",
+        "population": "5687"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q36",
+        "countryLabel": "Poland",
+        "city": "http://www.wikidata.org/entity/Q2326576",
+        "cityLabel": "Gmina Dubiecko",
+        "population": "9521"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q36",
+        "countryLabel": "Poland",
+        "city": "http://www.wikidata.org/entity/Q339442",
+        "cityLabel": "Gmina Łopiennik Górny",
+        "population": "4390"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q36",
+        "countryLabel": "Poland",
+        "city": "http://www.wikidata.org/entity/Q478869",
+        "cityLabel": "Chojnów",
+        "population": "13904"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q36",
+        "countryLabel": "Poland",
+        "city": "http://www.wikidata.org/entity/Q2158365",
+        "cityLabel": "Gmina Miechów",
+        "population": "20722"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q36",
+        "countryLabel": "Poland",
+        "city": "http://www.wikidata.org/entity/Q606157",
+        "cityLabel": "Gmina Kodrąb",
+        "population": "4738"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q36",
+        "countryLabel": "Poland",
+        "city": "http://www.wikidata.org/entity/Q555333",
+        "cityLabel": "Gmina Miłomłyn",
+        "population": "4976"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q36",
+        "countryLabel": "Poland",
+        "city": "http://www.wikidata.org/entity/Q246288",
+        "native": "Strzegom",
+        "cityLabel": "Strzegom",
+        "population": "16650"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q36",
+        "countryLabel": "Poland",
+        "city": "http://www.wikidata.org/entity/Q62937",
+        "native": "Pułtusk",
+        "cityLabel": "Pułtusk",
+        "population": "19229"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q36",
+        "countryLabel": "Poland",
+        "city": "http://www.wikidata.org/entity/Q1862",
+        "native": "Wolin",
+        "cityLabel": "Wolin",
+        "population": "4888"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q36",
+        "countryLabel": "Poland",
+        "city": "http://www.wikidata.org/entity/Q208022",
+        "cityLabel": "Police",
+        "population": "33152"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q36",
+        "countryLabel": "Poland",
+        "city": "http://www.wikidata.org/entity/Q497138",
+        "cityLabel": "Darłowo",
+        "population": "13943"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q36",
+        "countryLabel": "Poland",
+        "city": "http://www.wikidata.org/entity/Q2326715",
+        "cityLabel": "Gmina Krotoszyce",
+        "population": "2975"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q36",
+        "countryLabel": "Poland",
+        "city": "http://www.wikidata.org/entity/Q978824",
+        "cityLabel": "Gmina Tyczyn",
+        "population": "11158"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q36",
+        "countryLabel": "Poland",
+        "city": "http://www.wikidata.org/entity/Q2182816",
+        "cityLabel": "Gmina Sobótka",
+        "population": "12824"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q36",
+        "countryLabel": "Poland",
+        "city": "http://www.wikidata.org/entity/Q231593",
+        "cityLabel": "Nowy Targ",
+        "population": "33545"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q36",
+        "countryLabel": "Poland",
+        "city": "http://www.wikidata.org/entity/Q1532938",
+        "cityLabel": "Gmina Kłodawa, Lubusz Voivodeship",
+        "population": "5849"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q36",
+        "countryLabel": "Poland",
+        "city": "http://www.wikidata.org/entity/Q284604",
+        "cityLabel": "Kłodzko",
+        "population": "27685"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q36",
+        "countryLabel": "Poland",
+        "city": "http://www.wikidata.org/entity/Q2459607",
+        "cityLabel": "Gmina Sękowa",
+        "population": "4743"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q36",
+        "countryLabel": "Poland",
+        "city": "http://www.wikidata.org/entity/Q553647",
+        "cityLabel": "Gmina Bieliny",
+        "population": "9832"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q36",
+        "countryLabel": "Poland",
+        "city": "http://www.wikidata.org/entity/Q615382",
+        "cityLabel": "Gmina Bargłów Kościelny",
+        "population": "5772"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q36",
+        "countryLabel": "Poland",
+        "city": "http://www.wikidata.org/entity/Q523287",
+        "native": "Trzciel",
+        "cityLabel": "Trzciel",
+        "population": "2348"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q36",
+        "countryLabel": "Poland",
+        "city": "http://www.wikidata.org/entity/Q2418286",
+        "cityLabel": "Gmina Skierniewice",
+        "population": "7452"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q36",
+        "countryLabel": "Poland",
+        "city": "http://www.wikidata.org/entity/Q2606220",
+        "cityLabel": "Gmina Opoczno",
+        "population": "34788"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q36",
+        "countryLabel": "Poland",
+        "city": "http://www.wikidata.org/entity/Q2238001",
+        "cityLabel": "Gmina Sadowne",
+        "population": "6318"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q36",
+        "countryLabel": "Poland",
+        "city": "http://www.wikidata.org/entity/Q2328743",
+        "cityLabel": "Gmina Serokomla",
+        "population": "4157"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q36",
+        "countryLabel": "Poland",
+        "city": "http://www.wikidata.org/entity/Q2460349",
+        "cityLabel": "Gmina Mokrsko",
+        "population": "5452"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q36",
+        "countryLabel": "Poland",
+        "city": "http://www.wikidata.org/entity/Q2460067",
+        "cityLabel": "Gmina Ożarów Mazowiecki",
+        "population": "20753"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q36",
+        "countryLabel": "Poland",
+        "city": "http://www.wikidata.org/entity/Q554604",
+        "cityLabel": "Gmina Damasławek",
+        "population": "5547"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q36",
+        "countryLabel": "Poland",
+        "city": "http://www.wikidata.org/entity/Q214640",
+        "cityLabel": "Brzeg",
+        "population": "36541"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q36",
+        "countryLabel": "Poland",
+        "city": "http://www.wikidata.org/entity/Q2559311",
+        "cityLabel": "Gmina Chrzanów, Lesser Poland Voivodeship",
+        "population": "49399"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q36",
+        "countryLabel": "Poland",
+        "city": "http://www.wikidata.org/entity/Q219382",
+        "cityLabel": "Lwówek Śląski",
+        "population": "9500"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q36",
+        "countryLabel": "Poland",
+        "city": "http://www.wikidata.org/entity/Q2257600",
+        "cityLabel": "Gmina Miłkowice",
+        "population": "6118"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q36",
+        "countryLabel": "Poland",
+        "city": "http://www.wikidata.org/entity/Q557259",
+        "cityLabel": "Gmina Trzcińsko-Zdrój",
+        "population": "5698"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q36",
+        "countryLabel": "Poland",
+        "city": "http://www.wikidata.org/entity/Q681024",
+        "cityLabel": "Gmina Biskupice",
+        "population": "8572"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q36",
+        "countryLabel": "Poland",
+        "city": "http://www.wikidata.org/entity/Q2221466",
+        "cityLabel": "Gmina Głowno",
+        "population": "5034"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q36",
+        "countryLabel": "Poland",
+        "city": "http://www.wikidata.org/entity/Q193177",
+        "native": "Sandomierz",
+        "cityLabel": "Sandomierz",
+        "population": "24187"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q36",
+        "countryLabel": "Poland",
+        "city": "http://www.wikidata.org/entity/Q51432",
+        "cityLabel": "Gniezno",
+        "population": "70083"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q36",
+        "countryLabel": "Poland",
+        "city": "http://www.wikidata.org/entity/Q939215",
+        "cityLabel": "Gmina Krynice",
+        "population": "3697"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q36",
+        "countryLabel": "Poland",
+        "city": "http://www.wikidata.org/entity/Q2289143",
+        "cityLabel": "Gmina Trzebiechów",
+        "population": "3268"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q36",
+        "countryLabel": "Poland",
+        "city": "http://www.wikidata.org/entity/Q2352151",
+        "cityLabel": "Gmina Nowy Targ",
+        "population": "21889"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q36",
+        "countryLabel": "Poland",
+        "city": "http://www.wikidata.org/entity/Q2325183",
+        "cityLabel": "Gmina Szreńsk",
+        "population": "4601"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q36",
+        "countryLabel": "Poland",
+        "city": "http://www.wikidata.org/entity/Q61480",
+        "cityLabel": "Ełk",
+        "population": "60621"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q36",
+        "countryLabel": "Poland",
+        "city": "http://www.wikidata.org/entity/Q422283",
+        "cityLabel": "Milanówek",
+        "population": "16419"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q36",
+        "countryLabel": "Poland",
+        "city": "http://www.wikidata.org/entity/Q508170",
+        "cityLabel": "Gmina Ryjewo",
+        "population": "5755"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q36",
+        "countryLabel": "Poland",
+        "city": "http://www.wikidata.org/entity/Q2619162",
+        "cityLabel": "Gmina Wschowa",
+        "population": "21686"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q36",
+        "countryLabel": "Poland",
+        "city": "http://www.wikidata.org/entity/Q2463043",
+        "cityLabel": "Gmina Bukowiec",
+        "population": "5110"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q36",
+        "countryLabel": "Poland",
+        "city": "http://www.wikidata.org/entity/Q555006",
+        "cityLabel": "Gmina Olsztynek",
+        "population": "13717"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q36",
+        "countryLabel": "Poland",
+        "city": "http://www.wikidata.org/entity/Q259497",
+        "cityLabel": "Krynica-Zdrój",
+        "population": "11361"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q36",
+        "countryLabel": "Poland",
+        "city": "http://www.wikidata.org/entity/Q1946665",
+        "cityLabel": "Gmina Kazanów",
+        "population": "4687"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q36",
+        "countryLabel": "Poland",
+        "city": "http://www.wikidata.org/entity/Q2274523",
+        "cityLabel": "Gmina Ulan-Majorat",
+        "population": "6102"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q36",
+        "countryLabel": "Poland",
+        "city": "http://www.wikidata.org/entity/Q556427",
+        "cityLabel": "Gmina Wolsztyn",
+        "population": "29216"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q36",
+        "countryLabel": "Poland",
+        "city": "http://www.wikidata.org/entity/Q472621",
+        "cityLabel": "Wieliczka",
+        "population": "21878"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q36",
+        "countryLabel": "Poland",
+        "city": "http://www.wikidata.org/entity/Q2176459",
+        "cityLabel": "Gmina Rusinów",
+        "population": "4451"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q36",
+        "countryLabel": "Poland",
+        "city": "http://www.wikidata.org/entity/Q2463015",
+        "cityLabel": "Gmina Głuchów",
+        "population": "6052"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q36",
+        "countryLabel": "Poland",
+        "city": "http://www.wikidata.org/entity/Q2570955",
+        "cityLabel": "Gmina Krapkowice",
+        "population": "23092"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q36",
+        "countryLabel": "Poland",
+        "city": "http://www.wikidata.org/entity/Q1837259",
+        "cityLabel": "Gmina Baranów Sandomierski",
+        "population": "12300"
+    }
+]

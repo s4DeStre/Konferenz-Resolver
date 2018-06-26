@@ -1,0 +1,416 @@
+[
+    {
+        "country": "http://www.wikidata.org/entity/Q233",
+        "countryLabel": "Malta",
+        "city": "http://www.wikidata.org/entity/Q605343",
+        "cityLabel": "Xagħra",
+        "population": "4886"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q233",
+        "countryLabel": "Malta",
+        "city": "http://www.wikidata.org/entity/Q846593",
+        "cityLabel": "Senglea",
+        "population": "2784"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q233",
+        "countryLabel": "Malta",
+        "city": "http://www.wikidata.org/entity/Q1018153",
+        "cityLabel": "Gudja",
+        "population": "2997"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q233",
+        "countryLabel": "Malta",
+        "city": "http://www.wikidata.org/entity/Q832807",
+        "cityLabel": "Floriana",
+        "population": "2205"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q233",
+        "countryLabel": "Malta",
+        "city": "http://www.wikidata.org/entity/Q656837",
+        "cityLabel": "Mtarfa",
+        "population": "2572"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q233",
+        "countryLabel": "Malta",
+        "city": "http://www.wikidata.org/entity/Q39583",
+        "cityLabel": "Birkirkara",
+        "population": "22247"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q233",
+        "countryLabel": "Malta",
+        "city": "http://www.wikidata.org/entity/Q775756",
+        "cityLabel": "Pembroke",
+        "population": "3645"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q233",
+        "countryLabel": "Malta",
+        "city": "http://www.wikidata.org/entity/Q632097",
+        "cityLabel": "Gżira",
+        "population": "8029"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q233",
+        "countryLabel": "Malta",
+        "city": "http://www.wikidata.org/entity/Q1087776",
+        "cityLabel": "Santa Luċija",
+        "population": "2997"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q233",
+        "countryLabel": "Malta",
+        "city": "http://www.wikidata.org/entity/Q258028",
+        "cityLabel": "Birżebbuġa",
+        "population": "9736"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q233",
+        "countryLabel": "Malta",
+        "city": "http://www.wikidata.org/entity/Q919908",
+        "cityLabel": "Siġġiewi",
+        "population": "8367"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q233",
+        "countryLabel": "Malta",
+        "city": "http://www.wikidata.org/entity/Q39526",
+        "cityLabel": "Sliema",
+        "population": "16854"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q233",
+        "countryLabel": "Malta",
+        "city": "http://www.wikidata.org/entity/Q846589",
+        "cityLabel": "Paola",
+        "population": "7864"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q233",
+        "countryLabel": "Malta",
+        "city": "http://www.wikidata.org/entity/Q658903",
+        "cityLabel": "Safi",
+        "population": "2126"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q233",
+        "countryLabel": "Malta",
+        "city": "http://www.wikidata.org/entity/Q602037",
+        "cityLabel": "Sannat",
+        "population": "2117"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q233",
+        "countryLabel": "Malta",
+        "city": "http://www.wikidata.org/entity/Q744001",
+        "cityLabel": "Tarxien",
+        "population": "8583"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q233",
+        "countryLabel": "Malta",
+        "city": "http://www.wikidata.org/entity/Q39520",
+        "cityLabel": "Mosta",
+        "population": "20241"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q233",
+        "countryLabel": "Malta",
+        "city": "http://www.wikidata.org/entity/Q44417",
+        "cityLabel": "Żurrieq",
+        "population": "10823"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q233",
+        "countryLabel": "Malta",
+        "city": "http://www.wikidata.org/entity/Q585187",
+        "cityLabel": "Msida",
+        "population": "8545"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q233",
+        "countryLabel": "Malta",
+        "city": "http://www.wikidata.org/entity/Q39518",
+        "cityLabel": "Żabbar",
+        "population": "15404"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q233",
+        "countryLabel": "Malta",
+        "city": "http://www.wikidata.org/entity/Q752346",
+        "cityLabel": "Birgu",
+        "population": "2629"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q233",
+        "countryLabel": "Malta",
+        "city": "http://www.wikidata.org/entity/Q905641",
+        "cityLabel": "Dingli",
+        "population": "3608"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q233",
+        "countryLabel": "Malta",
+        "city": "http://www.wikidata.org/entity/Q669979",
+        "cityLabel": "St. Julian's",
+        "population": "10232"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q233",
+        "countryLabel": "Malta",
+        "city": "http://www.wikidata.org/entity/Q267431",
+        "cityLabel": "Marsa",
+        "population": "4401"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q233",
+        "countryLabel": "Malta",
+        "city": "http://www.wikidata.org/entity/Q534571",
+        "cityLabel": "Marsaskala",
+        "population": "12134"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q233",
+        "countryLabel": "Malta",
+        "city": "http://www.wikidata.org/entity/Q44397",
+        "cityLabel": "Naxxar",
+        "population": "13443"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q233",
+        "countryLabel": "Malta",
+        "city": "http://www.wikidata.org/entity/Q919921",
+        "cityLabel": "Xewkija",
+        "population": "3300"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q233",
+        "countryLabel": "Malta",
+        "city": "http://www.wikidata.org/entity/Q179243",
+        "cityLabel": "Żebbuġ",
+        "population": "2956"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q233",
+        "countryLabel": "Malta",
+        "city": "http://www.wikidata.org/entity/Q761675",
+        "cityLabel": "Għajnsielem",
+        "population": "3200"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q233",
+        "countryLabel": "Malta",
+        "city": "http://www.wikidata.org/entity/Q475585",
+        "cityLabel": "Luqa",
+        "population": "5945"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q233",
+        "countryLabel": "Malta",
+        "city": "http://www.wikidata.org/entity/Q44392",
+        "cityLabel": "Żejtun",
+        "population": "11508"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q233",
+        "countryLabel": "Malta",
+        "city": "http://www.wikidata.org/entity/Q44388",
+        "cityLabel": "Fgura",
+        "population": "11670"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q233",
+        "countryLabel": "Malta",
+        "city": "http://www.wikidata.org/entity/Q757225",
+        "cityLabel": "Cospicua",
+        "population": "5395"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q233",
+        "countryLabel": "Malta",
+        "city": "http://www.wikidata.org/entity/Q585420",
+        "cityLabel": "Santa Venera",
+        "population": "6932"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q233",
+        "countryLabel": "Malta",
+        "city": "http://www.wikidata.org/entity/Q44557",
+        "cityLabel": "Attard",
+        "population": "10930"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q233",
+        "countryLabel": "Malta",
+        "city": "http://www.wikidata.org/entity/Q23800",
+        "native": "Belt Valletta",
+        "cityLabel": "Valletta",
+        "population": "6444"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q233",
+        "countryLabel": "Malta",
+        "city": "http://www.wikidata.org/entity/Q782049",
+        "cityLabel": "Lija",
+        "population": "3070"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q233",
+        "countryLabel": "Malta",
+        "city": "http://www.wikidata.org/entity/Q1018111",
+        "cityLabel": "Għargħur",
+        "population": "2768"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q233",
+        "countryLabel": "Malta",
+        "city": "http://www.wikidata.org/entity/Q426385",
+        "cityLabel": "Għaxaq",
+        "population": "4722"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q233",
+        "countryLabel": "Malta",
+        "city": "http://www.wikidata.org/entity/Q755979",
+        "cityLabel": "Mellieħa",
+        "population": "10087"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q233",
+        "countryLabel": "Malta",
+        "city": "http://www.wikidata.org/entity/Q1017953",
+        "cityLabel": "Mqabba",
+        "population": "3315"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q233",
+        "countryLabel": "Malta",
+        "city": "http://www.wikidata.org/entity/Q304589",
+        "cityLabel": "Iklin",
+        "population": "3130"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q233",
+        "countryLabel": "Malta",
+        "city": "http://www.wikidata.org/entity/Q744070",
+        "cityLabel": "Pietà",
+        "population": "4020"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q233",
+        "countryLabel": "Malta",
+        "city": "http://www.wikidata.org/entity/Q39507",
+        "cityLabel": "San Ġwann",
+        "population": "12523"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q233",
+        "countryLabel": "Malta",
+        "city": "http://www.wikidata.org/entity/Q597464",
+        "cityLabel": "Kirkop",
+        "population": "2191"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q233",
+        "countryLabel": "Malta",
+        "city": "http://www.wikidata.org/entity/Q789794",
+        "cityLabel": "Balzan",
+        "population": "3958"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q233",
+        "countryLabel": "Malta",
+        "city": "http://www.wikidata.org/entity/Q39578",
+        "cityLabel": "Qormi",
+        "population": "16779"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q233",
+        "countryLabel": "Malta",
+        "city": "http://www.wikidata.org/entity/Q752348",
+        "cityLabel": "Victoria",
+        "population": "6901"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q233",
+        "countryLabel": "Malta",
+        "city": "http://www.wikidata.org/entity/Q343001",
+        "cityLabel": "Ħamrun",
+        "population": "9244"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q233",
+        "countryLabel": "Malta",
+        "city": "http://www.wikidata.org/entity/Q44381",
+        "cityLabel": "Rabat",
+        "population": "11497"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q233",
+        "countryLabel": "Malta",
+        "city": "http://www.wikidata.org/entity/Q44573",
+        "cityLabel": "Żebbuġ",
+        "population": "11903"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q233",
+        "countryLabel": "Malta",
+        "city": "http://www.wikidata.org/entity/Q533257",
+        "cityLabel": "Kalkara",
+        "population": "3014"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q233",
+        "countryLabel": "Malta",
+        "city": "http://www.wikidata.org/entity/Q1088033",
+        "cityLabel": "Qala",
+        "population": "2284"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q233",
+        "countryLabel": "Malta",
+        "city": "http://www.wikidata.org/entity/Q929969",
+        "cityLabel": "Nadur",
+        "population": "4509"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q233",
+        "countryLabel": "Malta",
+        "city": "http://www.wikidata.org/entity/Q282203",
+        "cityLabel": "Qrendi",
+        "population": "2752"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q233",
+        "countryLabel": "Malta",
+        "city": "http://www.wikidata.org/entity/Q781921",
+        "cityLabel": "Marsaxlokk",
+        "population": "3534"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q233",
+        "countryLabel": "Malta",
+        "city": "http://www.wikidata.org/entity/Q691220",
+        "cityLabel": "Mġarr",
+        "population": "3629"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q233",
+        "countryLabel": "Malta",
+        "city": "http://www.wikidata.org/entity/Q39521",
+        "cityLabel": "St. Paul's Bay",
+        "population": "21046"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q233",
+        "countryLabel": "Malta",
+        "city": "http://www.wikidata.org/entity/Q220667",
+        "cityLabel": "Swieqi",
+        "population": "10064"
+    }
+]

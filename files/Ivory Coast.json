@@ -1,0 +1,32 @@
+[
+    {
+        "country": "http://www.wikidata.org/entity/Q1008",
+        "countryLabel": "Ivory Coast",
+        "city": "http://www.wikidata.org/entity/Q271000",
+        "cityLabel": "Bouaké",
+        "population": "659233"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q1008",
+        "countryLabel": "Ivory Coast",
+        "city": "http://www.wikidata.org/entity/Q1515",
+        "native": "Abidjan",
+        "cityLabel": "Abidjan",
+        "population": "4980000"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q1008",
+        "countryLabel": "Ivory Coast",
+        "city": "http://www.wikidata.org/entity/Q2308752",
+        "native": "Touba",
+        "cityLabel": "Touba, Ivory Coast",
+        "population": "31844"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q1008",
+        "countryLabel": "Ivory Coast",
+        "city": "http://www.wikidata.org/entity/Q3768",
+        "cityLabel": "Yamoussoukro",
+        "population": "355573"
+    }
+]

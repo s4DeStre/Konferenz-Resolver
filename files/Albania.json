@@ -1,0 +1,398 @@
+[
+    {
+        "country": "http://www.wikidata.org/entity/Q222",
+        "countryLabel": "Albania",
+        "city": "http://www.wikidata.org/entity/Q169160",
+        "cityLabel": "Lezhë",
+        "population": "15510"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q222",
+        "countryLabel": "Albania",
+        "city": "http://www.wikidata.org/entity/Q642856",
+        "cityLabel": "Përmet",
+        "population": "5945"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q222",
+        "countryLabel": "Albania",
+        "city": "http://www.wikidata.org/entity/Q18751",
+        "cityLabel": "Poliçan",
+        "population": "4318"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q222",
+        "countryLabel": "Albania",
+        "city": "http://www.wikidata.org/entity/Q958899",
+        "cityLabel": "Krumë",
+        "population": "6006"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q222",
+        "countryLabel": "Albania",
+        "city": "http://www.wikidata.org/entity/Q170244",
+        "cityLabel": "Berat",
+        "population": "36496"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q222",
+        "countryLabel": "Albania",
+        "city": "http://www.wikidata.org/entity/Q18774",
+        "cityLabel": "Kuçovë",
+        "population": "12654"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q222",
+        "countryLabel": "Albania",
+        "city": "http://www.wikidata.org/entity/Q18737",
+        "cityLabel": "Rrëshen",
+        "population": "8803"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q222",
+        "countryLabel": "Albania",
+        "city": "http://www.wikidata.org/entity/Q18746",
+        "cityLabel": "Roskovec",
+        "population": "4975"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q222",
+        "countryLabel": "Albania",
+        "city": "http://www.wikidata.org/entity/Q461313",
+        "cityLabel": "Burrel",
+        "population": "10862"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q222",
+        "countryLabel": "Albania",
+        "city": "http://www.wikidata.org/entity/Q772248",
+        "cityLabel": "Maliq",
+        "population": "4290"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q222",
+        "countryLabel": "Albania",
+        "city": "http://www.wikidata.org/entity/Q19307",
+        "cityLabel": "Çorovodë",
+        "population": "4051"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q222",
+        "countryLabel": "Albania",
+        "city": "http://www.wikidata.org/entity/Q19258",
+        "cityLabel": "Prrenjas",
+        "population": "5847"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q222",
+        "countryLabel": "Albania",
+        "city": "http://www.wikidata.org/entity/Q597122",
+        "cityLabel": "Fushë-Krujë",
+        "population": "18477"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q222",
+        "countryLabel": "Albania",
+        "city": "http://www.wikidata.org/entity/Q18705",
+        "cityLabel": "Bajram Curri",
+        "population": "5340"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q222",
+        "countryLabel": "Albania",
+        "city": "http://www.wikidata.org/entity/Q18709",
+        "cityLabel": "Patos",
+        "population": "15397"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q222",
+        "countryLabel": "Albania",
+        "city": "http://www.wikidata.org/entity/Q463384",
+        "cityLabel": "Bulqizë",
+        "population": "8177"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q222",
+        "countryLabel": "Albania",
+        "city": "http://www.wikidata.org/entity/Q159610",
+        "cityLabel": "Vlorë",
+        "population": "130827"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q222",
+        "countryLabel": "Albania",
+        "city": "http://www.wikidata.org/entity/Q18749",
+        "cityLabel": "Memaliaj",
+        "population": "2646"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q222",
+        "countryLabel": "Albania",
+        "city": "http://www.wikidata.org/entity/Q83285",
+        "native": "Durrësi",
+        "cityLabel": "Durrës",
+        "population": "113249"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q222",
+        "countryLabel": "Albania",
+        "city": "http://www.wikidata.org/entity/Q18730",
+        "cityLabel": "Cërrik",
+        "population": "6695"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q222",
+        "countryLabel": "Albania",
+        "city": "http://www.wikidata.org/entity/Q18768",
+        "cityLabel": "Laç",
+        "population": "17086"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q222",
+        "countryLabel": "Albania",
+        "city": "http://www.wikidata.org/entity/Q18772",
+        "cityLabel": "Librazhd",
+        "population": "6937"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q222",
+        "countryLabel": "Albania",
+        "city": "http://www.wikidata.org/entity/Q173690",
+        "cityLabel": "Gjirokastër",
+        "population": "25301"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q222",
+        "countryLabel": "Albania",
+        "city": "http://www.wikidata.org/entity/Q18791",
+        "cityLabel": "Shijak",
+        "population": "7568"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q222",
+        "countryLabel": "Albania",
+        "city": "http://www.wikidata.org/entity/Q73639",
+        "cityLabel": "Pogradec",
+        "population": "20848"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q222",
+        "countryLabel": "Albania",
+        "city": "http://www.wikidata.org/entity/Q18793",
+        "cityLabel": "Ersekë",
+        "population": "3746"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q222",
+        "countryLabel": "Albania",
+        "city": "http://www.wikidata.org/entity/Q18731",
+        "cityLabel": "Konispol",
+        "population": "2123"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q222",
+        "countryLabel": "Albania",
+        "city": "http://www.wikidata.org/entity/Q1524575",
+        "cityLabel": "Urë Vajgurore",
+        "population": "7232"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q222",
+        "countryLabel": "Albania",
+        "city": "http://www.wikidata.org/entity/Q605160",
+        "cityLabel": "Kamëz",
+        "population": "66841"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q222",
+        "countryLabel": "Albania",
+        "city": "http://www.wikidata.org/entity/Q210197",
+        "cityLabel": "Kukës",
+        "population": "16719"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q222",
+        "countryLabel": "Albania",
+        "city": "http://www.wikidata.org/entity/Q223154",
+        "cityLabel": "Peshkopi",
+        "population": "13251"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q222",
+        "countryLabel": "Albania",
+        "city": "http://www.wikidata.org/entity/Q190897",
+        "cityLabel": "Fier",
+        "population": "55845"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q222",
+        "countryLabel": "Albania",
+        "city": "http://www.wikidata.org/entity/Q1007425",
+        "cityLabel": "Rrogozhinë",
+        "population": "7049"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q222",
+        "countryLabel": "Albania",
+        "city": "http://www.wikidata.org/entity/Q19310",
+        "cityLabel": "Pukë",
+        "population": "3607"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q222",
+        "countryLabel": "Albania",
+        "city": "http://www.wikidata.org/entity/Q134613",
+        "cityLabel": "Selenicë",
+        "population": "2235"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q222",
+        "countryLabel": "Albania",
+        "city": "http://www.wikidata.org/entity/Q821023",
+        "cityLabel": "Peqin",
+        "population": "6353"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q222",
+        "countryLabel": "Albania",
+        "city": "http://www.wikidata.org/entity/Q19689",
+        "cityLabel": "Tirana",
+        "population": "610050"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q222",
+        "countryLabel": "Albania",
+        "city": "http://www.wikidata.org/entity/Q18777",
+        "cityLabel": "Gramsh",
+        "population": "24231"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q222",
+        "countryLabel": "Albania",
+        "city": "http://www.wikidata.org/entity/Q114257",
+        "cityLabel": "Elbasan",
+        "population": "78703"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q222",
+        "countryLabel": "Albania",
+        "city": "http://www.wikidata.org/entity/Q817140",
+        "cityLabel": "Bilisht",
+        "population": "6250"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q222",
+        "countryLabel": "Albania",
+        "city": "http://www.wikidata.org/entity/Q817140",
+        "cityLabel": "Bilisht",
+        "population": "6773"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q222",
+        "countryLabel": "Albania",
+        "city": "http://www.wikidata.org/entity/Q743016",
+        "cityLabel": "Ballsh",
+        "population": "7657"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q222",
+        "countryLabel": "Albania",
+        "city": "http://www.wikidata.org/entity/Q606485",
+        "cityLabel": "Shëngjin",
+        "population": "8091"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q222",
+        "countryLabel": "Albania",
+        "city": "http://www.wikidata.org/entity/Q193226",
+        "cityLabel": "Sarandë",
+        "population": "41000"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q222",
+        "countryLabel": "Albania",
+        "city": "http://www.wikidata.org/entity/Q81631",
+        "cityLabel": "Tepelenë",
+        "population": "4342"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q222",
+        "countryLabel": "Albania",
+        "city": "http://www.wikidata.org/entity/Q131638",
+        "cityLabel": "Shkodër",
+        "population": "112276"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q222",
+        "countryLabel": "Albania",
+        "city": "http://www.wikidata.org/entity/Q652896",
+        "cityLabel": "Vorë",
+        "population": "10901"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q222",
+        "countryLabel": "Albania",
+        "city": "http://www.wikidata.org/entity/Q212680",
+        "native": "Lushnjë",
+        "cityLabel": "Lushnjë",
+        "population": "31105"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q222",
+        "countryLabel": "Albania",
+        "city": "http://www.wikidata.org/entity/Q194164",
+        "native": "Kruja",
+        "cityLabel": "Krujë",
+        "population": "19400"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q222",
+        "countryLabel": "Albania",
+        "city": "http://www.wikidata.org/entity/Q194164",
+        "native": "Kruja",
+        "cityLabel": "Krujë",
+        "population": "11721"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q222",
+        "countryLabel": "Albania",
+        "city": "http://www.wikidata.org/entity/Q593557",
+        "cityLabel": "Sukth",
+        "population": "15966"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q222",
+        "countryLabel": "Albania",
+        "city": "http://www.wikidata.org/entity/Q1945622",
+        "cityLabel": "Divjakë",
+        "population": "8445"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q222",
+        "countryLabel": "Albania",
+        "city": "http://www.wikidata.org/entity/Q116341",
+        "cityLabel": "Korçë",
+        "population": "51152"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q222",
+        "countryLabel": "Albania",
+        "city": "http://www.wikidata.org/entity/Q816187",
+        "cityLabel": "Belsh",
+        "population": "8781"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q222",
+        "countryLabel": "Albania",
+        "city": "http://www.wikidata.org/entity/Q46702",
+        "cityLabel": "Kavajë",
+        "population": "29354"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q222",
+        "countryLabel": "Albania",
+        "city": "http://www.wikidata.org/entity/Q372872",
+        "cityLabel": "Delvinë",
+        "population": "5754"
+    }
+]

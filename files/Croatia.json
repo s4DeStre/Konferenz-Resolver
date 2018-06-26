@@ -1,0 +1,204 @@
+[
+    {
+        "country": "http://www.wikidata.org/entity/Q224",
+        "countryLabel": "Croatia",
+        "city": "http://www.wikidata.org/entity/Q4686",
+        "native": "Slavonski Brod",
+        "cityLabel": "Slavonski Brod",
+        "population": "53473"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q224",
+        "countryLabel": "Croatia",
+        "city": "http://www.wikidata.org/entity/Q3370",
+        "native": "Zadar",
+        "cityLabel": "Zadar",
+        "population": "75082"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q224",
+        "countryLabel": "Croatia",
+        "city": "http://www.wikidata.org/entity/Q5323",
+        "native": "Poreč",
+        "cityLabel": "Poreč",
+        "population": "7585"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q224",
+        "countryLabel": "Croatia",
+        "city": "http://www.wikidata.org/entity/Q396613",
+        "cityLabel": "Novalja",
+        "population": "3663"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q224",
+        "countryLabel": "Croatia",
+        "city": "http://www.wikidata.org/entity/Q397626",
+        "cityLabel": "Crikvenica",
+        "population": "11122"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q224",
+        "countryLabel": "Croatia",
+        "city": "http://www.wikidata.org/entity/Q5395",
+        "native": "Novigrad",
+        "cityLabel": "Novigrad",
+        "population": "2586"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q224",
+        "countryLabel": "Croatia",
+        "city": "http://www.wikidata.org/entity/Q768",
+        "cityLabel": "Supetar",
+        "population": "3213"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q224",
+        "countryLabel": "Croatia",
+        "city": "http://www.wikidata.org/entity/Q266168",
+        "native": "Virovitica",
+        "cityLabel": "Virovitica",
+        "population": "21291"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q224",
+        "countryLabel": "Croatia",
+        "city": "http://www.wikidata.org/entity/Q1435",
+        "native": "Zagreb",
+        "cityLabel": "Zagreb",
+        "population": "790017"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q224",
+        "countryLabel": "Croatia",
+        "city": "http://www.wikidata.org/entity/Q1722",
+        "native": "Dubrovnik",
+        "cityLabel": "Dubrovnik",
+        "population": "42615"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q224",
+        "countryLabel": "Croatia",
+        "city": "http://www.wikidata.org/entity/Q167839",
+        "native": "Čakovec",
+        "cityLabel": "Čakovec",
+        "population": "30455"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q224",
+        "countryLabel": "Croatia",
+        "city": "http://www.wikidata.org/entity/Q319276",
+        "cityLabel": "Gospić",
+        "population": "5695"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q224",
+        "countryLabel": "Croatia",
+        "city": "http://www.wikidata.org/entity/Q1647",
+        "native": "Rijeka",
+        "cityLabel": "Rijeka",
+        "population": "128624"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q224",
+        "countryLabel": "Croatia",
+        "city": "http://www.wikidata.org/entity/Q399261",
+        "native": "Donji Miholjac",
+        "cityLabel": "Donji Miholjac",
+        "population": "6226"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q224",
+        "countryLabel": "Croatia",
+        "city": "http://www.wikidata.org/entity/Q1640",
+        "native": "Osijek",
+        "cityLabel": "Osijek",
+        "population": "108048"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q224",
+        "countryLabel": "Croatia",
+        "city": "http://www.wikidata.org/entity/Q3549",
+        "native": "Šibenik",
+        "cityLabel": "Šibenik",
+        "population": "46332"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q224",
+        "countryLabel": "Croatia",
+        "city": "http://www.wikidata.org/entity/Q189161",
+        "cityLabel": "Trogir",
+        "population": "13260"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q224",
+        "countryLabel": "Croatia",
+        "city": "http://www.wikidata.org/entity/Q13274",
+        "cityLabel": "Krk",
+        "population": "5491"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q224",
+        "countryLabel": "Croatia",
+        "city": "http://www.wikidata.org/entity/Q3617",
+        "native": "Karlovac",
+        "cityLabel": "Karlovac",
+        "population": "55705"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q224",
+        "countryLabel": "Croatia",
+        "city": "http://www.wikidata.org/entity/Q5882",
+        "native": "Ilok",
+        "cityLabel": "Ilok",
+        "population": "6767"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q224",
+        "countryLabel": "Croatia",
+        "city": "http://www.wikidata.org/entity/Q4656",
+        "native": "Pula",
+        "cityLabel": "Pula",
+        "population": "57053"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q224",
+        "countryLabel": "Croatia",
+        "city": "http://www.wikidata.org/entity/Q1663",
+        "native": "Split",
+        "cityLabel": "Split",
+        "population": "178102"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q224",
+        "countryLabel": "Croatia",
+        "city": "http://www.wikidata.org/entity/Q397508",
+        "native": "Delnice",
+        "cityLabel": "Delnice",
+        "population": "4451"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q224",
+        "countryLabel": "Croatia",
+        "city": "http://www.wikidata.org/entity/Q331141",
+        "native": "Velika Gorica",
+        "cityLabel": "Velika Gorica",
+        "population": "63517"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q224",
+        "countryLabel": "Croatia",
+        "city": "http://www.wikidata.org/entity/Q5707",
+        "native": "Bjelovar",
+        "cityLabel": "Bjelovar",
+        "population": "40276"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q224",
+        "countryLabel": "Croatia",
+        "city": "http://www.wikidata.org/entity/Q318961",
+        "native": "Đakovo",
+        "cityLabel": "Đakovo",
+        "population": "19508"
+    }
+]

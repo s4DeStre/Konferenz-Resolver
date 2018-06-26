@@ -1,0 +1,94 @@
+[
+    {
+        "country": "http://www.wikidata.org/entity/Q1011",
+        "countryLabel": "Cape Verde",
+        "city": "http://www.wikidata.org/entity/Q501656",
+        "cityLabel": "Sal Rei",
+        "population": "6357"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q1011",
+        "countryLabel": "Cape Verde",
+        "city": "http://www.wikidata.org/entity/Q3122689",
+        "cityLabel": "Ribeira Grande, Cape Verde",
+        "population": "2950"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q1011",
+        "countryLabel": "Cape Verde",
+        "city": "http://www.wikidata.org/entity/Q768314",
+        "cityLabel": "Ponta do Sol, Cape Verde",
+        "population": "4738"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q1011",
+        "countryLabel": "Cape Verde",
+        "city": "http://www.wikidata.org/entity/Q495547",
+        "cityLabel": "Mindelo",
+        "population": "71952"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q1011",
+        "countryLabel": "Cape Verde",
+        "city": "http://www.wikidata.org/entity/Q2539817",
+        "cityLabel": "Calheta de São Miguel",
+        "population": "4123"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q1011",
+        "countryLabel": "Cape Verde",
+        "city": "http://www.wikidata.org/entity/Q3751",
+        "cityLabel": "Praia",
+        "population": "127832"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q1011",
+        "countryLabel": "Cape Verde",
+        "city": "http://www.wikidata.org/entity/Q490573",
+        "cityLabel": "Assomada",
+        "population": "13290"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q1011",
+        "countryLabel": "Cape Verde",
+        "city": "http://www.wikidata.org/entity/Q490579",
+        "cityLabel": "Pedra Badejo",
+        "population": "9530"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q1011",
+        "countryLabel": "Cape Verde",
+        "city": "http://www.wikidata.org/entity/Q2311253",
+        "cityLabel": "Tarrafal, Cape Verde",
+        "population": "6272"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q1011",
+        "countryLabel": "Cape Verde",
+        "city": "http://www.wikidata.org/entity/Q13957085",
+        "cityLabel": "São Filipe",
+        "population": "8122"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q1011",
+        "countryLabel": "Cape Verde",
+        "city": "http://www.wikidata.org/entity/Q489776",
+        "cityLabel": "Vila do Maio",
+        "population": "3056"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q1011",
+        "countryLabel": "Cape Verde",
+        "city": "http://www.wikidata.org/entity/Q464913",
+        "cityLabel": "Cidade Velha",
+        "population": "2148"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q1011",
+        "countryLabel": "Cape Verde",
+        "city": "http://www.wikidata.org/entity/Q498968",
+        "native": "Espargos",
+        "cityLabel": "Espargos",
+        "population": "6173"
+    }
+]

@@ -1,0 +1,88 @@
+[
+    {
+        "country": "http://www.wikidata.org/entity/Q804",
+        "countryLabel": "Panama",
+        "city": "http://www.wikidata.org/entity/Q3916792",
+        "cityLabel": "Las Cumbres",
+        "population": "127440"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q804",
+        "countryLabel": "Panama",
+        "city": "http://www.wikidata.org/entity/Q279009",
+        "cityLabel": "David, Chiriquí",
+        "population": "144858"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q804",
+        "countryLabel": "Panama",
+        "city": "http://www.wikidata.org/entity/Q627852",
+        "cityLabel": "Colón",
+        "population": "78000"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q804",
+        "countryLabel": "Panama",
+        "city": "http://www.wikidata.org/entity/Q657763",
+        "cityLabel": "Chitré",
+        "population": "46191"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q804",
+        "countryLabel": "Panama",
+        "city": "http://www.wikidata.org/entity/Q888971",
+        "native": "Bocas del Toro",
+        "cityLabel": "Bocas Town, Bocas del Toro",
+        "population": "12996"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q804",
+        "countryLabel": "Panama",
+        "city": "http://www.wikidata.org/entity/Q2712890",
+        "cityLabel": "Las Tablas",
+        "population": "9255"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q804",
+        "countryLabel": "Panama",
+        "city": "http://www.wikidata.org/entity/Q685509",
+        "cityLabel": "Santiago de Veraguas",
+        "population": "50877"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q804",
+        "countryLabel": "Panama",
+        "city": "http://www.wikidata.org/entity/Q3130855",
+        "cityLabel": "Puerto Armuelles",
+        "population": "19763"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q804",
+        "countryLabel": "Panama",
+        "city": "http://www.wikidata.org/entity/Q3306",
+        "native": "Panama",
+        "cityLabel": "Panama City",
+        "population": "880691"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q804",
+        "countryLabel": "Panama",
+        "city": "http://www.wikidata.org/entity/Q1985435",
+        "cityLabel": "Pacora",
+        "population": "52494"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q804",
+        "countryLabel": "Panama",
+        "city": "http://www.wikidata.org/entity/Q774405",
+        "cityLabel": "La Chorrera, Panama",
+        "population": "68896"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q804",
+        "countryLabel": "Panama",
+        "city": "http://www.wikidata.org/entity/Q654169",
+        "cityLabel": "Penonomé, Coclé",
+        "population": "21748"
+    }
+]

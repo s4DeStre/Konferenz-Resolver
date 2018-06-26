@@ -1,0 +1,44 @@
+[
+    {
+        "country": "http://www.wikidata.org/entity/Q236",
+        "countryLabel": "Montenegro",
+        "city": "http://www.wikidata.org/entity/Q23564",
+        "cityLabel": "Podgorica",
+        "population": "187085"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q236",
+        "countryLabel": "Montenegro",
+        "city": "http://www.wikidata.org/entity/Q208200",
+        "cityLabel": "Berane",
+        "population": "11776"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q236",
+        "countryLabel": "Montenegro",
+        "city": "http://www.wikidata.org/entity/Q506775",
+        "cityLabel": "Rožaje",
+        "population": "9422"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q236",
+        "countryLabel": "Montenegro",
+        "city": "http://www.wikidata.org/entity/Q189969",
+        "cityLabel": "Ulcinj",
+        "population": "19921"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q236",
+        "countryLabel": "Montenegro",
+        "city": "http://www.wikidata.org/entity/Q174237",
+        "cityLabel": "Budva",
+        "population": "19218"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q236",
+        "countryLabel": "Montenegro",
+        "city": "http://www.wikidata.org/entity/Q173338",
+        "cityLabel": "Cetinje",
+        "population": "13991"
+    }
+]

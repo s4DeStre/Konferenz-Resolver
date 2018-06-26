@@ -1,0 +1,16 @@
+[
+    {
+        "country": "http://www.wikidata.org/entity/Q945",
+        "countryLabel": "Togo",
+        "city": "http://www.wikidata.org/entity/Q845097",
+        "cityLabel": "Sokodé",
+        "population": "113000"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q945",
+        "countryLabel": "Togo",
+        "city": "http://www.wikidata.org/entity/Q3792",
+        "cityLabel": "Lomé",
+        "population": "837437"
+    }
+]
