@@ -2,15 +2,20 @@ package com.dennis.streit;
 
 import com.bordercloud.sparql.*;
 
+import com.opencsv.CSVReader;
 import com.sun.xml.internal.ws.policy.privateutil.PolicyUtils;
 import org.json.*;
 import java.io.*;
 import java.sql.Connection;
 import java.sql.DriverManager;
+import java.sql.Statement;
 import java.sql.PreparedStatement;
 import java.sql.ResultSet;
+import java.util.List;
 import java.util.ArrayList;
+import java.util.Arrays;
 import java.util.HashMap;
+import java.util.Scanner;
 
 
 public class Main
@@ -21,23 +26,25 @@ public class Main
     {
         try {
             final String WDEndpoint = "https://query.wikidata.org/sparql";
-            CountryList countries = new CountryList();
-            countries.generateList();
-
+            //CountryList countries = new CountryList();
+            //countries.generateList();
             //createCountryList(WDEndpoint);
            // resultsFromLänder(WDEndpoint);
            // createTableSQL();
             //insertIntoSQL();
+            parseCSV();
+            //searchCityInSQL("fjfgdsogb");
+            //findCountryForCity();
 
 
-        } /*catch (EndpointException eex) {
+        /*} catch (EndpointException eex) {
             System.out.println(eex);
             eex.printStackTrace();
         } catch (java.io.FileNotFoundException ex) {
             ex.printStackTrace();
         } catch (java.io.IOException ex) {
-            ex.printStackTrace();
-        } */ catch (java.lang.Exception ex) {
+            ex.printStackTrace(); */
+        }  catch (java.lang.Exception ex) {
             ex.printStackTrace();
         }
 
@@ -60,7 +67,7 @@ public class Main
         ResultsToJson(getQueryResults(ep, countries), länderArray, "Länder");
     }
 
-
+    //schreibt Ergebnis der Query in HashMap Objekt
     public static HashMap<String, HashMap> getQueryResults(String WDendpoint, String WDquery) throws EndpointException
     {
         Endpoint endpoint = new Endpoint(WDendpoint, false);
@@ -69,7 +76,7 @@ public class Main
         return queryResults;
     }
 
-
+    // printed Inhalt des Query-Ergebnis HashMap Objects
     public static void printResults(HashMap<String, HashMap> queryResults, int size)
     {
         for (HashMap<String, Object> value : (ArrayList<HashMap<String, Object>>) queryResults.get("result").get("rows")) {
@@ -92,7 +99,6 @@ public class Main
             }
             jArray.put(jObj);
         }
-
         System.out.println(jArray.toString());
         try {
             FileWriter file = new FileWriter("files/" + filename + ".json");
@@ -137,7 +143,7 @@ public class Main
                             "   }\n" +
                             "}";
             countryLabel = landObj.getString("countryLabel");
-            currentCountry = ResultsToJson(getQueryResults(ep, queryCities), currentCountry, countryLabel);
+            //currentCountry = ResultsToJson(getQueryResults(ep, queryCities), currentCountry, countryLabel);
             AllResultsArray = ResultsToJson(getQueryResults(ep, queryCities), AllResultsArray, "Allcountries");
         }
 
@@ -147,13 +153,13 @@ public class Main
     {
         try {
             String driver = "com.mysql.cj.jdbc.Driver";
-            String url = "jdbc:mysql://127.0.0.1:3306/locations?useSSL=false&useLegacyDatetimeCode=false&serverTimezone=Europe/Berlin";
+            String url = "jdbc:mysql://127.0.0.1:3306/locations?useSSL=false&useLegacyDatetimeCode=false&serverTimezone=Europe/Berlin&allowPublicKeyRetrieval=true";
             String username = "user";
             String password = "user";
             Class.forName(driver);
-            Connection conn = DriverManager.getConnection(url, username, password);
-            System.out.println("Connected");
-            return conn;
+            Connection con = DriverManager.getConnection(url, username, password);
+            //System.out.println("Connected");
+            return con;
 
 
         } catch (Exception e) {
@@ -211,5 +217,94 @@ public class Main
             System.out.println(e);
         }
     }
+
+
+
+    public static void parseCSV() {
+    try {
+        String output ="";
+        CSVReader reader = new CSVReader(new FileReader("files/proceedings.csv"));
+        List<String[]> proceedings = reader.readAll();
+        for (int i =1; i<=50;i++) {
+            //durch Konferenztitellaufen, nur [1] interessant da nur der title der Konferenz relevant ist
+            String[] conferenceTitle = proceedings.get(i)[1].split(", ");
+            //einzelnen Konferenznamen nach Städten absuchen
+            for (int j = 0; j < conferenceTitle.length; j++) {
+                output += conferenceTitle[j] + " : ";
+                ArrayList<String[]> foundCities = new ArrayList<String[]>();
+                foundCities = searchCityInSQL(conferenceTitle[j]);
+                    if (!foundCities.isEmpty()) {
+                        for (int k = 0; k < foundCities.size();k++){
+                            output+= foundCities.get(k)[0]+", ";
+                            output += foundCities.get(k)[2]+"; ";
+                        }
+                        output+="\n";
+                    }else output+="Keine Stadt gefunden \n";
+                }
+                output+="___________________________________\n";
+
+            }
+        try {
+            FileWriter file = new FileWriter("files/proceedingResults.txt");
+            file.write(output);
+            file.flush();
+
+
+        } catch (IOException e) {
+            e.printStackTrace();
+        }
+
+
+
+
+    } catch (Exception e){
+        e.printStackTrace();
+    }
+     }
+
+    //returnt ArrayList aus String[] in
+    public static ArrayList searchCityInSQL(String cityName){
+        try{
+            Connection con = getConnection();
+            PreparedStatement ps = con.prepareStatement("SELECT cityLabel, nativeLabel, countryLabel FROM cities WHERE cityLabel = ? OR nativeLabel = ?;");
+            ps.setString(1,cityName);
+            ps.setString(2,cityName);
+            ResultSet result = ps.executeQuery();
+            //System.out.print("Ich gehe in die SQL funktion!\n");
+            ArrayList<String[]> array  = new ArrayList<String[]>();
+            while (result.next()){
+                String[] row = new String[3];
+                // steckt jede Zeile in ein Array und fügt zu Arraylist hinzu
+                row[0]= result.getString("cityLabel");
+                row[1]= result.getString("nativeLabel");
+                row[2] =result.getString("countryLabel");
+                array.add(row);
+            }
+            //System.out.print("ich war in der SQL funktion\n");
+            //System.out.print(array.get(0)[0]);
+            con.close();
+            return array;
+
+        } catch (Exception e) {
+            System.out.println(e);
+            return null;
+        }
+    }
+
+    public static String[] findCountryForCity (String cityName, String countryName){
+        try {
+            Connection con = getConnection();
+            PreparedStatement ps = con.prepareStatement("SELECT cityLabel, countryLabel FROM cities WHERE cityLabel = ? AND nativeLabel = ?;");
+            ps.setString(1,cityName);
+            ps.setString(2,countryName);
+            ResultSet result = ps.executeQuery();
+            if(result.next() == false) return null;
+            return null;
+
+    }catch (Exception e) {
+        System.out.println(e);
+        return null;
+}}
+
 
 }
