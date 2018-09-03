@@ -1,3 +1,0 @@
-Bei "instanz von stadt" query länder wie zB schweiz nicht dabei
-
-municipality of lux nicht subclass v. municipality
